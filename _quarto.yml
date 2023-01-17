@@ -9,7 +9,7 @@ project:
     - "/news/*"
 
 website:
-  title: "CStories.app"
+  title: "CStories.app/Beta"
   google-analytics: "G-9Z3CG75J46"
   navbar:
     left:
