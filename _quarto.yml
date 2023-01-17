@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "/.nojekyll"
+    - "/infographics/lib/*"
+    - "/infographics/svg/*"
+    - "/chat/*"
+    - "/news/*"
+
+website:
+  title: "CStories.app"
+  google-analytics: "G-9Z3CG75J46"
+  navbar:
+    left:
+      - infographics.qmd
+      - news.qmd
+    right:
+      - about.qmd
+  search:
+    location: navbar
+    type: overlay
+
+format:
+  html:
+    theme:
+      light: [flatly, flatly.scss]
+      dark: [darkly, darkly.scss]
+    toc: true
+    comments:
+      hypothesis:
+        showHighlights: false
+    execute:
+      echo: false
+      warning: false
+
+editor: source

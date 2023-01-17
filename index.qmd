@@ -1,0 +1,47 @@
+---
+pagetitle: "CStories.app - Home"
+listing:
+  - id: list-infographics
+    contents:
+      - "infographics/*.qmd"
+    type: grid
+    categories: true
+  - id: list-news
+    contents:
+    - "news/*.qmd"
+    type: table
+    sort-ui: false
+    filter-ui: false
+    field-types:
+      published_at: date
+    fields: [title, published_at, source, image]
+    field-display-names:
+      published_at: "Published"
+    sort: 
+      - "published_at desc"
+      - "title"
+    max-items: 3
+    # categories: true
+---
+
+***Empowering Communities with Easy-to-Use Digital Tools to Participate in Marine Renewable Energy Planning & Development***
+
+## Infographics
+
+Interactive infographics allow for easy navigation of core concepts and information in a visual manner.
+
+::: {#list-infographics}
+:::
+
+## News
+
+Recent news about offshore wind. ([View all news](https://cstories.app/news.html))
+
+::: {#list-news}
+:::
+
+## Contact
+
+-   Grace Chang ([gchang\@integral-corp.com](gchang@integral-corp.com); 831-576-2881)
+
+-   Ben Best ([ben\@ecoquants.com](mailto:ben@ecoquants.com); 805-705-9770)
