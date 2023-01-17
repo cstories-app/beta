@@ -26,6 +26,14 @@ listing:
 
 ***Empowering Communities with Easy-to-Use Digital Tools to Participate in Marine Renewable Energy Planning & Development***
 
+::: {.callout-caution}
+## This website product is under development
+
+This website [cstories.app/**beta**](https://cstories.app/beta) is where we're organizing product features (e.g. news, infographics, chat bot) into a dedicated website, whereas the parent website
+[cstories.app](https://cstories.app) is for organizing community feedback.
+:::
+
+
 ## Infographics
 
 Interactive infographics allow for easy navigation of core concepts and information in a visual manner.
