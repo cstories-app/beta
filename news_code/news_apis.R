@@ -56,7 +56,7 @@ update_newsapi_data <- function(terms,
     mutate(published_at = as_date(published_at) %>% as.character()) %>%
     mutate(author = replace_na(author, "(unknown author)"),
            description = replace_na(description, "(no description)")) %>%
-    deselect(id) %>%
+    # deselect(id) %>% #This suddenly isn't in the returned data as of 1/17/23 -JZ
     mutate(news_id = paste(abbreviate(str_remove_all(title, "[^\\w]")), abbreviate(source), published_at, sep = "_")) %>%
     rename(image = url_to_image) %>%
     group_by(news_id) %>%
