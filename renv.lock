@@ -767,13 +767,14 @@
     },
     "htmltools": {
       "Package": "htmltools",
-      "Version": "0.5.3",
+      "Version": "0.5.4",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "6496090a9e00f8354b811d1a2d47b566",
+      "Hash": "9d27e99cc90bd701c0a7a63e5923f9b7",
       "Requirements": [
         "base64enc",
         "digest",
+        "ellipsis",
         "fastmap",
         "rlang"
       ]
@@ -841,10 +842,14 @@
     "integral": {
       "Package": "integral",
       "Version": "1.0.1.9001",
-      "Source": "Local",
-      "RemoteType": "local",
-      "RemoteUrl": "/Users/bbest/Downloads/integral-main",
-      "Hash": "0c313641ce71030c854767f43b39461a",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "IntegralEnvision",
+      "RemoteRepo": "integral",
+      "RemoteRef": "main",
+      "RemoteSha": "2fd02dc3b79ce224f68fa35aed4c03b57d28170d",
+      "Hash": "90234ab10321f1696fe9f649a330f1b6",
       "Requirements": [
         "WriteXLS",
         "cli",
@@ -1430,10 +1435,10 @@
     },
     "rlang": {
       "Package": "rlang",
-      "Version": "1.0.5",
+      "Version": "1.0.6",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "971c3d698fc06dabdac6bc4bcda72dc4",
+      "Hash": "4ed1f8336c8d52c3e750adcdc57228a7",
       "Requirements": []
     },
     "rmarkdown": {
