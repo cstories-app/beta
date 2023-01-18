@@ -43,7 +43,7 @@ Interactive infographics allow for easy navigation of core concepts and informat
 
 ## News
 
-Recent news about offshore wind. ([View all news](https://cstories.app/news.html))
+Recent news about offshore wind. ([View all news](news.qmd))
 
 ::: {#list-news}
 :::
