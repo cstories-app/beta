@@ -5,7 +5,7 @@ on:
     - cron:  '0 0 * * *'  # run daily at midnight
   workflow_dispatch:
   
-name: Render and Publish
+name: Update News
 
 jobs:
   build-deploy:
@@ -16,15 +16,21 @@ jobs:
         
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-        with:
+        #with:
           # To install LaTeX to build PDF book 
           # tinytex: true 
           # uncomment below and fill to pin a version
           # version: 0.9.600
       
-      - name: Update news      
+      # dependencies
+      
+      - uses: r-lib/actions/setup-pandoc@v2
+
       - uses: r-lib/actions/setup-r@v2
+
       - uses: r-lib/actions/setup-renv@v2
+      
+      - name: Update news
         run: |
           Rscript -e news_code/news_apis.R
           Rscript -e news_code/news_rss.R
