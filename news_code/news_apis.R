@@ -4,7 +4,7 @@
 
 # Setup -------------------------------------------------------------------
 librarian::shelf(
-  IntegralEnvision/integral, fs, httr2, janitor, lubridate, rrapply, tidyverse, cli)
+  IntegralEnvision/integral, fs, httr2, janitor, lubridate, rrapply, stringr, tidyverse, cli)
 
 # Functions ---------------------------------------------------------------
 
@@ -51,8 +51,10 @@ update_newsapi_data <- function(terms,
     bind_rows()
 
   news <- raw_news %>%
-    mutate(title = str_squish(title),
-           description = str_squish(description)) %>%
+    mutate(
+      title = str_squish(title) |>
+        str_replace(item_title, fixed("$"), "\\$"),
+      description = str_squish(description)) %>%
     mutate(published_at = as_date(published_at) %>% as.character()) %>%
     mutate(author = replace_na(author, "(unknown author)"),
            description = replace_na(description, "(no description)")) %>%

@@ -1,5 +1,5 @@
 librarian::shelf(
-  cli, crayon, integral, fs, janitor, lubridate, textclean, tidyRSS, tidyverse)
+  cli, crayon, integral, fs, janitor, lubridate, stringr, textclean, tidyRSS, tidyverse)
 
 # Functions ---------------------------------------------------------------
 
@@ -43,6 +43,8 @@ update_feeds <- function(feed_files,
   rss <- raw_feeds %>%
     deselect(feed_last_build_date, feed_generator, feed_language) %>%
     mutate(across(c(item_title, item_description, feed_title, feed_description), ~str_squish(.x))) %>%
+    mutate(
+      item_title = str_replace(item_title, fixed("$"), "\\$")) %>%
     mutate(across(where(is.character), ~if_else(.x == "", NA_character_, .x))) %>%
     distinct(across(-c(item_link, item_guid, item_comments, item_pub_date, feed_pub_date)), .keep_all = T) %>%
     mutate(item_pub_date = as_date(item_pub_date)) %>%
