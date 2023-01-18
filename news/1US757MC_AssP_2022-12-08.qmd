@@ -2,7 +2,7 @@
 source: "Associated Press"
 author: "By GILLIAN FLACCUS - Associated Press"
 title: >
-  1st US floating offshore wind auction nets \$757M off Calif
+  1st US floating offshore wind auction nets $757M off Calif
 description: >
   The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast raised $757 million in bids, from mostly European companies. The auction offered two adjoining lease areas in northern California and…
 url: "https://apnews.com/87f602496e34299f5429a3d8a67ae478"
@@ -21,7 +21,7 @@ Published: {{< meta published_at >}}
 Source: {{< meta source >}}
 
 
-[Read full article]({{< meta url >}})
+[Read full article]({{< meta url >}}){target='_blank'}
 
 
 

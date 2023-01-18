@@ -4,7 +4,7 @@
 
 # Setup -------------------------------------------------------------------
 librarian::shelf(
-  IntegralEnvision/integral, fs, httr2, janitor, lubridate, rrapply, stringr, tidyverse, cli)
+  IntegralEnvision/integral, fs, httr2, janitor, lubridate, rrapply, tidyverse, cli)
 
 # Functions ---------------------------------------------------------------
 
@@ -52,8 +52,8 @@ update_newsapi_data <- function(terms,
 
   news <- raw_news %>%
     mutate(
-      title = str_squish(title) |>
-        str_replace(item_title, fixed("$"), "\\$"),
+      title = str_squish(title) %>%
+        str_replace(fixed("$"), "\\$"),
       description = str_squish(description)) %>%
     mutate(published_at = as_date(published_at) %>% as.character()) %>%
     mutate(author = replace_na(author, "(unknown author)"),
@@ -111,7 +111,7 @@ Published: {{< meta published_at >}}\
 \n
 Source: {{< meta source >}}\
 \n
-[Read full article]({{< meta url >}})\
+[Read full article]({{< meta url >}}){target='_blank'}\
 \n
 
 ![](`r rmarkdown::metadata$image[1]`)")) %>%
@@ -139,5 +139,6 @@ new_qmd_items <- update_newsapi_data(terms)
 
 create_newsapi_qmds(new_qmd_items)
 
+#create_newsapi_qmds(read_rds("news_code/data/news_table.rds")) #For re-doing everything
 
 

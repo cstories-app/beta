@@ -2,7 +2,7 @@
 source: "CleanTechnica"
 author: "Nexus Media"
 title: >
-  Floating Offshore Wind Lease Sale Lands \$757 Million in Winning Bids
+  Floating Offshore Wind Lease Sale Lands $757 Million in Winning Bids
 description: >
   The first-ever auction for wind lease tracts off the West Coast concluded Wednesday, pulling down $757 million in winning bids. Government and industry officials touted the impressive bidding as evidence of the growing momentum in the offshore wind sector and…
 url: "https://cleantechnica.com/2022/12/09/floating-offshore-wind-lease-sale-lands-757-million-in-winning-bids/"
@@ -21,7 +21,7 @@ Published: {{< meta published_at >}}
 Source: {{< meta source >}}
 
 
-[Read full article]({{< meta url >}})
+[Read full article]({{< meta url >}}){target='_blank'}
 
 
 

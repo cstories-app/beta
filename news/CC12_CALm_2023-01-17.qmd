@@ -1,0 +1,28 @@
+---
+source: "CALmatters"
+author: "Nadia Lopez"
+title: >
+  Can California’s grid handle 12 million electric cars? - CalMatters
+description: >
+  <ol><li>Can California’s grid handle 12 million electric cars? CalMatters </li><li>Will California’s transformation to electric vehicles work? CalMatters </li><li>View Full Coverage on Google News</li></ol>
+url: "https://calmatters.org/environment/2023/01/california-electric-cars-grid/"
+image: "https://calmatters.org/wp-content/uploads/2022/06/090622_PowerLines_LV_CM_03.jpg"
+published_at: 2023-01-17
+content: >
+  As California rapidly boosts sales of electric cars and trucks over the next decade, the answer to a critical question remains uncertain: Will there be enough electricity to power them?  State offici… [+21304 chars]
+search_timestamp: 2023-01-18 14:34:51
+terms: "Humboldt | Morro Bay | Cost of electricity"
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

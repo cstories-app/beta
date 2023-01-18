@@ -115,7 +115,7 @@ create_rss_qmds <- function(rss_items, output_dir = "news") {
   \n
   Source: {{< meta source >}}\
   \n
-  [Read full article]({{< meta url >}})\
+  [Read full article]({{< meta url >}}){target='blank'}\
   \n")) %>%
     rowwise() %>%
     pwalk(function(...) {
@@ -164,6 +164,7 @@ rss_items <- rss_items %>%
 
 
 create_rss_qmds(rss_items)
+
 
 
 #TODO: Check missing published_at / item_pub_date
