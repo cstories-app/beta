@@ -5,17 +5,22 @@ listing:
     contents:
       - "news/*.qmd"
     type: table
-    sort-ui: false
-    filter-ui: false
+    sort-ui: [title, source, published_at]
+    filter-ui: true
     field-types:
       published_at: date
     fields: [title, source, published_at, image]
     #field-required: [num, title, date]
     date-format: "medium"
     sort: "published_at desc"
+    table-striped: true
     field-display-names:
       published_at: "Published"
 ---
+
+<!-- 
+quarto render news.qmd --cache-refresh # single doc -->
+
 
 Recent Offshore Wind News
 

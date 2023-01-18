@@ -1,6 +1,6 @@
 ---
 title: >
-  Winning bids for North Coast offshore wind leases top $331 million
+  Winning bids for North Coast offshore wind leases top \$331 million
 source: "Offshore Wind Energy - Humboldt Baykeeper"
 published_at: 2022-12-08
 url: "https://www.humboldtbaykeeper.org/offshore-wind-energy/1639-winning-bids-for-north-coast-offshore-wind-leases-top-331-million-2"

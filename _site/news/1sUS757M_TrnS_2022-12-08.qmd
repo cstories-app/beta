@@ -2,7 +2,7 @@
 source: "Toronto Star"
 author: "Gillian Flaccus - The Associated Press"
 title: >
-  1st US floating offshore wind auction nets $757M in bids
+  1st US floating offshore wind auction nets \$757M in bids
 description: >
   PORTLAND, Ore. (AP) — The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast attr...
 url: "https://www.thestar.com/news/world/us/2022/12/07/1st-us-floating-offshore-wind-auction-nets-757m-off-calif.html"

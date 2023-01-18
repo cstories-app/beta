@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-source','listing-published_at','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-source','listing-published_at','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-published_at-sort'] }],
       page: 30,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author"],
@@ -178,20 +178,47 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
 
 </header>
 
+<!-- 
+quarto render news.qmd --cache-refresh # single doc -->
 <p>Recent Offshore Wind News</p>
 <div id="listing-list-news" class="quarto-listing quarto-listing-container-table">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-list-news-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-list-news'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-source" data-direction="asc">
+          source
+        </option>
+         <option value="listing-published_at-sort" data-direction="asc">
+          Published - Oldest
+        </option>
+         <option value="listing-published_at-sort" data-direction="desc">
+          Published - Newest
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
 
-<table class="quarto-listing-table table">
+<table class="quarto-listing-table table table-striped">
 <thead>
 <tr>
 <th>
-Title
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
 </th>
 <th>
-source
+<a class="sort" data-sort="listing-source" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">source</a>
 </th>
 <th>
-Published
+<a class="sort" data-sort="listing-published_at-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Published</a>
 </th>
 <th>
 </th>
@@ -632,7 +659,7 @@ Dec 17, 2022
 <img data-src="https://ww2.kqed.org/app/uploads/sites/10/2022/12/GettyImages-812546100-1020x770.jpg" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="31" data-listing-published_at-sort="2022-12-15" data-listing-title-sort="California offshore wind: What’s next following the $757 million auction" data-listing-filename-sort="CW75_Rnw.qmd">
+<tr data-index="31" data-listing-published_at-sort="2022-12-15" data-listing-title-sort="California offshore wind: What’s next following the \$757 million auction" data-listing-filename-sort="CW75_Rnw.qmd">
 <td class="listing-title">
 <a href="./news/CW75_Rnw.html" class="title">California offshore wind: What’s next following the $757 million auction</a>
 </td>
@@ -856,7 +883,7 @@ Dec 11, 2022
 <img data-src="https://www.wnd.com/wp-content/uploads/2021/03/stars-night-sky-glowing-blue-colors-forest-clouds-mountains-outer-space-universe-heavens-earth-pixabay.jpg" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="47" data-listing-published_at-sort="2022-12-10" data-listing-title-sort="Floating Offshore Wind Lease Sale Lands $757 Million in Winning Bids" data-listing-filename-sort="FOWL_ClnT_2022-12-10.qmd">
+<tr data-index="47" data-listing-published_at-sort="2022-12-10" data-listing-title-sort="Floating Offshore Wind Lease Sale Lands \$757 Million in Winning Bids" data-listing-filename-sort="FOWL_ClnT_2022-12-10.qmd">
 <td class="listing-title">
 <a href="./news/FOWL_ClnT_2022-12-10.html" class="title">Floating Offshore Wind Lease Sale Lands $757 Million in Winning Bids</a>
 </td>
@@ -982,7 +1009,7 @@ Dec 9, 2022
 <img data-src="https://c.biztoc.com/75/og.png" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="56" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="1st US floating offshore wind auction nets $757M off Calif" data-listing-filename-sort="1US757MC_ABCN_2022-12-08.qmd">
+<tr data-index="56" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="1st US floating offshore wind auction nets \$757M off Calif" data-listing-filename-sort="1US757MC_ABCN_2022-12-08.qmd">
 <td class="listing-title">
 <a href="./news/1US757MC_ABCN_2022-12-08.html" class="title">1st US floating offshore wind auction nets $757M off Calif</a>
 </td>
@@ -996,7 +1023,7 @@ Dec 8, 2022
 <img data-src="https://s.abcnews.com/images/US/WireAP_cb60c9e9b9424c499f3d597509fd9e4e_16x9_992.jpg" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="57" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="1st US floating offshore wind auction nets $757M off Calif" data-listing-filename-sort="1US757MC_AssP_2022-12-08.qmd">
+<tr data-index="57" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="1st US floating offshore wind auction nets \$757M off Calif" data-listing-filename-sort="1US757MC_AssP_2022-12-08.qmd">
 <td class="listing-title">
 <a href="./news/1US757MC_AssP_2022-12-08.html" class="title">1st US floating offshore wind auction nets $757M off Calif</a>
 </td>
@@ -1010,7 +1037,7 @@ Dec 8, 2022
 <img data-src="https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/c/a0/ca062b5f-a869-5205-8e4e-bb4f274a338e/638e7f62b7e00.image.jpg?crop=1921%2C1009%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="58" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="1st US floating offshore wind auction nets $757M off Calif" data-listing-filename-sort="1US757MC_Indp_2022-12-08.qmd">
+<tr data-index="58" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="1st US floating offshore wind auction nets \$757M off Calif" data-listing-filename-sort="1US757MC_Indp_2022-12-08.qmd">
 <td class="listing-title">
 <a href="./news/1US757MC_Indp_2022-12-08.html" class="title">1st US floating offshore wind auction nets $757M off Calif</a>
 </td>
@@ -1024,7 +1051,7 @@ Dec 8, 2022
 <img data-src="https://static.independent.co.uk/2022/12/08/00/Offshore_Wind_Auction_58877.jpg?quality=75&amp;width=1200&amp;auto=webp" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="59" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="1st US floating offshore wind auction nets $757M in bids" data-listing-filename-sort="1sUS757M_ABCN_2022-12-08.qmd">
+<tr data-index="59" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="1st US floating offshore wind auction nets \$757M in bids" data-listing-filename-sort="1sUS757M_ABCN_2022-12-08.qmd">
 <td class="listing-title">
 <a href="./news/1sUS757M_ABCN_2022-12-08.html" class="title">1st US floating offshore wind auction nets $757M in bids</a>
 </td>
@@ -1038,7 +1065,7 @@ Dec 8, 2022
 <img data-src="https://s.abcnews.com/images/US/WireAP_cb60c9e9b9424c499f3d597509fd9e4e_16x9_992.jpg" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="60" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="1st US floating offshore wind auction nets $757M in bids" data-listing-filename-sort="1sUS757M_TrnS_2022-12-08.qmd">
+<tr data-index="60" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="1st US floating offshore wind auction nets \$757M in bids" data-listing-filename-sort="1sUS757M_TrnS_2022-12-08.qmd">
 <td class="listing-title">
 <a href="./news/1sUS757M_TrnS_2022-12-08.html" class="title">1st US floating offshore wind auction nets $757M in bids</a>
 </td>
@@ -1052,7 +1079,7 @@ Dec 8, 2022
 <img data-src="https://images.thestar.com/job3u4wN5-LdvWDf8FfpX50Lifg=/1280x1024/smart/filters:cb(1670461758709):format(webp)/https://www.thestar.com/content/dam/thestar/news/world/us/2022/12/07/1st-us-floating-offshore-wind-auction-nets-757m-in-bids/20221205181212-638e7ad2821cf083b8299d5cjpeg.jpg" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="61" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="1st US floating offshore wind auction nets $757M in bids" data-listing-filename-sort="1sUS757M_stt.qmd">
+<tr data-index="61" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="1st US floating offshore wind auction nets \$757M in bids" data-listing-filename-sort="1sUS757M_stt.qmd">
 <td class="listing-title">
 <a href="./news/1sUS757M_stt.html" class="title">1st US floating offshore wind auction nets $757M in bids</a>
 </td>
@@ -1080,7 +1107,7 @@ Dec 8, 2022
 <img data-src="./news/rss_img.png" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="63" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="First California Offshore Wind Auction Nets Over $750 Million" data-listing-filename-sort="FCOW_KQED_2022-12-08.qmd">
+<tr data-index="63" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="First California Offshore Wind Auction Nets Over \$750 Million" data-listing-filename-sort="FCOW_KQED_2022-12-08.qmd">
 <td class="listing-title">
 <a href="./news/FCOW_KQED_2022-12-08.html" class="title">First California Offshore Wind Auction Nets Over $750 Million</a>
 </td>
@@ -1164,7 +1191,7 @@ Dec 8, 2022
 <img data-src="https://c.biztoc.com/p/51bb75516e4b94fc/og.webp" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="69" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="The First-Ever US Auction of Floating Offshore Wind Farms Attracts $757 Million in Winning Bids" data-listing-filename-sort="TFEU_TchT_2022-12-08.qmd">
+<tr data-index="69" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="The First-Ever US Auction of Floating Offshore Wind Farms Attracts \$757 Million in Winning Bids" data-listing-filename-sort="TFEU_TchT_2022-12-08.qmd">
 <td class="listing-title">
 <a href="./news/TFEU_TchT_2022-12-08.html" class="title">The First-Ever US Auction of Floating Offshore Wind Farms Attracts $757 Million in Winning Bids</a>
 </td>
@@ -1192,7 +1219,7 @@ Dec 8, 2022
 <img data-src="https://lostcoastoutpost.com/loco-media/cache/3b/ab/3bab144bbefcc585e6a03da9846af2cd.webp" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="71" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="Winning bids for North Coast offshore wind leases top $331 million" data-listing-filename-sort="WNC3_L-HB.qmd">
+<tr data-index="71" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="Winning bids for North Coast offshore wind leases top \$331 million" data-listing-filename-sort="WNC3_L-HB.qmd">
 <td class="listing-title">
 <a href="./news/WNC3_L-HB.html" class="title">Winning bids for North Coast offshore wind leases top $331 million</a>
 </td>
@@ -1206,7 +1233,7 @@ Dec 8, 2022
 <img data-src="./news/rss_img.png" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="72" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="Winning bids for North Coast offshore wind leases top $331 million" data-listing-filename-sort="WNC3_OWE-HB.qmd">
+<tr data-index="72" data-listing-published_at-sort="2022-12-08" data-listing-title-sort="Winning bids for North Coast offshore wind leases top \$331 million" data-listing-filename-sort="WNC3_OWE-HB.qmd">
 <td class="listing-title">
 <a href="./news/WNC3_OWE-HB.html" class="title">Winning bids for North Coast offshore wind leases top $331 million</a>
 </td>
@@ -1276,7 +1303,7 @@ Dec 7, 2022
 <img data-src="https://mms.businesswire.com/media/20221207005886/en/1658654/23/Equinor_HORIZ_logo_CMYK_RED.jpg" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="77" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="First-ever California offshore wind auction surpasses $757 million in bids" data-listing-filename-sort="FC75_CNBC_2022-12-07.qmd">
+<tr data-index="77" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="First-ever California offshore wind auction surpasses \$757 million in bids" data-listing-filename-sort="FC75_CNBC_2022-12-07.qmd">
 <td class="listing-title">
 <a href="./news/FC75_CNBC_2022-12-07.html" class="title">First-ever California offshore wind auction surpasses $757 million in bids</a>
 </td>
@@ -1290,7 +1317,7 @@ Dec 7, 2022
 <img data-src="https://image.cnbcfm.com/api/v1/image/106881812-1620821979813-gettyimages-147641412-8dc66917-36ca-4dbb-a003-26e2e848fcac.jpeg?v=1670448874&amp;w=1920&amp;h=1080" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="78" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="First West Coast Offshore Wind Lease Auction Raises Over $757 Million in High Bids" data-listing-filename-sort="FWCOWL_gcp.qmd">
+<tr data-index="78" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="First West Coast Offshore Wind Lease Auction Raises Over \$757 Million in High Bids" data-listing-filename-sort="FWCOWL_gcp.qmd">
 <td class="listing-title">
 <a href="./news/FWCOWL_gcp.html" class="title">First West Coast Offshore Wind Lease Auction Raises Over $757 Million in High Bids</a>
 </td>
@@ -1304,7 +1331,7 @@ Dec 7, 2022
 <img data-src="https://gcaptain.com/wp-content/uploads/2018/03/shutterstock_130551395.jpg" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="79" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="First West Coast Wind Auction Continuing with Over $400 Million in High Bids on First Day" data-listing-filename-sort="FWCW_gcp.qmd">
+<tr data-index="79" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="First West Coast Wind Auction Continuing with Over \$400 Million in High Bids on First Day" data-listing-filename-sort="FWCW_gcp.qmd">
 <td class="listing-title">
 <a href="./news/FWCW_gcp.html" class="title">First West Coast Wind Auction Continuing with Over $400 Million in High Bids on First Day</a>
 </td>
@@ -1318,7 +1345,7 @@ Dec 7, 2022
 <img data-src="https://gcaptain.com/wp-content/uploads/2022/07/shutterstock_2179829399.jpg" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="80" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="Five companies will pay $750 million to build floating wind turbines off the West Coast" data-listing-filename-sort="Fvcmpnswllpy750mWC_AB1N_2022-12-07.qmd">
+<tr data-index="80" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="Five companies will pay \$750 million to build floating wind turbines off the West Coast" data-listing-filename-sort="Fvcmpnswllpy750mWC_AB1N_2022-12-07.qmd">
 <td class="listing-title">
 <a href="./news/Fvcmpnswllpy750mWC_AB1N_2022-12-07.html" class="title">Five companies will pay $750 million to build floating wind turbines off the West Coast</a>
 </td>
@@ -1332,7 +1359,7 @@ Dec 7, 2022
 <img data-src="https://bloximages.newyork1.vip.townnews.com/abc12.com/content/tncms/assets/v3/editorial/5/cf/5cf81a47-dd18-5eed-9cab-af46fc0ff1dc/6391106a51c9d.image.jpg?crop=1701%2C893%2C0%2C162&amp;resize=1200%2C630&amp;order=crop%2Cresize" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="81" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="Five companies will pay the feds $750 million for the opportunity to build huge floating wind turbines off the West Coast" data-listing-filename-sort="Fvcmpnswllpyt750WC_CNN_2022-12-07.qmd">
+<tr data-index="81" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="Five companies will pay the feds \$750 million for the opportunity to build huge floating wind turbines off the West Coast" data-listing-filename-sort="Fvcmpnswllpyt750WC_CNN_2022-12-07.qmd">
 <td class="listing-title">
 <a href="./news/Fvcmpnswllpyt750WC_CNN_2022-12-07.html" class="title">Five companies will pay the feds $750 million for the opportunity to build huge floating wind turbines off the West Coast</a>
 </td>
@@ -1374,10 +1401,355 @@ Dec 7, 2022
 <img data-src="https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg" style="height: 40px;">
 </td>
 </tr>
-<tr data-index="84" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="Landmark California offshore wind site auction nets $757 million, will power 1.5 million homes" data-listing-filename-sort="LC75_USAT_2022-12-07.qmd">
+<tr data-index="84" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="Landmark California offshore wind site auction nets \$757 million, will power 1.5 million homes" data-listing-filename-sort="LC75_USAT_2022-12-07.qmd">
 <td class="listing-title">
-<a href="./news/LC75_USAT_2022-12-07.html" class="title">Landmark California offshore wind site auction nets <span class="math inline">\(757 million, will power 1.5 million homes&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; USA Today &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 7, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://s.yimg.com/ny/api/res/1.2/wAsOXmoC8Dq0dCHxeBDOqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODk-/https://media.zenfs.com/en/usa_today_news_641/416caaac27b7aff3ec20b47ef84c6feb" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='85' data-listing-published_at-sort='2022-12-07' data-listing-title-sort='RWE strengthens U.S. offshore wind portfolio with success in California&amp;#39;s floating offshore wind auction' data-listing-filename-sort='RWEU_PRNw_2022-12-07.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/RWEU_PRNw_2022-12-07.qmd" class="title"&gt;RWE strengthens U.S. offshore wind portfolio with success in California's floating offshore wind auction&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; PRNewswire &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 7, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://mma.prnewswire.com/media/1963951/RWE_Success_in_the_California_Lease_Auction_Infographic.jpg?p=facebook" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='86' data-listing-published_at-sort='2022-12-07' data-listing-title-sort='SOLD! BOEM Names California North Floating and RWE Offshore Wind Holdings as Provisional Winners of Two Offshore Wind Leases Off the Humboldt Coast - Lost Coast Outpost' data-listing-filename-sort='SOLDBOEMNCNFRWEOWHPWTOWLOHCL_LsCO_2022-12-07.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/SOLDBOEMNCNFRWEOWHPWTOWLOHCL_LsCO_2022-12-07.qmd" class="title"&gt;SOLD! BOEM Names California North Floating and RWE Offshore Wind Holdings as Provisional Winners of Two Offshore Wind Leases Off the Humboldt Coast - Lost Coast Outpost&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; Lost Coast Outpost &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 7, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://lostcoastoutpost.com/loco-media/cache/ed/90/ed90bdb78450b3bb5fcdc767d5e0fcfb.webp" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='87' data-listing-published_at-sort='2022-12-06' data-listing-title-sort='First West Coast Offshore Wind Auction Tests Appetite for Floating Farms' data-listing-filename-sort='FWCOWA_gcp.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/FWCOWA_gcp.qmd" class="title"&gt;First West Coast Offshore Wind Auction Tests Appetite for Floating Farms&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; gcaptain.com &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 6, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://gcaptain.com/wp-content/uploads/2021/05/morro-bay.jpg" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='88' data-listing-published_at-sort='2022-12-06' data-listing-title-sort='Genetic barriers, a warming ocean, and the uncertain future for an important forage fish' data-listing-filename-sort='Gntc_Ph.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/Gntc_Ph.qmd" class="title"&gt;Genetic barriers, a warming ocean, and the uncertain future for an important forage fish&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; Phys.Org &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 6, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://scx2.b-cdn.net/gfx/news/2022/genetic-barriers-a-war.jpg" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='89' data-listing-published_at-sort='2022-12-06' data-listing-title-sort='Sale Jumpstarts Floating, Offshore Wind Power in US Waters' data-listing-filename-sort='SJFO_VOAN_2022-12-06.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/SJFO_VOAN_2022-12-06.qmd" class="title"&gt;Sale Jumpstarts Floating, Offshore Wind Power in US Waters&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; VOA News &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 6, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://gdb.voanews.com/03370000-0aff-0242-6f6a-08dad722cdae_w1200_r1.jpg" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='90' data-listing-published_at-sort='2022-12-06' data-listing-title-sort='The U.S. Is Holding Its First West Coast Offshore Wind Auction' data-listing-filename-sort='TUSI_OlP.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/TUSI_OlP.qmd" class="title"&gt;The U.S. Is Holding Its First West Coast Offshore Wind Auction&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; OilPrice.com &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 6, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-12-06_um85xzvg3v.jpg" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='91' data-listing-published_at-sort='2022-12-06' data-listing-title-sort='U.S. kicks off first California coast offshore wind auction' data-listing-filename-sort='USkC_Rtrs_2022-12-06.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/USkC_Rtrs_2022-12-06.qmd" class="title"&gt;U.S. kicks off first California coast offshore wind auction&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; Reuters &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 6, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://www.reuters.com/resizer/mzfvWq0XeQYtlitB7mOhzlkBaxw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VBCFSQ4KDRN5BJWR6LD3M5KHU4.jpg" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='92' data-listing-published_at-sort='2022-12-05' data-listing-title-sort='Let The Bidding Begin: 43 Companies to Compete For Five California Offshore Wind Leases' data-listing-filename-sort='LTBB_Bzt.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/LTBB_Bzt.qmd" class="title"&gt;Let The Bidding Begin: 43 Companies to Compete For Five California Offshore Wind Leases&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; Biztoc.com &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 5, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://c.biztoc.com/p/f00e31311ab1fbe1/og.webp" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='93' data-listing-published_at-sort='2022-12-05' data-listing-title-sort='Let The Bidding Begin: 43 Companies to Compete For Five California Offshore Wind Leases' data-listing-filename-sort='LTBB_Frbs_2022-12-05.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/LTBB_Frbs_2022-12-05.qmd" class="title"&gt;Let The Bidding Begin: 43 Companies to Compete For Five California Offshore Wind Leases&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; Forbes &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 5, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://imageio.forbes.com/specials-images/imageserve/638d397ce768861d57ce91a3/0x0.jpg?format=jpg&amp;width=1200" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='94' data-listing-published_at-sort='2022-12-05' data-listing-title-sort='Sale jumpstarts floating, offshore wind power in US waters' data-listing-filename-sort='SlUS_ABCN_2022-12-05.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/SlUS_ABCN_2022-12-05.qmd" class="title"&gt;Sale jumpstarts floating, offshore wind power in US waters&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; ABC News &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 5, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://s.abcnews.com/images/US/WireAP_27602fdb8a48476ea0fbc82b55a7dbf0_16x9_992.jpg" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='95' data-listing-published_at-sort='2022-12-05' data-listing-title-sort='Sale jumpstarts floating, offshore wind power in US waters' data-listing-filename-sort='SlUS_AssP_2022-12-05.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/SlUS_AssP_2022-12-05.qmd" class="title"&gt;Sale jumpstarts floating, offshore wind power in US waters&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; Associated Press &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 5, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/a/47/a47b360a-a875-5135-bc1d-7ae3f7752544/638e1a4b2083f.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='96' data-listing-published_at-sort='2022-12-05' data-listing-title-sort='Sale jumpstarts floating, offshore wind power in US waters' data-listing-filename-sort='SlUS_Indp_2022-12-05.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/SlUS_Indp_2022-12-05.qmd" class="title"&gt;Sale jumpstarts floating, offshore wind power in US waters&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; Independent &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 5, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://static.independent.co.uk/2022/12/05/16/Offshore_Wind_Auction_38984.jpg?quality=75&amp;width=1200&amp;auto=webp" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='97' data-listing-published_at-sort='2022-12-05' data-listing-title-sort='Sale jumpstarts floating, offshore wind power in US waters' data-listing-filename-sort='SlUS_KPBS_2022-12-05.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/SlUS_KPBS_2022-12-05.qmd" class="title"&gt;Sale jumpstarts floating, offshore wind power in US waters&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; KPBS &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 5, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://cdn.kpbs.org/dims4/default/73edd3f/2147483647/strip/true/crop/5826x3059+0+413/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2Fe4%2F52%2F3755a55447e2a45068939eb80fd3%2Fap22339100738984.jpg" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='98' data-listing-published_at-sort='2022-12-05' data-listing-title-sort='Sale jumpstarts floating, offshore wind power in US waters' data-listing-filename-sort='SlUS_Kst.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/SlUS_Kst.qmd" class="title"&gt;Sale jumpstarts floating, offshore wind power in US waters&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; Kstp.com &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 5, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://kstp.com/wp-content/uploads/apimg/2022/12/Offshore_Wind_Auction_38984.jpg" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='99' data-listing-published_at-sort='2022-12-05' data-listing-title-sort='Sale jumpstarts floating, offshore wind power in U.S. waters' data-listing-filename-sort='SlUS_NBCN_2022-12-05.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/SlUS_NBCN_2022-12-05.qmd" class="title"&gt;Sale jumpstarts floating, offshore wind power in U.S. waters&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; NBC News &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 5, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-12/221205-block-island-rhode-island-coast-wind-farm-turbines-ac-437p-a3c3bb.jpg" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='100' data-listing-published_at-sort='2022-12-05' data-listing-title-sort='Sale jumpstarts floating, offshore wind power in US waters' data-listing-filename-sort='SlUS_TrnS_2022-12-05.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/SlUS_TrnS_2022-12-05.qmd" class="title"&gt;Sale jumpstarts floating, offshore wind power in US waters&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; Toronto Star &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 5, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://images.thestar.com/JUbjlb3pQX5hZ_iObpJw65_iJZc=/1280x1024/smart/filters:cb(1670256857510):format(webp)/https://www.thestar.com/content/dam/thestar/news/world/us/2022/12/05/sale-jumpstarts-floating-offshore-wind-power-in-us-waters/2022120511128-638e178fcd26a5d1c967f828jpeg.jpg" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='101' data-listing-published_at-sort='2022-12-05' data-listing-title-sort='Sale jumpstarts floating, offshore wind power in US waters' data-listing-filename-sort='SlUS_YhEn_2022-12-05.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/SlUS_YhEn_2022-12-05.qmd" class="title"&gt;Sale jumpstarts floating, offshore wind power in US waters&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; Yahoo Entertainment &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 5, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://s.yimg.com/ny/api/res/1.2/4Yugfprf17_kYAP9LVKAXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/ce01fe0c199e19b7b34b4b5756aa26d1" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='102' data-listing-published_at-sort='2022-12-05' data-listing-title-sort='Sale jumpstarts floating, offshore wind power in US waters' data-listing-filename-sort='SlUS_stt.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/SlUS_stt.qmd" class="title"&gt;Sale jumpstarts floating, offshore wind power in US waters&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; seattlepi.com &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 5, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://s.hdnux.com/img/modules/siteheader/brand.png" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='103' data-listing-published_at-sort='2022-12-03' data-listing-title-sort='Climate Change Weekly #454: Economic Realities Dash Biden’s Offshore Wind Plans' data-listing-filename-sort='CCW4_Wtt.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/CCW4_Wtt.qmd" class="title"&gt;Climate Change Weekly #454: Economic Realities Dash Biden’s Offshore Wind Plans&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; Wattsupwiththat.com &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 3, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2022/12/image-5.webp?fit=600%2C300&amp;ssl=1" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='104' data-listing-published_at-sort='2022-12-03' data-listing-title-sort='North Coast Fisherman Fear for the Future of Commercial Fisheries as Offshore Wind Efforts Advance' data-listing-filename-sort='NCFF_OWE-HB.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/NCFF_OWE-HB.qmd" class="title"&gt;North Coast Fisherman Fear for the Future of Commercial Fisheries as Offshore Wind Efforts Advance&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; Offshore Wind Energy - Humboldt Baykeeper &lt;/td&gt; &lt;td class="listing-published_at"&gt; Dec 3, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="/news/rss_img.png" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='105' data-listing-published_at-sort='2022-11-28' data-listing-title-sort='France, Ireland confirm Celtic Interconnector will be up-and-running in 2027' data-listing-filename-sort='FICI_EURA_2022-11-28.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/FICI_EURA_2022-11-28.qmd" class="title"&gt;France, Ireland confirm Celtic Interconnector will be up-and-running in 2027&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; EURACTIV &lt;/td&gt; &lt;td class="listing-published_at"&gt; Nov 28, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://www.euractiv.com/wp-content/uploads/sites/2/2022/11/IMG_9370-800x450.jpg" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='106' data-listing-published_at-sort='2022-11-25' data-listing-title-sort='New Floating Offshore Wind Project Aims For 999 Megawatts' data-listing-filename-sort='NFOW_ClnT_2022-11-25.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/NFOW_ClnT_2022-11-25.qmd" class="title"&gt;New Floating Offshore Wind Project Aims For 999 Megawatts&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; CleanTechnica &lt;/td&gt; &lt;td class="listing-published_at"&gt; Nov 25, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://cleantechnica.com/files/2022/11/floating-offshore-wind-iber-blue-principle-power.jpg" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='107' data-listing-published_at-sort='2022-11-23' data-listing-title-sort='The market can deliver the green transition — just not fast enough' data-listing-filename-sort='Thmr_ThIT_2022-11-23.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/Thmr_ThIT_2022-11-23.qmd" class="title"&gt;The market can deliver the green transition — just not fast enough&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; The Irish Times &lt;/td&gt; &lt;td class="listing-published_at"&gt; Nov 23, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://www.irishtimes.com/resizer/Ms3_AXCXajrVJvqqLAjPvDA6C_o=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/KOTIOH5FLBCY7NIDKF5HO7IBUA" style="height: 40px;" &gt; &lt;/td&gt; &lt;/tr&gt; &lt;tr data-index='108' data-listing-published_at-sort='2022-11-22' data-listing-title-sort='The market can deliver the green transition – just not fast enough - The Australian Financial Review' data-listing-filename-sort='TTAF_AsFR_2022-11-22.qmd'&gt; &lt;td class="listing-title"&gt; &lt;a href="/news/TTAF_AsFR_2022-11-22.qmd" class="title"&gt;The market can deliver the green transition – just not fast enough - The Australian Financial Review&lt;/a&gt; &lt;/td&gt; &lt;td class="listing-source"&gt; Australian Financial Review &lt;/td&gt; &lt;td class="listing-published_at"&gt; Nov 22, 2022 &lt;/td&gt; &lt;td class="listing-image"&gt; &lt;img data-src="https://static.ffx.io/images/\)</span>zoom_1%2C<span class="math inline">\(multiply_1%2C\)</span>ratio_1.777778%2C<span class="math inline">\(width_1059%2C\)</span>x_421%2C$y_421/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/cdd902a26abd099bd30dfb004e3bc033419fc150” style=“height: 40px;” &gt;
-</a></td>
+<a href="./news/LC75_USAT_2022-12-07.html" class="title">Landmark California offshore wind site auction nets $757 million, will power 1.5 million homes</a>
+</td>
+<td class="listing-source">
+USA Today
+</td>
+<td class="listing-published_at">
+Dec 7, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://s.yimg.com/ny/api/res/1.2/wAsOXmoC8Dq0dCHxeBDOqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODk-/https://media.zenfs.com/en/usa_today_news_641/416caaac27b7aff3ec20b47ef84c6feb" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="85" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="RWE strengthens U.S. offshore wind portfolio with success in California's floating offshore wind auction" data-listing-filename-sort="RWEU_PRNw_2022-12-07.qmd">
+<td class="listing-title">
+<a href="./news/RWEU_PRNw_2022-12-07.html" class="title">RWE strengthens U.S. offshore wind portfolio with success in California’s floating offshore wind auction</a>
+</td>
+<td class="listing-source">
+PRNewswire
+</td>
+<td class="listing-published_at">
+Dec 7, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://mma.prnewswire.com/media/1963951/RWE_Success_in_the_California_Lease_Auction_Infographic.jpg?p=facebook" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="86" data-listing-published_at-sort="2022-12-07" data-listing-title-sort="SOLD! BOEM Names California North Floating and RWE Offshore Wind Holdings as Provisional Winners of Two Offshore Wind Leases Off the Humboldt Coast - Lost Coast Outpost" data-listing-filename-sort="SOLDBOEMNCNFRWEOWHPWTOWLOHCL_LsCO_2022-12-07.qmd">
+<td class="listing-title">
+<a href="./news/SOLDBOEMNCNFRWEOWHPWTOWLOHCL_LsCO_2022-12-07.html" class="title">SOLD! BOEM Names California North Floating and RWE Offshore Wind Holdings as Provisional Winners of Two Offshore Wind Leases Off the Humboldt Coast - Lost Coast Outpost</a>
+</td>
+<td class="listing-source">
+Lost Coast Outpost
+</td>
+<td class="listing-published_at">
+Dec 7, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://lostcoastoutpost.com/loco-media/cache/ed/90/ed90bdb78450b3bb5fcdc767d5e0fcfb.webp" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="87" data-listing-published_at-sort="2022-12-06" data-listing-title-sort="First West Coast Offshore Wind Auction Tests Appetite for Floating Farms" data-listing-filename-sort="FWCOWA_gcp.qmd">
+<td class="listing-title">
+<a href="./news/FWCOWA_gcp.html" class="title">First West Coast Offshore Wind Auction Tests Appetite for Floating Farms</a>
+</td>
+<td class="listing-source">
+gcaptain.com
+</td>
+<td class="listing-published_at">
+Dec 6, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://gcaptain.com/wp-content/uploads/2021/05/morro-bay.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="88" data-listing-published_at-sort="2022-12-06" data-listing-title-sort="Genetic barriers, a warming ocean, and the uncertain future for an important forage fish" data-listing-filename-sort="Gntc_Ph.qmd">
+<td class="listing-title">
+<a href="./news/Gntc_Ph.html" class="title">Genetic barriers, a warming ocean, and the uncertain future for an important forage fish</a>
+</td>
+<td class="listing-source">
+Phys.Org
+</td>
+<td class="listing-published_at">
+Dec 6, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://scx2.b-cdn.net/gfx/news/2022/genetic-barriers-a-war.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="89" data-listing-published_at-sort="2022-12-06" data-listing-title-sort="Sale Jumpstarts Floating, Offshore Wind Power in US Waters" data-listing-filename-sort="SJFO_VOAN_2022-12-06.qmd">
+<td class="listing-title">
+<a href="./news/SJFO_VOAN_2022-12-06.html" class="title">Sale Jumpstarts Floating, Offshore Wind Power in US Waters</a>
+</td>
+<td class="listing-source">
+VOA News
+</td>
+<td class="listing-published_at">
+Dec 6, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://gdb.voanews.com/03370000-0aff-0242-6f6a-08dad722cdae_w1200_r1.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="90" data-listing-published_at-sort="2022-12-06" data-listing-title-sort="The U.S. Is Holding Its First West Coast Offshore Wind Auction" data-listing-filename-sort="TUSI_OlP.qmd">
+<td class="listing-title">
+<a href="./news/TUSI_OlP.html" class="title">The U.S. Is Holding Its First West Coast Offshore Wind Auction</a>
+</td>
+<td class="listing-source">
+OilPrice.com
+</td>
+<td class="listing-published_at">
+Dec 6, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-12-06_um85xzvg3v.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="91" data-listing-published_at-sort="2022-12-06" data-listing-title-sort="U.S. kicks off first California coast offshore wind auction" data-listing-filename-sort="USkC_Rtrs_2022-12-06.qmd">
+<td class="listing-title">
+<a href="./news/USkC_Rtrs_2022-12-06.html" class="title">U.S. kicks off first California coast offshore wind auction</a>
+</td>
+<td class="listing-source">
+Reuters
+</td>
+<td class="listing-published_at">
+Dec 6, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://www.reuters.com/resizer/mzfvWq0XeQYtlitB7mOhzlkBaxw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VBCFSQ4KDRN5BJWR6LD3M5KHU4.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="92" data-listing-published_at-sort="2022-12-05" data-listing-title-sort="Let The Bidding Begin: 43 Companies to Compete For Five California Offshore Wind Leases" data-listing-filename-sort="LTBB_Bzt.qmd">
+<td class="listing-title">
+<a href="./news/LTBB_Bzt.html" class="title">Let The Bidding Begin: 43 Companies to Compete For Five California Offshore Wind Leases</a>
+</td>
+<td class="listing-source">
+Biztoc.com
+</td>
+<td class="listing-published_at">
+Dec 5, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://c.biztoc.com/p/f00e31311ab1fbe1/og.webp" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="93" data-listing-published_at-sort="2022-12-05" data-listing-title-sort="Let The Bidding Begin: 43 Companies to Compete For Five California Offshore Wind Leases" data-listing-filename-sort="LTBB_Frbs_2022-12-05.qmd">
+<td class="listing-title">
+<a href="./news/LTBB_Frbs_2022-12-05.html" class="title">Let The Bidding Begin: 43 Companies to Compete For Five California Offshore Wind Leases</a>
+</td>
+<td class="listing-source">
+Forbes
+</td>
+<td class="listing-published_at">
+Dec 5, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://imageio.forbes.com/specials-images/imageserve/638d397ce768861d57ce91a3/0x0.jpg?format=jpg&amp;width=1200" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="94" data-listing-published_at-sort="2022-12-05" data-listing-title-sort="Sale jumpstarts floating, offshore wind power in US waters" data-listing-filename-sort="SlUS_ABCN_2022-12-05.qmd">
+<td class="listing-title">
+<a href="./news/SlUS_ABCN_2022-12-05.html" class="title">Sale jumpstarts floating, offshore wind power in US waters</a>
+</td>
+<td class="listing-source">
+ABC News
+</td>
+<td class="listing-published_at">
+Dec 5, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://s.abcnews.com/images/US/WireAP_27602fdb8a48476ea0fbc82b55a7dbf0_16x9_992.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="95" data-listing-published_at-sort="2022-12-05" data-listing-title-sort="Sale jumpstarts floating, offshore wind power in US waters" data-listing-filename-sort="SlUS_AssP_2022-12-05.qmd">
+<td class="listing-title">
+<a href="./news/SlUS_AssP_2022-12-05.html" class="title">Sale jumpstarts floating, offshore wind power in US waters</a>
+</td>
+<td class="listing-source">
+Associated Press
+</td>
+<td class="listing-published_at">
+Dec 5, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/a/47/a47b360a-a875-5135-bc1d-7ae3f7752544/638e1a4b2083f.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="96" data-listing-published_at-sort="2022-12-05" data-listing-title-sort="Sale jumpstarts floating, offshore wind power in US waters" data-listing-filename-sort="SlUS_Indp_2022-12-05.qmd">
+<td class="listing-title">
+<a href="./news/SlUS_Indp_2022-12-05.html" class="title">Sale jumpstarts floating, offshore wind power in US waters</a>
+</td>
+<td class="listing-source">
+Independent
+</td>
+<td class="listing-published_at">
+Dec 5, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://static.independent.co.uk/2022/12/05/16/Offshore_Wind_Auction_38984.jpg?quality=75&amp;width=1200&amp;auto=webp" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="97" data-listing-published_at-sort="2022-12-05" data-listing-title-sort="Sale jumpstarts floating, offshore wind power in US waters" data-listing-filename-sort="SlUS_KPBS_2022-12-05.qmd">
+<td class="listing-title">
+<a href="./news/SlUS_KPBS_2022-12-05.html" class="title">Sale jumpstarts floating, offshore wind power in US waters</a>
+</td>
+<td class="listing-source">
+KPBS
+</td>
+<td class="listing-published_at">
+Dec 5, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://cdn.kpbs.org/dims4/default/73edd3f/2147483647/strip/true/crop/5826x3059+0+413/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2Fe4%2F52%2F3755a55447e2a45068939eb80fd3%2Fap22339100738984.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="98" data-listing-published_at-sort="2022-12-05" data-listing-title-sort="Sale jumpstarts floating, offshore wind power in US waters" data-listing-filename-sort="SlUS_Kst.qmd">
+<td class="listing-title">
+<a href="./news/SlUS_Kst.html" class="title">Sale jumpstarts floating, offshore wind power in US waters</a>
+</td>
+<td class="listing-source">
+Kstp.com
+</td>
+<td class="listing-published_at">
+Dec 5, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://kstp.com/wp-content/uploads/apimg/2022/12/Offshore_Wind_Auction_38984.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="99" data-listing-published_at-sort="2022-12-05" data-listing-title-sort="Sale jumpstarts floating, offshore wind power in U.S. waters" data-listing-filename-sort="SlUS_NBCN_2022-12-05.qmd">
+<td class="listing-title">
+<a href="./news/SlUS_NBCN_2022-12-05.html" class="title">Sale jumpstarts floating, offshore wind power in U.S. waters</a>
+</td>
+<td class="listing-source">
+NBC News
+</td>
+<td class="listing-published_at">
+Dec 5, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-12/221205-block-island-rhode-island-coast-wind-farm-turbines-ac-437p-a3c3bb.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="100" data-listing-published_at-sort="2022-12-05" data-listing-title-sort="Sale jumpstarts floating, offshore wind power in US waters" data-listing-filename-sort="SlUS_TrnS_2022-12-05.qmd">
+<td class="listing-title">
+<a href="./news/SlUS_TrnS_2022-12-05.html" class="title">Sale jumpstarts floating, offshore wind power in US waters</a>
+</td>
+<td class="listing-source">
+Toronto Star
+</td>
+<td class="listing-published_at">
+Dec 5, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://images.thestar.com/JUbjlb3pQX5hZ_iObpJw65_iJZc=/1280x1024/smart/filters:cb(1670256857510):format(webp)/https://www.thestar.com/content/dam/thestar/news/world/us/2022/12/05/sale-jumpstarts-floating-offshore-wind-power-in-us-waters/2022120511128-638e178fcd26a5d1c967f828jpeg.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="101" data-listing-published_at-sort="2022-12-05" data-listing-title-sort="Sale jumpstarts floating, offshore wind power in US waters" data-listing-filename-sort="SlUS_YhEn_2022-12-05.qmd">
+<td class="listing-title">
+<a href="./news/SlUS_YhEn_2022-12-05.html" class="title">Sale jumpstarts floating, offshore wind power in US waters</a>
+</td>
+<td class="listing-source">
+Yahoo Entertainment
+</td>
+<td class="listing-published_at">
+Dec 5, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://s.yimg.com/ny/api/res/1.2/4Yugfprf17_kYAP9LVKAXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/ce01fe0c199e19b7b34b4b5756aa26d1" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="102" data-listing-published_at-sort="2022-12-05" data-listing-title-sort="Sale jumpstarts floating, offshore wind power in US waters" data-listing-filename-sort="SlUS_stt.qmd">
+<td class="listing-title">
+<a href="./news/SlUS_stt.html" class="title">Sale jumpstarts floating, offshore wind power in US waters</a>
+</td>
+<td class="listing-source">
+seattlepi.com
+</td>
+<td class="listing-published_at">
+Dec 5, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://s.hdnux.com/img/modules/siteheader/brand.png" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="103" data-listing-published_at-sort="2022-12-03" data-listing-title-sort="Climate Change Weekly #454: Economic Realities Dash Biden’s Offshore Wind Plans" data-listing-filename-sort="CCW4_Wtt.qmd">
+<td class="listing-title">
+<a href="./news/CCW4_Wtt.html" class="title">Climate Change Weekly #454: Economic Realities Dash Biden’s Offshore Wind Plans</a>
+</td>
+<td class="listing-source">
+Wattsupwiththat.com
+</td>
+<td class="listing-published_at">
+Dec 3, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2022/12/image-5.webp?fit=600%2C300&amp;ssl=1" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="104" data-listing-published_at-sort="2022-12-03" data-listing-title-sort="North Coast Fisherman Fear for the Future of Commercial Fisheries as Offshore Wind Efforts Advance" data-listing-filename-sort="NCFF_OWE-HB.qmd">
+<td class="listing-title">
+<a href="./news/NCFF_OWE-HB.html" class="title">North Coast Fisherman Fear for the Future of Commercial Fisheries as Offshore Wind Efforts Advance</a>
+</td>
+<td class="listing-source">
+Offshore Wind Energy - Humboldt Baykeeper
+</td>
+<td class="listing-published_at">
+Dec 3, 2022
+</td>
+<td class="listing-image">
+<img data-src="./news/rss_img.png" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="105" data-listing-published_at-sort="2022-11-28" data-listing-title-sort="France, Ireland confirm Celtic Interconnector will be up-and-running in 2027" data-listing-filename-sort="FICI_EURA_2022-11-28.qmd">
+<td class="listing-title">
+<a href="./news/FICI_EURA_2022-11-28.html" class="title">France, Ireland confirm Celtic Interconnector will be up-and-running in 2027</a>
+</td>
+<td class="listing-source">
+EURACTIV
+</td>
+<td class="listing-published_at">
+Nov 28, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://www.euractiv.com/wp-content/uploads/sites/2/2022/11/IMG_9370-800x450.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="106" data-listing-published_at-sort="2022-11-25" data-listing-title-sort="New Floating Offshore Wind Project Aims For 999 Megawatts" data-listing-filename-sort="NFOW_ClnT_2022-11-25.qmd">
+<td class="listing-title">
+<a href="./news/NFOW_ClnT_2022-11-25.html" class="title">New Floating Offshore Wind Project Aims For 999 Megawatts</a>
+</td>
+<td class="listing-source">
+CleanTechnica
+</td>
+<td class="listing-published_at">
+Nov 25, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://cleantechnica.com/files/2022/11/floating-offshore-wind-iber-blue-principle-power.jpg" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="107" data-listing-published_at-sort="2022-11-23" data-listing-title-sort="The market can deliver the green transition — just not fast enough" data-listing-filename-sort="Thmr_ThIT_2022-11-23.qmd">
+<td class="listing-title">
+<a href="./news/Thmr_ThIT_2022-11-23.html" class="title">The market can deliver the green transition — just not fast enough</a>
+</td>
+<td class="listing-source">
+The Irish Times
+</td>
+<td class="listing-published_at">
+Nov 23, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://www.irishtimes.com/resizer/Ms3_AXCXajrVJvqqLAjPvDA6C_o=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/KOTIOH5FLBCY7NIDKF5HO7IBUA" style="height: 40px;">
+</td>
+</tr>
+<tr data-index="108" data-listing-published_at-sort="2022-11-22" data-listing-title-sort="The market can deliver the green transition – just not fast enough - The Australian Financial Review" data-listing-filename-sort="TTAF_AsFR_2022-11-22.qmd">
+<td class="listing-title">
+<a href="./news/TTAF_AsFR_2022-11-22.html" class="title">The market can deliver the green transition – just not fast enough - The Australian Financial Review</a>
+</td>
+<td class="listing-source">
+Australian Financial Review
+</td>
+<td class="listing-published_at">
+Nov 22, 2022
+</td>
+<td class="listing-image">
+<img data-src="https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_421%2C$y_421/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/cdd902a26abd099bd30dfb004e3bc033419fc150" style="height: 40px;">
+</td>
 </tr>
 <tr data-index="109" data-listing-published_at-sort="2022-10-27" data-listing-title-sort="Offshore Wind is Coming to the North Coast. What’s in it For Humboldt?" data-listing-filename-sort="OWCN_OWE-HB.qmd">
 <td class="listing-title">

@@ -2,7 +2,7 @@
 source: "Renewableenergyworld.com"
 author: "Renewable Energy World"
 title: >
-  California offshore wind: What’s next following the $757 million auction
+  California offshore wind: What’s next following the \$757 million auction
 description: >
   This auction is the third major offshore wind energy lease sale this year—and the first-ever for the Pacific region—and resulted in high bids from five companies totaling $757.1 million.
 url: "https://www.renewableenergyworld.com/wind-power/california-offshore-wind-whats-next-following-the-757-million-auction/"

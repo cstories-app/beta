@@ -2,7 +2,7 @@
 source: "gcaptain.com"
 author: "Bloomberg"
 title: >
-  First West Coast Wind Auction Continuing with Over $400 Million in High Bids on First Day
+  First West Coast Wind Auction Continuing with Over \$400 Million in High Bids on First Day
 description: >
   By Jennifer A. Dlouhy (Bloomberg) — Six companies are still vying for the opportunity to install floating wind turbines off the California coast after offering $402.1 million for the tracts Tuesday....
 url: "https://gcaptain.com/first-west-coast-wind-auction-continuing-with-over-400-million-in-high-bids-on-first-day/"
