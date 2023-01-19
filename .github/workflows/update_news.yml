@@ -37,11 +37,11 @@ jobs:
         uses: r-lib/actions/setup-renv@v2
       
       - name: Update news via NewsAPI
-        run: source("news_code/news_apis.R")
+        run: source("_scripts/news_generation/news_apis.R")
         shell: Rscript {0}
         
       - name: Update news via RSS feeds
-        run: source("news_code/news_rss.R")
+        run: source("_scripts/news_generation/news_rss.R")
         shell: Rscript {0}
 
       - name: Publish to GitHub Pages (and render)
