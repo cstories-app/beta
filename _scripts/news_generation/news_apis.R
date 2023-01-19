@@ -9,7 +9,7 @@ librarian::shelf(
 # Functions ---------------------------------------------------------------
 
 update_newsapi_data <- function(terms,
-                                existing_news_table = "news_code/data/news_table.rds",
+                                existing_news_table = "_scripts/news_generation/data/news_table.rds",
                                 news_api_key = Sys.getenv("NEWSAPI_KEY"),
                                 req = request("https://newsapi.org/v2/everything?"),
                                 sortBy = "publishedAt") {
@@ -130,7 +130,7 @@ Source: {{< meta source >}}\
 # Searches ----------------------------------------------------------------
 
 
-terms <- read_lines("news_code/newsapi_searches.txt")
+terms <- read_lines("_scripts/news_generation/newsapi_searches.txt")
 
 new_qmd_items <- update_newsapi_data(terms)
 
@@ -139,6 +139,6 @@ new_qmd_items <- update_newsapi_data(terms)
 
 create_newsapi_qmds(new_qmd_items)
 
-#create_newsapi_qmds(read_rds("news_code/data/news_table.rds")) #For re-doing everything
+#create_newsapi_qmds(read_rds("_scripts/news_generation/data/news_table.rds")) #For re-doing everything
 
 

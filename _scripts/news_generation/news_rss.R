@@ -29,7 +29,7 @@ scrape_rss <- function(feed) {
 }
 
 update_feeds <- function(feed_files,
-                         existing_rss_table = "news_code/data/rss_table.rds") {
+                         existing_rss_table = "_scripts/news_generation/data/rss_table.rds") {
   raw_feeds <- map(feed_files, function(feed_file) {
 
     cli::cli_alert_info("Starting feed scraping from {fs::path_file(feed_file)}...")
@@ -145,7 +145,7 @@ create_rss_qmds <- function(rss_items, output_dir = "news") {
 
 # Get feeds ---------------------------------------------------------------
 
-feed_files <- fs::dir_ls("news_code/rss_feeds/", glob = "*.txt")
+feed_files <- fs::dir_ls("_scripts/news_generation/rss_feeds/", glob = "*.txt")
 
 rss_items <- update_feeds(feed_files)
 
