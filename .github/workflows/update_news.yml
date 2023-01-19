@@ -36,10 +36,13 @@ jobs:
       - name: Install R packages with renv
         uses: r-lib/actions/setup-renv@v2
       
-      - name: Update news
-        run: |
-          Rscript -e news_code/news_apis.R
-          Rscript -e news_code/news_rss.R
+      - name: Update news via NewsAPI
+        run: source("news_code/news_apis.R")
+        shell: Rscript {0}
+        
+      - name: Update news via RSS feeds
+        run: source("news_code/news_rss.R")
+        shell: Rscript {0}
 
       - name: Publish to GitHub Pages (and render)
         uses: quarto-dev/quarto-actions/publish@v2
