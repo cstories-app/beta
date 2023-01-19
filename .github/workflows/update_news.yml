@@ -30,10 +30,10 @@ jobs:
       
       - name: Install system dependencies for R packages
         run: |
-          sudo apt-get install libcurl4-openssl-dev.            # curl
+          sudo apt-get install libcurl4-openssl-dev             # curl
           sudo apt-get install libharfbuzz-dev  libfribidi-dev  # textshaping
 
-      - name: Install renv dependencies
+      - name: Install R packages with renv
         uses: r-lib/actions/setup-renv@v2
       
       - name: Update news
