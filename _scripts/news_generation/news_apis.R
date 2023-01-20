@@ -19,8 +19,12 @@ update_newsapi_data <- function(terms,
                                 #popularity = articles from popular sources and publishers come first.
                                 #publishedAt = newest articles come first (DEFAULT)) {
 
+  search_timestamp <-  as.character(now())
+
   raw_news <- terms %>%
     map(function(search_terms) {
+
+
 
       cli_alert_info("Searching {search_terms}...")
 
@@ -67,12 +71,14 @@ update_newsapi_data <- function(terms,
     ungroup() %>%
     distinct() %>%
     mutate(terms = str_replace_all(terms, "\"", "\'")) %>%
-    add_column(search_timestamp = as.character(now()))
+    add_column(search_timestamp = !!search_timestamp)
 
   existing_news <- read_rds(existing_news_table)
 
   new_news <- news %>%
-    anti_join(existing_news, by = "news_id")
+    anti_join(existing_news, by = "news_id") %>%
+    anti_join(existing_news, by = "title") %>% #Temporary until duplicate titles are
+    distinct(title, .keep_all = T) #Temporary until duplicate titles are
 
   news <- existing_news %>%
     rows_insert(news, by = "news_id", conflict = "ignore")
@@ -139,6 +145,9 @@ new_qmd_items <- update_newsapi_data(terms)
 
 create_newsapi_qmds(new_qmd_items)
 
-#create_newsapi_qmds(read_rds("_scripts/news_generation/data/news_table.rds")) #For re-doing everything
+#For redoing everything
+# read_rds("_scripts/news_generation/data/news_table.rds") %>%
+#   distinct(title, .keep_all = T) %>%
+#   create_newsapi_qmds()
 
 
