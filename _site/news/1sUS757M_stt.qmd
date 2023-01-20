@@ -21,7 +21,7 @@ Published: {{< meta published_at >}}
 Source: {{< meta source >}}
 
 
-[Read full article]({{< meta url >}}){target='blank'}
+[Read full article]({{< meta url >}}){target='_blank'}
 
 
 

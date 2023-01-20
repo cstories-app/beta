@@ -2,7 +2,7 @@
 source: "ABC 12 News"
 author: "John Moore/getty Images North America/getty Images"
 title: >
-  Five companies will pay $750 million to build floating wind turbines off the West Coast
+  Five companies will pay \$750 million to build floating wind turbines off the West Coast
 description: >
   The Biden administration's first-ever offshore wind energy lease sale for federal waters off the West Coast generated more than $750 million, as energy companies competed for five areas that could
 url: "https://www.abc12.com/news/business/five-companies-will-pay-750-million-to-build-floating-wind-turbines-off-the-west-coast/article_6825f607-74f3-58ab-95dc-97262ce1433c.html"

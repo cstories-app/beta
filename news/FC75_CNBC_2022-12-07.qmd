@@ -2,7 +2,7 @@
 source: "CNBC"
 author: "Emma Newburger"
 title: >
-  First-ever California offshore wind auction surpasses $757 million in bids
+  First-ever California offshore wind auction surpasses \$757 million in bids
 description: >
   The sale is a major milestone in the Biden administration's goal of building offshore wind turbines across the nation's coastlines to help power communities.
 url: "https://www.cnbc.com/2022/12/07/california-offshore-wind-auction-surpasses-757-million-in-bids-.html"

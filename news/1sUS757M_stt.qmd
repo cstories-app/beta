@@ -2,7 +2,7 @@
 source: "seattlepi.com"
 author: "By GILLIAN FLACCUS, Associated Press"
 title: >
-  1st US floating offshore wind auction nets $757M in bids
+  1st US floating offshore wind auction nets \$757M in bids
 description: >
   PORTLAND, Ore. (AP) - The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast attracted $757 million in winning bids Wednesday from mostly European companies, in a project watched by other re…
 url: "https://www.seattlepi.com/news/article/1st-US-floating-offshore-wind-auction-nets-757M-17638903.php"

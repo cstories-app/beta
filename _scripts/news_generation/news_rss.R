@@ -48,7 +48,7 @@ update_feeds <- function(feed_files,
     mutate(across(where(is.character), ~if_else(.x == "", NA_character_, .x))) %>%
     distinct(across(-c(item_link, item_guid, item_comments, item_pub_date, feed_pub_date)), .keep_all = T) %>%
     mutate(item_pub_date = as_date(item_pub_date)) %>%
-    mutate(rss_id = paste(abbreviate(replace_non_ascii(str_remove_all(item_title, "[^\\w]"))), abbreviate(replace_non_ascii(feed_title)), sep = "_")) %>%
+    mutate(rss_id = paste(abbreviate(replace_non_ascii(str_remove_all(item_title, "[^\\w]"))), abbreviate(replace_non_ascii(feed_title)),  sep = "_")) %>%
     add_column(search_timestamp = as.character(now()))
 
   if(any(is.na(rss$item_title))) {
@@ -65,7 +65,7 @@ update_feeds <- function(feed_files,
   if(nrow(bad <- rss %>% get_dupes(rss_id)) > 0) {
     cli_alert_danger("Duplicate rss_id's in data.")
     print(bad)
-    stop("Operation cannot continue")
+    rss <- rss %>% distinct(rss_id, .keep_all = T)
   }
 
   existing_rss <- read_rds(existing_rss_table)

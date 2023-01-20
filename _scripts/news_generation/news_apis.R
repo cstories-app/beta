@@ -146,8 +146,10 @@ new_qmd_items <- update_newsapi_data(terms)
 create_newsapi_qmds(new_qmd_items)
 
 #For redoing everything
-# read_rds("_scripts/news_generation/data/news_table.rds") %>%
-#   distinct(title, .keep_all = T) %>%
-#   create_newsapi_qmds()
+read_rds("_scripts/news_generation/data/news_table.rds") %>%
+mutate(title = str_squish(title) %>%
+    str_replace(fixed("$"), "\\$")) %>%
+  distinct(title, .keep_all = T) %>%
+  create_newsapi_qmds()
 
 

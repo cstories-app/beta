@@ -2,7 +2,7 @@
 source: "Tech Times"
 author: "Jace Dela Cruz"
 title: >
-  The First-Ever US Auction of Floating Offshore Wind Farms Attracts $757 Million in Winning Bids
+  The First-Ever US Auction of Floating Offshore Wind Farms Attracts \$757 Million in Winning Bids
 description: >
   The total area of the leases in the Pacific Ocean is 583 square miles (1,510 square kilometers).
 url: "https://www.techtimes.com/articles/284597/20221208/first-ever-us-auction-floating-offshore-wind-farm-attracts-757-million-winning-bids.htm"

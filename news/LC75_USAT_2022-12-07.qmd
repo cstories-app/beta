@@ -2,7 +2,7 @@
 source: "USA Today"
 author: "Elizabeth Weise, USA TODAY"
 title: >
-  Landmark California offshore wind site auction nets $757 million, will power 1.5 million homes
+  Landmark California offshore wind site auction nets \$757 million, will power 1.5 million homes
 description: >
   The first-ever federal auction of floating offshore wind power sites off the Pacific coast ended Wednesday with bids totaling $757 million. When fully...
 url: "https://www.usatoday.com/story/news/2022/12/07/first-ever-pacific-offshore-wind-auction-nets-757-million/10847186002/"

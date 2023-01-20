@@ -10,8 +10,8 @@ image: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1338906757/i
 published_at: 2023-01-13
 content: >
   alphaspirit  Every hour, the Earth receives enough energy from the sun to cover the world’s entire annual energy consumption needs.1 This fact provides excitement about continued advancements in sola… [+18157 chars]
-terms: "Cost of electricity"
 search_timestamp: 2023-01-13 15:07:48
+terms: "Cost of electricity"
 ---
 
 
@@ -21,7 +21,7 @@ Published: {{< meta published_at >}}
 Source: {{< meta source >}}
 
 
-[Read full article]({{< meta url >}})
+[Read full article]({{< meta url >}}){target='_blank'}
 
 
 
