@@ -32,6 +32,7 @@ jobs:
         run: |
           sudo apt-get install libcurl4-openssl-dev             # curl
           sudo apt-get install libharfbuzz-dev  libfribidi-dev  # textshaping
+          sudo apt-get gdal proj                                # terra -> leaflet
 
       #- name: Install R packages with renv
       #  uses: r-lib/actions/setup-renv@v2
