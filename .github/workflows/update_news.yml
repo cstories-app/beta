@@ -33,8 +33,24 @@ jobs:
           sudo apt-get install libcurl4-openssl-dev             # curl
           sudo apt-get install libharfbuzz-dev  libfribidi-dev  # textshaping
 
-      - name: Install R packages with renv
-        uses: r-lib/actions/setup-renv@v2
+      #- name: Install R packages with renv
+      #  uses: r-lib/actions/setup-renv@v2
+      
+      - name: Cache packages
+        uses: actions/cache@v1
+        env:
+          RENV_PATHS_ROOT: ~/.local/share/renv
+        with:
+          path: ${{ env.RENV_PATHS_ROOT }}
+          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-renv-
+
+      - name: Restore packages
+        shell: Rscript {0}
+        run: |
+          if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
+          renv::restore()
       
       - name: Update news via NewsAPI
         run: source("_scripts/news_generation/news_apis.R")
