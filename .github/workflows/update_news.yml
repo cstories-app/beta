@@ -54,6 +54,8 @@ jobs:
       
       - name: Update news via NewsAPI
         run: source("_scripts/news_generation/news_apis.R")
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         shell: Rscript {0}
         
       - name: Update news via RSS feeds
