@@ -1,0 +1,14 @@
+{
+  "hash": "4edacdc2944a137943231ea936addfe6",
+  "result": {
+    "markdown": "---\nsource: \"Realclearinvestigations.com\"\nauthor: \"John Murawski, RCI\"\ntitle: >\n  Biden's Solar Push Chewing Up Vast Amounts of Land\ndescription: >\n  By John Murawski, RealClearInvestigationsDecember 7, 2022Wedged in the southern flank of Virginia, Charlotte County is home to some 11,500 people who live amidst rolling hills and family farms, past\nurl: \"https://www.realclearinvestigations.com/articles/2022/12/07/solars_lofty_ambitions_are_consuming_ever-vaster_expanses_of_land_down_below_868493.html\"\nimage: \"https://assets.realclear.com/images/59/595683_6_.png\"\npublished_at: 2022-12-07\ncontent: >\n  Wedged in the southern flank of Virginia, Charlotte County is home to some 11,500 people who live amidst rolling hills and family farms, pastures and sawmills, a historic Civil War battlefield, and f… [+18182 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Viewshed\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://assets.realclear.com/images/59/595683_6_.png)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

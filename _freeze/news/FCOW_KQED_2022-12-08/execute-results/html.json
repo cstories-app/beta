@@ -1,0 +1,14 @@
+{
+  "hash": "c6f5d8db3ab4affa0932f05a002b220a",
+  "result": {
+    "markdown": "---\nsource: \"KQED\"\nauthor: \"Kevin Stark\"\ntitle: >\n  First California Offshore Wind Auction Nets Over \\$750 Million\ndescription: >\n  Gov. Gavin Newsom described the wind lease sale as a 'critical component' of the state hitting its goal of 90% clean energy by 2035 in what he hailed as a 'new era of climate action.'\nurl: \"https://www.kqed.org/science/1980900/first-california-offshore-wind-auction-nets-over-750-million\"\nimage: \"https://ww2.kqed.org/app/uploads/sites/35/2022/12/GettyImages-1407548832-1020x733.jpg\"\npublished_at: 2022-12-08\ncontent: >\n  Department Secretary Deb Haaland said in a statement that the aggressive bidding is a signal of industry momentum around American offshore wind.  “A sustainable, clean energy future is within our gra… [+2662 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Humboldt | Morro Bay\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://ww2.kqed.org/app/uploads/sites/35/2022/12/GettyImages-1407548832-1020x733.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "aa77094972deeb18baaa0e2e7cc5de52",
+  "result": {
+    "markdown": "---\nsource: \"CleanTechnica\"\nauthor: \"Steve Hanley\"\ntitle: >\n  Equinor Secures First West Coast Offshore Wind Leases\ndescription: >\n  Equinor was the successful bidder at an offshore wind lease auction by the Bureau of Ocean Energy Management recently.\nurl: \"https://cleantechnica.com/?p=282779\"\nimage: \"https://cleantechnica.com/files/2022/12/Equinor-floating-wind.png\"\npublished_at: 2022-12-09\ncontent: >\n  The Bureau of Ocean Energy Management conducted the first ever sale of leases for offshore wind along the west coast of the United States recently. Equinor secured a 2 gigawatt lease in the Morro Bay… [+3160 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Morro Bay\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://cleantechnica.com/files/2022/12/Equinor-floating-wind.png)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

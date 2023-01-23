@@ -1,0 +1,14 @@
+{
+  "hash": "fddf5332ee4e8f91b64aa2958651869f",
+  "result": {
+    "markdown": "---\nsource: \"NBC News\"\nauthor: \"Associated Press\"\ntitle: >\n  Sale jumpstarts floating, offshore wind power in U.S. waters\ndescription: >\n  Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast.\nurl: \"https://www.nbcnews.com/science/environment/sale-jumpstarts-floating-offshore-wind-power-us-waters-rcna60230\"\nimage: \"https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-12/221205-block-island-rhode-island-coast-wind-farm-turbines-ac-437p-a3c3bb.jpg\"\npublished_at: 2022-12-05\ncontent: >\n  PORTLAND, Ore. Tuesday marks the first-ever U.S. auction of leases to develop commercial-scale floating wind farms, in the deep waters off the West Coast.  The live, online auction for the five lease… [+7020 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Humboldt\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-12/221205-block-island-rhode-island-coast-wind-farm-turbines-ac-437p-a3c3bb.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

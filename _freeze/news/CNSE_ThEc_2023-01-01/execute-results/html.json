@@ -1,0 +1,14 @@
+{
+  "hash": "94015dba068db6c10f3636d1cdfbe476",
+  "result": {
+    "markdown": "---\nsource: \"The Economist\"\nauthor: \"The Economist\"\ntitle: >\n  Can the North Sea become Europe’s new economic powerhouse?\ndescription: >\n  The continent’s most turbulent body of water is finding fresh uses\nurl: \"https://www.economist.com/business/2023/01/01/can-the-north-sea-become-europes-new-economic-powerhouse\"\nimage: \"https://www.economist.com/img/b/1280/720/90/media-assets/image/20221231_WBP501.jpg\"\npublished_at: 2023-01-01\ncontent: >\n  PICTURE A MECCANO set, but one made for gods. Blades as long as Big Ben is tall, rotors and tower sections the size of school buildings, shafts and generators so heavy they must be rotated every 20 m… [+16659 chars]\nsearch_timestamp: 2023-01-04 13:52:42\nterms: \"Humboldt\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://www.economist.com/img/b/1280/720/90/media-assets/image/20221231_WBP501.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

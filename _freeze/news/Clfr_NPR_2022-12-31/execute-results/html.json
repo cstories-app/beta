@@ -1,0 +1,14 @@
+{
+  "hash": "4ae10affca59791bc8753c7e01cdddfb",
+  "result": {
+    "markdown": "---\nsource: \"NPR\"\nauthor: \"John Upton - Climate Central\"\ntitle: >\n  California offshore wind promises a new gold rush while slashing emissions\ndescription: >\n  A federal offshore wind lease auction in December off California's coast promises to kickstart a work boom on the state's northern and central coasts.\nurl: \"https://www.npr.org/2022/12/30/1146141123/california-offshore-wind-promises-a-new-gold-rush-while-slashing-emissions\"\nimage: \"https://media.npr.org/assets/img/2022/12/30/gettyimages-976086950_wide-23f1bdbaca60671d78eb38e5dc2ba0471bab7338-s1400-c100.jpg\"\npublished_at: 2022-12-31\ncontent: >\n  The first nacelles onboard a sea energy \"jack-up ship,\" ready for lifting into place on the Kentish Flats Offshore Wind Farm, off Whitstable, Kent, England.  Chris Laurens/Construction Photography/ A… [+13488 chars]\nsearch_timestamp: 2023-01-04 13:52:42\nterms: \"Humboldt | Morro Bay\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://media.npr.org/assets/img/2022/12/30/gettyimages-976086950_wide-23f1bdbaca60671d78eb38e5dc2ba0471bab7338-s1400-c100.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8c5e5b2bdce4bafeb72b2d3f9b522bc1",
+  "result": {
+    "markdown": "---\nsource: \"Business Wire\"\nauthor: \"(unknown author)\"\ntitle: >\n  Equinor Wins Commercial-Scale Lease in California - Deepens Leading Floating Offshore Wind Position\ndescription: >\n  SAN FRANCISCO--(BUSINESS WIRE)--As provisional winner of a lease area on the Outer Continental Shelf off California, Equinor continues to lead the way in growing the US’ offshore wind industry. Five leases were offered by the Bureau of Ocean Energy Management…\nurl: \"https://www.businesswire.com/news/home/20221207005886/en/Equinor-Wins-Commercial-Scale-Lease-in-California---Deepens-Leading-Floating-Offshore-Wind-Position\"\nimage: \"https://mms.businesswire.com/media/20221207005886/en/1658654/23/Equinor_HORIZ_logo_CMYK_RED.jpg\"\npublished_at: 2022-12-07\ncontent: >\n  SAN FRANCISCO--(BUSINESS WIRE)--As provisional winner of a lease area on the Outer Continental Shelf off California, Equinor continues to lead the way in growing the US offshore wind industry.  Five … [+3534 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Morro Bay\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://mms.businesswire.com/media/20221207005886/en/1658654/23/Equinor_HORIZ_logo_CMYK_RED.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

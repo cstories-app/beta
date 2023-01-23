@@ -1,0 +1,14 @@
+{
+  "hash": "513ab541fe526c9f4dd0656b321d60b5",
+  "result": {
+    "markdown": "---\nsource: \"The Irish Times\"\nauthor: \"Martin Wolf\"\ntitle: >\n  The market can deliver the green transition — just not fast enough\ndescription: >\n  The move to renewables could present a political opportunity for leaders\nurl: \"https://www.irishtimes.com/business/economy/2022/11/23/the-market-can-deliver-the-green-transition-just-not-fast-enough/\"\nimage: \"https://www.irishtimes.com/resizer/Ms3_AXCXajrVJvqqLAjPvDA6C_o=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/KOTIOH5FLBCY7NIDKF5HO7IBUA\"\npublished_at: 2022-11-23\ncontent: >\n  Whatever else may be wrong with economics, its starting point is correct: people do indeed respond to incentives. Suppose renewables provided the dominant technologies for energy supply; suppose, in … [+5634 chars]\nsearch_timestamp: 2022-12-22\nterms: \"Cost of electricity\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://www.irishtimes.com/resizer/Ms3_AXCXajrVJvqqLAjPvDA6C_o=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/KOTIOH5FLBCY7NIDKF5HO7IBUA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

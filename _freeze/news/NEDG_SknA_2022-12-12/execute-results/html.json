@@ -1,0 +1,14 @@
+{
+  "hash": "95ccec0c3f9ddd17da8449305cf217c1",
+  "result": {
+    "markdown": "---\nsource: \"Seeking Alpha\"\nauthor: \"Leo Imasuen\"\ntitle: >\n  NextEra: Defying Gravity\ndescription: >\n  NextEra Energy is gearing up for dramatic growth over the next three years. Click here to read my recommendation on NEE stock.\nurl: \"https://seekingalpha.com/article/4563889-nextera-stock-dramatic-growth-likely-three-years\"\nimage: \"https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1301243910/image_1301243910.jpg?io=getty-c-w750\"\npublished_at: 2022-12-12\ncontent: >\n  inakiantonana  NextEra Energy (NYSE:NEE) is the largest wind and solar energy producer in the world. The company currently has 63 GW in energy-generating assets and is the owner of Florida Power &amp… [+5498 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Cost of electricity\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1301243910/image_1301243910.jpg?io=getty-c-w750)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

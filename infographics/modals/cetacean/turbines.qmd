@@ -1,5 +1,5 @@
 ---
-pagetitle: "Turbines"
+pagetitle: "Wind Turbines"
 ---
 
 ::: {#turbine-info}
@@ -7,9 +7,10 @@ The offshore wind turbines that will be deployed in the California Offshore Wind
 :::
 ::: {#turbine-video layout-nrow=1}
 {{< video https://youtu.be/yfmkjocnbgM >}}
-
-Source: [The largest offshore wind farm in the world | 60 Minutes - CBS News](https://www.cbsnews.com/video/wind-energy-grimsby-england-60-minutes-video-2022-10-16/)
 :::
+Source: [The largest offshore wind farm in the world | 60 Minutes - CBS News](https://www.cbsnews.com/video/wind-energy-grimsby-england-60-minutes-video-2022-10-16/){target="_blank"}
+
+Off the coast of Grimsby, England, more than 300 fixed foundation wind turbines produce electricity to help power over 2 million homes a day.
 
 
 

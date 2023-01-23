@@ -1,0 +1,14 @@
+{
+  "hash": "1dcf980b2c1416b392a79fafc64b1d0b",
+  "result": {
+    "markdown": "---\nsource: \"GlobeNewswire\"\nauthor: \"Statkraft AS\"\ntitle: >\n  Statkraft Ireland set to begin work on 56MW Midlands wind farm\ndescription: >\n  Statkraft Ireland has confirmed that construction will begin at Cushaling Wind Farm in counties Offaly and Kildare in January 2023. The nine-turbine......\nurl: \"https://www.globenewswire.com/news-release/2022/12/20/2576850/0/en/Statkraft-Ireland-set-to-begin-work-on-56MW-Midlands-wind-farm.html\"\nimage: \"https://ml-eu.globenewswire.com/Resource/Download/83e51edf-56e2-4b17-a5f7-7127fce40649?size=1\"\npublished_at: 2022-12-20\ncontent: >\n  Statkraft Ireland has confirmed that construction will begin at Cushaling Wind Farm in counties Offaly and Kildare in January 2023.  The nine-turbine development, which will deliver 55.8MW of urgentl… [+3913 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Cost of electricity\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://ml-eu.globenewswire.com/Resource/Download/83e51edf-56e2-4b17-a5f7-7127fce40649?size=1)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

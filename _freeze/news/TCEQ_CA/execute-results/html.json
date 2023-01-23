@@ -1,0 +1,14 @@
+{
+  "hash": "56f456d26b42661bd94c79aa95428637",
+  "result": {
+    "markdown": "---\nsource: \"City A.M.\"\nauthor: \"Andy Silvester\"\ntitle: >\n  The Christmas Eve Quiz: City A.M. tests out your grey matter\ndescription: >\n  It’s the Christmas Quiz you’ve been waiting for! Each year City A.M. publishes Deloitte’s economics team’s festive brainteasers, produced as part of their regular Monday briefing. Grab a pen – the answers are at the bottom, and come packed with plenty of extr…\nurl: \"https://www.cityam.com/the-christmas-eve-quiz-city-a-m-tests-out-your-grey-matter/\"\nimage: \"https://www.cityam.com/wp-content/uploads/2022/12/GettyImages-1445176126-1.jpg\"\npublished_at: 2022-12-24\ncontent: >\n  Saturday 24 December 2022 8:23 am  The Christmas Eve Quiz you’ve been waiting for   It’s the Christmas Quiz you’ve been waiting for! Each year City A.M. publishes Deloitte’s economics team’s festive … [+10293 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Cost of electricity\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://www.cityam.com/wp-content/uploads/2022/12/GettyImages-1445176126-1.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

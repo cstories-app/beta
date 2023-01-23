@@ -1,0 +1,14 @@
+{
+  "hash": "2373f3a33ffad2f92db2b4d2936691bb",
+  "result": {
+    "markdown": "---\nsource: \"CleanTechnica\"\nauthor: \"Tina Casey\"\ntitle: >\n  New Floating Offshore Wind Project Aims For 999 Megawatts\ndescription: >\n  Hothouse flowers no more: floating offshore wind developers are taking aim at triple-digit megawatt territory now.\nurl: \"https://cleantechnica.com/2022/11/24/new-floating-offshore-wind-project-aims-for-999-megawatts/\"\nimage: \"https://cleantechnica.com/files/2022/11/floating-offshore-wind-iber-blue-principle-power.jpg\"\npublished_at: 2022-11-25\ncontent: >\n  Whelp, that was fast. The world’s largest floating offshore wind array clocked in at 88 megawatts just last week, and now here comes another one more than 10 times its size. If all goes according to … [+7480 chars]\nsearch_timestamp: 2022-12-22\nterms: \"Seascape\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://cleantechnica.com/files/2022/11/floating-offshore-wind-iber-blue-principle-power.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

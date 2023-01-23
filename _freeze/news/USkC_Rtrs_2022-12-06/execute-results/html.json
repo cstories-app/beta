@@ -1,0 +1,14 @@
+{
+  "hash": "0a7646c3ff63a8a943ce4a3ae022f4ad",
+  "result": {
+    "markdown": "---\nsource: \"Reuters\"\nauthor: \"(unknown author)\"\ntitle: >\n  U.S. kicks off first California coast offshore wind auction\ndescription: >\n  The United States on Tuesday is set to kick off the first sale of offshore wind development rights for waters off the coast of California, expanding the nascent domestic industry to the Pacific Ocean.\nurl: \"https://www.reuters.com/business/energy/us-kicks-off-first-california-coast-offshore-wind-auction-2022-12-06/\"\nimage: \"https://www.reuters.com/resizer/mzfvWq0XeQYtlitB7mOhzlkBaxw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VBCFSQ4KDRN5BJWR6LD3M5KHU4.jpg\"\npublished_at: 2022-12-06\ncontent: >\n  Dec 6 (Reuters) - The United States on Tuesday is set to kick off the first sale of offshore wind development rights for waters off the coast of California, expanding the nascent domestic industry to… [+2138 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Humboldt\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://www.reuters.com/resizer/mzfvWq0XeQYtlitB7mOhzlkBaxw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VBCFSQ4KDRN5BJWR6LD3M5KHU4.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

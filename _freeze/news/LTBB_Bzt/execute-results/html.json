@@ -1,0 +1,14 @@
+{
+  "hash": "80cf38dcded5853492c450dfec02fe60",
+  "result": {
+    "markdown": "---\nsource: \"Biztoc.com\"\nauthor: \"forbes.com\"\ntitle: >\n  Let The Bidding Begin: 43 Companies to Compete For Five California Offshore Wind Leases\ndescription: >\n  On Tuesday, the U.S. Bureau of Ocean Energy Management, or BOEM, will auction off five leases for the development of offshore wind energy facilities along the California Coast - the first such lease sale on the West Coast of the United States. Two of the site…\nurl: \"https://biztoc.com/x/f00e31311ab1fbe1\"\nimage: \"https://c.biztoc.com/p/f00e31311ab1fbe1/og.webp\"\npublished_at: 2022-12-05\ncontent: >\n  On Tuesday, the U.S. Bureau of Ocean Energy Management, or BOEM, will auction off five leases for the development of offshore wind energy facilities along the California Coast - the first such lease … [+1034 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Humboldt | Morro Bay\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://c.biztoc.com/p/f00e31311ab1fbe1/og.webp)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

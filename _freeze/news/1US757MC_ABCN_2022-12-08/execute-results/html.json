@@ -1,0 +1,14 @@
+{
+  "hash": "4a6c0ba7ba1637e9cb632a0d7fd3d698",
+  "result": {
+    "markdown": "---\nsource: \"ABC News\"\nauthor: \"GILLIAN FLACCUS Associated Press\"\ntitle: >\n  1st US floating offshore wind auction nets \\$757M off Calif\ndescription: >\n  The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast raised $757 million in bids, from mostly European companies\nurl: \"https://abcnews.go.com/Business/wireStory/1st-us-floating-offshore-wind-auction-nets-757m-94731821\"\nimage: \"https://s.abcnews.com/images/US/WireAP_cb60c9e9b9424c499f3d597509fd9e4e_16x9_992.jpg\"\npublished_at: 2022-12-08\ncontent: >\n  PORTLAND, Ore. -- The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast attracted $757 million in winning bids Wednesday from mos… [+3505 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Morro Bay\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://s.abcnews.com/images/US/WireAP_cb60c9e9b9424c499f3d597509fd9e4e_16x9_992.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e3adfe3357f0a5bba00240c55bf83e5b",
+  "result": {
+    "markdown": "---\nsource: \"gcaptain.com\"\nauthor: \"Bloomberg\"\ntitle: >\n  First West Coast Wind Auction Continuing with Over \\$400 Million in High Bids on First Day\ndescription: >\n  By Jennifer A. Dlouhy (Bloomberg) — Six companies are still vying for the opportunity to install floating wind turbines off the California coast after offering $402.1 million for the tracts Tuesday....\nurl: \"https://gcaptain.com/first-west-coast-wind-auction-continuing-with-over-400-million-in-high-bids-on-first-day/\"\nimage: \"https://gcaptain.com/wp-content/uploads/2022/07/shutterstock_2179829399.jpg\"\npublished_at: 2022-12-07\ncontent: >\n  By Jennifer A. Dlouhy (Bloomberg) —  Six companies are still vying for the opportunity to install floating wind turbines off the California coast after offering $402.1 million for the tracts Tuesday.… [+3586 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Morro Bay\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://gcaptain.com/wp-content/uploads/2022/07/shutterstock_2179829399.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ba8274c52e77e4a21af89aacd6d0cfb3",
+  "result": {
+    "markdown": "---\nsource: \"USA Today\"\nauthor: \"Elizabeth Weise, USA TODAY\"\ntitle: >\n  Landmark California offshore wind site auction nets \\$757 million, will power 1.5 million homes\ndescription: >\n  The first-ever federal auction of floating offshore wind power sites off the Pacific coast ended Wednesday with bids totaling $757 million. When fully...\nurl: \"https://www.usatoday.com/story/news/2022/12/07/first-ever-pacific-offshore-wind-auction-nets-757-million/10847186002/\"\nimage: \"https://s.yimg.com/ny/api/res/1.2/wAsOXmoC8Dq0dCHxeBDOqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODk-/https://media.zenfs.com/en/usa_today_news_641/416caaac27b7aff3ec20b47ef84c6feb\"\npublished_at: 2022-12-07\ncontent: >\n  The first-ever federal auction of floating offshore wind power sites off the Pacific coast ended Wednesday with bids totaling $757 million. When fully developed, the sites could power 1.5 million hom… [+7032 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Morro Bay | Cost of electricity\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://s.yimg.com/ny/api/res/1.2/wAsOXmoC8Dq0dCHxeBDOqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODk-/https://media.zenfs.com/en/usa_today_news_641/416caaac27b7aff3ec20b47ef84c6feb)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "015cb8b38552ec197be965dc98a70537",
+  "result": {
+    "markdown": "---\nsource: \"Singularity Hub\"\nauthor: \"Vanessa Bates Ramirez\"\ntitle: >\n  This Floating ‘Pyramid’ Wind Turbine Will Produce More Energy at a Lower Cost, Company Says\ndescription: >\n  As the focus on a transition to renewable energy intensifies, wind farms are being touted as an optimal way to produce electricity. Wind energy is emissions-free (once the turbines are up and running), sustainable, and relatively efficient; turbines are incre…\nurl: \"https://singularityhub.com/2022/12/12/this-floating-pyramid-wind-turbine-will-produce-more-energy-at-a-lower-cost-company-says/\"\nimage: \"https://singularityhub.com/wp-content/uploads/2022/12/eolink-floating-offshore-wind-turbine.jpg\"\npublished_at: 2022-12-12\ncontent: >\n  As the focus on a transition to renewable energy intensifies, wind farms are being touted as an optimal way to produce electricity. Wind energy is emissions-free (once the turbines are up and running… [+3880 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Seascape\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://singularityhub.com/wp-content/uploads/2022/12/eolink-floating-offshore-wind-turbine.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

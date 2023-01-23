@@ -1,0 +1,14 @@
+{
+  "hash": "ad74000f679c5704b581b77bb994ea93",
+  "result": {
+    "markdown": "---\nsource: \"Wnd.com\"\nauthor: \"WND News Services\"\ntitle: >\n  One woke agenda now consuming vast expanses of American land\ndescription: >\n  By John Murawski Real Clear Wire Wedged in the southern flank of Virginia, Charlotte County is home to some 11,500 people who live amidst rolling hills and family farms, pastures and sawmills, a historic Civil War battlefield, and four townlets tinier than ma…\nurl: \"https://www.wnd.com/2022/12/one-woke-agenda-now-consuming-vast-expanses-american-land/\"\nimage: \"https://www.wnd.com/wp-content/uploads/2021/03/stars-night-sky-glowing-blue-colors-forest-clouds-mountains-outer-space-universe-heavens-earth-pixabay.jpg\"\npublished_at: 2022-12-11\ncontent: >\n  By John MurawskiReal Clear Wire  Wedged in the southern flank of Virginia, Charlotte County is home to some 11,500 people who live amidst rolling hills and family farms, pastures and sawmills, a hist… [+18439 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Viewshed\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://www.wnd.com/wp-content/uploads/2021/03/stars-night-sky-glowing-blue-colors-forest-clouds-mountains-outer-space-universe-heavens-earth-pixabay.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

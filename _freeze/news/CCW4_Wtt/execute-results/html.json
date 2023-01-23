@@ -1,0 +1,14 @@
+{
+  "hash": "e1adbeef96e429f3b04dbaa02ef1b745",
+  "result": {
+    "markdown": "---\nsource: \"Wattsupwiththat.com\"\nauthor: \"Guest Blogger\"\ntitle: >\n  Climate Change Weekly #454: Economic Realities Dash Biden’s Offshore Wind Plans\ndescription: >\n  President Joe Biden’s plans for a offshore industrial wind facilities lining the nation’s coasts have more than a few hurdles to clear before they can become reality.\nurl: \"https://wattsupwiththat.com/2022/12/02/climate-change-weekly-454-economic-realities-dash-bidens-offshore-wind-plans/\"\nimage: \"https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2022/12/image-5.webp?fit=600%2C300&ssl=1\"\npublished_at: 2022-12-03\ncontent: >\n  From Heartland Daily News  H. Sterling Burnett  YOU SHOULD SUBSCRIBE TO CLIMATE CHANGE WEEKLY.  IN THIS ISSUE:  <ul><li>Economic Realities Dash Bidens Offshore Wind Plans</li><li>Podcast of the Week:… [+15688 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Cost of electricity\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2022/12/image-5.webp?fit=600%2C300&ssl=1)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "85a5e54079806d81e48d08c41e81190b",
+  "result": {
+    "markdown": "---\nsource: \"Biztoc.com\"\nauthor: \"siliconvalley.com\"\ntitle: >\n  Five companies win California offshore wind energy leases\ndescription: >\n  By Ella Nilsen | CNN The Biden administration’s first-ever offshore wind energy lease sale for federal waters off the West Coast generated more than $750 million, as energy companies competed for five areas that could eventually be home to massive floating wi…\nurl: \"https://biztoc.com/x/6bb47ec848c0d23d\"\nimage: \"https://c.biztoc.com/p/6bb47ec848c0d23d/og.webp\"\npublished_at: 2022-12-08\ncontent: >\n  By Ella Nilsen | CNN  The Biden administrations first-ever offshore wind energy lease sale for federal waters off the West Coast generated more than $750 million, as energy companies competed for fiv… [+1023 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Humboldt | Morro Bay\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://c.biztoc.com/p/6bb47ec848c0d23d/og.webp)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

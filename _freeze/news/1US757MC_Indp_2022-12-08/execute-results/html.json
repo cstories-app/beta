@@ -1,0 +1,14 @@
+{
+  "hash": "f8ffad3a8bc36dcb9e894ac11cb888d8",
+  "result": {
+    "markdown": "---\nsource: \"Independent\"\nauthor: \"Gillian Flaccus\"\ntitle: >\n  1st US floating offshore wind auction nets \\$757M off Calif\ndescription: >\n  The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast raised $757 million in bids, from mostly European companies\nurl: \"https://www.independent.co.uk/news/ap-california-east-coast-joe-biden-pacific-ocean-b2241086.html\"\nimage: \"https://static.independent.co.uk/2022/12/08/00/Offshore_Wind_Auction_58877.jpg?quality=75&width=1200&auto=webp\"\npublished_at: 2022-12-08\ncontent: >\n  For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails  Sign up to our free breaking news emails  The first-ever U.S. auction of leases to develop com… [+3644 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Morro Bay\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://static.independent.co.uk/2022/12/08/00/Offshore_Wind_Auction_58877.jpg?quality=75&width=1200&auto=webp)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,3 @@
+# freeze computational output
+# https://quarto.org/docs/websites/website-blog.html#freezing-posts
+freeze: true

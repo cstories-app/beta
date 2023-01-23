@@ -1,0 +1,14 @@
+{
+  "hash": "70452db5937cf47348b20ae24b352db1",
+  "result": {
+    "markdown": "---\nsource: \"KQED\"\nauthor: \"Attila Pelit\"\ntitle: >\n  California Just Approved a Sweeping Climate Change Plan. Here Are 6 Ways That Could Affect You\ndescription: >\n  Here are six ways Californians will be affected by the state's new climate change blueprint.\nurl: \"https://www.kqed.org/news/11935585/california-just-approved-a-sweeping-climate-change-plan-here-are-6-ways-that-could-affect-you\"\nimage: \"https://ww2.kqed.org/app/uploads/sites/10/2022/12/GettyImages-812546100-1020x770.jpg\"\npublished_at: 2022-12-17\ncontent: >\n  The air board in September unveiled a proposal that would require new big rigs and other trucks to be zero emissions within the next 18 years. Under the proposed rule (PDF), manufacturers wouldn’t be… [+4664 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Humboldt | Morro Bay\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://ww2.kqed.org/app/uploads/sites/10/2022/12/GettyImages-812546100-1020x770.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

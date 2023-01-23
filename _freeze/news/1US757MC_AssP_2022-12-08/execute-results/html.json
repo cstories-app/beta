@@ -1,0 +1,14 @@
+{
+  "hash": "06453e29192332029bfd07fd82ebbf2b",
+  "result": {
+    "markdown": "---\nsource: \"Associated Press\"\nauthor: \"By GILLIAN FLACCUS - Associated Press\"\ntitle: >\n  1st US floating offshore wind auction nets \\$757M off Calif\ndescription: >\n  The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast raised $757 million in bids, from mostly European companies. The auction offered two adjoining lease areas in northern California and…\nurl: \"https://apnews.com/87f602496e34299f5429a3d8a67ae478\"\nimage: \"https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/c/a0/ca062b5f-a869-5205-8e4e-bb4f274a338e/638e7f62b7e00.image.jpg?crop=1921%2C1009%2C0%2C35&resize=1200%2C630&order=crop%2Cresize\"\npublished_at: 2022-12-08\ncontent: >\n  By GILLIAN FLACCUS - Associated Press  PORTLAND, Ore. (AP) The first-ever U.S. auction of leases to develop commercial-scale floating wind farms in the deep waters off the West Coast attracted $757 m… [+3737 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Morro Bay\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/c/a0/ca062b5f-a869-5205-8e4e-bb4f274a338e/638e7f62b7e00.image.jpg?crop=1921%2C1009%2C0%2C35&resize=1200%2C630&order=crop%2Cresize)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2f2a951fd41ba4002cda8456fb0ccb7a",
+  "result": {
+    "markdown": "---\nsource: \"EURACTIV\"\nauthor: \"Paul Messad\"\ntitle: >\n  France, Ireland confirm Celtic Interconnector will be up-and-running in 2027\ndescription: >\n  France and Ireland reached a further key step in setting up the Celtic Interconnector, an underwater electricity cable linking the Irish grid to the continent by 2027, Ireland's Environment Minister Eamon Ryan announced in Paris last week.\nurl: \"https://www.euractiv.com/section/electricity/news/france-ireland-confirm-celtic-interconnector-will-be-up-and-running-in-2027/\"\nimage: \"https://www.euractiv.com/wp-content/uploads/sites/2/2022/11/IMG_9370-800x450.jpg\"\npublished_at: 2022-11-28\ncontent: >\n  France and Ireland reached a further key step in setting up the Celtic Interconnector, an underwater electricity cable linking the Irish grid to the continent by 2027, Ireland’s Environment Minister … [+4681 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Cost of electricity\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://www.euractiv.com/wp-content/uploads/sites/2/2022/11/IMG_9370-800x450.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

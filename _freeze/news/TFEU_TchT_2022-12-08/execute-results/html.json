@@ -1,0 +1,14 @@
+{
+  "hash": "d9fb413536153beadb2e1e9fac5903bd",
+  "result": {
+    "markdown": "---\nsource: \"Tech Times\"\nauthor: \"Jace Dela Cruz\"\ntitle: >\n  The First-Ever US Auction of Floating Offshore Wind Farms Attracts \\$757 Million in Winning Bids\ndescription: >\n  The total area of the leases in the Pacific Ocean is 583 square miles (1,510 square kilometers).\nurl: \"https://www.techtimes.com/articles/284597/20221208/first-ever-us-auction-floating-offshore-wind-farm-attracts-757-million-winning-bids.htm\"\nimage: \"https://1734811051.rsc.cdn77.org/data/images/full/416653/floating-windfarm-inaugurated-off-the-coast-of-aberdeen.jpg\"\npublished_at: 2022-12-08\ncontent: >\n  The winning bids for the first-ever US lease auction to build industrial-scale floating wind farms off the West Coast totaled $757 million on Wednesday, coming from largely European businesses, accor… [+2745 chars]\nsearch_timestamp: 2022-12-28\nterms: \"Morro Bay\"\n---\n\n\n\nPublished: {{< meta published_at >}}\n\n\nSource: {{< meta source >}}\n\n\n[Read full article]({{< meta url >}}){target='_blank'}\n\n\n\n![](https://1734811051.rsc.cdn77.org/data/images/full/416653/floating-windfarm-inaugurated-off-the-coast-of-aberdeen.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
