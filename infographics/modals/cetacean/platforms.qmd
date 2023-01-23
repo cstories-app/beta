@@ -10,7 +10,8 @@ A floating offshore wind platform is a concrete, steel, or hybrid-material struc
 :::::
 ::::: {.g-col-12}
 ::::::: {#platform-types}
-![](../../../images/infographic/platform-types.jpg)
+![](../../../images/infographic/Types-of-floating-wind-foundations.jpg)
+Not to scale. Source: [Windpower Engineering & Development](https://www.windpowerengineering.com/){target="_blank"}
 :::::::
 :::::
 :::
