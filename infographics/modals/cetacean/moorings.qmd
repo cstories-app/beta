@@ -12,7 +12,7 @@ pagetitle: "Moorings"
 ::::::: {#mooring-info}
 Moorings are the below-water components of the floating offshore wind platform that connect the platform to its anchoring points on the seabed. Moorings can be made of polyester, polypropylene, or other synthetic material, and/or steel cables and chain. There are several different mooring designs that can be used for floating offshore wind, depending on water depth, type of platform, and environmental conditions. Most likely, moorings for California offshore wind will be taut to restrict the movement of the platform, the affected seabed area, and the amount of extra material in the water. 
 
-The less material in the water, the less chance of entanglement with wildlife like whales and dolphins. The risk of marine life becoming directly entanglement with a floating offshore wind mooring system (“primary entanglement”) is low. However, marine debris, such as lost, derelict fishing gear, may become caught in floating offshore wind mooring lines, which could potentially pose a risk to entanglement of marine life. This is termed “secondary entanglement”. More research is needed to fully evaluate risks of secondary entanglement to marine life.
+The less material in the water, the less chance of entanglement with wildlife like baleen whales. The risk of marine life becoming directly entanglement with a floating offshore wind mooring system (“primary entanglement”) is low. However, marine debris, such as lost fishing gear, may become caught in floating offshore wind mooring lines, which could potentially pose a risk to entanglement of marine life. This is termed “secondary entanglement”. More research is needed to fully evaluate risks of secondary entanglement to marine life.
 :::::::
 :::::
 :::

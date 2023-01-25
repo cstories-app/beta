@@ -13,6 +13,7 @@ update_newsapi_data <- function(
     news_api_key        = Sys.getenv("NEWSAPI_KEY"),
     req                 = request("https://newsapi.org/v2/everything?"),
     sortBy              = "publishedAt") {
+
   # sortBy is the order to sort the articles in. Possible options:
   # - relevancy: articles more closely related to q come first.
   # - popularity: articles from popular sources and publishers come first.

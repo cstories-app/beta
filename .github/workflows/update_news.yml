@@ -4,7 +4,7 @@ on:
   schedule:
     - cron:  '0 0 * * *'  # run daily at midnight
   workflow_dispatch:
-  
+
 name: Update News
 
 jobs:
@@ -13,60 +13,47 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
-        
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-        #with:
-          # To install LaTeX to build PDF book 
-          # tinytex: true 
-          # uncomment below and fill to pin a version
-          # version: 0.9.600
-      
-      # dependencies
-      
-      - uses: r-lib/actions/setup-pandoc@v2
 
-      - uses: r-lib/actions/setup-r@v2
-      
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Setup Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
+
       - name: Install system dependencies for R packages
         run: |
           sudo apt-get install libcurl4-openssl-dev             # curl
           sudo apt-get install libharfbuzz-dev  libfribidi-dev  # textshaping
           sudo apt-get install gdal-bin libgdal-dev proj-bin    # terra -> leaflet
 
-      #- name: Install R packages with renv
-      #  uses: r-lib/actions/setup-renv@v2
-      
-      - name: Cache packages
-        uses: actions/cache@v1
-        env:
-          RENV_PATHS_ROOT: ~/.local/share/renv
-        with:
-          path: ${{ env.RENV_PATHS_ROOT }}
-          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-renv-
+      - name: Install R packages with renv
+        uses: r-lib/actions/setup-renv@v2
 
-      - name: Restore packages
-        shell: Rscript {0}
-        run: |
-          if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
-          renv::restore()
-      
       - name: Update news via NewsAPI
         run: source("_scripts/news_generation/news_apis.R")
         env:
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         shell: Rscript {0}
-        
+
       - name: Update news via RSS feeds
         run: source("_scripts/news_generation/news_rss.R")
         shell: Rscript {0}
 
-      - name: Publish to GitHub Pages (and render)
-        uses: quarto-dev/quarto-actions/publish@v2
+      # https://quarto.org/docs/publishing/github-pages.html
+      # https://github.com/quarto-dev/quarto-actions
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
         with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
-      
+          to: html # If set, it will be equivalent to `quarto render --to html`
+          path: . # By default, the current working dir is used i.e `quarto render .`
+
+      # https://github.com/r-lib/actions/tree/v2/examples#build-bookdown-site
+      - name: Deploy to GitHub pages 🚀
+        if: github.event_name != 'pull_request'
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
+        with:
+          branch: main
+          folder: .
