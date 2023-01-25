@@ -6,7 +6,6 @@ project:
     - "/infographics/lib/*"
     - "/infographics/svg/*"
     - "/chat/*"
-    - "/news/*"
 
 website:
   title: "CStories.app/Beta"
