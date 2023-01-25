@@ -4,7 +4,7 @@
 
 # Setup -------------------------------------------------------------------
 librarian::shelf(
-  IntegralEnvision/integral, fs, httr2, janitor, lubridate, rrapply, tidyverse, cli)
+  IntegralEnvision/integral, fs, httr2, janitor, lubridate, rrapply, tidyverse, cli, textclean)
 
 # Functions ---------------------------------------------------------------
 
