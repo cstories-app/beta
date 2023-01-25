@@ -2,30 +2,26 @@
 # Jonathan Zadra
 # 12/2/22
 
-# Setup -------------------------------------------------------------------
+# setup ----
 librarian::shelf(
   IntegralEnvision/integral, fs, httr2, janitor, lubridate, rrapply, tidyverse, cli)
 
-# Functions ---------------------------------------------------------------
-
-update_newsapi_data <- function(terms,
-                                existing_news_table = "_scripts/news_generation/data/news_table.rds",
-                                news_api_key = Sys.getenv("NEWSAPI_KEY"),
-                                req = request("https://newsapi.org/v2/everything?"),
-                                sortBy = "publishedAt") {
-
-  #sortBy is The order to sort the articles in. Possible options: relevancy, popularity, publishedAt.
-                                #relevancy = articles more closely related to q come first.
-                                #popularity = articles from popular sources and publishers come first.
-                                #publishedAt = newest articles come first (DEFAULT)) {
+# functions ----
+update_newsapi_data <- function(
+    terms,
+    existing_news_table = "_scripts/news_generation/data/news_table.rds",
+    news_api_key        = Sys.getenv("NEWSAPI_KEY"),
+    req                 = request("https://newsapi.org/v2/everything?"),
+    sortBy              = "publishedAt") {
+  # sortBy is the order to sort the articles in. Possible options:
+  # - relevancy: articles more closely related to q come first.
+  # - popularity: articles from popular sources and publishers come first.
+  # - publishedAt: newest articles come first (DEFAULT))
 
   search_timestamp <-  as.character(now())
 
   raw_news <- terms %>%
     map(function(search_terms) {
-
-
-
       cli_alert_info("Searching {search_terms}...")
 
       resp <- req %>%
@@ -145,11 +141,16 @@ new_qmd_items <- update_newsapi_data(terms)
 
 create_newsapi_qmds(new_qmd_items)
 
-#For redoing everything
-read_rds("_scripts/news_generation/data/news_table.rds") %>%
-mutate(title = str_squish(title) %>%
-    str_replace(fixed("$"), "\\$")) %>%
-  distinct(title, .keep_all = T) %>%
-  create_newsapi_qmds()
+# one time fixes for `$` and duplicates
+if (F){
+  news_rds <- "_scripts/news_generation/data/news_table.rds"
+
+  read_rds(news_rds) |>
+    mutate(
+      title = str_squish(title) %>%
+        str_replace(fixed("$"), "\\$")) |>
+    filter(!duplicated(title)) |>
+    write_rds(news_rds)
+}
 
 
