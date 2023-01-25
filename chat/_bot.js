@@ -1,12 +1,29 @@
 $(function() {
   var INDEX = 0;
+
+  function get_answer(question){
+    let url = 'https://api.cstories.app/answer?question=' + encodeURIComponent(question);
+    // debug via local API:
+    //   let url = 'http://127.0.0.1:8000/answer?question=' + encodeURIComponent(question);
+    // [fetch the API response](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+    fetch(url)
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error(`HTTP error: ${response.status}`);
+      }
+      return response.text();
+    })
+    .then((text) => generate_message(text, 'user')  )
+    .catch((error) => generate_message(`Could not fetch answer: ${error}`, 'user') );
+  }
+
   $("#chat-submit").click(function(e) {
     e.preventDefault();
-    var msg = $("#chat-input").val();
-    if(msg.trim() == ''){
+    var question = $("#chat-input").val();
+    if(question.trim() == ''){
       return false;
     }
-    generate_message(msg, 'self');
+    generate_message(question, 'self');
     var buttons = [
         {
           name: 'Existing User',
@@ -18,7 +35,7 @@ $(function() {
         }
       ];
     setTimeout(function() {
-      generate_message(msg, 'user');
+      answer = get_answer(question);
     }, 1000)
 
   })
