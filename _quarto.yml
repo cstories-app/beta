@@ -10,6 +10,7 @@ project:
 website:
   title: "CStories.app/Beta"
   google-analytics: "G-9Z3CG75J46"
+  favicon: "favicon.png"
   navbar:
     left:
       - infographics.qmd

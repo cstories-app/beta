@@ -11,7 +11,7 @@ published_at: 2023-01-23
 content: >
   Offshore-Windpark in den USALange hatten die USA beim Thema Windkraft auf hoher See geschlafen, während die Europäer die Windparks vor ihren Küsten stark voranrieben.  (Foto: AP)   New York, Brüssel … [+1228 chars]
 terms: "Humboldt"
-search_timestamp: 2023-01-26 01:00:13
+search_timestamp: 2023-01-26 00:25:01
 ---
 
 
