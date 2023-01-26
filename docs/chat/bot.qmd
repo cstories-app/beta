@@ -2,9 +2,9 @@
 title: "Marine Energy Answer Bot"
 format:
   html:
-    include-after-body: _bot.html
+    include-after-body: "./_bot.html"
     css:
-    - "_bot.css"
+    - "./_bot.css"
     - "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/4.0.2/bootstrap-material-design.css"
     - "https://fonts.googleapis.com/icon?family=Material+Icons"
 ---
