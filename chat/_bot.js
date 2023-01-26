@@ -2,9 +2,9 @@ $(function() {
   var INDEX = 0;
 
   function get_answer(question){
-    // let url = 'https://api.cstories.app/answer?question=' + encodeURIComponent(question);
+    let url = 'https://api.cstories.app/answer?question=' + encodeURIComponent(question);
     // debug via local API:
-    let url = 'http://127.0.0.1:8000/answer?question=' + encodeURIComponent(question);
+    // let url = 'http://127.0.0.1:8000/answer?question=' + encodeURIComponent(question);
     // [fetch the API response](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
     fetch(url)
     .then((response) => {
