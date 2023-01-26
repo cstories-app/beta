@@ -9,19 +9,21 @@ listing:
   - id: list-news
     contents:
     - "news/*.qmd"
-    type: table
+    type: grid
     sort-ui: false
     filter-ui: false
     field-types:
       published_at: date
-    fields: [title, published_at, source, image]
+    fields: [title, description, published_at, source, image]
     field-display-names:
       published_at: "Published"
     sort: 
       - "published_at desc"
       - "title"
     max-items: 3
+    table-striped: true
     # categories: true
+css: index.css
 ---
 
 ***Empowering Communities with Easy-to-Use Digital Tools to Participate in Marine Renewable Energy Planning & Development***
@@ -48,9 +50,29 @@ Interactive infographics allow for easy navigation of core concepts and informat
 
 ## News
 
-Recent news about offshore wind. ([View all news](news.qmd))
+Here are the three most recent news items about offshore wind. [View all news](news.qmd)
 
 ::: {#list-news}
+:::
+
+## Features
+
+Here are the core features of this Beta digital tool for empowering communities to participate in marine renewable energy planning & development.
+
+::: {.grid}
+
+#### {{< fa image >}} Infographics {.g-col-12 .g-col-med-6 .g-col-lg-3}
+Explore interactive infographics. Click on elements in a whole system to find out more about each and see how they are related.
+
+#### {{< fa newspaper >}} News {.g-col-12 .g-col-med-6 .g-col-lg-3}
+News sources across the internet and specific to wind energy areas in California get scraped to find the latest news in offshore wind.
+
+#### {{< fa robot >}} Ask AI {.g-col-12 .g-col-med-6 .g-col-lg-3}
+Using an AI chat bot, we connect you to the latest, best available Artificial Intelligence to get immediate answers. We log the questions and answers, so we can then perform an expert review and provide human-verified answers to your burning questions on marine renewable energy.
+
+#### {{< fa comment >}} Comments {.g-col-12 .g-col-med-6 .g-col-lg-3}
+Use the comment system available in the upper right corner to then highlight and comment (aka "annotate") on any text from infographics to news items.
+
 :::
 
 ## Contact

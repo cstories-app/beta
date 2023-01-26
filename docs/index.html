@@ -103,10 +103,10 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-published_at','listing-source','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
-      page: 30,
+      valueNames: ['listing-title','listing-description','listing-published_at','listing-source','listing-image',{ data: ['index'] },{ data: ['categories'] }],
+      page: 18,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -141,6 +141,7 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
 
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<link rel="stylesheet" href="index.css">
 </head>
 
 <body class="nav-fixed">
@@ -193,6 +194,7 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
   <ul>
   <li><a href="#infographics" id="toc-infographics" class="nav-link active" data-scroll-target="#infographics">Infographics</a></li>
   <li><a href="#news" id="toc-news" class="nav-link" data-scroll-target="#news">News</a></li>
+  <li><a href="#features" id="toc-features" class="nav-link" data-scroll-target="#features">Features</a></li>
   <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
   </ul>
 </nav>
@@ -227,28 +229,6 @@ to ask it any question about marine energy</li>
 <div id="listing-list-infographics" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-listing-file-modified-sort="1674221282577" data-listing-reading-time-sort="0.51">
-<a href="./infographics/cetaceans.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./images/infographic/cetacean-interactions.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Cetacean Interactions
-</h5>
-<div class="card-text listing-description">
-How do whales and dolphins interact with the cables?
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1674221282577" data-listing-reading-time-sort="0.51">
 <a href="./infographics/info1.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -270,7 +250,7 @@ initial infographic of community, whales and turbines
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1674221282583" data-listing-reading-time-sort="1.365">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1674221282583" data-listing-reading-time-sort="1.365">
 <a href="./infographics/viewshed.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -292,6 +272,28 @@ How will wind turbines affect your view?
 </div>
 </a>
 </div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1674747768589" data-listing-reading-time-sort="0.51">
+<a href="./infographics/whales.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/infographic/cetacean-interactions.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Whale Interactions
+</h5>
+<div class="card-text listing-description">
+How do baleen whales interact with the cables?
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
@@ -300,77 +302,149 @@ No matching items
 </section>
 <section id="news" class="level2">
 <h2 class="anchored" data-anchor-id="news">News</h2>
-<p>Recent news about offshore wind. (<a href="./news.html">View all news</a>)</p>
-<div id="listing-list-news" class="quarto-listing quarto-listing-container-table">
+<p>Here are the three most recent news items about offshore wind. <a href="./news.html">View all news</a></p>
+<div id="listing-list-news" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-published_at-sort="2023-01-26">
+<a href="./news/REMI_BoOEM.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./news/rss_img.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+REMINDER: Virtual Public Meetings on Draft Environmental Analysis for Proposed Coastal Virginia Offshore Wind Project
+</h5>
+<div class="card-text listing-description">
+Please join us for upcoming virtual public meetings on the draft Environmental Impact Statement (EIS) for the proposed Coastal Virginia Offshore Wind (CVOW) project…
+</div>
 
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Title
-</th>
-<th>
+<table class="card-other-values">
+<tbody><tr>
+<td>
 Published
-</th>
-<th>
-source
-</th>
-<th>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-published_at-sort="2023-01-26" data-listing-title-sort="REMINDER: Virtual Public Meetings on Draft Environmental Analysis for Proposed Coastal Virginia Offshore Wind Project" data-listing-filename-sort="REMI_BoOEM.qmd">
-<td class="listing-title">
-<a href="./news/REMI_BoOEM.html" class="title">REMINDER: Virtual Public Meetings on Draft Environmental Analysis for Proposed Coastal Virginia Offshore Wind Project</a>
 </td>
-<td class="listing-published_at">
+<td class="published_at">
 Jan 26, 2023
 </td>
-<td class="listing-source">
+</tr>
+<tr>
+<td>
+source
+</td>
+<td class="source">
 Bureau of Ocean Energy Management
 </td>
-<td class="listing-image">
-<img src="./news/rss_img.png" style="height: 40px;">
-</td>
 </tr>
-<tr data-index="1" data-listing-published_at-sort="2023-01-25" data-listing-title-sort="EU Struggles To Match Renewable Energy Incentives In Inflation Reduction Act" data-listing-filename-sort="EUST_ClnT_2023-01-25.qmd">
-<td class="listing-title">
-<a href="./news/EUST_ClnT_2023-01-25.html" class="title">EU Struggles To Match Renewable Energy Incentives In Inflation Reduction Act</a>
+
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-published_at-sort="2023-01-25">
+<a href="./news/EUST_ClnT_2023-01-25.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://cleantechnica.com/files/2022/08/CT-image-wind-farm.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+EU Struggles To Match Renewable Energy Incentives In Inflation Reduction Act
+</h5>
+<div class="card-text listing-description">
+<p>The US Inflation Reduction Act contains powerful incentives for renewable energy. Europe worries they are too powerful.</p>
+</div>
+
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Published
 </td>
-<td class="listing-published_at">
+<td class="published_at">
 Jan 25, 2023
 </td>
-<td class="listing-source">
+</tr>
+<tr>
+<td>
+source
+</td>
+<td class="source">
 CleanTechnica
 </td>
-<td class="listing-image">
-<img src="https://cleantechnica.com/files/2022/08/CT-image-wind-farm.jpg" style="height: 40px;">
-</td>
 </tr>
-<tr data-index="2" data-listing-published_at-sort="2023-01-24" data-listing-title-sort="Pursuing decarbonization along with national security: Assessing public support for the Thacker Pass lithium mine" data-listing-filename-sort="PATP_Pls.qmd">
-<td class="listing-title">
-<a href="./news/PATP_Pls.html" class="title">Pursuing decarbonization along with national security: Assessing public support for the Thacker Pass lithium mine</a>
+
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-published_at-sort="2023-01-24">
+<a href="./news/PATP_Pls.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0280720.g004&amp;size=inline" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Pursuing decarbonization along with national security: Assessing public support for the Thacker Pass lithium mine
+</h5>
+<div class="card-text listing-description">
+Decarbonization policies are being stymied by political conflict. Local communities might oppose decarbonization infrastructure such as solar farms, mines, or transmission…
+</div>
+
+<table class="card-other-values">
+<tbody><tr>
+<td>
+Published
 </td>
-<td class="listing-published_at">
+<td class="published_at">
 Jan 24, 2023
 </td>
-<td class="listing-source">
+</tr>
+<tr>
+<td>
+source
+</td>
+<td class="source">
 Plos.org
 </td>
-<td class="listing-image">
-<img src="https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0280720.g004&amp;size=inline" style="height: 40px;">
-</td>
 </tr>
-</tbody>
 
-</table>
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
 <nav id="list-news-pagination" class="listing-pagination" aria-label="Page Navigation">
   <ul class="pagination"></ul>
 </nav>
+</div>
+</section>
+<section id="features" class="level2">
+<h2 class="anchored" data-anchor-id="features">Features</h2>
+<p>Here are the core features of this Beta digital tool for empowering communities to participate in marine renewable energy planning &amp; development.</p>
+<div class="grid">
+<section id="fa-image-infographics" class="level4 g-col-12 g-col-med-6 g-col-lg-3">
+<h4 class="g-col-12 g-col-med-6 g-col-lg-3 anchored" data-anchor-id="fa-image-infographics"><i class="fa-solid fa-image" aria-label="image"></i> Infographics</h4>
+<p>Explore interactive infographics. Click on elements in a whole system to find out more about each and see how they are related.</p>
+</section>
+<section id="fa-newspaper-news" class="level4 g-col-12 g-col-med-6 g-col-lg-3">
+<h4 class="g-col-12 g-col-med-6 g-col-lg-3 anchored" data-anchor-id="fa-newspaper-news"><i class="fa-solid fa-newspaper" aria-label="newspaper"></i> News</h4>
+<p>News sources across the internet and specific to wind energy areas in California get scraped to find the latest news in offshore wind.</p>
+</section>
+<section id="fa-robot-ask-ai" class="level4 g-col-12 g-col-med-6 g-col-lg-3">
+<h4 class="g-col-12 g-col-med-6 g-col-lg-3 anchored" data-anchor-id="fa-robot-ask-ai"><i class="fa-solid fa-robot" aria-label="robot"></i> Ask AI</h4>
+<p>Using an AI chat bot, we connect you to the latest, best available Artificial Intelligence to get immediate answers. We log the questions and answers, so we can then perform an expert review and provide human-verified answers to your burning questions on marine renewable energy.</p>
+</section>
+<section id="fa-comment-comments" class="level4 g-col-12 g-col-med-6 g-col-lg-3">
+<h4 class="g-col-12 g-col-med-6 g-col-lg-3 anchored" data-anchor-id="fa-comment-comments"><i class="fa-solid fa-comment" aria-label="comment"></i> Comments</h4>
+<p>Use the comment system available in the upper right corner to then highlight and comment (aka “annotate”) on any text from infographics to news items.</p>
+</section>
 </div>
 </section>
 <section id="contact" class="level2">

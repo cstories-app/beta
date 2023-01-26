@@ -24,8 +24,9 @@ website:
 format:
   html:
     theme:
-      light: [flatly, flatly.scss]
-      dark: [darkly, darkly.scss]
+      # https://quarto.org/docs/output-formats/html-themes.html#dark-mode
+      light: cerulean # cosmo # [flatly, lib/flatly.scss]
+      dark: superhero # [cosmo, lib/theme-dark.scss] # [darkly, lib/darkly.scss]
     toc: true
     comments:
       hypothesis:

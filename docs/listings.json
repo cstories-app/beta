@@ -116,9 +116,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/infographics/cetaceans.html",
       "/infographics/info1.html",
       "/infographics/viewshed.html",
+      "/infographics/whales.html",
       "/news/REMI_BoOEM.html",
       "/news/EUST_ClnT_2023-01-25.html",
       "/news/PATP_Pls.html",
@@ -233,9 +233,9 @@
   {
     "listing": "/infographics.html",
     "items": [
-      "/infographics/cetaceans.html",
       "/infographics/info1.html",
-      "/infographics/viewshed.html"
+      "/infographics/viewshed.html",
+      "/infographics/whales.html"
     ]
   }
 ]

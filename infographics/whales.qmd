@@ -1,7 +1,7 @@
 ---
-title: "Cetacean Interactions"
+title: "Whale Interactions"
 image: "../images/infographic/cetacean-interactions.png"
-description: "How do whales and dolphins interact with the cables?"
+description: "How do baleen whales interact with the cables?"
 format:
   html:
     include-in-header: lib/_info_header.html
