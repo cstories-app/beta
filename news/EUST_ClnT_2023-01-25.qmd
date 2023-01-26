@@ -11,7 +11,7 @@ published_at: 2023-01-25
 content: >
   The European Union  is in a bind. Because of the Russian invasion of Ukraine, supplies of methane gas have been slashed, driving up the cost of electricity needed to keep its industries churning out … [+7121 chars]
 terms: "Cost of electricity"
-search_timestamp: 2023-01-26 00:25:01
+search_timestamp: 2023-01-26 01:00:13
 ---
 
 

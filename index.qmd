@@ -31,11 +31,6 @@ listing:
 
 This website [cstories.app/**beta**](https://cstories.app/beta) is where we're organizing product features (e.g. news, infographics, chat bot) into a dedicated website, whereas the parent website
 [cstories.app](https://cstories.app){target="_blank"} is for organizing community feedback.
-
-Try out our new:
-
-- [{{< fa robot >}} AI Chat Bot {{< fa robot >}}](./chat/bot.html)\
-  to ask it any question about marine energy
 :::
 
 
