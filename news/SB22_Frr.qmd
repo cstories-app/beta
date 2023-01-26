@@ -1,0 +1,28 @@
+---
+source: "Freerepublic.com"
+author: "The Hill"
+title: >
+  Supply chain to support Biden’s offshore wind goals will cost at least \$22.4B: report
+description: >
+  Fulfilling President Biden’s goal of deploying 30 gigawatts of offshore wind by 2030 would require the rapid scale-up of a domestic supply chain and at least $22.4 billion in infrastructure investments, a new report has found. The success of such a build-out …
+url: "https://freerepublic.com/focus/f-news/4125463/posts"
+image: "NA"
+published_at: 2023-01-23
+content: >
+  Skip to comments.  Supply chain to support Bidens offshore wind goals will cost at least $22.4B: reportThe Hill ^   | 01-23-2023   | SHARON UDASIN   Posted on 01/23/2023 11:55:27 AM PST by ChicagoCon… [+4111 chars]
+terms: "Humboldt"
+search_timestamp: 2023-01-26 00:25:01
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

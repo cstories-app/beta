@@ -1,0 +1,28 @@
+---
+source: "Handelsblatt"
+author: "Katharina Kort, Moritz Koch"
+title: >
+  Windkraft: Offshore-Boom in den USA – Riesenchance für deutsche Unternehmen
+description: >
+  Lange haben die USA Offshore-Wind vernachlässigt. Doch jetzt sind riesige Windparks geplant. Davon profitieren deutsche Unternehmen, auch wenn es Hürden gibt.
+url: "https://www.handelsblatt.com/unternehmen/energie/windkraft-offshore-boom-in-den-usa-riesenchance-fuer-deutsche-unternehmen/28928622.html"
+image: "https://www.handelsblatt.com/images/offshore-windpark-in-den-usa/28933146/3-format2003.jpg"
+published_at: 2023-01-23
+content: >
+  Offshore-Windpark in den USALange hatten die USA beim Thema Windkraft auf hoher See geschlafen, während die Europäer die Windparks vor ihren Küsten stark voranrieben.  (Foto: AP)   New York, Brüssel … [+1228 chars]
+terms: "Humboldt"
+search_timestamp: 2023-01-26 00:25:01
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

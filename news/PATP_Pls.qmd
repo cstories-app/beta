@@ -1,0 +1,28 @@
+---
+source: "Plos.org"
+author: "Azusa Uji, Jaehyun Song, Nives Dolšak, Aseem Prakash"
+title: >
+  Pursuing decarbonization along with national security: Assessing public support for the Thacker Pass lithium mine
+description: >
+  Decarbonization policies are being stymied by political conflict. Local communities might oppose decarbonization infrastructure such as solar farms, mines, or transmission lines if they view these projects as imposing high costs on them in relation to their b…
+url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280720"
+image: "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0280720.g004&size=inline"
+published_at: 2023-01-24
+content: >
+  Abstract  Decarbonization policies are being stymied by political conflict. Local communities might oppose decarbonization infrastructure such as solar farms, mines, or transmission lines if they vie… [+56455 chars]
+terms: "Humboldt"
+search_timestamp: 2023-01-26 00:25:01
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
