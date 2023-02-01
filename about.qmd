@@ -8,7 +8,7 @@ The goal of this project is to design a community-driven story building tool to 
 
 ## Overview
 
-The marine environment is a vast resource that has great potential for meeting the world's growing en- ergy demand. Increasing the abundance of marine renewable energy (MRE) projects would expand a clean and renewable energy portfolio that supports job creation, economic prosperity, and energy se- curity, reduces greenhouse gases, and contributes to climate change mitigation. However, as is the case with any development process, MRE projects require informed and collaborative project planning to overcome significant sociocultural, ecological and environmental, and economic barriers that may limit responsible and accelerated deployment. This challenge is exacerbated by competing values held by a diverse set of communities.
+The marine environment is a vast resource that has great potential for meeting the world's growing energy demand. Increasing the abundance of marine renewable energy (MRE) projects would expand a clean and renewable energy portfolio that supports job creation, economic prosperity, and energy security, reduces greenhouse gases, and contributes to climate change mitigation. However, as is the case with any development process, MRE projects require informed and collaborative project planning to overcome significant sociocultural, ecological and environmental, and economic barriers that may limit responsible and accelerated deployment. This challenge is exacerbated by competing values held by a diverse set of communities.
 
 ## Objectives
 
@@ -20,9 +20,9 @@ The marine environment is a vast resource that has great potential for meeting t
 
 ## Impact
 
-Ocean multi-use and blue justice concerns are ex- panding; therefore, conflicts over marine resources and spatial competition between marine industries and the general public are projected to increase. Collaborative planning is critical to any offshore de- velopment, as well as for upgrades to existing infra- structure and construction of new infrastructure to support expanding and emerging marine activities.
+Ocean multi-use and blue justice concerns are expanding; therefore, conflicts over marine resources and spatial competition between marine industries and the general public are projected to increase. Collaborative planning is critical to any offshore development, as well as for upgrades to existing infrastructure and construction of new infrastructure to support expanding and emerging marine activities.
 
-This community-driven story building tool will con- tribute to effective and equitable offshore develop- ment planning processes for a number of maritime sectors, and will benefit sociocultural, ecological and environmental, regulatory, and technological challenges, all of which will contribute to economic benefits to communities while respecting environmental justice issues.
+This community-driven story building tool will contribute to effective and equitable offshore development planning processes for a number of maritime sectors, and will benefit sociocultural, ecological and environmental, regulatory, and technological challenges, all of which will contribute to economic benefits to communities while respecting environmental justice issues.
 
 ## Funding
 
@@ -30,4 +30,21 @@ Department of Energy (DOE) Small Business Innovation Research (SBIR): [Thirteen 
 
 ## Team
 
-## ![](images/team.png)
+::: {.grid}
+
+##### [EcoQuants](https://ecoquants.com/)  {.g-col-12 .g-col-med-6 .g-col-lg-4}
+[![](images/logo_ecoquants.jpg)](https://ecoquants.com/)
+
+##### [H. T. Harvey & Associates](https://www.harveyecology.com/)  {.g-col-12 .g-col-med-6 .g-col-lg-4}
+[![](images/logo_htharvey.jpg)](https://www.harveyecology.com/)
+
+##### [Integral Consulting](https://www.integral-corp.com/)  {.g-col-12 .g-col-med-6 .g-col-lg-4}
+[![](images/logo_integral.jpg)](https://www.integral-corp.com/)
+
+##### [Redwood Community Action Agency](https://rcaa.org/)  {.g-col-12 .g-col-med-6 .g-col-lg-4}
+[![](images/logo_rcaa.jpg)](https://rcaa.org/)
+
+##### [Santa Barbara Maritime Museum](https://sbmm.org/)  {.g-col-12 .g-col-med-6 .g-col-lg-4}
+[![](images/logo_sbmm.jpg)](https://sbmm.org/)
+
+:::

@@ -137,7 +137,7 @@
     "href": "about.html#overview",
     "title": "About",
     "section": "Overview",
-    "text": "Overview\nThe marine environment is a vast resource that has great potential for meeting the world’s growing en- ergy demand. Increasing the abundance of marine renewable energy (MRE) projects would expand a clean and renewable energy portfolio that supports job creation, economic prosperity, and energy se- curity, reduces greenhouse gases, and contributes to climate change mitigation. However, as is the case with any development process, MRE projects require informed and collaborative project planning to overcome significant sociocultural, ecological and environmental, and economic barriers that may limit responsible and accelerated deployment. This challenge is exacerbated by competing values held by a diverse set of communities."
+    "text": "Overview\nThe marine environment is a vast resource that has great potential for meeting the world’s growing energy demand. Increasing the abundance of marine renewable energy (MRE) projects would expand a clean and renewable energy portfolio that supports job creation, economic prosperity, and energy security, reduces greenhouse gases, and contributes to climate change mitigation. However, as is the case with any development process, MRE projects require informed and collaborative project planning to overcome significant sociocultural, ecological and environmental, and economic barriers that may limit responsible and accelerated deployment. This challenge is exacerbated by competing values held by a diverse set of communities."
   },
   {
     "objectID": "about.html#objectives",
@@ -151,7 +151,7 @@
     "href": "about.html#impact",
     "title": "About",
     "section": "Impact",
-    "text": "Impact\nOcean multi-use and blue justice concerns are ex- panding; therefore, conflicts over marine resources and spatial competition between marine industries and the general public are projected to increase. Collaborative planning is critical to any offshore de- velopment, as well as for upgrades to existing infra- structure and construction of new infrastructure to support expanding and emerging marine activities.\nThis community-driven story building tool will con- tribute to effective and equitable offshore develop- ment planning processes for a number of maritime sectors, and will benefit sociocultural, ecological and environmental, regulatory, and technological challenges, all of which will contribute to economic benefits to communities while respecting environmental justice issues."
+    "text": "Impact\nOcean multi-use and blue justice concerns are expanding; therefore, conflicts over marine resources and spatial competition between marine industries and the general public are projected to increase. Collaborative planning is critical to any offshore development, as well as for upgrades to existing infrastructure and construction of new infrastructure to support expanding and emerging marine activities.\nThis community-driven story building tool will contribute to effective and equitable offshore development planning processes for a number of maritime sectors, and will benefit sociocultural, ecological and environmental, regulatory, and technological challenges, all of which will contribute to economic benefits to communities while respecting environmental justice issues."
   },
   {
     "objectID": "about.html#funding",
@@ -165,7 +165,7 @@
     "href": "about.html#team",
     "title": "About",
     "section": "Team",
-    "text": "Team"
+    "text": "Team\n\n\nEcoQuants\n\n\n\n\n\n\n\nH. T. Harvey & Associates\n\n\n\n\n\n\n\nIntegral Consulting\n\n\n\n\n\n\n\nRedwood Community Action Agency\n\n\n\n\n\n\n\nSanta Barbara Maritime Museum"
   },
   {
     "objectID": "news/FUSL_Jnc.html",
@@ -957,5 +957,40 @@
     "title": "REMINDER: Virtual Public Meetings on Draft Environmental Analysis for Proposed Coastal Virginia Offshore Wind Project",
     "section": "",
     "text": "Published: 2023-01-27\nSource: Bureau of Ocean Energy Management\nRead full article"
+  },
+  {
+    "objectID": "about.html#ecoquants",
+    "href": "about.html#ecoquants",
+    "title": "About",
+    "section": "EcoQuants",
+    "text": "EcoQuants"
+  },
+  {
+    "objectID": "about.html#h.-t.-harvey-associates",
+    "href": "about.html#h.-t.-harvey-associates",
+    "title": "About",
+    "section": "H. T. Harvey & Associates",
+    "text": "H. T. Harvey & Associates\n {.g-col-12 .g-col-med-6 .g-col-lg-4}"
+  },
+  {
+    "objectID": "about.html#integral-consulting",
+    "href": "about.html#integral-consulting",
+    "title": "About",
+    "section": "Integral Consulting",
+    "text": "Integral Consulting\n](https://www.integral-corp.com/)"
+  },
+  {
+    "objectID": "about.html#redwood-community-action-agency",
+    "href": "about.html#redwood-community-action-agency",
+    "title": "About",
+    "section": "Redwood Community Action Agency",
+    "text": "Redwood Community Action Agency\n](https://rcaa.org/)"
+  },
+  {
+    "objectID": "about.html#santa-barbara-maritime-museum",
+    "href": "about.html#santa-barbara-maritime-museum",
+    "title": "About",
+    "section": "Santa Barbara Maritime Museum",
+    "text": "Santa Barbara Maritime Museum\n](https://sbmm.org/)"
   }
 ]
