@@ -1,0 +1,28 @@
+---
+source: "Business Wire"
+author: "(unknown author)"
+title: >
+  Amazon Sets a New Record for Most Renewable Energy Purchased by a Single Company
+description: >
+  SEATTLE--(BUSINESS WIRE)--Amazon (NASDAQ: AMZN) today announced that in 2022 it grew its renewable energy capacity by 8.3 gigawatts (GW) through 133 new projects in 11 countries. This brings Amazon’s total portfolio to more than 20 GW—that could generate the …
+url: "https://www.businesswire.com/news/home/20230131005303/en/Amazon-Sets-a-New-Record-for-Most-Renewable-Energy-Purchased-by-a-Single-Company"
+image: "https://mms.businesswire.com/media/20230131005303/en/834481/23/Amazon_logo.jpg"
+published_at: 2023-01-31
+content: >
+  SEATTLE--(BUSINESS WIRE)--Amazon (NASDAQ: AMZN) today announced that in 2022 it grew its renewable energy capacity by 8.3 gigawatts (GW) through 133 new projects in 11 countries. This brings Amazons … [+8211 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-02-01 00:36:41
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
