@@ -1,0 +1,21 @@
+---
+title: >
+  REMINDER: Virtual Public Meetings on Draft Environmental Analysis for Proposed Coastal Virginia Offshore Wind Project
+source: "Bureau of Ocean Energy Management"
+published_at: 2023-01-27
+url: "https://www.boem.gov/newsroom/notes-stakeholders/reminder-virtual-public-meetings-draft-environmental-analysis-proposed"
+description: >
+  Please join us for upcoming virtual public meetings on the draft Environmental Impact Statement (EIS) for the proposed Coastal Virginia Offshore Wind (CVOW) project, offshore Virginia Beach, Virginia. The virtual public meetings will be held on the following dates and times. All times are Eastern: Wed., Jan. 25th, 2023; 5:00 pm Zoom Registration Link: https://us02web.zoom.us/webinar/register/WN_GDbWic1CTXKpQnBhx54QEQ Dial-in phone number: 888 788 0099 (Toll Free) Meeting ID: 851 4630 0603 Password: 94861339 Tues., Jan. 31st, 2023; 5:00 pm Zoom Registration Link: https://us02web.zoom.us/webinar...
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

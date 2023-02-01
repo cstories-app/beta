@@ -1,0 +1,28 @@
+---
+source: "Yahoo Entertainment"
+author: "Business Wire"
+title: >
+  Amazon Sets a New Record for Most Renewable Energy Purchased by a Single Company - Yahoo Finance
+description: >
+  SEATTLE, January 31, 2023--Amazon (NASDAQ: AMZN) today announced that in 2022 it grew its renewable energy capacity by 8.3 gigawatts (GW) through 133 new...
+url: "https://finance.yahoo.com/news/amazon-sets-record-most-renewable-110000210.html"
+image: "https://media.zenfs.com/en/business-wire.com/5fb3fe60f36321cf0f699514c4d82349"
+published_at: 2023-01-31
+content: >
+  The companys renewable energy portfolio now totals more than 20 GW and will generate enough clean energy to power 5.3 million homes in the U.S.  Amazons renewable energy purchases last year brought i… [+8722 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-02-01 00:36:41
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
