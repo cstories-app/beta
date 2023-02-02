@@ -113,4 +113,15 @@ $(function() {
     $(".chat-box").toggle('scale');
   })
 
+  const delay = ms => new Promise(res => setTimeout(res, ms));
+
+  const showChatBoxOnload = async () => {
+    await delay(2000);
+    console.log("Waited 2s");
+    $("#chat-circle").toggle('scale');
+    $(".chat-box").toggle('scale');
+  };
+  if (["/","/index.html"].includes(window.location.pathname)){
+    showChatBoxOnload();
+  }
 })

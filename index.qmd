@@ -23,7 +23,13 @@ listing:
     max-items: 3
     table-striped: true
     # categories: true
-css: index.css
+format:
+  html:
+    include-after-body: lib/bot.html
+    css:
+    - "/lib/bot.css"
+    - "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/4.0.2/bootstrap-material-design.css"
+    - "https://fonts.googleapis.com/icon?family=Material+Icons"
 ---
 
 ***Empowering Communities with Easy-to-Use Digital Tools to Participate in Marine Renewable Energy Planning & Development***
