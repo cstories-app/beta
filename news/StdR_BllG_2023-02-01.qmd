@@ -1,0 +1,28 @@
+---
+source: "Billings Gazette"
+author: "CARLY WANNA Bloomberg News"
+title: >
+  Study: Replacing coal plants with solar, wind is cheaper than running them
+description: >
+  Replacing coal power plants across the United States with renewable energy projects would reduce carbon emissions and require less water. And it would save money.
+url: "https://billingsgazette.com/news/national/study-replacing-coal-plants-with-solar-wind-is-cheaper-than-running-them/article_0f018934-371b-5316-a762-6e5490b216b8.html"
+image: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/0/f0/0f018934-371b-5316-a762-6e5490b216b8/63d9630b126ff.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+published_at: 2023-02-01
+content: >
+  Replacing coal power plants across the United States with renewable energy projects would reduce carbon emissions and require less water.  And it would save money.  Nearly all existing U.S. coal plan… [+11448 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-02-02 00:34:28
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
