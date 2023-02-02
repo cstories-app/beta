@@ -29,6 +29,6 @@ format:
     svg_id:      "svg", 
     toc_id:      "toc",
     toc_style:   "list",
-    text_toggle: "toggle_off",
+    text_toggle: "none",
     svg_filter:  "cetaceans.svg"});
 </script>

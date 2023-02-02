@@ -15,7 +15,10 @@ listing:
     sort: "published_at desc"
     table-striped: true
     field-display-names:
-      published_at: "Published"
+      title: "Title"
+      source: "Source"
+      published_at: "Date"
+
 ---
 
 <!-- 
