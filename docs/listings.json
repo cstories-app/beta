@@ -5,6 +5,7 @@
       "/infographics/info1.html",
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/StdR_BllG_2023-02-01.html",
       "/news/AmSNRMREPSC_BsnW_2023-01-31.html",
       "/news/ASNRMREPSCY_YhEn_2023-01-31.html",
       "/news/REMINDERVPMDEAP_BoOEM.html",
@@ -122,6 +123,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/StdR_BllG_2023-02-01.html",
       "/news/ASNRMREPSCY_YhEn_2023-01-31.html",
       "/news/AmSNRMREPSC_BsnW_2023-01-31.html",
       "/news/REMINDERVPMDEAP_BoOEM.html",
