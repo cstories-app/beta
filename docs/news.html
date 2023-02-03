@@ -111,6 +111,7 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
 
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<link rel="stylesheet" href="lib/bot.css">
 </head>
 
 <body class="nav-fixed">
@@ -130,15 +131,18 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./bot/index.html">
- <span class="menu-text">AI Chat Bot</span></a>
+    <a class="nav-link" href="./bot.html"><i class="bi bi-robot" role="img">
+</i> 
+ <span class="menu-text">Chat Bot</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./infographics.html">
+    <a class="nav-link" href="./infographics.html"><i class="bi bi-image" role="img">
+</i> 
  <span class="menu-text">Infographics</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./news.html" aria-current="page">
+    <a class="nav-link active" href="./news.html" aria-current="page"><i class="bi bi-newspaper" role="img">
+</i> 
  <span class="menu-text">News</span></a>
   </li>  
 </ul>
@@ -1842,6 +1846,48 @@ No matching items
 
 
 </main> <!-- /main -->
+<!-- AI chat bot
+OLD: https://jina.ai/docsQA-ui looks cool but for specific backend
+
+OTHER:
+https://codepen.io/debashisbarman/pen/gXYmPr
+nice expand box option and big icons
+
+NEW:
+7. ChatBox UI of https://www.webtopic.com/html-css-chat-box-designs
+https://codepen.io/shivapandey/pen/dWdRYM
+-->
+<div id="chat-circle" class="btn btn-raised">
+  <div id="chat-overlay"></div>
+  <i class="fa-solid fa-robot" aria-label="robot"></i>
+  <!--i class="material-icons">chat</i-->
+</div>
+
+<div class="chat-box">
+  <div class="chat-box-header">
+  <!--div class="navbar navbar-dark">
+    <span class="navbar-nav nav-item menu-text"-->
+    <i class="fa-solid fa-robot" aria-label="robot"></i>
+    Ask a marine energy question
+    
+    <span class="chat-box-toggle"><i class="material-icons">close</i></span>
+  </div>
+  <div class="chat-box-body">
+    <div class="chat-box-overlay"></div>
+    <div class="chat-logs"></div>
+  </div>
+  <div class="chat-input">
+    <form>
+      <input type="text" id="chat-input" placeholder="Send a message...">
+      <button type="submit" class="chat-submit" id="chat-submit">
+        <i class="material-icons">send</i>
+      </button>
+    </form>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<script type="text/javascript" src="./lib/bot.js"></script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

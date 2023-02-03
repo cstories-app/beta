@@ -241,14 +241,6 @@
     ]
   },
   {
-    "listing": "/infographics.html",
-    "items": [
-      "/infographics/info1.html",
-      "/infographics/viewshed.html",
-      "/infographics/whales.html"
-    ]
-  },
-  {
     "listing": "/news2.html",
     "items": [
       "/news/TBCR_BrtN_2023-02-02.html",
@@ -365,6 +357,14 @@
       "/news/HOWL_OWE-HB.html",
       "/news/COREHS_RCOR.html",
       "/news/OfWH_OWE-HB.html"
+    ]
+  },
+  {
+    "listing": "/infographics.html",
+    "items": [
+      "/infographics/info1.html",
+      "/infographics/viewshed.html",
+      "/infographics/whales.html"
     ]
   }
 ]

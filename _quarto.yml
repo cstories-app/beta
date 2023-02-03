@@ -13,9 +13,12 @@ website:
   favicon: "favicon.png"
   navbar:
     left:
-      - bot/index.qmd
-      - infographics.qmd
-      - news.qmd
+      - icon: robot
+        href: bot.qmd
+      - icon: image
+        href: infographics.qmd
+      - icon: newspaper
+        href: news.qmd
     right:
       - about.qmd
   search:
@@ -35,4 +38,7 @@ format:
     execute:
       echo: false
       warning: false
+    include-after-body: "lib/bot.html"
+    css:
+    - "lib/bot.css"
 editor: source
