@@ -141,9 +141,6 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
 
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="./lib/bot.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/4.0.2/bootstrap-material-design.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
 
 <body class="nav-fixed">
@@ -162,6 +159,10 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./bot/index.html">
+ <span class="menu-text">AI Chat Bot</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./infographics.html">
  <span class="menu-text">Infographics</span></a>
@@ -212,15 +213,15 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
 <p>Here are the core features of this Beta digital tool for empowering communities to participate in marine renewable energy planning &amp; development.</p>
 <div class="grid">
 <section id="fa-image-infographics" class="level5 g-col-12 g-col-med-6 g-col-lg-3">
-<h5 class="g-col-12 g-col-med-6 g-col-lg-3 anchored" data-anchor-id="fa-image-infographics"><i class="fa-solid fa-image" aria-label="image"></i> Infographics</h5>
+<h5 class="g-col-12 g-col-med-6 g-col-lg-3 anchored" data-anchor-id="fa-image-infographics"><i class="fa-solid fa-image" aria-label="image"></i> <a href="./infographics.html">Infographics</a></h5>
 <p>Explore interactive infographics. Click on elements in a whole system to find out more about each and see how they are related.</p>
 </section>
 <section id="fa-newspaper-news" class="level5 g-col-12 g-col-med-6 g-col-lg-3">
-<h5 class="g-col-12 g-col-med-6 g-col-lg-3 anchored" data-anchor-id="fa-newspaper-news"><i class="fa-solid fa-newspaper" aria-label="newspaper"></i> News</h5>
+<h5 class="g-col-12 g-col-med-6 g-col-lg-3 anchored" data-anchor-id="fa-newspaper-news"><i class="fa-solid fa-newspaper" aria-label="newspaper"></i> <a href="./news.html">News</a></h5>
 <p>News sources across the internet and specific to wind energy areas in California get scraped to find the latest news in offshore wind.</p>
 </section>
 <section id="fa-robot-ask-ai" class="level5 g-col-12 g-col-med-6 g-col-lg-3">
-<h5 class="g-col-12 g-col-med-6 g-col-lg-3 anchored" data-anchor-id="fa-robot-ask-ai"><i class="fa-solid fa-robot" aria-label="robot"></i> Ask AI</h5>
+<h5 class="g-col-12 g-col-med-6 g-col-lg-3 anchored" data-anchor-id="fa-robot-ask-ai"><i class="fa-solid fa-robot" aria-label="robot"></i> <a href="./bot/index.html">Ask AI</a></h5>
 <p>We connect you to the latest Artificial Intelligence (OpenAI GPT) to get immediate answers to your questions on marine renewable energy. We log the questions and answers, so we can perform an expert review and provide human-verified answers.</p>
 </section>
 <section id="fa-comment-comments" class="level5 g-col-12 g-col-med-6 g-col-lg-3">
@@ -459,48 +460,6 @@ document.getElementById("list-news-pagination").style.visibility = "hidden";
 </section>
 
 </main> <!-- /main -->
-<!-- AI chat bot
-OLD: https://jina.ai/docsQA-ui looks cool but for specific backend
-
-OTHER:
-https://codepen.io/debashisbarman/pen/gXYmPr
-nice expand box option and big icons
-
-NEW:
-7. ChatBox UI of https://www.webtopic.com/html-css-chat-box-designs
-https://codepen.io/shivapandey/pen/dWdRYM
--->
-<div id="chat-circle" class="btn btn-raised">
-  <div id="chat-overlay"></div>
-  <i class="material-icons">contact_support</i>
-  <!--i class="material-icons">chat</i-->
-</div>
-
-<div class="chat-box">
-  <div class="chat-box-header">
-  <!--div class="navbar navbar-dark">
-    <span class="navbar-nav nav-item menu-text"-->
-    <i class="fa-solid fa-robot" aria-label="robot"></i>
-    Ask a marine energy question
-    
-    <span class="chat-box-toggle"><i class="material-icons">close</i></span>
-  </div>
-  <div class="chat-box-body">
-    <div class="chat-box-overlay"></div>
-    <div class="chat-logs"></div>
-  </div>
-  <div class="chat-input">
-    <form>
-      <input type="text" id="chat-input" placeholder="Send a message...">
-      <button type="submit" class="chat-submit" id="chat-submit">
-        <i class="material-icons">send</i>
-      </button>
-    </form>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
-<script type="text/javascript" src="./lib/bot.js"></script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

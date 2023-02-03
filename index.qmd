@@ -24,13 +24,6 @@ listing:
     page-size: 3
     table-striped: true
     # categories: true
-format:
-  html:
-    include-after-body: lib/bot.html
-    css:
-    - "/lib/bot.css"
-    - "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/4.0.2/bootstrap-material-design.css"
-    - "https://fonts.googleapis.com/icon?family=Material+Icons"
 ---
 
 ***Empowering Communities with Easy-to-Use Digital Tools to Participate in Marine Renewable Energy Planning & Development***
@@ -41,13 +34,13 @@ Here are the core features of this Beta digital tool for empowering communities 
 
 ::: {.grid}
 
-##### {{< fa image >}} Infographics {.g-col-12 .g-col-med-6 .g-col-lg-3}
+##### {{< fa image >}} [Infographics](infographics.qmd) {.g-col-12 .g-col-med-6 .g-col-lg-3}
 Explore interactive infographics. Click on elements in a whole system to find out more about each and see how they are related.
 
-##### {{< fa newspaper >}} News {.g-col-12 .g-col-med-6 .g-col-lg-3}
+##### {{< fa newspaper >}} [News](news.qmd) {.g-col-12 .g-col-med-6 .g-col-lg-3}
 News sources across the internet and specific to wind energy areas in California get scraped to find the latest news in offshore wind.
 
-##### {{< fa robot >}} Ask AI {.g-col-12 .g-col-med-6 .g-col-lg-3}
+##### {{< fa robot >}} [Ask AI](bot/index.qmd) {.g-col-12 .g-col-med-6 .g-col-lg-3}
 We connect you to the latest Artificial Intelligence (OpenAI GPT) to get immediate answers to your questions on marine renewable energy. We log the questions and answers, so we can perform an expert review and provide human-verified answers.
 
 ##### {{< fa comment >}} Comments {.g-col-12 .g-col-med-6 .g-col-lg-3}

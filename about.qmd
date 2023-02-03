@@ -1,12 +1,5 @@
 ---
 title: "About"
-format:
-  html:
-    include-after-body: lib/bot.html
-    css:
-    - "/lib/bot.css"
-    - "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/4.0.2/bootstrap-material-design.css"
-    - "https://fonts.googleapis.com/icon?family=Material+Icons"
 ---
 
 ## Goal

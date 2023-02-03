@@ -13,6 +13,7 @@ website:
   favicon: "favicon.png"
   navbar:
     left:
+      - bot/index.qmd
       - infographics.qmd
       - news.qmd
     right:
