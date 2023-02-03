@@ -121,7 +121,7 @@ $(function() {
     $("#chat-circle").toggle('scale');
     $(".chat-box").toggle('scale');
   };
-  if (["/","/index.html"].includes(window.location.pathname)){
+  if (["/","/index.html","/bot/","/bot/index.html"].includes(window.location.pathname)){
     showChatBoxOnload();
   }
 })
