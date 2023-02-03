@@ -25,7 +25,7 @@ quarto render news.qmd --cache-refresh # single doc -->
 
 Recent Offshore Wind News
 
-_Alternatively, see [Title, Source, Date in News](news2.qmd) for larger screens (e.g., laptops)._
+_Alternatively, see [Title, Source, Date in News](news.qmd) for larger screens (e.g., laptops)._
 
 ::: {#list-news}
 :::
