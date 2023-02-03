@@ -1,0 +1,28 @@
+---
+source: "Breitbart News"
+author: "Kurt Zindulka"
+title: >
+  Take Back Control: Reform UK Calls for End of Foreign Ownership of Utility Firms
+description: >
+  Reform UK called for an end to foreign ownership of Britain's utility firms to prevent the taxpayer from being continuing to be "ripped off".
+url: "https://www.breitbart.com/europe/2023/02/02/take-back-control-reform-party-calls-for-end-of-foreign-ownership-of-utility-firms/"
+image: "https://media.breitbart.com/media/2023/02/GettyImages-1246689458-2-640x335.jpg"
+published_at: 2023-02-02
+content: >
+  Reform UK, the rebranded Brexit Party, called for an end to foreign ownership of Britain’s utility firms to prevent the taxpayer from being continuing to be “ripped off”.  Speaking from his newly for… [+4387 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-02-03 00:38:08
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
