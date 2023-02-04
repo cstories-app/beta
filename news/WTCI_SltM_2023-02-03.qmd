@@ -1,0 +1,28 @@
+---
+source: "Slate Magazine"
+author: "Nitish Pahwa"
+title: >
+  Why Tucker Carlson Is Making a Big Show Out of Being Upset About Whale Deaths
+description: >
+  And why some environmentalists are telling the same bogus story.
+url: "https://slate.com/technology/2023/02/dead-whales-new-jersey-tucker-carlson-wind-turbines-offshore-biden.html"
+image: "https://compote.slate.com/images/2dbf45f3-a62c-4580-a23d-2e5238d0b3fd.jpeg?crop=5913%2C3942%2Cx0%2Cy0&width=1560"
+published_at: 2023-02-03
+content: >
+  You wouldnt expect liberal politicians and environmentalists to align with Tucker Carlson on just about anything these days. But all three players have lately found a common cause: dead whales found … [+11653 chars]
+terms: "Seabirds"
+search_timestamp: 2023-02-04 00:31:27
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
