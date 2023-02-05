@@ -1,7 +1,9 @@
+/*
 html, body {
   background: #efefef;
   height:100%;
 }
+*/
 #center-text {
   display: flex;
   flex: 1;
@@ -57,7 +59,8 @@ html, body {
   max-height:100vh;
   border-radius:5px;
 /*   box-shadow: 0px 5px 35px 9px #464a92; */
-  box-shadow: 0px 5px 35px 9px #ccc;
+/* offset-x | offset-y | blur-radius | spread-radius | color */
+  box-shadow: 2px 2px 8px 2px #ccc;
   z-index: 100;
   padding-top: 0 !important;
 }

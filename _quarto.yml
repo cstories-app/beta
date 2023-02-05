@@ -31,8 +31,8 @@ format:
   html:
     theme:
       # https://quarto.org/docs/output-formats/html-themes.html#dark-mode
-      light: cerulean # cosmo # [flatly, lib/flatly.scss]
-      dark: superhero # [cosmo, lib/theme-dark.scss] # [darkly, lib/darkly.scss]
+      light: cosmo
+      dark: darkly
     toc: true
     comments:
       hypothesis:

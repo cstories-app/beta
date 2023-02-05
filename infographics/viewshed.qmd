@@ -60,6 +60,7 @@ Click on **tabs** to view different content and click on **images** to make bigg
 ### Simulation: Daytime (9 am)
 
 ![Panoramic visual simulation of the Morro Bay Offshore Wind Energy Area from Piedras Blancas at 9:00 am](/images/infographic/viewshed_morro-bay_simulation.jpg)
+
 ### Simulation: Nighttime (10 pm)
 
 ![Panoramic visual simulation of the Morro Bay Offshore Wind Energy Area from Piedras Blancas at 10:00 pm](/images/infographic/viewshed_humboldt_simulation-nighttime.jpg)

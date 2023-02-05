@@ -100,9 +100,14 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../bot.html"><i class="bi bi-robot" role="img">
+    <a class="nav-link" href="../chat.html"><i class="bi bi-robot" role="img">
 </i> 
- <span class="menu-text">Chat Bot</span></a>
+ <span class="menu-text">Chat</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../comment.html"><i class="bi bi-chat-right-quote-fill" role="img">
+</i> 
+ <span class="menu-text">Comment</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../infographics.html"><i class="bi bi-image" role="img">
@@ -190,18 +195,19 @@ https://codepen.io/shivapandey/pen/dWdRYM
 -->
 <div id="chat-circle" class="btn btn-raised">
   <div id="chat-overlay"></div>
-  <i class="fa-solid fa-robot" aria-label="robot"></i>
+  <!--i class="fa-solid fa-robot" aria-label="robot"></i-->
+  <i class="bi bi-robot"></i>
   <!--i class="material-icons">chat</i-->
 </div>
 
 <div class="chat-box">
   <div class="chat-box-header">
-  <!--div class="navbar navbar-dark">
-    <span class="navbar-nav nav-item menu-text"-->
-    <i class="fa-solid fa-robot" aria-label="robot"></i>
+    <i class="bi bi-robot"></i>
     Ask a marine energy question
-    
-    <span class="chat-box-toggle"><i class="material-icons">close</i></span>
+    <br>
+    <span class="chat-box-toggle">
+      Close <i class="bi bi-x-circle-fill"></i>
+    </span>
   </div>
   <div class="chat-box-body">
     <div class="chat-box-overlay"></div>
@@ -211,7 +217,9 @@ https://codepen.io/shivapandey/pen/dWdRYM
     <form>
       <input type="text" id="chat-input" placeholder="Send a message...">
       <button type="submit" class="chat-submit" id="chat-submit">
-        <i class="material-icons">send</i>
+        <!--i class="material-icons">send</i-->
+        <!--i class="fa-solid fa-paper-plane">send</i-->
+        <!--Send--><i class="bi bi-send-fill"></i>
       </button>
     </form>
   </div>

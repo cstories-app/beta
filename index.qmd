@@ -26,11 +26,11 @@ listing:
     # categories: true
 ---
 
-***Empowering Communities with Easy-to-Use Digital Tools to Participate in Marine Renewable Energy Planning & Development***
+***Empowering Communities with Easy-to-Use Digital Tools to Participate in Marine Renewable Energy Planning & Development*** 
 
 ## Features
 
-Here are the core features of this Beta digital tool for empowering communities to participate in marine renewable energy planning & development.
+Here are the core features of this Beta website tool:
 
 ::: {.grid}
 
@@ -55,8 +55,8 @@ News sources across the internet and specific to wind energy areas in California
 
 ## This website product is under development
 
-This website [cstories.app/**beta**](https://cstories.app/beta) is where we're organizing product features (e.g. news, infographics, AI chat bot) into a dedicated website, whereas the parent website
-[cstories.app](https://cstories.app){target="_blank"} is for organizing community feedback.
+This website [cstories.app/**beta**](https://cstories.app/beta) is where we're organizing product featuresinto a dedicated website, whereas the parent website
+[cstories.app](https://cstories.app){target="_blank"} is for organizing workshops and feedback.
 :::
 
 
