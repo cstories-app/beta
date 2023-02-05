@@ -1,0 +1,11 @@
+---
+title: "Chat"
+---
+
+Please ask your questions for the Artificial Intelligence (OpenAI's GPT-3 large language model) to answer.
+
+::: {.callout-warning}
+NOTE: The AI may "hallucinate" an incorrect answer. 
+:::
+
+Experts will later review and revise answers to be shared on this website and provided in future when similar questions are asked.

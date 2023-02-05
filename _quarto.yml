@@ -14,7 +14,9 @@ website:
   navbar:
     left:
       - icon: robot
-        href: bot.qmd
+        href: chat.qmd
+      - icon: chat-right-quote-fill
+        href: comment.qmd
       - icon: image
         href: infographics.qmd
       - icon: newspaper

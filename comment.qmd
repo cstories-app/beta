@@ -1,0 +1,5 @@
+---
+title: "Comment"
+---
+
+Use the comment system available in the upper right corner to then highlight and comment (aka "annotate") on any text from infographics to news items.

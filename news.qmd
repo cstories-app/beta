@@ -1,7 +1,7 @@
 ---
 title: "News"
 listing:
-  - id: list-news
+  - id: list-news-desktop
     contents:
       - "news/*.qmd"
     type: table
@@ -18,6 +18,26 @@ listing:
       title: "Title"
       source: "Source"
       published_at: "Date"
+  - id: list-news-mobile
+    contents:
+      - "news/*.qmd"
+    type: table
+    sort-ui: [title, source, published_at, image]
+    filter-ui: true
+    field-types:
+      published_at: date
+    fields: [title]
+    #field-required: [num, title, date]
+    date-format: "medium"
+    sort: "published_at desc"
+    table-striped: true
+    field-display-names:
+      title: "Title"
+      source: "Source"
+      published_at: "Date"
+format:
+  html:
+    css: lib/news.css
 ---
 
 <!-- 
@@ -25,7 +45,10 @@ quarto render news.qmd --cache-refresh # single doc -->
 
 Recent Offshore Wind News
 
-_Alternatively, see [Title only News](news2.qmd) for smaller screens (e.g., smartphones)._
+_Alternatively, see [Title only News](news2.qmd) for smaller screens (e.g., smartphones)._ 
 
-::: {#list-news}
+::: {#list-news-desktop}
+:::
+
+::: {#list-news-mobile}
 :::

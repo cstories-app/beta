@@ -13,3 +13,4 @@ Interactive infographics allow for easy navigation of core concepts and informat
 ::: {#list-infographics}
 :::
 
+<!-- {{< fa robot >}} -->

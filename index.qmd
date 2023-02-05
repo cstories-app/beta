@@ -34,17 +34,20 @@ Here are the core features of this Beta digital tool for empowering communities 
 
 ::: {.grid}
 
-##### {{< fa image >}} [Infographics](infographics.qmd) {.g-col-12 .g-col-med-6 .g-col-lg-3}
+##### {{< bi robot >}} [Chat](bot.qmd) {.g-col-12 .g-col-med-6 .g-col-lg-3}
+Ask the Artificial Intelligence any question about marine energy. Experts will later review answers.
+[More...](bot.qmd)
+
+##### {{< bi chat-right-quote-fill >}} [Comment](comment.qmd) {.g-col-12 .g-col-med-6 .g-col-lg-3}
+Use the comment system available in the upper right corner to then highlight and comment (aka "annotate") on any text from infographics to news items. [More...](comment.qmd)
+
+##### {{< bi image >}} [Infographics](infographics.qmd) {.g-col-12 .g-col-med-6 .g-col-lg-3}
 Explore interactive infographics. Click on elements in a whole system to find out more about each and see how they are related.
+[More...](infographics.qmd)
 
-##### {{< fa newspaper >}} [News](news.qmd) {.g-col-12 .g-col-med-6 .g-col-lg-3}
+##### {{< bi newspaper >}} [News](news.qmd) {.g-col-12 .g-col-med-6 .g-col-lg-3}
 News sources across the internet and specific to wind energy areas in California get scraped to find the latest news in offshore wind.
-
-##### {{< fa robot >}} [Ask AI](bot/index.qmd) {.g-col-12 .g-col-med-6 .g-col-lg-3}
-We connect you to the latest Artificial Intelligence (OpenAI GPT) to get immediate answers to your questions on marine renewable energy. We log the questions and answers, so we can perform an expert review and provide human-verified answers.
-
-##### {{< fa comment >}} Comments {.g-col-12 .g-col-med-6 .g-col-lg-3}
-Use the comment system available in the upper right corner to then highlight and comment (aka "annotate") on any text from infographics to news items.
+[More...](news.qmd)
 
 :::
 

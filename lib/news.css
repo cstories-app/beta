@@ -1,0 +1,11 @@
+/* desktop: show full News table */
+@media all and (min-width: 480px) {
+  #listing-list-news-desktop{display:block;}
+  #listing-list-news-mobile{display:none;}
+}
+
+/* mobile: show title column only News table */
+@media all and (max-width: 479px) {
+  #listing-list-news-desktop{display:none;}
+  #listing-list-news-mobile{display:block;}
+}

@@ -1,5 +1,0 @@
----
-title: "Chat Bot"
----
-
-Please try your questions here.
