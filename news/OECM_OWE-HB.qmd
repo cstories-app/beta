@@ -1,0 +1,21 @@
+---
+title: >
+  Off the East Coast, a Massive Network of Wind Turbines Is Coming—Along With New Risks for Migrating Birds
+source: "Offshore Wind Energy - Humboldt Baykeeper"
+published_at: 2023-02-02
+url: "https://www.humboldtbaykeeper.org/offshore-wind-energy/1660-off-the-east-coast-a-massive-network-of-wind-turbines-is-coming-along-with-new-risks-for-migrating-birds"
+description: >
+  In the United States 17 offshore wind sites are under development in the Atlantic, from Cape Cod at the north end down to North Carolina’s Outer Banks. Once completed these wind farms will create a network of turbines along the East Coast continental shelf like nothing else on Earth.While nobody knows what toll the looming structures might take on seabirds, scientists say gannets may be especially vulnerable. North American populations have stopped expanding over the past decade. Scientists pin the leveling off on warming oceans near their breeding grounds that have altered their prey base. Here, on their wintering grounds, climate change is evident, too. A decade ago Patteson and I would never have seen shrimp boats in January: Back then the North Carolina shrimp harvest was negligible in cold winter waters. Now nearly 40 percent of the annual harvest is caught between December and March.&nbsp;
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
