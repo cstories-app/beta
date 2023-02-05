@@ -5,6 +5,7 @@
       "/infographics/info1.html",
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/MyWO_Tm-S.html",
       "/news/WTCI_SltM_2023-02-03.html",
       "/news/OECM_OWE-HB.html",
       "/news/TBCR_BrtN_2023-02-02.html",
@@ -126,6 +127,7 @@
   {
     "listing": "/news2.html",
     "items": [
+      "/news/MyWO_Tm-S.html",
       "/news/WTCI_SltM_2023-02-03.html",
       "/news/OECM_OWE-HB.html",
       "/news/TBCR_BrtN_2023-02-02.html",
@@ -247,6 +249,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/MyWO_Tm-S.html",
       "/news/WTCI_SltM_2023-02-03.html",
       "/news/OECM_OWE-HB.html",
       "/news/TBCR_BrtN_2023-02-02.html",

@@ -1,0 +1,21 @@
+---
+title: >
+  My Word | Offshore wind needs to work with local stakeholders
+source: "Times-Standard"
+published_at: 2023-02-04
+url: "https://www.times-standard.com/2023/02/04/my-word-offshore-wind-needs-to-work-with-local-stakeholders/"
+description: >
+  By Rocky Jaramillo Rushing As California aggressively pursues the development of offshore wind power, tribes, commercial fishermen, conservationists and others worry that its development will come at the expense of their jobs, their culture, the environment or marine life. Their concerns need to be taken to heart. The transition to clean energy needs to be [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
