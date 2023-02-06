@@ -26,7 +26,7 @@ listing:
     # categories: true
 ---
 
-Goal: ***Empower communities with easy-to-use digital tools to participate in marine renewable energy planning & development*** 
+***Empowering communities with easy-to-use digital tools to participate in marine renewable energy planning & development*** 
 
 ## Features
 
