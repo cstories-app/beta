@@ -32,9 +32,9 @@ listing:
 
 ::: {.grid}
 
-##### {{< bi robot >}} [Chat](bot.qmd) {.g-col-12 .g-col-med-6 .g-col-lg-3}
+##### {{< bi robot >}} [Chat](chat.qmd) {.g-col-12 .g-col-med-6 .g-col-lg-3}
 Ask the Artificial Intelligence any question about marine energy. Experts will later review answers.
-[More...](bot.qmd)
+[More...](chat.qmd)
 
 ##### {{< bi chat-right-quote-fill >}} [Comment](comment.qmd) {.g-col-12 .g-col-med-6 .g-col-lg-3}
 Use the comment system available in the upper right corner to then highlight and comment (aka "annotate") on any text from infographics to news items. [More...](comment.qmd)
