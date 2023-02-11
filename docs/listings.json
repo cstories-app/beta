@@ -5,6 +5,7 @@
       "/infographics/info1.html",
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/CTRS_KQED_2023-02-10.html",
       "/news/CMSP_gcp.html",
       "/news/NSFU_Rgzn_2023-02-06.html",
       "/news/MyWO_Tm-S.html",
@@ -129,6 +130,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/CTRS_KQED_2023-02-10.html",
       "/news/CMSP_gcp.html",
       "/news/NSFU_Rgzn_2023-02-06.html",
       "/news/MyWO_Tm-S.html",

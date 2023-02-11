@@ -1,0 +1,28 @@
+---
+source: "KQED"
+author: "Spencer Whitney"
+title: >
+  Chumash Tribes ‘Reunite’ Sacred Rock in Morro Bay Ceremony
+description: >
+  The Army Corps of Engineers quarried a rock sacred to the Chumash and Salinan tribes for 80 years. Finally, Chumash members are symbolically reuniting the rock.
+url: "https://www.kqed.org/news/11940494/a-step-towards-healing-chumash-members-reunite-sacred-rock"
+image: "https://ww2.kqed.org/app/uploads/sites/10/2023/02/RS62630_rock2018-qut-1020x728.jpg"
+published_at: 2023-02-10
+content: >
+  “He wanted them to put it back together,” said Violet Sage Walker, the current chairwoman of the NCTC, and Collins’ daughter. “I imagine him thinking that they're gonna, like, glue the rock back toge… [+3452 chars]
+terms: "Morro Bay"
+search_timestamp: 2023-02-11 00:28:55
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
