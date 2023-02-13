@@ -8,7 +8,7 @@ project:
     - "/lib/*"
 
 website:
-  title: "CStories.app/Beta"
+  title: "CStories Beta"
   google-analytics: "G-9Z3CG75J46"
   favicon: "favicon.png"
   navbar:

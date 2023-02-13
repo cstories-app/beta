@@ -53,8 +53,8 @@ News sources across the internet and specific to wind energy areas in California
 
 ## This website product is under development
 
-This website [cstories.app/**beta**](https://cstories.app/beta) is where we're organizing product features into a dedicated website, whereas the parent website
-[cstories.app](https://cstories.app){target="_blank"} is for organizing workshops and feedback.
+This website [cstories.integral-corp.com/**beta**](https://cstories.integral-corp.com/beta) is where we're organizing product features into a dedicated website, whereas the parent website
+[https://cstories.integral-corp.com](https://cstories.integral-corp.com){target="_blank"} is for organizing workshops and feedback.
 :::
 
 
