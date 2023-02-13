@@ -1,0 +1,28 @@
+---
+source: "Rigzone"
+author: "Bojan Lepic"
+title: >
+  Next Steps Following US Pacific Wind Leasing Round
+description: >
+  California held its first offshore wind leasing round in December, but prices paid in the round came nowhere close to the New York Bight lease round.
+url: "https://www.rigzone.com/news/next_steps_following_us_pacific_wind_leasing_round-06-feb-2023-171974-article/"
+image: "https://images.rigzone.com/images/news/articles/Next-Steps-Following-US-Pacific-Wind-Leasing-Round-171974-582x327.png"
+published_at: 2023-02-06
+content: >
+  California held its first offshore wind leasing round – Pacific Wind – in December, but prices paid in the round came nowhere close to the New York Bight lease round.  In a recent Westwood report, th… [+7099 chars]
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2023-02-07 00:32:36
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

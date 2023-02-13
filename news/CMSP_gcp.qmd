@@ -1,0 +1,28 @@
+---
+source: "gcaptain.com"
+author: "Mike Schuler"
+title: >
+  Crowley Moves to Secure Port Fourchon Site for Offshore Wind Terminal
+description: >
+  Florida-based Crowley is taken a key step toward potentially developing an offshore wind terminal at Louisiana’s Port Fourchon, a key hub for the Gulf of Mexico offshore oil and gas...
+url: "https://gcaptain.com/crowley-moves-to-secure-port-fourchon-site-for-offshore-wind-terminal/"
+image: "https://gcaptain.com/wp-content/uploads/2021/10/shutterstock_706057069.jpg"
+published_at: 2023-02-08
+content: >
+  Florida-based Crowley is taken a key step toward potentially developing an offshore wind terminal at Louisiana’s Port Fourchon, a key hub for the Gulf of Mexico offshore oil and gas industry.  During… [+2657 chars]
+terms: "Humboldt"
+search_timestamp: 2023-02-09 00:32:10
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
