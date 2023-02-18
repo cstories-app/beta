@@ -1,0 +1,28 @@
+---
+source: "Motley Fool"
+author: "newsfeedback@fool.com (Daniel Foelber)"
+title: >
+  Near a 10-Year Low, Could This High-Yield Dividend Stock Turn Around?
+description: >
+  Dominion Energy stock has been crushed, but its future is bright.
+url: "https://www.fool.com/investing/2023/02/17/dominion-energy-dividend-stock-down-offshore-wind/"
+image: "https://g.foolcdn.com/editorial/images/720232/gettyimages-1138600673.jpg"
+published_at: 2023-02-17
+content: >
+  Regulated electric utilities tend to be safe, predictable companies that produce stable returns, which support growing dividends. But Dominion Energy(D -0.26%) has been far from a reliable stock.  Th… [+7385 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-02-18 00:57:42
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

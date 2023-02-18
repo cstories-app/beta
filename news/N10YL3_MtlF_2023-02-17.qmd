@@ -1,0 +1,28 @@
+---
+source: "Motley Fool"
+author: "newsfeedback@fool.com (Daniel Foelber)"
+title: >
+  Near 10-Year Lows: 3 High-Yield Dividend Stocks That Could Turn Things Around
+description: >
+  Each of these time-tested stocks has a better yield than the 10-year Treasury bond does now.
+url: "https://www.fool.com/investing/2023/02/17/near-10-year-lows-3-high-yield-dividend-stocks-buy/"
+image: "https://g.foolcdn.com/editorial/images/720543/gettyimages-186803113.jpg"
+published_at: 2023-02-17
+content: >
+  One of the hardest things to do as a long-term investor is to filter out the noise and determine if a collapsing stock is falling for the right reasons or the wrong ones. In 2022, numerous reputable … [+8029 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-02-18 00:57:42
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

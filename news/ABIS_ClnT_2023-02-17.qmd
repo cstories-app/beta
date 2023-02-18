@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "Steve Hanley"
+title: >
+  Amazon Boosts Its Sustainability Credentials With Record Renewable Energy Purchases (Plus Offshore Wind Seaweed Farming!)
+description: >
+  Amazon set a new corporate record for the most renewable energy announced by a single company in one year. It remains the largest corporate buyer of renewable energy
+url: "https://cleantechnica.com/2023/02/17/amazon-boosts-its-sustainability-credentials-with-record-renewable-energy-purchases-plus-offshore-wind-seaweed-farming/"
+image: "https://cleantechnica.com/files/2023/02/Amazon-seaweed-farming.jpg"
+published_at: 2023-02-17
+content: >
+  Amazon may not seem like the poster child for sustainable business practices. It gathers consumer goods from all around the world, assembles them in massive warehouses, and then distributes them with… [+8280 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-02-18 00:57:42
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
