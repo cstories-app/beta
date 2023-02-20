@@ -1,0 +1,28 @@
+---
+source: "Independent"
+author: "August Graham"
+title: >
+  UK risks falling behind in renewables race, trade bodies warn
+description: >
+  Renewable UK and Energy UK have both separately called on the Government to make the country a more attractive place for investors.
+url: "https://www.independent.co.uk/climate-change/news/energy-uk-government-b2285491.html"
+image: "https://static.independent.co.uk/2023/02/20/00/98dffd9385ad56c1e5b0b4bb4cba9064Y29udGVudHNlYXJjaGFwaSwxNjc2NzM5MDY5-2.70460031.jpg?quality=75&width=1200&auto=webp"
+published_at: 2023-02-20
+content: >
+  Sign up to the Independent Climate email for the latest advice on saving the planet  Get our free Climate email  The UK risks falling behind in the race to become a global renewable energy leader wit… [+2417 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-02-20 00:35:23
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
