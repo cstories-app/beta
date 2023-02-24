@@ -1,0 +1,28 @@
+---
+source: "PRNewswire"
+author: "(unknown author)"
+title: >
+  The Global Wind Turbine Bearing Market is forecast to grow by \$9287.77 mn during 2022-2027, accelerating at a CAGR of 10.82% during the forecast period
+description: >
+  NEW YORK, Feb. 22, 2023 /PRNewswire/ -- Global Wind Turbine Bearing Market 2023-2027 The analyst has been monitoring the wind turbine bearing market and is forecast to grow by $9287.77 mn during 2022-2027, accelerating at a CAGR of 10.82% during the forecast …
+url: "https://www.prnewswire.com/news-releases/the-global-wind-turbine-bearing-market-is-forecast-to-grow-by-9287-77-mn-during-2022-2027--accelerating-at-a-cagr-of-10-82-during-the-forecast-period-301751162.html"
+image: "https://mma.prnewswire.com/media/2006129/Reportlinker_Report.jpg?p=facebook"
+published_at: 2023-02-22
+content: >
+  NEW YORK, Feb. 22, 2023 /PRNewswire/ -- Global Wind Turbine Bearing Market 2023-2027  The analyst has been monitoring the wind turbine bearing market and is forecast to grow by $9287.77 mn during 202… [+3753 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-02-24 00:56:55
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
