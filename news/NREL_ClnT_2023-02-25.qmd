@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "U.S. Department of Energy"
+title: >
+  NREL Study Shows Wind Energy Can Help Puerto Rico Achieve Its Clean Energy & Grid Reliability Goals
+description: >
+  Puerto Rico is no stranger to the power of wind. Its location at the eastern edge of the Greater Antilles, where the Sea meets the Ocean,
+url: "https://cleantechnica.com/2023/02/25/nrel-study-shows-wind-energy-can-help-puerto-rico-achieve-its-clean-energy-grid-reliability-goals/"
+image: "https://cleantechnica.com/files/2021/03/7.5-MW-wind-turbines-4-1536x1147-2.jpg"
+published_at: 2023-02-25
+content: >
+  Puerto Rico is no stranger to the power of wind. Its location at the eastern edge of the Greater Antilles, where the Caribbean Sea meets the North Atlantic Ocean, puts the territory in the path of in… [+8708 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-02-27 00:33:37
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
