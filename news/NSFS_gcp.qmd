@@ -1,0 +1,28 @@
+---
+source: "gcaptain.com"
+author: "Mike Schuler"
+title: >
+  New Study Finds Seabirds Birds Avoid Offshore Wind Turbines
+description: >
+  Offshore wind energy critics often cite the risk of collision with birds as an argument against the use of wind power. But a new study conducted by European energy company Vattenfall shows that offshore wind turbines at one UK wind farm are much less dangerou…
+url: "https://gcaptain.com/new-study-finds-seabirds-birds-avoid-offshore-wind-turbines/"
+image: "https://gcaptain.com/wp-content/uploads/2023/02/vattenfall-bird-study-scaled.jpeg"
+published_at: 2023-02-28
+content: >
+  Offshore wind energy critics often cite the risk of collision with birds as an argument against the use of wind power. But a new study conducted by European energy company Vattenfall shows that offsh… [+4337 chars]
+terms: "Seabirds"
+search_timestamp: 2023-03-02 00:36:32
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

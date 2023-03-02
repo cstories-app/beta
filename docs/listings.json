@@ -2,6 +2,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/NSFS_gcp.html",
+      "/news/Strp_NwSc_2023-02-28.html",
       "/news/NREL_ClnT_2023-02-25.html",
       "/news/B1GM_NC3-.html",
       "/news/TGWT_PRNw_2023-02-22.html",
@@ -145,6 +147,8 @@
       "/infographics/info1.html",
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/NSFS_gcp.html",
+      "/news/Strp_NwSc_2023-02-28.html",
       "/news/NREL_ClnT_2023-02-25.html",
       "/news/B1GM_NC3-.html",
       "/news/TGWT_PRNw_2023-02-22.html",

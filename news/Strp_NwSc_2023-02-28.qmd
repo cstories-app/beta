@@ -1,0 +1,28 @@
+---
+source: "New Scientist"
+author: "Jason Arunn Murugesu"
+title: >
+  Stripy wind turbines could prevent fatal seabird collisions
+description: >
+  Based on principles of bird vision, researchers propose that seabird deaths at offshore wind farms would be reduced by painting black and white stripes on blades
+url: "https://www.newscientist.com/article/2361507-stripy-wind-turbines-could-prevent-fatal-seabird-collisions/"
+image: "https://images.newscientist.com/wp-content/uploads/2023/02/27135224/SEI_145466276.jpg"
+published_at: 2023-02-28
+content: >
+  By Jason Arunn Murugesu  Illustration of the proposed wind turbine design to reduce seabird collisions  Graham Martin and Alex Banks  The number of seabirds killed by colliding with wind turbines cou… [+413 chars]
+terms: "Seabirds"
+search_timestamp: 2023-03-02 00:36:32
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
