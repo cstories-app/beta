@@ -1,0 +1,28 @@
+---
+source: "Electrek"
+author: "Michelle Lewis"
+title: >
+  A new study about seabirds and offshore wind turbines may surprise you
+description: >
+  Swedish power giant Vattenfall did a two-year, €3 million study of seabirds at an offshore wind farm off Scotland – here’s what it found. more… The post A new study about seabirds and offshore wind turbines may surprise you appeared first on Electrek.
+url: "https://electrek.co/2023/03/02/seabirds-and-offshore-wind-turbines-vattenfall/"
+image: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/03/Vattenfall-study-gull-creative-commons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+published_at: 2023-03-02
+content: >
+  Swedish power giant Vattenfall did a two-year, 3 million study of seabirds at an offshore wind farm off Scotland here’s what it found.  The aim of the 115-page study, which took place at Vattenfall’s… [+2484 chars]
+terms: "Seabirds"
+search_timestamp: 2023-03-04 00:32:35
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

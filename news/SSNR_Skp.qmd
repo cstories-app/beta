@@ -1,0 +1,28 @@
+---
+source: "Skepticalscience.com"
+author: "(unknown author)"
+title: >
+  Skeptical Science New Research for Week #9 2023
+description: >
+  Open Access Notables From this week's government/NGO section, a welcome report from the United Nations: One Atmosphere: An independent expert review on Solar Radiation Modification research and deployment. For many of us and given the reports provenance the f…
+url: "https://skepticalscience.com/new_research_2023_9.html"
+image: "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg"
+published_at: 2023-03-02
+content: >
+  Posted on 2 March 2023 by Doug Bostrom, Marc Kodack  Open Access Notables  From this week's government/NGO section, a welcome report from the United Nations: One Atmosphere: An independent expert rev… [+39997 chars]
+terms: "Seabirds"
+search_timestamp: 2023-03-04 00:32:35
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
