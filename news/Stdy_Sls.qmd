@@ -1,0 +1,28 @@
+---
+source: "Slashdot.org"
+author: "Matt_Bennett"
+title: >
+  Study shows seabirds avoid offshore turbines
+description: >
+  Swedish power company Vattenfall released a study on the interactions of seabirds and offshore wind turbines. They used cameras and radar to record the tracks of the birds during daylight hours at Aberdeen Offshore Wind Farm over peak periods of bird activity…
+url: "https://slashdot.org/submission/17194877/study-shows-seabirds-avoid-offshore-turbines"
+image: "NA"
+published_at: 2023-03-03
+content: >
+  For every problem there is one solution which is simple, neat, and wrong.  -- H. L. Mencken
+terms: "Seabirds"
+search_timestamp: 2023-03-05 00:37:09
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
