@@ -2,6 +2,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/AMLE_Mmr.html",
+      "/news/ANSS_Sls.html",
       "/news/Stdy_Sls.html",
       "/news/Anws_Elct_2023-03-02.html",
       "/news/SSNR_Skp.html",
@@ -150,6 +152,8 @@
       "/infographics/info1.html",
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/ANSS_Sls.html",
+      "/news/AMLE_Mmr.html",
       "/news/Stdy_Sls.html",
       "/news/Anws_Elct_2023-03-02.html",
       "/news/SSNR_Skp.html",

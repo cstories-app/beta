@@ -1,0 +1,28 @@
+---
+source: "Memeorandum.com"
+author: "(unknown author)"
+title: >
+  A new study about seabirds and offshore wind turbines may surprise you (Michelle Lewis/Electrek)
+description: >
+  Michelle Lewis / Electrek: A new study about seabirds and offshore wind turbines may surprise you — The aim of the 115-page study, which took place at Vattenfall's 11-turbine Aberdeen Offshore Wind Farm, aka the European Offshore Wind Deployment Center, was…
+url: "https://www.memeorandum.com/230303/p99"
+image: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/03/Vattenfall-study-gull-creative-commons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+published_at: 2023-03-04
+content: >
+  memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.  Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]
+terms: "Seabirds"
+search_timestamp: 2023-03-06 00:34:12
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
