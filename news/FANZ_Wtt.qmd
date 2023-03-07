@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  Feasibility for Achieving a Net Zero Economy for the U.S. by 2050
+description: >
+  Short of a command economy, it is simply an unattainable pipe dream, and we will struggle to get 10–20% of the way to the target, even with a democratic mandate to proceed. The post Feasibility for Achieving a Net Zero Economy for the U.S. by 2050 first appea…
+url: "https://wattsupwiththat.com/2023/03/04/feasibility-for-achieving-a-net-zero-economy-for-the-u-s-by-2050/"
+image: "https://149366104.v2.pressablecdn.com/wp-content/uploads/2020/12/wuwt-logo.jpg"
+published_at: 2023-03-05
+content: >
+  Reposted from Climate Etc.  By Michael J. Kelly  I imagine that I have been appointed the first CEO of a new agency set up by the Federal Government of the United States of America with the explicit … [+30602 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-03-07 00:35:56
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
