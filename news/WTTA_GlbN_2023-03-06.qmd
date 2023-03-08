@@ -1,0 +1,28 @@
+---
+source: "GlobeNewswire"
+author: "ReportLinker"
+title: >
+  Wind Turbines: Technologies, Applications and Global Markets
+description: >
+  Report Scope:. This report analyzes different turbine types, installations type, grid connectivity, end use, capacity rating, end user, and regional market development of wind turbines. Report Scope:. This report analyzes different turbine types, installation…
+url: "https://www.globenewswire.com/news-release/2023/03/06/2620833/0/en/Wind-Turbines-Technologies-Applications-and-Global-Markets.html"
+image: "https://ml.globenewswire.com/Resource/Download/3e0b82c2-02d7-44c8-b22f-561e0f321f39?size=1"
+published_at: 2023-03-06
+content: >
+  New York, March 06, 2023 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report "Wind Turbines: Technologies, Applications and Global Markets" - https://www.reportlinker.com/p052645… [+5080 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-03-08 00:34:23
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
