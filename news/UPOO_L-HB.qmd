@@ -1,0 +1,21 @@
+---
+title: >
+  Unsettled Pacific Ocean Offers Surprises as Climate Change Alters Ecosystem
+source: "Latest - Humboldt Baykeeper"
+published_at: 2023-03-07
+url: "https://www.humboldtbaykeeper.org/news/latest/1670-unsettled-pacific-ocean-offers-surprises-as-climate-change-alters-ecosystem"
+description: >
+  Ecological relationships across the Pacific Coast that once guided annual expectations such as salmon returns are evolving as climate change disrupts long-standing connections. NOAA Fisheries researchers report these findings in their latest Ecosystem Status Report for the California Current Ecosystem.“We have seen profound changes underway in the last decade that have altered these relationships unlike anything we have seen in the historical record,” said Nate Mantua, landscape and seascape ecology leader at the Southwest Fisheries Science Center in Santa Cruz.&nbsp;One effect of the unsettled ocean is that some models scientists use to estimate fishing impacts may no longer work well in this new ocean environment.While the unraveling of familiarly strong connections is not ideal for forecasters, it can produce surprisingly positive outcomes. For example, anchovy continued to boom in the California Current Ecosystem in 2022, decoupling past patterns that linked anchovy numbers to cold ocean conditions rather than warm. These abundant schools of forage fish provided ample food for salmon, California sea lions, whales, birds, and other predators.&nbsp;However, with a rise in anchovy providing ample prey for salmon, we have seen the adverse effects of a uniform diet because anchovies carry an enzyme that breaks down vitamin B1 (thiamine) in anchovy predators and puts their offspring at risk.Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

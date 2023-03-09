@@ -1,0 +1,28 @@
+---
+source: "Jandan.net"
+author: "majer"
+title: >
+  出乎意料，为期2年的报告显示：没有任何海鸟因撞上风力发电的桨叶而死亡
+description: >
+  鸟类非常擅长避开涡轮机
+url: "http://jandan.net/p/112513"
+image: "NA"
+published_at: 2023-03-07
+content: >
+  majer @ 2023.03.07 , 15:44  2Vattenfall300  115  Vattenfall  Vattenfall90-110140-1604050  Henrik Skov  https://electrek.co/2023/03/02/seabirds-and-offshore-wind-turbines-vattenfall/   (0)
+terms: "Seabirds"
+search_timestamp: 2023-03-09 00:35:42
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
