@@ -1,0 +1,28 @@
+---
+source: "GlobeNewswire"
+author: "Research and Markets"
+title: >
+  Global Wind Turbines Markets, Technologies, and Applications Report 2023: The Paris Agreement and Ambitious Government Targets Regarding Net-zero Bodes well for the Sector
+description: >
+  Dublin, March 10, 2023 (GLOBE NEWSWIRE) -- The "Wind Turbines: Technologies, Applications and Global Markets" report has been added to ResearchAndMarkets.com's offering.
+url: "https://www.globenewswire.com/news-release/2023/03/10/2624805/28124/en/Global-Wind-Turbines-Markets-Technologies-and-Applications-Report-2023-The-Paris-Agreement-and-Ambitious-Government-Targets-Regarding-Net-zero-Bodes-well-for-the-Sector.html"
+image: "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7"
+published_at: 2023-03-10
+content: >
+  Dublin, March 10, 2023 (GLOBE NEWSWIRE) -- The "Wind Turbines: Technologies, Applications and Global Markets" report has been added to ResearchAndMarkets.com's offering.  In this report 2021 is used … [+10463 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-03-12 00:34:03
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

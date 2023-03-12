@@ -1,0 +1,28 @@
+---
+source: "PRNewswire"
+author: "(unknown author)"
+title: >
+  Global Wind Turbines Markets, Technologies, and Applications Report 2023-2027 Featuring Leading Players - Vestas Wind Systems, Siemens Gamesa, GE, Ming Yang Smart Energy, Envision, and Nordex
+description: >
+  DUBLIN, March 10, 2023 /PRNewswire/ -- The "Wind Turbines: Technologies, Applications and Global Markets" report has been added to ResearchAndMarkets.com's offering. In this report 2021 is used as the market's base year, estimated values are provided for 2022…
+url: "https://www.prnewswire.com/news-releases/global-wind-turbines-markets-technologies-and-applications-report-2023-2027-featuring-leading-players---vestas-wind-systems-siemens-gamesa-ge-ming-yang-smart-energy-envision-and-nordex-301768885.html"
+image: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+published_at: 2023-03-10
+content: >
+  DUBLIN, March 10, 2023 /PRNewswire/ -- The "Wind Turbines: Technologies, Applications and Global Markets" report has been added to  ResearchAndMarkets.com's offering.  In this report 2021 is used as … [+10384 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-03-12 00:34:03
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
