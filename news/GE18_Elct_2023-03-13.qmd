@@ -1,0 +1,28 @@
+---
+source: "Electrek"
+author: "Michelle Lewis"
+title: >
+  GE is developing a massive 18 MW offshore wind turbine
+description: >
+  GE Vernova is developing a 17-18 megawatt (MW) Haliade-X offshore wind turbine, CEO Scott Strazik confirmed during the company’s investor conference late last week. more… The post GE is developing a massive 18 MW offshore wind turbine appeared first on Elec…
+url: "https://electrek.co/2023/03/13/ge-is-developing-a-massive-18-mw-offshore-wind-turbine/"
+image: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/ge-haliade-x-offshore-wind-turbine-3d-2-1920x1080-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+published_at: 2023-03-13
+content: >
+  GE Vernova is developing a 17-18 megawatt (MW) Haliade-X offshore wind turbine, CEO Scott Strazik confirmed during the company’s investor conference late last week.   GE Vernova is GE’s portfolio of … [+1962 chars]
+terms: "Cost of electricity | Seabirds"
+search_timestamp: 2023-03-15 00:34:07
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
