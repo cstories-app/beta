@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  Weekly Climate and Energy News Roundup #544
+description: >
+  : Cheap renewables are very expensive.”— Power engineers Chris Morris and Russ Schussler The post Weekly Climate and Energy News Roundup #544 first appeared on Watts Up With That?.
+url: "https://wattsupwiththat.com/2023/03/20/weekly-climate-and-energy-news-roundup-544/"
+image: "https://149366104.v2.pressablecdn.com/wp-content/uploads/2020/12/wuwt-logo.jpg"
+published_at: 2023-03-20
+content: >
+  The Week That Was: 2023-03-18 (March 18, 2023)Brought to You by SEPP (www.SEPP.org)The Science and Environmental Policy Project  Quote of the Week: Cheap renewables are very expensive.   Power engine… [+61961 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-03-22 00:29:35
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

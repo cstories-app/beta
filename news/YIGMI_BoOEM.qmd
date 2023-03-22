@@ -1,0 +1,21 @@
+---
+title: >
+  You’re Invited: Gulf of Mexico Intergovernmental Renewable Energy Task Force Meeting
+source: "Bureau of Ocean Energy Management"
+published_at: 2023-03-22
+url: "https://www.boem.gov/newsroom/notes-stakeholders/youre-invited-gulf-mexico-intergovernmental-renewable-energy-task-force"
+description: >
+  The Bureau of Ocean Energy Management (BOEM) will host its fourth Gulf of Mexico Intergovernmental Renewable Energy Task Force meeting on April 11, 2023, at 9 a.m. (CST). The purpose of the meeting is to update task force members on offshore wind energy planning activities and to discuss next steps in the BOEM leasing process, including the recently announced proposal for the first-ever offshore wind lease sale in the Gulf of Mexico. Established in 2021, this task force is composed of federal, state, local and Tribal government officials. It is tasked with coordinating renewable energy...
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

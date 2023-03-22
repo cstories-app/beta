@@ -1,0 +1,21 @@
+---
+title: >
+  You’re Invited: Gulf of Mexico Proposed Wind Lease Sale Auction Seminar
+source: "Bureau of Ocean Energy Management"
+published_at: 2023-03-22
+url: "https://www.boem.gov/newsroom/notes-stakeholders/youre-invited-gulf-mexico-proposed-wind-lease-sale-auction-seminar"
+description: >
+  On February 22, 2023, the Department of the Interior announced a proposed offshore wind lease sale for three proposed lease areas in the Gulf of Mexico off the coasts of Galveston, TX, and Lake Charles, LA. The Bureau of Ocean Energy Management (BOEM) published a Proposed Sale Notice (PSN) in the Federal Register on February 24, 2023, which initiated a 60-day public comment period ending at 11:59 pm ET on April 25, 2023. To comment on the PSN, go to www.regulations.gov and search for docket number BOEM-2023-0021. During the comment period, BOEM will hold an auction seminar for prospective...
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

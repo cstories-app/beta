@@ -1,0 +1,21 @@
+---
+title: >
+  California’s Aging Electrical Infrastructure Presents Hurdle for Offshore Wind Development on the North Coast
+source: "Offshore Wind Energy - Humboldt Baykeeper"
+published_at: 2023-03-20
+url: "https://www.humboldtbaykeeper.org/offshore-wind-energy/1677-california-s-aging-electrical-infrastructure-presents-hurdle-for-offshore-wind-development-on-the-north-coast-2"
+description: >
+  The wind resource beyond Humboldt Bay is among the best in the United States, with strong, consistent wind speeds that are ideal for commercial development. There’s just one problem: electrical transmission.Getting the power from the floating offshore turbines to the shore is one thing; getting the power to communities throughout the region and across the state is another. Wind developers can run big, subsea cables from their offshore wind projects to land with relative ease, but once that power comes ashore it encounters an electrical grid that wasn’t designed to handle it.“This is going to take many years,” Rep. Jared Huffman told the Outpost in a recent phone interview. “Anyone who thinks that we are very close to manufacturing these huge turbines, getting the clean power onto the grid and adding these thousands of jobs might be disappointed. This is going to take close to a decade to really bring it all forward, but I’m hoping we can speed that up.”However, the development of offshore wind is completely dependent on California’s transmission capabilities. Those issues must be resolved before offshore wind can move forward, Huffman said.“The developers don’t know how many of these floating platforms they’ll even be able to install until they know whether there’s enough transmission to move the power onto the grid,” he continued. “To me, that’s by far the most important bottleneck here. Until you have all that figured out, you really don’t know a lot about the economics of the project. When you’re trying to negotiate community benefits and other things, you can begin those conversations now, but you can’t sign on the dotted line until you know how big the project is, how much it’s going to cost, how profitable it’s going to be. It all depends on all of these details that tie back to questions about transmission.”Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
