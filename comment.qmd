@@ -2,4 +2,20 @@
 title: "Comment"
 ---
 
-Use the comment system available in the upper right corner to then highlight and comment (aka "annotate") on any text from infographics to news items.
+Use the Comment system available in the extra menu in the upper right corner to highlight and comment, also known as "Annotate", on any text from Infographics to News items.
+
+To use Annotations, you will need to be logged into a free [Hypothes.is](https://hypothes.is) account. Access the Hypothes.is Sign up/Log in page by clicking on the arrow on the upper right hand side of the page:
+
+![](images/comment/1_menu.png){fig-align="right" width="90%"}
+
+![](images/comment/2_sign-up.jpg){fig-align="right" width="90%"}
+
+Once signed in, simply highlight text that is of interest to you, click on Annotate, enter your comment, and post.
+
+![](images/comment/3_annotate.jpg){fig-align="right" width="90%"}
+
+![](images/comment/4_comment.jpg){fig-align="right" width="90%"}
+
+You can turn on and off highlighted/annotated text by clicking on the eyeball, as shown in the red square:
+
+![](images/comment/5_show.jpg){fig-align="right" width="90%"}
