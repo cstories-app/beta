@@ -1,0 +1,28 @@
+---
+source: "Motley Fool"
+author: "newsfeedback@fool.com (Daniel Foelber)"
+title: >
+  A Bull Market Is Coming: 3 Stocks to Buy With Dividend Yields Over 4%
+description: >
+  These three stocks are worth buying even if they keep falling.
+url: "https://www.fool.com/investing/2023/03/26/bull-market-coming-3-stocks-to-buy-dividend-yield/"
+image: "https://g.foolcdn.com/editorial/images/725627/gettyimages-865668876.jpg"
+published_at: 2023-03-26
+content: >
+  The investing landscape has changed. Rising interest rates have pushed the value of a 10-year Treasury Note to 3.6%, which is more than double the average dividend yield of the S&amp;P 500 (at 1.7%).… [+7685 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-03-28 00:32:23
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

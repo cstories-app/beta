@@ -1,0 +1,28 @@
+---
+source: "Ing.dk"
+author: "Bjørn Godske"
+title: >
+  New findings debunk the myth: Seabirds avoid turbine blades
+description: >
+  Images and 3D analyses of seabirds’ flight patterns show that they are masters at avoiding the blades of offshore wind turbines. But experts point to other challenges.
+url: "https://ing.dk/artikel/new-findings-debunk-myth-seabirds-avoid-turbine-blades"
+image: "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2023-03/bigstock-offshore-wind-farm-at-sea-gro-472131617_0.jpg?itok=MlJgN6A6"
+published_at: 2023-03-21
+content: >
+  The effect of wind turbines on birds has been discussed for decades. Figures have been thrown around about how many birds die a year from rotating wind turbine blades or because the wind turbines are… [+7719 chars]
+terms: "Seabirds"
+search_timestamp: 2023-03-28 00:32:23
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
