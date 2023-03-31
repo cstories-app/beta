@@ -1,0 +1,21 @@
+---
+title: >
+  Comment Period Extended for Renewable Energy Modernization Rule
+source: "Bureau of Ocean Energy Management"
+published_at: 2023-03-31
+url: "https://www.boem.gov/newsroom/notes-stakeholders/comment-period-extended-renewable-energy-modernization-rule"
+description: >
+  On Jan. 30, 2023, the Bureau of Ocean Energy Management (BOEM) published a proposed rule in the Federal Register to update regulations for clean energy development on the U.S. Outer Continental Shelf. BOEM has extended the comment period and will accept comments on the proposed rule through 11:59 p.m. Eastern Time on Monday, May 1, 2023. The proposed regulations would modernize regulations, streamline processes, clarify ambiguous provisions and enhance compliance provisions in order to decrease costs and uncertainty associated with the deployment of offshore wind facilities. For more...
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
