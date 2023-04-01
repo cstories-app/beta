@@ -1,0 +1,28 @@
+---
+source: "Independent"
+author: "Adam Forrest"
+title: >
+  Homeowners face penalty for sticking with gas – but Tory minister says no ‘rip out your boiler’ plan
+description: >
+  ‘We’re not forcing anyone to remove gas boiler’, says energy secretary Grant Shapps
+url: "https://www.independent.co.uk/climate-change/news/uk-energy-plan-gas-boilers-b2310762.html"
+image: "https://static.independent.co.uk/2023/03/30/09/newFile-5.jpg?quality=75&width=1200&auto=webp"
+published_at: 2023-03-30
+content: >
+  Sign up to the Independent Climate email for the latest advice on saving the planet  Get our free Climate email  Cabinet minister Grant Shapps said the governments new green power strategy was not a … [+3866 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-04-01 00:32:20
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

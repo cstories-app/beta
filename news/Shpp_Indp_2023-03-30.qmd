@@ -1,0 +1,28 @@
+---
+source: "Independent"
+author: "David Hughes"
+title: >
+  Shapps insists homeowners will not be forced to rip out boilers under green plan
+description: >
+  Grant Shapps said the shift away from gas to alternative ways of heating homes would take place over ‘the next decade or two’.
+url: "https://www.independent.co.uk/climate-change/news/grant-shapps-government-jeremy-hunt-rishi-sunak-sky-news-b2310743.html"
+image: "https://static.independent.co.uk/2023/03/30/09/da2a7103d0c78d4e9a8757797b8a72d7Y29udGVudHNlYXJjaGFwaSwxNjgwMjQ4NjU3-2.71181361.jpg?quality=75&width=1200&auto=webp"
+published_at: 2023-03-30
+content: >
+  Sign up to the Independent Climate email for the latest advice on saving the planet  Get our free Climate email  Energy Secretary Grant Shapps said the Governments new green power strategy was not a … [+6069 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-04-01 00:32:20
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
