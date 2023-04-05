@@ -1,0 +1,21 @@
+---
+title: >
+  Humboldt County supervisors approve a slate of offshore wind actions
+source: "Offshore Wind Energy - Humboldt Baykeeper"
+published_at: 2023-03-16
+url: "https://www.humboldtbaykeeper.org/offshore-wind-energy/1674-humboldt-county-supervisors-approve-a-slate-of-offshore-wind-actions-3"
+description: >
+  On Tuesday, the Humboldt County Board of Supervisors unanimously approved forming two ad hoc committees to work on offshore wind-related issues, authorized the County Administrative Officer to execute a $851,500 grant agreement for offshore wind activity, and enacted agreements with the Humboldt Bay Harbor, Recreation, and Conservation District, the city of Eureka and other local and tribal agencies to collaborate on port and wind development.Offshore wind in Humboldt County is still in a very early stage, though California North Floating LLC placed the winning bids for the area where turbines would be placed roughly 20 miles off the coast of Eureka. The Bureau of Ocean Energy Management is still reviewing the bids, but once the leases are granted, the site must be surveyed and a plethora of permits must be issued.“There’ll be a couple years of site assessments and surveys. After that, the concept of operation plan process will begin,” Scott Adair, Humboldt County’s director of economic development, said. “We are many years away from actual turbines being put into the water.”Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
