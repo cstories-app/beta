@@ -1,0 +1,21 @@
+---
+title: >
+  Harbor district, supervisors spar over \$2.3 million EPA loan
+source: "Times-Standard"
+published_at: 2023-04-05
+url: "https://www.times-standard.com/2023/04/05/harbor-district-supervisors-spar-over-2-3-million-epa-loan/"
+description: >
+  The money would go toward the harbor district buying Samoa Pacific Group land for use as an offshore wind development support site, but the item contained voluminous discussion over abating lead in Samoa homes that was a requirement for the EPA to issue the loan. The vote was unanimous, with 4th District Supervisor Natalie Arroyo absent.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

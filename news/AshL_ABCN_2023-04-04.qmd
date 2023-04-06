@@ -1,0 +1,28 @@
+---
+source: "ABC News"
+author: "KEVIN McGILL and JENNIFER McDERMOTT Associated Press"
+title: >
+  A ship for windpower is taking shape in Lousiana oil country
+description: >
+  In Louisiana bayou country a major builder of supply and service vessels for deep water oil drillers is building a new kind of vessel — one that will serve the offshore wind industry
+url: "https://abcnews.go.com/Business/wireStory/ship-windpower-taking-shape-lousiana-oil-country-98345425"
+image: "https://s.abcnews.com/images/Business/wirestory_940abd08f97b1f245c98e58ff259a21e_12x5_992.jpg"
+published_at: 2023-04-04
+content: >
+  HOUMA, La. -- In Louisiana bayou country, where oil rig supply ships are as much a part of the waterside scenery as shrimp boats, a new kind of seagoing behemoth is taking shape that marks offshore w… [+5443 chars]
+terms: "Seascape"
+search_timestamp: 2023-04-06 00:29:12
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

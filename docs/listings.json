@@ -1,16 +1,11 @@
 [
   {
-    "listing": "/infographics.html",
-    "items": [
-      "/infographics/viewshed.html",
-      "/infographics/whales.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/H23E_Tm-S.html",
+      "/news/AshL_ABCN_2023-04-04.html",
       "/news/CPES_BoOEM.html",
       "/news/CPER_BoOEM.html",
       "/news/HmwT_Indp_2023-03-30.html",
@@ -179,8 +174,17 @@
     ]
   },
   {
+    "listing": "/infographics.html",
+    "items": [
+      "/infographics/viewshed.html",
+      "/infographics/whales.html"
+    ]
+  },
+  {
     "listing": "/news.html",
     "items": [
+      "/news/H23E_Tm-S.html",
+      "/news/AshL_ABCN_2023-04-04.html",
       "/news/CPES_BoOEM.html",
       "/news/CPER_BoOEM.html",
       "/news/HmwT_Indp_2023-03-30.html",
