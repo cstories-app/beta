@@ -1,0 +1,21 @@
+---
+title: >
+  YOU'RE INVITED: Standing Committee on Offshore Wind Energy and Fisheries
+source: "Bureau of Ocean Energy Management"
+published_at: 2023-04-07
+url: "https://www.boem.gov/newsroom/notes-stakeholders/youre-invited-standing-committee-offshore-wind-energy-and-fisheries"
+description: >
+  Please join BOEM Director Liz Klein for the first public meeting of the National Academies of Science, Engineering and Medicine’s Standing Committee on Offshore Wind Energy and Fisheries. WHEN: April 13, 2023 (3 p.m. – 4:30 p.m. ET) WHERE: Virtual Webcast – Registration Instructions All are welcome and encouraged to attend the webcast. The virtual open session will introduce the committee to the public and discuss the standing committee goals. The National Academies require advance registration. Meeting details, including a webcast link, registration instructions and a full agenda, will be...
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

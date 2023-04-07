@@ -1,0 +1,28 @@
+---
+source: "Biztoc.com"
+author: "apnews.com"
+title: >
+  A ship for windpower takes shape in Louisiana oil country
+description: >
+  In Louisiana bayou country, where oil rig supply ships are as much a part of the waterside scenery as shrimp boats, a new kind of seagoing behemoth is taking shape that marks offshore wind power’s growing presence in the energy seascape. Louisiana shipbuildin…
+url: "https://biztoc.com/x/443f13904f8c61a2"
+image: "https://c.biztoc.com/p/443f13904f8c61a2/og.webp"
+published_at: 2023-04-05
+content: >
+  In Louisiana bayou country, where oil rig supply ships are as much a part of the waterside scenery as shrimp boats, a new kind of seagoing behemoth is taking shape that marks offshore wind powers gro… [+317 chars]
+terms: "Seascape"
+search_timestamp: 2023-04-07 00:27:38
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

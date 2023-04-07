@@ -1,0 +1,28 @@
+---
+source: "Fast Company"
+author: "Morgan Clendaniel"
+title: >
+  This giant ship is a symbol of the shift from oil to renewables
+description: >
+  In Louisiana bayou country, where oil rig supply ships are as much a part of the waterside scenery as shrimp boats, a new kind of seagoing behemoth is taking shape that marks offshore wind power’s growing presence in the energy seascape. Louisiana shipbuil…
+url: "https://www.fastcompany.com/90876278/this-giant-ship-is-a-symbol-of-the-shift-from-oil-to-renewables"
+image: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2023/04/01-90876278-lousiana-wind-turbine-repair-shop.jpg"
+published_at: 2023-04-05
+content: >
+  In Louisiana bayou country, where oil rig supply ships are as much a part of the waterside scenery as shrimp boats, a new kind of seagoing behemoth is taking shape that marks offshore wind power’s gr… [+6507 chars]
+terms: "Seascape"
+search_timestamp: 2023-04-07 00:27:38
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
