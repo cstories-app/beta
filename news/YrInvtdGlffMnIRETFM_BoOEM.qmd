@@ -1,0 +1,21 @@
+---
+title: >
+  You’re Invited: Gulf of Maine Intergovernmental Renewable Energy Task Force Meeting
+source: "Bureau of Ocean Energy Management"
+published_at: 2023-04-08
+url: "https://www.boem.gov/newsroom/notes-stakeholders/youre-invited-gulf-maine-intergovernmental-renewable-energy-task-0"
+description: >
+  The Bureau of Ocean Energy Management (BOEM) will host its third Gulf of Maine Intergovernmental Renewable Energy Task Force meeting May 10-11, 2023, in Bangor, Maine. The purpose of the meeting is to update task force members and the public on BOEM’s commercial and research offshore wind energy planning activities and to discuss next steps for the Gulf of Maine, including a Call for Information and Nominations. Established in 2019, this task force is composed of Federal, Tribal, state, and local government officials. It is tasked with facilitating the coordination of renewable energy planning...
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

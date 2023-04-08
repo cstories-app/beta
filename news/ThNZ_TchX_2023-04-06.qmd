@@ -1,0 +1,28 @@
+---
+source: "Tech Xplore"
+author: "Craig Stevens"
+title: >
+  The untapped power of ocean winds—why New Zealand is looking offshore for future renewable energy
+description: >
+  The latest synthesis report released by the Intergovernmental Panel on Climate Change (IPCC) makes it clear we need to prepare for intensifying impacts, while also cutting emissions dramatically.
+url: "https://techxplore.com/news/2023-04-untapped-power-ocean-windswhy-zealand.html"
+image: "https://scx2.b-cdn.net/gfx/news/hires/2023/offshore-wind-energy.jpg"
+published_at: 2023-04-06
+content: >
+  The latest synthesis report released by the Intergovernmental Panel on Climate Change (IPCC) makes it clear we need to prepare for intensifying impacts, while also cutting emissions dramatically.  On… [+5287 chars]
+terms: "Seabirds"
+search_timestamp: 2023-04-08 00:28:58
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -1,0 +1,28 @@
+---
+source: "The Conversation Africa"
+author: "Craig Stevens, Professor in Ocean Physics, National Institute of Water and Atmospheric Research"
+title: >
+  The untapped power of ocean winds – why New Zealand is looking offshore for future renewable energy
+description: >
+  Building offshore wind farms is complex and expensive. But with plenty of wind coming in from the sea, New Zealand could harness the renewable resource as it aims to decarbonise the energy sector.
+url: "https://theconversation.com/the-untapped-power-of-ocean-winds-why-new-zealand-is-looking-offshore-for-future-renewable-energy-202335"
+image: "https://images.theconversation.com/files/519734/original/file-20230406-16-m663ss.jpg?ixlib=rb-1.1.0&rect=16%2C412%2C3455%2C1725&q=45&auto=format&w=1356&h=668&fit=crop"
+published_at: 2023-04-06
+content: >
+  Nathan Stirk/Getty Images  The latest synthesis report released by the Intergovernmental Panel on Climate Change (IPCC) makes it clear we need to prepare for intensifying impacts, while also cutting … [+5738 chars]
+terms: "Seabirds"
+search_timestamp: 2023-04-08 00:28:58
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
