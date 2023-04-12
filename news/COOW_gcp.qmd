@@ -1,0 +1,28 @@
+---
+source: "gcaptain.com"
+author: "Mike Schuler"
+title: >
+  Crowley to Open Offshore Wind Office in Northern California
+description: >
+  Jacksonville, Florida-based Crowley is set to open a Wind Services office in Eureka, California as part of its efforts to develop an offshore wind terminal at the Port of Humboldt...
+url: "https://gcaptain.com/crowley-to-open-offshore-wind-office-in-northern-california/"
+image: "https://gcaptain.com/wp-content/uploads/2022/10/humboldt-bay-offshore-wind-port.jpg"
+published_at: 2023-04-10
+content: >
+  Jacksonville, Florida-based Crowley is set to open a Wind Services office in Eureka, California as part of its efforts to develop an offshore wind terminal at the Port of Humboldt Bay in Northern Cal… [+1767 chars]
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2023-04-12 00:29:29
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

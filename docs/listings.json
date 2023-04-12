@@ -4,6 +4,7 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/COOW_gcp.html",
       "/news/YrInvtdGlffMnIRETFM_BoOEM.html",
       "/news/YrInvtdGlffMxIRETFM_BoOEM.html",
       "/news/YOUR_BoOEM.html",
@@ -190,6 +191,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/COOW_gcp.html",
       "/news/YrInvtdGlffMnIRETFM_BoOEM.html",
       "/news/YrInvtdGlffMxIRETFM_BoOEM.html",
       "/news/YOUR_BoOEM.html",
