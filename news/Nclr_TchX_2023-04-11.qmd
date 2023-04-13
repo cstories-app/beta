@@ -1,0 +1,28 @@
+---
+source: "Tech Xplore"
+author: "Jonas Kristiansen Nøland"
+title: >
+  Nuclear power causes least damage to the environment, finds systematic survey
+description: >
+  The saying that "misfortune never comes alone" is also the title of a French short silent film from 1903. One could say the same about the climate crisis, which is closely linked to the environmental and energy crises. The three crises have a mutual influence…
+url: "https://techxplore.com/news/2023-04-nuclear-power-environment-systematic-survey.html"
+image: "https://scx2.b-cdn.net/gfx/news/2023/nuclear-power-causes-l.jpg"
+published_at: 2023-04-11
+content: >
+  The saying that "misfortune never comes alone" is also the title of a French short silent film from 1903. One could say the same about the climate crisis, which is closely linked to the environmental… [+8291 chars]
+terms: "Effects on wildlife"
+search_timestamp: 2023-04-13 00:29:06
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

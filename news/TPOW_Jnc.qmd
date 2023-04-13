@@ -1,0 +1,28 @@
+---
+source: "Juancole.com"
+author: "The Conversation"
+title: >
+  The untapped Power of Ocean Winds – why New Zealand is looking Offshore for future renewable Energy
+description: >
+  By Craig Stevens, National Institute of Water and Atmospheric Research | - The latest synthesis report released by the Intergovernmental Panel on Climate Change (IPCC) makes it clear we need to prepare for intensifying impacts, while also cutting emissions dr…
+url: "https://www.juancole.com/2023/04/untapped-offshore-renewable.html"
+image: "https://media.juancole.com/images/2023/04/shaun-dakin-nY_RHD44e_o-unsplash.jpg"
+published_at: 2023-04-11
+content: >
+  By Craig Stevens, National Institute of Water and Atmospheric Research | –   The latest synthesis report released by the Intergovernmental Panel on Climate Change (IPCC) makes it clear we need to pre… [+5275 chars]
+terms: "Seabirds"
+search_timestamp: 2023-04-13 00:29:06
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
