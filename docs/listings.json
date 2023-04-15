@@ -4,6 +4,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/OWSS_gcp.html",
+      "/news/RdNS_Ph.html",
       "/news/Nclr_TchX_2023-04-11.html",
       "/news/TPOW_Jnc.html",
       "/news/COOW_gcp.html",
@@ -195,6 +197,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/OWSS_gcp.html",
+      "/news/RdNS_Ph.html",
       "/news/Nclr_TchX_2023-04-11.html",
       "/news/TPOW_Jnc.html",
       "/news/COOW_gcp.html",

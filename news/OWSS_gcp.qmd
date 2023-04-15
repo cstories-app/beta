@@ -1,0 +1,28 @@
+---
+source: "gcaptain.com"
+author: "Bloomberg"
+title: >
+  Offshore Wind Sends Some North Sea Birds Fleeing, Study Finds
+description: >
+  By Coco Liu (Bloomberg) — Red-throated loons — a type of water bird that ancient Gaels relied on to predict the weather — are so avoidant of offshore wind turbines in the North Sea that...
+url: "https://gcaptain.com/offshore-wind-sends-some-north-sea-birds-fleeing-study-finds/"
+image: "https://gcaptain.com/wp-content/uploads/2022/12/shutterstock_1196390014.jpg"
+published_at: 2023-04-13
+content: >
+  By Coco Liu (Bloomberg) —  Red-throated loons  a type of water bird that ancient Gaels relied on to predict the weather  are so avoidant of offshore wind turbines in the North Sea that their numbers … [+4504 chars]
+terms: "Seabirds"
+search_timestamp: 2023-04-15 00:33:08
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

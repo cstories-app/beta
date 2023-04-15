@@ -1,0 +1,28 @@
+---
+source: "Phys.Org"
+author: "Science X"
+title: >
+  Red-throated loons avoid North Sea windfarms
+description: >
+  Offshore wind farms in the North Sea have reduced the population of loons—fish-eating aquatic birds also known as divers—by 94% within a one-kilometer zone, according to new research published in Scientific Reports. The findings highlight the need to minimize…
+url: "https://phys.org/news/2023-04-red-throated-loons-north-sea-windfarms.html"
+image: "https://scx2.b-cdn.net/gfx/news/hires/2023/red-throated-loons-avo.jpg"
+published_at: 2023-04-13
+content: >
+  Offshore wind farms in the North Sea have reduced the population of loonsfish-eating aquatic birds also known as diversby 94% within a one-kilometer zone, according to new research published in Scien… [+2910 chars]
+terms: "Seabirds"
+search_timestamp: 2023-04-15 00:33:08
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
