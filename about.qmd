@@ -32,14 +32,14 @@ Department of Energy (DOE) Small Business Innovation Research (SBIR): [Thirteen 
 
 ::: {.grid}
 
-##### [EcoQuants](https://ecoquants.com/)  {.g-col-12 .g-col-med-6 .g-col-lg-4}
-[![](images/logo_ecoquants.jpg)](https://ecoquants.com/)
+##### [Integral Consulting](https://www.integral-corp.com/)  {.g-col-12 .g-col-med-6 .g-col-lg-4}
+[![](images/logo_integral.jpg)](https://www.integral-corp.com/)
 
 ##### [H. T. Harvey & Associates](https://www.harveyecology.com/)  {.g-col-12 .g-col-med-6 .g-col-lg-4}
 [![](images/logo_htharvey.jpg)](https://www.harveyecology.com/)
 
-##### [Integral Consulting](https://www.integral-corp.com/)  {.g-col-12 .g-col-med-6 .g-col-lg-4}
-[![](images/logo_integral.jpg)](https://www.integral-corp.com/)
+##### [EcoQuants](https://ecoquants.com/)  {.g-col-12 .g-col-med-6 .g-col-lg-4}
+[![](images/logo_ecoquants.jpg)](https://ecoquants.com/)
 
 ##### [Redwood Community Action Agency](https://rcaa.org/)  {.g-col-12 .g-col-med-6 .g-col-lg-4}
 [![](images/logo_rcaa.jpg)](https://rcaa.org/)
