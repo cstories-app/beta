@@ -1,0 +1,28 @@
+---
+source: "Fox News"
+author: "Thomas Catenacci"
+title: >
+  Biden's green energy plans pose national security risk, Pentagon warns
+description: >
+  The Pentagon is warning wind energy developers and other key stakeholders that massive offshore leasing areas could significantly conflict with military operations.
+url: "https://www.foxnews.com/politics/bidens-green-energy-plans-pose-national-security-risk-pentagon-warns"
+image: "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/Biden-sad.jpg"
+published_at: 2023-04-17
+content: >
+  The Department of Defense (DoD) recently warned that the Biden administration's lofty offshore wind development goals could significantly impede naval military operations, Fox News Digital has confir… [+5136 chars]
+terms: "Viewshed"
+search_timestamp: 2023-04-19 00:45:51
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
