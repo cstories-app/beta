@@ -1,0 +1,28 @@
+---
+source: "Freerepublic.com"
+author: "Red State"
+title: >
+  Defense Department Warns Biden's Green Energy Plans Threaten National Security
+description: >
+  Welp, this just got interesting.The Pentagon, on Monday, warned that Joe Biden’s overreaching so-called “green energy” plans pose national security risks, as reported by Fox News. So now what’s a fossil-fuel-loathing, EV-loving president to do?According to Fo…
+url: "https://freerepublic.com/focus/f-bloggers/4146330/posts"
+image: "NA"
+published_at: 2023-04-18
+content: >
+  Skip to comments.  Defense Department Warns Biden's Green Energy Plans Threaten National SecurityRed State ^   | 04/17/2023   | Mike Miller  Posted on 04/17/2023 8:53:43 PM PDT by SeekAndFind  Welp, … [+5289 chars]
+terms: "Viewshed"
+search_timestamp: 2023-04-20 00:29:48
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

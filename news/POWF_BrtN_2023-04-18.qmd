@@ -1,0 +1,28 @@
+---
+source: "Breitbart News"
+author: "Frances Martel, Frances Martel"
+title: >
+  Pentagon: Offshore Wind Farms May Threaten 'Military Readiness,' National Security
+description: >
+  A Department of Defense assessment of locations proposed to build offshore wind farms on the Atlantic coast found several areas to be "highly problematic" due to their proximity to U.S. military training sites, Bloomberg reported on Monday, publishing a Penta…
+url: "https://www.breitbart.com/national-security/2023/04/18/pentagon-offshore-wind-farms-may-threaten-military-readiness-national-security/"
+image: "https://media.breitbart.com/media/2020/01/Wind-Turbines-640x335.png"
+published_at: 2023-04-18
+content: >
+  A Department of Defense assessment of locations proposed to build offshore wind farms on the Atlantic coast found several areas to be “highly problematic” due to their proximity to U.S. military trai… [+7612 chars]
+terms: "Viewshed"
+search_timestamp: 2023-04-20 00:29:48
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
