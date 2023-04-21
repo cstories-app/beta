@@ -1,0 +1,28 @@
+---
+source: "Marketscreener.com"
+author: "MarketScreener"
+title: >
+  Orsted A/S : Ørsted enters strategic partnership with Acciona, taking a step forward in commercialising floating wind
+description: >
+  (marketscreener.com) Ørsted has signed a memorandum of understanding with the infrastructure division of Acciona to explore options for floating offshore wind foundations. Acciona is a global engineering and construction firm focused on renewables and a l…
+url: "https://www.marketscreener.com/quote/stock/ORSTED-A-S-28607554/news/Orsted-A-S-Orsted-enters-strategic-partnership-with-Acciona-taking-a-step-forward-in-commercialis-43537258/?utm_medium=RSS&utm_content=20230419"
+image: "https://www.marketscreener.com/images/twitter_MS_fdgris.png"
+published_at: 2023-04-19
+content: >
+  Ørsted has signed a memorandum of understanding (MoU) with the infrastructure division of Acciona to explore options for floating offshore wind foundations. Acciona is a global engineering and constr… [+3849 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-04-21 00:29:41
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -4,6 +4,7 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/OASO_Mrk.html",
       "/news/DDWB_Frr.html",
       "/news/POWF_BrtN_2023-04-18.html",
       "/news/BdnP_FxNw_2023-04-17.html",
@@ -200,6 +201,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/OASO_Mrk.html",
       "/news/DDWB_Frr.html",
       "/news/POWF_BrtN_2023-04-18.html",
       "/news/BdnP_FxNw_2023-04-17.html",
