@@ -1,0 +1,28 @@
+---
+source: "Yale.edu"
+author: "(unknown author)"
+title: >
+  As Projects Decline, the Era of Building Big Dams Draws to a Close
+description: >
+  Rising construction costs, the rise of solar and wind power, and mounting public opposition have led to a precipitous decrease in massive new hydropower projects. Experts are now saying the world has reached “peak dams,” which would be good news for riverine …
+url: "https://e360.yale.edu/features/hydropower-dams-energy-decline"
+image: "https://e360.yale.edu/assets/site/India-Dam_Alamy-Small.jpg"
+published_at: 2023-04-20
+content: >
+  The end of the big dam era is approaching.   Numerous recently published reports reflect this planet-altering fact. One study, conducted by scholars at the United Nations Universitys Institute for Wa… [+12826 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-04-22 01:01:48.460282
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
