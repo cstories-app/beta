@@ -4,6 +4,7 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/BOEMAO_BoOEM.html",
       "/news/APDE_Yl.html",
       "/news/WlHH_Mrk.html",
       "/news/OASO_Mrk.html",
@@ -42,6 +43,7 @@
       "/news/HmbldtCntys_OWE-HB.html",
       "/news/HmbldtCntysp_L-HB.html",
       "/news/HmbldtCntysp_OWE-HB.html",
+      "/news/HmbldtCntysprvsrsp_OWE-HB.html",
       "/news/StrssWndEnrgyprjctnLmpcsttg39lv39bysmmrl_LSBNRf-BNN.html",
       "/news/SWEL_LSBNRf-BNN.html",
       "/news/StrssWndEnrgyprjctnLmpcsttg39lv39bysmmrs_LSBNRf-BNN.html",
@@ -203,6 +205,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/BOEMAO_BoOEM.html",
       "/news/APDE_Yl.html",
       "/news/WlHH_Mrk.html",
       "/news/OASO_Mrk.html",
@@ -241,6 +244,7 @@
       "/news/HmbldtCntys_OWE-HB.html",
       "/news/HmbldtCntysp_L-HB.html",
       "/news/HmbldtCntysp_OWE-HB.html",
+      "/news/HmbldtCntysprvsrsp_OWE-HB.html",
       "/news/StrssWndEnrgyprjctnLmpcsttg39lv39bysmmrl_LSBNRf-BNN.html",
       "/news/SWEL_LSBNRf-BNN.html",
       "/news/StrssWndEnrgyprjctnLmpcsttg39lv39bysmmrs_LSBNRf-BNN.html",
