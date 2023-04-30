@@ -1,0 +1,28 @@
+---
+source: "CNET"
+author: "Daniel Van Boom"
+title: >
+  Is the Green Revolution Being Held Back by Red Tape? - CNET
+description: >
+  The US wants a completely green grid by 2030, but it can take up to 10 years for new renewable energy stations to be approved.
+url: "https://www.cnet.com/science/is-the-green-revolution-being-held-back-by-red-tape/"
+image: "https://www.cnet.com/a/img/resize/df1010c992be401a3d8d23c5a0469e0209254170/hub/2023/04/27/38aeb28c-1763-4c60-bbc8-2faf3c86f552/gettyimages-511441259.jpg?auto=webp&fit=crop&height=675&width=1200"
+published_at: 2023-04-28
+content: >
+  If all goes to plan, construction of the second-biggest wind energy project in the world will start in the second half of this year. The SunZia Wind and Transmission project ambitiously combines a 3.… [+11101 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-04-30 00:32:49.663068
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
