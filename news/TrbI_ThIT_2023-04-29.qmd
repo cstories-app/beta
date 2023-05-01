@@ -1,0 +1,28 @@
+---
+source: "The Irish Times"
+author: "Kevin O'Sullivan"
+title: >
+  Trouble brewing with nearshore turbines as Irish offshore wind energy reaches launch phase
+description: >
+  Locals and campaigners warn of fast-tracking development and point to alternatives they say can yield the same benefits at a lower environmental cost
+url: "https://www.irishtimes.com/environment/2023/04/29/trouble-brewing-with-nearshore-turbines-as-irish-offshore-wind-energy-reaches-take-off-phase/"
+image: "https://www.irishtimes.com/resizer/kfvhhWYbvP9AIGfJfpalqgTyD74=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JC4JT33IHRH7XCQX3AK23QLU4M.jpg"
+published_at: 2023-04-29
+content: >
+  Ireland is at the point of scale-up of its vast offshore wind resources. The green light is months rather than years away for the first tranche of wind farms. Some communities will soon see renewable… [+10894 chars]
+terms: "Seascape"
+search_timestamp: 2023-05-01 00:31:52.563286
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
