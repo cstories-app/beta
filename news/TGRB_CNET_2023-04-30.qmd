@@ -1,0 +1,28 @@
+---
+source: "CNET"
+author: "Cnet"
+title: >
+  The Green Revolution is Being Held Back by Red Tape
+description: >
+  It can take up to 10 years for renewable energy stations to be approved.
+url: "https://www.cnet.com/science/the-green-revolution-is-being-held-back-by-red-tape/"
+image: "https://www.cnet.com/a/img/resize/df1010c992be401a3d8d23c5a0469e0209254170/hub/2023/04/27/38aeb28c-1763-4c60-bbc8-2faf3c86f552/gettyimages-511441259.jpg?auto=webp&fit=crop&height=675&width=1200"
+published_at: 2023-04-30
+content: >
+  If everything goes to plan, construction on the second-biggest wind energy project on the planet will start in the second half of 2023.   The SunZia Wind and Transmission project ambitiously combines… [+11106 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-05-02 00:31:08.793013
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

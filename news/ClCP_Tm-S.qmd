@@ -1,0 +1,21 @@
+---
+title: >
+  California Community Power asks offshore wind developers for information
+source: "Times-Standard"
+published_at: 2023-05-01
+url: "https://www.times-standard.com/2023/05/01/california-community-power-asks-offshore-wind-developers-for-information/"
+description: >
+  A joint power agency is asking for information from developers who will eventually build offshore wind power in California. This request for information is from California Community Power, and includes Redwood Coast Energy Authority (RCEA).
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

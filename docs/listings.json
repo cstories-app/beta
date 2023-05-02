@@ -4,6 +4,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/ClCP_Tm-S.html",
+      "/news/TGRB_CNET_2023-04-30.html",
       "/news/TrbI_ThIT_2023-04-29.html",
       "/news/IGRB_CNET_2023-04-28.html",
       "/news/BOEMAO_BoOEM.html",
@@ -207,6 +209,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/ClCP_Tm-S.html",
+      "/news/TGRB_CNET_2023-04-30.html",
       "/news/TrbI_ThIT_2023-04-29.html",
       "/news/IGRB_CNET_2023-04-28.html",
       "/news/BOEMAO_BoOEM.html",
