@@ -1,0 +1,28 @@
+---
+source: "Phys.Org"
+author: "Science X"
+title: >
+  Study finds bottom-dwellers thrive at foundations of offshore wind farms
+description: >
+  Offshore wind farms host more soil animals per square meter than the North Sea floor, discovered Leiden researchers. After 25 years, a hundred times more animals and twice the number of different species could live on the foundations of wind turbines.
+url: "https://phys.org/news/2023-05-bottom-dwellers-foundations-offshore-farms.html"
+image: "https://scx2.b-cdn.net/gfx/news/hires/2023/bottom-dwellers-thrive.jpg"
+published_at: 2023-05-02
+content: >
+  Offshore wind farms host more soil animals per square meter than the North Sea floor, discovered Leiden researchers. After 25 years, a hundred times more animals and twice the number of different spe… [+3934 chars]
+terms: "Seabirds"
+search_timestamp: 2023-05-04 00:29:22.778938
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

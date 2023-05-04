@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "Carolyn Fortuna"
+title: >
+  Rising Sea Temps Are Pushing Oceans Beyond The Level Of Habitability
+description: >
+  “If anyone eats anything from the ocean, you’ve got to care about marine heat waves,” argues Brenda Ekwurzel, a climate scientist at the Union of Concerned Scientists.
+url: "https://cleantechnica.com/2023/05/02/rising-sea-temps-are-pushing-oceans-beyond-the-level-of-habitability/"
+image: "https://cleantechnica.com/files/2023/04/gulf-of-maine-map-800x610.png"
+published_at: 2023-05-02
+content: >
+  Fourth-generation Block Islander Ebben Howarth may be the last fisher in his family to make a living from lobsters. Lobstering is more than his work; its his heritage. Instead of studying marine biol… [+7078 chars]
+terms: "Seabirds"
+search_timestamp: 2023-05-04 00:29:22.778938
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
