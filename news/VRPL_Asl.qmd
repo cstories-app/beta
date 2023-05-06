@@ -1,0 +1,28 @@
+---
+source: "Asla.org"
+author: "ASLA staff"
+title: >
+  Visual Resources in the Practice of Landscape Architecture
+description: >
+  by Tim Tetherow, ASLA, and John McCarty, ASLA This article explores the roots and diverse approaches to visual resource management (VRM) and visual impact assessment (VIA). The role of VRM and VIA encompasses federal lands, seascapes, landscapes, park lands, …
+url: "https://thefield.asla.org/2023/05/04/visual-resources-in-the-practice-of-landscape-architecture/"
+image: "https://thefield.asla.org/wp-content/uploads/2023/05/3_C-470_CO-DOT.jpg"
+published_at: 2023-05-04
+content: >
+  by Tim Tetherow, ASLA, and John McCarty, ASLA  US 550 at Red Mountain Pass near Ouray, CO, part of the San Juan Skyway Scenic Byway / image: courtesy of the Colorado Department of Transportation  Thi… [+11815 chars]
+terms: "Seascape | Viewshed"
+search_timestamp: 2023-05-06 00:27:10.245324
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
