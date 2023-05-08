@@ -1,0 +1,28 @@
+---
+source: "The Guardian"
+author: "Thomas Ferguson and Servaas Storm"
+title: >
+  Central banks raising interest rates makes it harder to fight the climate crisis | Thomas Ferguson and Servaas Storm
+description: >
+  Higher rates slow the renewable energy transition and shield oil and gas producers from competition by low-carbon producersIn late 2021, consumer price inflation surged in many countries. Prices shot up again following Russia’s invasion of Ukraine in February…
+url: "https://www.theguardian.com/commentisfree/2023/may/06/central-banks-interest-rate-hike-climate-crisis"
+image: "https://i.guim.co.uk/img/media/332eee042266531fa20c11f57ee7c1c2b4406858/121_274_3809_2286/master/3809.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=5cb6548f767d9fb14596964bb561ba72"
+published_at: 2023-05-06
+content: >
+  In late 2021, consumer price inflation surged in many countries. Prices shot up again following Russias invasion of Ukraine in February 2022. In response, central banks drastically tightened monetary… [+7297 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-05-08 00:29:08.866291
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

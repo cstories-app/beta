@@ -1,0 +1,28 @@
+---
+source: "The Daily Caller"
+author: "Kerry Jackson"
+title: >
+  JACKSON: Gavin Newsom’s Carbon-Neutral Grid Plan Looks To Be Going The Way Of The Bullet Train To Nowhere
+description: >
+  California’s planned transition to a carbon-neutral electricity grid by 2045 relies heavily on offshore wind power. It might take a miracle to get there. The growth of offshore wind will have to accelerate faster than a Tesla Model S, which goes from zero to …
+url: "https://dailycaller.com/2023/05/06/jackson-gavin-newsoms-carbon-neutral-grid-plan-looks-to-be-going-the-way-of-the-bullet-train-to-nowhere/"
+image: "https://cdn01.dailycaller.com/wp-content/uploads/2022/12/GettyImages-1431097340-1-scaled-e1672244068836.jpg"
+published_at: 2023-05-06
+content: >
+  California’s planned transition to a carbon-neutral electricity grid by 2045 relies heavily on offshore wind power. It might take a miracle to get there. The growth of offshore wind will have to acce… [+4525 chars]
+terms: "Morro Bay | Cost of electricity"
+search_timestamp: 2023-05-08 00:29:08.866291
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

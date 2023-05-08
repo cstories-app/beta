@@ -4,6 +4,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/CTFS_ThGr_2023-05-06.html",
+      "/news/JACK_ThDC_2023-05-06.html",
       "/news/VRPL_Asl.html",
       "/news/RSTA_ClnT_2023-05-02.html",
       "/news/Stdy_Ph.html",
@@ -212,6 +214,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/CTFS_ThGr_2023-05-06.html",
+      "/news/JACK_ThDC_2023-05-06.html",
       "/news/VRPL_Asl.html",
       "/news/RSTA_ClnT_2023-05-02.html",
       "/news/Stdy_Ph.html",
