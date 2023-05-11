@@ -1,0 +1,21 @@
+---
+title: >
+  Responsible Offshore Wind Development Starts at the Port
+source: "Offshore Wind Energy - Humboldt Baykeeper"
+published_at: 2023-05-10
+url: "https://www.humboldtbaykeeper.org/offshore-wind-energy/1693-responsible-offshore-wind-development-starts-at-the-port"
+description: >
+  Humboldt's proposed offshore wind project would significantly reduce carbon emissions throughout California. But to ensure the success of offshore wind and to meet the promise of climate action, decision-makers must commit to a green port facility capable of building and servicing the turbines while not further contributing to greenhouse gas emissions or polluting Humboldt Bay.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
