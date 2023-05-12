@@ -1,0 +1,28 @@
+---
+source: "Marketscreener.com"
+title: >
+  Eni for 2022 – A Just transition: Carbon neutrality by 2050
+description: >
+  (marketscreener.com) BASELINE 2018 LONG-TERM COMMITMENTS path of industrial transforma- tion that has gradually enabled the company to create value under challenging scenarios, helping to ensure the security of energy supplies and environm…
+url: "https://www.marketscreener.com/quote/stock/ENI-S-P-A-413403/news/Eni-for-2022-ndash-A-Just-transition-Carbon-neutrality-by-2050-43797721/?utm_medium=RSS&utm_content=20230510"
+published_at: 2023-05-10
+content: >
+  +13,000  EV charging points  FOCUS ON  NEW ENERGY SOLUTIONS  Eni is pursuing the transformation of its traditional businesses and the growth of its new activities by generating value and supporting i… [+9977 chars]
+author: "MarketScreener"
+image: "https://www.marketscreener.com/images/twitter_MS_fdgris.png"
+terms: "Cost of electricity"
+search_timestamp: 2023-05-12 00:29:17.312741
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

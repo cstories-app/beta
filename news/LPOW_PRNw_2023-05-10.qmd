@@ -1,0 +1,28 @@
+---
+source: "PRNewswire"
+title: >
+  Leaders at Pacific Offshore Wind Summit urge California to move with speed & scale to deploy nation-leading 25 GW of floating offshore wind, meet climate, clean-energy, grid-reliability goals
+description: >
+  BOEM and state indicate planning underway to identify future areas to reach ambitious 25 GW goal SACRAMENTO, Calif., May 10, 2023 /PRNewswire/ -- Federal, state and industry leaders on Day One of the Pacific Offshore Wind Summit joined in highlighting the imp…
+url: "https://www.prnewswire.com/news-releases/leaders-at-pacific-offshore-wind-summit-urge-california-to-move-with-speed--scale-to-deploy-nation-leading-25-gw-of-floating-offshore-wind-meet-climate-clean-energy-grid-reliability-goals-301820576.html"
+published_at: 2023-05-10
+content: >
+  BOEM and state indicate planning underway to identify future areas to reach ambitious 25 GW goal   SACRAMENTO, Calif., May 10, 2023 /PRNewswire/ -- Federal, state and industry leaders on Day One of t… [+5547 chars]
+author: "(unknown author)"
+image: "NA"
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2023-05-12 00:29:17.312741
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
