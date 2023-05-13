@@ -1,0 +1,28 @@
+---
+source: "PRNewswire"
+title: >
+  California sets a course to go big on floating offshore wind, make it a central part of its 100% clean-energy future, wins support of state & federal leaders at Pacific Offshore Wind Summit
+description: >
+  U.S. DOE announces new actions to help states advance floating offshore wind power, create more jobs SACRAMENTO, Calif., May 11, 2023 /PRNewswire/ -- Federal, state and industry leaders on Day Two of the Pacific Offshore Wind Summit applauded California's com…
+url: "https://www.prnewswire.com/news-releases/california-sets-a-course-to-go-big-on-floating-offshore-wind-make-it-a-central-part-of-its-100-clean-energy-future-wins-support-of-state--federal-leaders-at-pacific-offshore-wind-summit-301822597.html"
+published_at: 2023-05-11
+content: >
+  U.S. DOE announces new actions to help states advance floating offshore wind power, create more jobs  SACRAMENTO, Calif., May 11, 2023 /PRNewswire/ -- Federal, state and industry leaders on Day Two o… [+6435 chars]
+author: "(unknown author)"
+image: "NA"
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2023-05-13 00:29:02.224312
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
