@@ -1,0 +1,28 @@
+---
+source: "The Irish Times"
+title: >
+  First large wind farm off west coast among four offshore energy auction winners
+description: >
+  Sceirde Rocks wind farm off Connemara coast is one of four large wind farms with a combined 200 turbines that could be operational by 2028
+url: "https://www.irishtimes.com/ireland/2023/05/12/first-large-wind-farm-off-west-coast-among-four-offshore-energy-auction-winners/"
+published_at: 2023-05-12
+content: >
+  The first mega wind farm off the west coast of Ireland has been provisionally approved by the State as part of a strategy to power six million homes with renewable energy by 2030.  EirGrid yesterday … [+3766 chars]
+author: "Harry McGee"
+image: "https://www.irishtimes.com/resizer/6pzbAp-w5vLCVoTE1BDg4aj84jk=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LCRICZGB7KOYT252GARZEMF55M.jpg"
+terms: "Seascape"
+search_timestamp: 2023-05-14 00:31:58.814698
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
