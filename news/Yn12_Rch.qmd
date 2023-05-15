@@ -1,0 +1,28 @@
+---
+source: "Richmond.com"
+title: >
+  Youngkin vetoes five bills he couldn't get legislature to amend, signs 12 others
+description: >
+  RICHMOND — Gov. Glenn Youngkin vetoed five bills that he could not persuade the General Assembly to amend last month and signed a dozen others, including legislation to block children’s access to pornographic websites and allow Dominion Energy to recover…
+url: "https://richmond.com/news/state-and-regional/govt-and-politics/youngkin-vetoes-five-bills-he-couldnt-get-legislature-to-amend-signs-12-others/article_2dd70a98-f10e-11ed-a4bf-279647bf1196.html"
+published_at: 2023-05-13
+content: >
+  RICHMOND Gov. Glenn Youngkin vetoed five bills that he could not persuade the General Assembly to amend last month and signed a dozen others, including legislation to block childrens access to pornog… [+3616 chars]
+author: "MICHAEL MARTZ Richmond Times-Dispatch"
+image: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/46/c46d5065-f7dd-5067-8ebd-c946ff1322e8/645fb7e08e43e.preview.jpg?crop=1893%2C994%2C0%2C50&resize=1200%2C630&order=crop%2Cresize"
+terms: "Cost of electricity"
+search_timestamp: 2023-05-15 00:32:11.47086
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
