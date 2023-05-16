@@ -2,6 +2,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/BOEMSPID_BoOEM.html",
+      "/news/BOEMSPII_BoOEM.html",
       "/news/Yn12_Rch.html",
       "/news/Frst_ThIT_2023-05-12.html",
       "/news/C100_PRNw_2023-05-11.html",
@@ -213,6 +215,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/BOEMSPID_BoOEM.html",
+      "/news/BOEMSPII_BoOEM.html",
       "/news/Yn12_Rch.html",
       "/news/Frst_ThIT_2023-05-12.html",
       "/news/C100_PRNw_2023-05-11.html",

@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM Seeks Public Input to Inform Environmental Review of Gulf of Maine Offshore Wind Research Lease
+source: "Bureau of Ocean Energy Management"
+published_at: 2023-05-16
+url: "https://www.boem.gov/newsroom/press-releases/boem-seeks-public-input-inform-environmental-review-gulf-maine-offshore"
+description: >
+  BOEM to conduct a review of potential environmental impacts associated with the possible issuance of an offshore wind energy research lease in the Gulf of Maine.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM Seeks Public Input on Draft Environmental Analysis for Proposed Wind Energy Project Offshore New Jersey
+source: "Bureau of Ocean Energy Management"
+published_at: 2023-05-16
+url: "https://www.boem.gov/newsroom/press-releases/boem-seeks-public-input-draft-environmental-analysis-proposed-wind-energy"
+description: >
+  In support of the Biden-Harris administration’s goal of deploying 30 gigawatts of offshore wind energy capacity by 2030, the Bureau of Ocean Energy Management (BOEM) today announced the availability of the draft Environmental Impact Statement (EIS) for two wind energy projects offshore New Jersey. If approved, the two projects could generate about 2,800 megawatts (MW) of electricity, enough to power almost 1 million homes. Atlantic Shores submitted a combined Construction and Operations plan (COP) for two wind energy facilities and associated export cables on the Outer Continental Shelf...
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
