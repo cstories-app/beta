@@ -2,6 +2,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/MMGL_L-HB.html",
+      "/news/MMGL_OWE-HB.html",
       "/news/BOEMSPID_BoOEM.html",
       "/news/BOEMSPII_BoOEM.html",
       "/news/Yn12_Rch.html",
@@ -215,6 +217,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/MMGL_L-HB.html",
+      "/news/MMGL_OWE-HB.html",
       "/news/BOEMSPID_BoOEM.html",
       "/news/BOEMSPII_BoOEM.html",
       "/news/Yn12_Rch.html",
