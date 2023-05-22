@@ -1,0 +1,21 @@
+---
+title: >
+  My Word | The winds of change are blowing
+source: "Times-Standard"
+published_at: 2023-05-21
+url: "https://www.times-standard.com/2023/05/21/my-word-the-winds-of-change-are-blowing/"
+description: >
+  A single blade of an offshore wind turbine can span the length of a football field, and once assembled, wind turbines can stand as tall as the Washington Monument. The floating platforms that offshore wind turbines stand on can require thousands of miles of support lines and transmission cables. For construction of California’s first-ever offshore [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
