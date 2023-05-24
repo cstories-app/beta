@@ -1,17 +1,17 @@
 ---
 source: "Wattsupwiththat.com"
-author: "Guest Blogger"
 title: >
-  Weekly Climate and Energy News Roundup #542
+  Weekly Climate and Energy News Roundup #553
 description: >
-  The first principle is that you must not fool yourself and you are the easiest person to fool. — Richard P. Feynman The post Weekly Climate and Energy News Roundup #542 first appeared on Watts Up With That?.
-url: "https://wattsupwiththat.com/2023/03/06/weekly-climate-and-energy-news-roundup-541-2/"
-image: "https://149366104.v2.pressablecdn.com/wp-content/uploads/2020/12/wuwt-logo.jpg"
-published_at: 2023-03-06
+  The third aspect of my subject is that of science as a method of finding things out. This method is based on the principle that observation is the judge of whether something is so or not. All other aspects and characteristics of science can be understood dire…
+url: "https://wattsupwiththat.com/2023/05/22/weekly-climate-and-energy-news-roundup-553/"
+published_at: 2023-05-22
 content: >
-  The Week That Was: 2023-03-04 (March 4, 2023)Brought to You by SEPP (www.SEPP.org)The Science and Environmental Policy Project  Quote of the Week: The first principle is that you must not fool yourse… [+72441 chars]
+  The Week That Was: 2023-05-20 (May 20, 2023)Brought to You by SEPP (www.SEPP.org)The Science and Environmental Policy Project  Quote of the Week: The third aspect of my subject is that of science as … [+65358 chars]
+author: "Guest Blogger"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2023/05/IMG_7073-copy.webp?fit=1024%2C512&ssl=1"
 terms: "Cost of electricity"
-search_timestamp: 2023-03-08 00:34:23
+search_timestamp: 2023-05-24 00:30:16.070652
 ---
 
 
