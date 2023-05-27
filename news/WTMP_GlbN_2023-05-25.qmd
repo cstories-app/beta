@@ -1,0 +1,28 @@
+---
+source: "GlobeNewswire"
+title: >
+  Wind Tower Market Projected to Grow at a CAGR of 9.80%, Reaching USD 69.1 Billion by 2032 – Report by Market Research Future (MRFR)
+description: >
+  Wind Tower Market Growth Boost by Rising Demands and Technology Transition to Avail Clean Renewable Energy Wind Tower Market Growth Boost by Rising Demands and Technology Transition to Avail Clean Renewable Energy
+url: "https://www.globenewswire.com/news-release/2023/05/25/2675946/0/en/Wind-Tower-Market-Projected-to-Grow-at-a-CAGR-of-9-80-Reaching-USD-69-1-Billion-by-2032-Report-by-Market-Research-Future-MRFR.html"
+published_at: 2023-05-25
+content: >
+  New York, US, May 25, 2023 (GLOBE NEWSWIRE) -- According to a Comprehensive Research Report by Market Research Future (MRFR), Wind Tower Market Information by Product, Application, and Region - Forec… [+7893 chars]
+author: "Market Research Future"
+image: "https://ml.globenewswire.com/Resource/Download/3e9f3ceb-4861-46da-9c98-64c87256444d"
+terms: "Cost of electricity"
+search_timestamp: 2023-05-27 00:32:24.374424
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
