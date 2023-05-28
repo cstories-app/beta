@@ -1,0 +1,21 @@
+---
+title: >
+  Harbor District Awarded \$500,000 EPA Grant to Assess Contamination at Redwood Marine Terminal
+source: "Latest - Humboldt Baykeeper"
+published_at: 2023-05-27
+url: "https://www.humboldtbaykeeper.org/news/latest/1700-harbor-district-awarded-500-000-epa-grant-to-assess-contamination-at-redwood-marine-terminal"
+description: >
+  Representative Jared Huffman (D-San Rafael) shared the announcement that over $4.4 million from President Biden’s Investing in America Agenda has been awarded to expedite the assessment and cleanup of brownfield sites in Northern California while advancing environmental justice. $1.45 of this funding is headed specifically to three projects in California’s Second Congressional District: Hoopa Valley Tribe, Cleanup Grant; Humboldt Bay Harbor, Recreation, and Conservation District, Assessment Grant; and Tolowa Dee-ni’ Nation, Cleanup Grant.&nbsp;The Harbor District was awarded $500,000 to support assessment and cleanup planning at the Redwood Marine Terminal, focusing on a former lumber mill with pentachlorophenol and dioxin contamination to support redevelopment into the Humboldt Bay Offshore Wind Heavy Lift Marine Terminal.&nbsp;The new terminal will support tenants in the manufacturing, installation, and operation of renewable energy offshore wind floating platforms and provide crewing and marshaling services in the waters of the Pacific Ocean.“Cleaning up brownfields is good for the environment, the economy, and surrounding communities that suffer the lasting impacts that polluting and extractive industries have left behind. Contaminated and abandoned areas are dangerous blemishes that keep communities from using these places to the fullest,” said Rep. Jared Huffman. “It’s great to see money from Democrats’ historic investments going towards cleanup projects in my district. Part of our vision for the Investing in America Agenda is to rebuild and restore our land and infrastructure with a focus on climate resiliency and environmental justice. This grant will go a long way in revitalizing potential wastelands, allowing them to be utilized as working places for the tribes and cities that depend on them.”Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
