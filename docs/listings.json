@@ -2,6 +2,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/BOEMCEA_BoOEM.html",
+      "/news/BOEMCER_BoOEM.html",
       "/news/HDA5_L-HB.html",
       "/news/WTMP_GlbN_2023-05-25.html",
       "/news/BOEMC_BoOEM.html",
@@ -221,6 +223,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/BOEMCEA_BoOEM.html",
+      "/news/BOEMCER_BoOEM.html",
       "/news/HDA5_L-HB.html",
       "/news/WTMP_GlbN_2023-05-25.html",
       "/news/BOEMC_BoOEM.html",

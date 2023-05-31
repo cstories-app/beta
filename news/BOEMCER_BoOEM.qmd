@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM Completes Environmental Review of Offshore Wind Leasing in the Gulf of Mexico
+source: "Bureau of Ocean Energy Management"
+published_at: 2023-05-31
+url: "https://www.boem.gov/newsroom/press-releases/boem-completes-environmental-review-offshore-wind-leasing-gulf-mexico"
+description: >
+  As part of the Biden-Harris administration’s goal of permitting 30 gigawatts of offshore wind energy capacity by 2030, the Bureau of Ocean Energy Management (BOEM) today issued a final environmental assessment (EA) on potential impacts from offshore wind leasing on the U.S. Outer Continental Shelf in the Gulf of Mexico, a key milestone towards the potential first-ever offshore wind lease sale in the Gulf. Based on the analysis in the EA, BOEM has issued a finding of no significant impacts to environmental resources. Today's announcement was made possible by the work of Gulf of Mexico...
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
