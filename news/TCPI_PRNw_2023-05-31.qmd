@@ -1,0 +1,28 @@
+---
+source: "PRNewswire"
+title: >
+  Tugdock, Crowley Partner to Innovate Solutions for Floating Offshore Wind Energy
+description: >
+  JACKSONVILLE, Fla., May 31, 2023 /PRNewswire/ -- Crowley announced today a new investment in Tugdock, developers of the world's first road-transportable floating dry dock known as the Tugdock Submersible Platform (TSP), to help advance offshore wind energy in…
+url: "https://www.prnewswire.com/news-releases/tugdock-crowley-partner-to-innovate-solutions-for-floating-offshore-wind-energy-301837911.html"
+image: "https://mma.prnewswire.com/media/2088526/Tugdock_Rendering_2023.jpg?p=facebook"
+published_at: 2023-05-31
+content: >
+  JACKSONVILLE, Fla., May 31, 2023 /PRNewswire/ -- Crowley announced today a new investment in Tugdock, developers of the world's first road-transportable floating dry dock known as the Tugdock Submers… [+6545 chars]
+author: "(unknown author)"
+terms: "Humboldt"
+search_timestamp: 2023-06-02 00:35:01.965559
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
