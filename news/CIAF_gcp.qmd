@@ -1,0 +1,28 @@
+---
+source: "gcaptain.com"
+author: "Mike Schuler"
+title: >
+  Crowley Investment to Advance Floating Offshore Wind Energy Capacity in U.S.
+description: >
+  US-based maritime specialist Crowley has announced a new investment in Tugdock, the developers of the innovative Tugdock Submersible Platform (TSP). The TSP is touted as the world’s first road-transportable floating...
+url: "https://gcaptain.com/crowley-investment-to-advance-floating-offshore-wind-energy-capacity-in-u-s/"
+image: "https://gcaptain.com/wp-content/uploads/2023/06/Tugdock-Rendering_2023.jpg"
+published_at: 2023-06-01
+content: >
+  US-based maritime specialist Crowley has announced a new investment in Tugdock, the developers of the innovative Tugdock Submersible Platform (TSP). The TSP is touted as the world’s first road-transp… [+3743 chars]
+terms: "Humboldt"
+search_timestamp: 2023-06-03 00:32:27.12736
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
