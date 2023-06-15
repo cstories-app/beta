@@ -2,6 +2,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/CSAS_PRNw_2023-06-13.html",
       "/news/CIAF_gcp.html",
       "/news/BOEMCEA_BoOEM.html",
       "/news/BOEMCER_BoOEM.html",
@@ -232,6 +233,7 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/CSAS_PRNw_2023-06-13.html",
       "/news/CIAF_gcp.html",
       "/news/BOEMCEA_BoOEM.html",
       "/news/BOEMCER_BoOEM.html",

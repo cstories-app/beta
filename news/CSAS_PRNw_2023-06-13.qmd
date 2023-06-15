@@ -1,0 +1,28 @@
+---
+source: "PRNewswire"
+title: >
+  Crowley's Second Annual Sustainability Report Details Progress on Environmental Strategy and Continued Commitment to Employees
+description: >
+  JACKSONVILLE, Fla., June 13, 2023 /PRNewswire/ -- Crowley has released its second annual sustainability report today, which details progress toward its sustainability goals in 2022 and previews continued efforts for 2023 and beyond. The report demonstrates ho…
+url: "https://www.prnewswire.com/news-releases/crowleys-second-annual-sustainability-report-details-progress-on-environmental-strategy-and-continued-commitment-to-employees-301849769.html"
+image: "https://mma.prnewswire.com/media/2099251/Crowley_annual_Sustainability_Report.jpg?p=facebook"
+published_at: 2023-06-13
+content: >
+  JACKSONVILLE, Fla., June 13, 2023 /PRNewswire/ -- Crowley has released its second annual sustainability report today, which details progress toward its sustainability goals in 2022 and previews conti… [+3724 chars]
+author: "(unknown author)"
+terms: "Humboldt"
+search_timestamp: 2023-06-15 00:34:40.398433
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
