@@ -1,0 +1,28 @@
+---
+source: "ABC News"
+title: >
+  Congressional watchdog agency to probe offshore wind impacts
+description: >
+  The independent watchdog agency of Congress has agreed to look into the impacts that offshore wind development could have on the environment, fishing industry and other areas
+url: "https://abcnews.go.com/Politics/wireStory/congressional-watchdog-agency-probe-offshore-wind-impacts-100125410"
+image: "https://s.abcnews.com/images/US/wirestory_c6c207ca5f0b00204959cc9213b3e727_12x5_992.jpg"
+published_at: 2023-06-15
+content: >
+  ATLANTIC CITY, N.J. -- The independent watchdog agency of Congress agreed Thursday to look into the impacts that offshore wind development could have on the environment, fishing industry and other ar… [+2863 chars]
+author: "WAYNE PARRY Associated Press"
+terms: "Seascape | Seascape"
+search_timestamp: 2023-06-17 00:58:41.421193
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

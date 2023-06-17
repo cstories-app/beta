@@ -1,0 +1,28 @@
+---
+source: "Fox News"
+title: >
+  Federal watchdog opens investigation into offshore wind impacts amid whale deaths
+description: >
+  A federal watchdog is opening an investigation into offshore wind development after a Republican congressman expressed concern about turbines impact on the economy and wildlife.
+url: "https://www.foxnews.com/politics/federal-watchdog-opens-investigation-offshore-wind-impacts-amid-whale-deaths"
+image: "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/Biden-wind.jpeg"
+published_at: 2023-06-15
+content: >
+  A top federal watchdog agency is opening an investigation into the impacts of offshore wind along the New Jersey coastline amid calls for a moratorium on development and an uptick in marine wildlife … [+3520 chars]
+author: "Thomas Catenacci"
+terms: "Seascape"
+search_timestamp: 2023-06-17 00:58:41.421193
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

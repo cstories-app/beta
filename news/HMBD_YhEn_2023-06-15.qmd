@@ -1,0 +1,28 @@
+---
+source: "Yahoo Entertainment"
+title: >
+  Howard Marks Buys Daqo New Energy in 1st Quarter
+description: >
+  Marks' Oaktree took a solar leap
+url: "https://finance.yahoo.com/news/howard-marks-buys-daqo-energy-163453231.html"
+image: "https://s.yimg.com/ny/api/res/1.2/vPiph2j1kqS6fG5PU68Pcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODk-/https://media.zenfs.com/en/us.finance.gurufocus/f2a3c5fda3e60fd0ad26e4718dd7767b"
+published_at: 2023-06-15
+content: >
+  According to Oaktree Capital Management's 13F report for the first quarter of 2023, the firm run by Howard Marks (Trades, Portfolio) placed a significant bet on the future of green energy by buying 1… [+10135 chars]
+author: "Yiannis Zourmpanos"
+terms: "Cost of electricity"
+search_timestamp: 2023-06-17 00:58:41.421193
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -1,0 +1,28 @@
+---
+source: "PRNewswire"
+title: >
+  Off-Shore Wind Global Market Report 2023: Developments in Wind Turbines & Allied Wind Farm Technologies Makes Offshore Wind Projects Easier to Deploy
+description: >
+  DUBLIN, June 15, 2023 /PRNewswire/ -- The "Off-Shore Wind - Global Strategic Business Report" report has been added to ResearchAndMarkets.com's offering. Global Off-Shore Wind Market to Reach $95.2 Billion by 2030 In the changed post COVID-19 business landsca…
+url: "https://www.prnewswire.com/news-releases/off-shore-wind-global-market-report-2023-developments-in-wind-turbines--allied-wind-farm-technologies-makes-offshore-wind-projects-easier-to-deploy-301851833.html"
+image: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+published_at: 2023-06-15
+content: >
+  DUBLIN, June 15, 2023 /PRNewswire/ -- The "Off-Shore Wind - Global Strategic Business Report" report has been added to ResearchAndMarkets.com's offering.  Global Off-Shore Wind Market to Reach $95.2 … [+5075 chars]
+author: "(unknown author)"
+terms: "Cost of electricity"
+search_timestamp: 2023-06-17 00:58:41.421193
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
