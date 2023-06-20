@@ -1,0 +1,21 @@
+---
+title: >
+  Offshore wind foes in New Jersey gathering force legally and politically
+source: "News Channel 3-12"
+published_at: 2023-06-19
+url: "https://keyt.com/news/2023/06/19/offshore-wind-foes-in-new-jersey-gathering-force-legally-and-politically/"
+description: >
+  Offshore wind foes in New Jersey gathering force legally and politicallyThe post Offshore wind foes in New Jersey gathering force legally and politically appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
