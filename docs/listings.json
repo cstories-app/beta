@@ -4,6 +4,7 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/GAOA_gcp.html",
       "/news/OfNJ_NC3-.html",
       "/news/Cngr_ABCN_2023-06-15.html",
       "/news/Fdrl_FxNw_2023-06-15.html",
@@ -238,6 +239,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/GAOA_gcp.html",
       "/news/OfNJ_NC3-.html",
       "/news/Cngr_ABCN_2023-06-15.html",
       "/news/Fdrl_FxNw_2023-06-15.html",

@@ -1,0 +1,28 @@
+---
+source: "gcaptain.com"
+title: >
+  GAO Agrees to Study Offshore Wind Impacts in New Jersey, Says Congressman
+description: >
+  The Government Accountability Office (GAO) has agreed to investigate the various impacts of offshore wind farms under development off the coast of New Jersey, according to U.S. Congressman Chris Smith...
+url: "https://gcaptain.com/gao-agrees-to-study-offshore-wind-impacts-in-new-jersey-says-congressman/"
+image: "https://gcaptain.com/wp-content/uploads/2022/07/shutterstock_2179829399.jpg"
+published_at: 2023-06-20
+content: >
+  The Government Accountability Office (GAO) has agreed to investigate the various impacts of offshore wind farms under development off the coast of New Jersey, according to U.S. Congressman Chris Smit… [+1790 chars]
+author: "Mike Schuler"
+terms: "Seascape"
+search_timestamp: 2023-06-22 00:36:02.399379
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
