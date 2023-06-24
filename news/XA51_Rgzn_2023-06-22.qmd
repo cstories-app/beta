@@ -1,0 +1,28 @@
+---
+source: "Rigzone"
+title: >
+  Xodus Adds 51 Platforms to Its OBP
+description: >
+  Since launching its Offshore Bird Portal in January, Xodus has signed up 51 platforms.
+url: "https://www.rigzone.com/news/xodus_adds_51_platforms_to_its_obp-22-jun-2023-173158-article/"
+image: "https://images.rigzone.com/images/news/articles/Xodus-Adds-51-Platforms-to-Its-OBP-173158-582x327.png"
+published_at: 2023-06-22
+content: >
+  A total of 51 platforms have joined the not-for-profit Offshore Bird Portal (OBP) since energy consultancy Xodus launched it in January.  Oil and gas operators from across the UK Continental Shelf (U… [+2447 chars]
+author: "Paul Anderson"
+terms: "Seabirds"
+search_timestamp: 2023-06-24 00:38:16.292048
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
