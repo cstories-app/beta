@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+title: >
+  Offshore Wind Energy Opportunities in the 5 Great Lakes
+description: >
+  From High-Paying Jobs to a Cleaner Environment, Great Lakes Wind Energy Could Provide Economic Growth for Millions of Regional Residents and Help States Achieve Renewable Energy Targets
+url: "https://cleantechnica.com/2023/06/27/offshore-wind-energy-opportunities-in-the-5-great-lakes/"
+image: "http://cleantechnica.com/files/2023/06/US-Great-Lakes-NASA-800x425.png"
+published_at: 2023-06-28
+content: >
+  The five Great LakesSuperior, Huron, Michigan, Erie, and Ontariocontain 20% of the planets freshwater resources. They provide drinking water to more than 40 million people. And they hold a wealth of … [+9251 chars]
+author: "U.S. Department of Energy"
+terms: "Viewshed"
+search_timestamp: 2023-06-30 00:36:52.367821
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

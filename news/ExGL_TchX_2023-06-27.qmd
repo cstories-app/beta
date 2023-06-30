@@ -1,0 +1,28 @@
+---
+source: "Tech Xplore"
+title: >
+  Exploring offshore wind energy opportunities in the Great Lakes
+description: >
+  The five Great Lakes—Superior, Huron, Michigan, Erie, and Ontario—contain 20% of the planet's freshwater resources. They provide drinking water to more than 40 million people. And they hold a wealth of wind energy potential.
+url: "https://techxplore.com/news/2023-06-exploring-offshore-energy-opportunities-great.html"
+image: "https://scx2.b-cdn.net/gfx/news/2023/exploring-offshore-win.jpg"
+published_at: 2023-06-27
+content: >
+  The five Great LakesSuperior, Huron, Michigan, Erie, and Ontariocontain 20% of the planet's freshwater resources. They provide drinking water to more than 40 million people. And they hold a wealth of… [+8195 chars]
+author: "Carol Laurie"
+terms: "Viewshed"
+search_timestamp: 2023-06-30 00:36:52.367821
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

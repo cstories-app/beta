@@ -1,0 +1,28 @@
+---
+source: "Fox News"
+title: >
+  Biden admin under fire for offshore wind impacts on military operations
+description: >
+  The Biden administration is under fire for trudging ahead with massive offshore wind development amid concerns about turbines' effects on military operations.
+url: "https://www.foxnews.com/politics/biden-admin-under-fire-offshore-wind-impacts-military-operations"
+image: "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/Biden-wind.jpeg"
+published_at: 2023-06-28
+content: >
+  The Biden administration is facing pressure from lawmakers and experts who are calling for an immediate moratorium on offshore wind development until its effects, including on military operations, na… [+6752 chars]
+author: "Thomas Catenacci"
+terms: "Viewshed"
+search_timestamp: 2023-06-30 00:36:52.367821
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
