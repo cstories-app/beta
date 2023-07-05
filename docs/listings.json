@@ -1,9 +1,17 @@
 [
   {
+    "listing": "/infographics.html",
+    "items": [
+      "/infographics/viewshed.html",
+      "/infographics/whales.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/SLOC_SLOT_2023-07-03.html",
       "/news/Bdnd_FxNw_2023-06-28.html",
       "/news/OWEO_ClnT_2023-06-28.html",
       "/news/ExGL_TchX_2023-06-27.html",
@@ -236,6 +244,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/SLOC_SLOT_2023-07-03.html",
       "/news/Bdnd_FxNw_2023-06-28.html",
       "/news/OWEO_ClnT_2023-06-28.html",
       "/news/ExGL_TchX_2023-06-27.html",
@@ -463,13 +472,6 @@
       "/news/HOWL_OWE-HB.html",
       "/news/COREHS_RCOR.html",
       "/news/OfWH_OWE-HB.html"
-    ]
-  },
-  {
-    "listing": "/infographics.html",
-    "items": [
-      "/infographics/viewshed.html",
-      "/infographics/whales.html"
     ]
   }
 ]

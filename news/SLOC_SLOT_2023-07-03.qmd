@@ -1,0 +1,28 @@
+---
+source: "San Luis Obispo Tribune"
+title: >
+  SLO County projects to get more than \$13 million in state funds. Here’s where money will go
+description: >
+  Projects related to Diablo Canyon Power Plant and offshore wind development are among those slated to receive state funding.
+url: "https://www.sanluisobispo.com/news/politics-government/article276977303.html"
+image: "https://media.zenfs.com/en/san_luis_obispo_tribune_mcclatchy_articles_722/f0f4c3418bd3f38b511e92f274b56973"
+published_at: 2023-07-03
+content: >
+  Millions of dollars in state funding are headed to the Central Coast to support projects related to energy development, land preservation, storm repairs and more.  San Luis Obispo County will receive… [+5488 chars]
+author: "Stephanie Zappelli"
+terms: "Morro Bay"
+search_timestamp: 2023-07-05 00:39:11.117629
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
