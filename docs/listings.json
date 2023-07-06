@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/infographics.html",
-    "items": [
-      "/infographics/viewshed.html",
-      "/infographics/whales.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/infographics/viewshed.html",
@@ -472,6 +465,13 @@
       "/news/HOWL_OWE-HB.html",
       "/news/COREHS_RCOR.html",
       "/news/OfWH_OWE-HB.html"
+    ]
+  },
+  {
+    "listing": "/infographics.html",
+    "items": [
+      "/infographics/viewshed.html",
+      "/infographics/whales.html"
     ]
   }
 ]
