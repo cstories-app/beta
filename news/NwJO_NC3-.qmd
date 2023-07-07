@@ -1,0 +1,21 @@
+---
+title: >
+  New Jersey governor signs tax break for Orsted’s offshore wind farm
+source: "News Channel 3-12"
+published_at: 2023-07-06
+url: "https://keyt.com/news/2023/07/06/new-jersey-governor-signs-tax-break-for-orsteds-offshore-wind-farm/"
+description: >
+  New Jersey governor signs tax break for Orsted's offshore wind farmThe post New Jersey governor signs tax break for Orsted&#8217;s offshore wind farm appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
