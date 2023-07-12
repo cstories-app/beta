@@ -2,7 +2,7 @@ on:
   #push:
   #  branches: main
   schedule:
-    - cron:  '0 0 * * *'  # run daily at midnight
+    - cron: "0 0 * * *" # run daily at midnight
   workflow_dispatch:
 
 name: Update News
@@ -30,7 +30,7 @@ jobs:
           sudo apt-get install gdal-bin libgdal-dev proj-bin    # terra -> leaflet
 
       - name: Install R packages with renv
-        uses: r-lib/actions/setup-renv@v2
+        uses: r-lib/actions/setup-renv@v2-branch
 
       - name: Update news via NewsAPI
         run: source("_scripts/news_generation/news_apis.R")
