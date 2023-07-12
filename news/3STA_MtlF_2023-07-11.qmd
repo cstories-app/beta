@@ -1,0 +1,28 @@
+---
+source: "Motley Fool"
+title: >
+  3 Stocks That Are Down Big Despite the 2023 Market Rally
+description: >
+  Negative investor sentiment and industrywide slowdowns are impacting these companies.
+url: "https://www.fool.com/investing/2023/07/11/3-stocks-that-are-down-big-despite-the-2023-market/"
+image: "https://g.foolcdn.com/editorial/images/738577/gettyimages-1469732905.jpg"
+published_at: 2023-07-11
+content: >
+  2023 has been a great year for the stock market. But as with all bull markets, many well-known stocks or even sectors can fail to participate in the rally. Owning an underperforming asset during a bu… [+7200 chars]
+author: "newsfeedback@fool.com (Daniel Foelber, Scott Levine, and Lee Samaha)"
+terms: "Cost of electricity"
+search_timestamp: 2023-07-12 16:03:55.381488
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

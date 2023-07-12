@@ -1,0 +1,28 @@
+---
+source: "BusinessLine"
+title: >
+  To scale up, diversify and accelerate is the need of the hour
+description: >
+  While India has made significant strides with 40 per cent of power coming from renewable energy and hydel power, it needs to scale up generation and diversify into new green energy sources.
+url: "https://www.thehindubusinessline.com/specials/clean-tech/to-scale-up-diversify-and-accelerate-is-the-need-of-the-hour/article67048805.ece"
+image: "https://bl-i.thgim.com/public/incoming/7vumxp/article67049578.ece/alternates/LANDSCAPE_1200/BL28_Think_Hydrogen_energy_2.jpg"
+published_at: 2023-07-09
+content: >
+  Energy transition in the country is at an inflection point. While India has made significant strides with 40 per cent of power coming from renewable energy and hydel power, it needs to scale up gener… [+4796 chars]
+author: "V Rishi Kumar"
+terms: "Cost of electricity"
+search_timestamp: 2023-07-12 16:03:55.381488
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -1,0 +1,28 @@
+---
+source: "GlobeNewswire"
+title: >
+  Global Wind Turbine Towers Market to Reach \$53.1 Billion by 2030
+description: >
+  Global Wind Turbine Towers Market to Reach $53.1 Billion by 2030. In the changed post COVID-19 business landscape, the global market for Wind Turbine Towers estimated at US$30.6 Billion in the year 2022, is projected to reach a revised size of US$53.1 Billion…
+url: "https://www.globenewswire.com/news-release/2023/07/07/2701094/0/en/Global-Wind-Turbine-Towers-Market-to-Reach-53-1-Billion-by-2030.html"
+image: "https://ml.globenewswire.com/Resource/Download/3e0b82c2-02d7-44c8-b22f-561e0f321f39"
+published_at: 2023-07-07
+content: >
+  New York, July 07, 2023 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report "Global Wind Turbine Towers Industry" - https://www.reportlinker.com/p06044140/?utm_source=GNWTubular … [+31373 chars]
+author: "ReportLinker"
+terms: "Cost of electricity"
+search_timestamp: 2023-07-12 16:03:55.381488
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
