@@ -1,0 +1,21 @@
+---
+title: >
+  Harbor District to Host Public Meeting Kicking Off Environmental Review of Offshore Wind Heavy Lift Marine Terminal Project
+source: "Offshore Wind Energy - Humboldt Baykeeper"
+published_at: 2023-07-12
+url: "https://www.humboldtbaykeeper.org/offshore-wind-energy/1719-harbor-district-to-host-public-meeting-kicking-off-environmental-review-of-offshore-wind-heavy-lift-marine-terminal-project-3"
+description: >
+  The Humboldt Bay Harbor, Recreation and Conservation District — or &nbsp;let’s just call it “the Harbor District” for short — will host a public “scoping meeting” Wednesday evening from 5:30 to 7 p.m. at Eureka’s Wharfinger Building, located at 1 Marina Way.What’s a scoping meeting, you ask? Well, the Harbor District recently announced that, per the rules of the California Environmental Quality Act, it is developing a Draft Environmental Impact Report (DEIR) for a major renovation of the Port of Humboldt Bay.That’s right: The district is preparing to meet the needs of the multinational, federally stimulated offshore wind industry, and tomorrow night’s meeting will give the public its first opportunity to weigh in on the “scope” of environmental issues that should be included in the report.&nbsp;The idea, as recently explained in a thorough and informative YouTube video featuring Rob Holmlund, the Harbor District’s director of development, is to transform the district’s largely vacant former industrial property on the Samoa Peninsula (home to the dilapidated remnants of the old pulp mill and Hammond Lumber Mill) into a state-of-the-art “heavy lift marine terminal,” a compound where the jaw-droppingly massive wind turbine components could be manufactured, assembled and then loaded onto ships.In a jointly authored opinion piece, local environmental leaders recently called on the Harbor District to commit to a zero-emissions green port by employing such emerging technologies as electrified terminal equipment, on-shore power stations for idling ships, fully electric tugboats and battery storage facilities.“We would love to see a commitment to a green port from the get-go,” said Jennifer Savage, a 20-year resident of the Samoa Peninsula (and a friend of mine). “It only makes sense that a project designed to move us away from fossil fuels would be clean and climate-friendly itself.”While the Harbor District has insisted that its port-development project extends only as far as the harbor entrance — which is to say it’s distinct from the offshore wind farms themselves — Savage and others argue that all aspects of the development, including support activities, should be identified and analyzed as part of the Harbor District’s environmental review process.&nbsp;Jennifer Kalt, executive director of environmental nonprofit Humboldt Baykeeper and one of the authors of the recent opinion piece, said this kind of advocacy isn’t about obstructionism.“It’s hard to say ‘zero emissions’ without people thinking that we’re asking them to reach an unachievable bar, but that’s not at all what we’re doing,” she said. “We don’t want to make perfect the enemy of good. We just want it to be planned right from the start.”
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

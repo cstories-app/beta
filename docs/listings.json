@@ -2,6 +2,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/HDHP_L-HB.html",
+      "/news/HDHP_OWE-HB.html",
       "/news/3STA_MtlF_2023-07-11.html",
       "/news/Tscl_BsnL_2023-07-09.html",
       "/news/GOSW_GlbN_2023-07-07.html",
@@ -242,6 +244,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/HDHP_L-HB.html",
+      "/news/HDHP_OWE-HB.html",
       "/news/3STA_MtlF_2023-07-11.html",
       "/news/Tscl_BsnL_2023-07-09.html",
       "/news/GOSW_GlbN_2023-07-07.html",
