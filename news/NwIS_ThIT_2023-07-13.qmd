@@ -1,0 +1,28 @@
+---
+source: "The Irish Times"
+author: "Kevin O'Sullivan"
+title: >
+  New special protection area for marine birds in Irish Sea may affect offshore wind farm development
+description: >
+  North-West Irish Sea SPA to stretch along coasts of counties Dublin, Meath and Louth and become Ireland’s largest protected area for bird species
+url: "https://www.irishtimes.com/environment/2023/07/13/new-special-protection-area-for-marine-birds-in-irish-sea-may-affect-offshore-wind-farm-development/"
+image: "https://www.irishtimes.com/resizer/6RMsIFRi53kAOMnpI0tO0YOMlq0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/6YEB7VZ2X2PSF6OQUWWBRI6YSY.jpg"
+published_at: 2023-07-13
+content: >
+  A vast expanse of more than 230,000 hectares of marine waters in the Irish Sea is to become Irelands largest protected area for bird species.  The North-West Irish Sea Special Protection Area (SPA) i… [+4158 chars]
+terms: "Seabirds"
+search_timestamp: 2023-07-15 00:38:32.928751
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
