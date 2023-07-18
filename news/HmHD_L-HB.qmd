@@ -1,0 +1,21 @@
+---
+title: >
+  Humboldt Harbor District’s offshore wind port plans – a report on the scoping meeting
+source: "Latest - Humboldt Baykeeper"
+published_at: 2023-07-17
+url: "https://www.humboldtbaykeeper.org/news/latest/1720-humboldt-harbor-district-s-offshore-wind-port-plans-a-report-on-the-scoping-meeting"
+description: >
+  The Humboldt Bay Harbor District’s public meeting at the Wharfinger last night turned out to be one of the most heartening public meetings I’ve attended. (See background here.) Not only was almost all the discussion and public comment on point, concise and thoughtful, but the wide-ranging concerns brought up proved to be near-universal among the disparate crowd: Most people want to see offshore wind “done right.”When considering a lease with multinational maritime energy corporation Crowley to build a massive new “heavy lift marine terminal” on the Samoa Peninsula to service California and Oregon’s planned offshore wind farms, “done right” means emphasizing:local job sourcing,&nbsp;tribal consultation,&nbsp;environmental protections, especially through committing to a “green” port,&nbsp;avoiding impacts to commercial fishermen,minimizing harm to residents on the Samoa Peninsula,&nbsp;limiting recreational impacts and&nbsp;ensuring tangible community benefits.Not every single person cared about every single thing equally, but no one voiced opposition to anything on that list.Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

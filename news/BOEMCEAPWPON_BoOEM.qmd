@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM Completes Environmental Analysis for Proposed Wind Project Offshore New Jersey
+source: "Bureau of Ocean Energy Management"
+published_at: 2023-07-18
+url: "https://www.boem.gov/newsroom/press-releases/boem-completes-environmental-analysis-proposed-wind-project-offshore-new"
+description: >
+  In support of the Biden-Harris administration’s goal of deploying 30 gigawatts of offshore wind energy capacity by 2030, the Bureau of Ocean Energy Management (BOEM) has completed its environmental analysis of the proposed Ocean Wind 1 wind project offshore New Jersey, which could power up to a half million homes with clean renewable energy. “BOEM continues to make progress towards a once-in-a-generation opportunity to build a new clean energy industry in the United States,” said BOEM Director Elizabeth Klein. “Offshore wind is a critical component of the Biden-Harris administration’s strategy...
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
