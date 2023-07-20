@@ -2,6 +2,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/BOEMSPIDEAG_BoOEM.html",
+      "/news/BOEMSPIDEAP_BoOEM.html",
       "/news/BOEMCEAPWPON_BoOEM.html",
       "/news/HmHD_L-HB.html",
       "/news/HmHD_OWE-HB.html",
@@ -248,6 +250,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/BOEMSPIDEAP_BoOEM.html",
+      "/news/BOEMSPIDEAG_BoOEM.html",
       "/news/BOEMCEAPWPON_BoOEM.html",
       "/news/HmHD_L-HB.html",
       "/news/HmHD_OWE-HB.html",
