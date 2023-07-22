@@ -1,0 +1,28 @@
+---
+source: "Energycentral.com"
+author: "[Energy Central] Ron Miller"
+title: >
+  The Fallacies Of California’s All-BEV Aspirations
+description: >
+  California has great plans for a majority battery electric vehicles (BEV) to provide for transportation needs in the state by 2035, with some estimates of around 12.5 million. What are the implications to the state electric grid’s ability to handle this incre…
+url: "https://energycentral.com/c/ec/fallacies-california%E2%80%99s-all-bev-aspirations"
+image: "https://energycentral.com/sites/default/files/styles/og_meta/public/ece/node_main/2023/7/cover12.jpg?itok=EFFEuh0b"
+published_at: 2023-07-20
+content: >
+  California has great plans for a majority battery electric vehicles (BEV) to provide for transportation needs in the state by 2035, with some estimates of around 12.5 million. What are the implicatio… [+11774 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-07-22 00:34:47.815384
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

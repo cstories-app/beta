@@ -1,0 +1,28 @@
+---
+source: "The Irish Times"
+author: "Barry O'Halloran"
+title: >
+  Sea bird protection plan clashes with proposed wind farm
+description: >
+  Industry criticises Government failure to consult
+url: "https://www.irishtimes.com/business/2023/07/20/sea-bird-protection-plan-clashes-with-proposed-wind-farm/"
+image: "https://www.irishtimes.com/resizer/ugteMQR_YvnhfNY1FiHtlAOtOQo=/1200x630/filters:format(jpg):quality(70):focal(2367x1818:2377x1828)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/MMBS2MWOAAFOFTQU35QM4HJO3Y.jpg"
+published_at: 2023-07-20
+content: >
+  Government designation of a special protection area for birds in the Irish Sea clashes with plans for one of several offshore wind farms with which the State recently struck electricity supply deals.… [+3363 chars]
+terms: "Seabirds"
+search_timestamp: 2023-07-22 00:34:47.815384
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

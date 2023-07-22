@@ -1,0 +1,28 @@
+---
+source: "POLITICO.eu"
+author: "Charlie Cooper"
+title: >
+  UK cuts King’s funding — because he’s coining it from offshore wind
+description: >
+  Chancellor Jeremy Hunt said the cut reflected 'the unexpected significant increase in the Crown Estate’s net profits from offshore wind developments.'
+url: "https://www.politico.eu/article/uk-cuts-kings-funding-because-hes-coining-it-from-offshore-wind/"
+image: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/07/20/GettyImages-170798756-scaled.jpg"
+published_at: 2023-07-20
+content: >
+  The U.K. government has more than halved the rate of public funding it gives King Charles III  because the monarch is making such big profits through offshore wind projects on the Crown Estate.  The … [+1684 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-07-22 00:34:47.815384
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
