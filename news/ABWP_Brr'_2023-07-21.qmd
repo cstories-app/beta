@@ -1,0 +1,28 @@
+---
+source: "Barron's"
+author: "Avi Salzman"
+title: >
+  America's Bet on Wind Power Is Running Into a Big Problem
+description: >
+  Higher costs and serious delays are plaguing offshore wind projects. Consumers, investors, and the environment will pay the price.
+url: "https://www.barrons.com/articles/offshore-wind-power-energy-costs-24a9b387"
+image: "https://images.barrons.com/im-820008/social"
+published_at: 2023-07-21
+content: >
+  Crane ships and construction barges have joined the pleasure boats floating off the coast of vacation hot spots Montauk and Marthas Vineyard this summer. The hard hats working on them arent there to … [+17867 chars]
+terms: "Cost of electricity"
+search_timestamp: 2023-07-23 00:36:08.979903
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
