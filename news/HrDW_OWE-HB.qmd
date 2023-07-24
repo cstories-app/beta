@@ -1,0 +1,21 @@
+---
+title: >
+  Harbor District plans heavy lift marine terminal; Wind turbine facility raises issues re: diesel fuel use
+source: "Offshore Wind Energy - Humboldt Baykeeper"
+published_at: 2023-07-23
+url: "https://www.humboldtbaykeeper.org/offshore-wind-energy/1723-harbor-district-plans-heavy-lift-marine-terminal-wind-turbine-facility-raises-issues-re-diesel-fuel-use-2"
+description: >
+  The county’s Harbor District has begun an environmental review process on developing port facilities to assemble and haul out the gigantic turbine structures that will generate offshore wind energy.In late June, the district gave notice that it’s preparing a Draft Environmental Impact Report (DEIR) on a “heavy lift multipurpose marine terminal project” slated for a 180-acre area adjacent to the town of Samoa.In an opinion piece for the Lost Coast Outpost news website, representatives of four locally well-known environmental groups – Humboldt Baykeeper, the Environmental Protection Information Center, the Northcoast Environmental Center and the Coalition for Responsible Transportation Priorities – urged development of a “green port facility.”
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
