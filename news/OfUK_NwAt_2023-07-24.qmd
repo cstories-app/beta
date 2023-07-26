@@ -1,0 +1,28 @@
+---
+source: "New Atlas"
+author: "Paul Ridden"
+title: >
+  Offshore wind's first artificial nesting boxes installed off UK coast
+description: >
+  Back in August last year, Red7Marine joined a project led by Danish multinational Ørsted to design and install artificial nesting sites for threatened seabirds close to the Suffolk shoreline as part of the upcoming Hornsea 3 offshore windfarm project.Continue…
+url: "https://newatlas.com/environment/orsted-red7marine-first-artificial-nesting-structures/"
+image: "https://assets.newatlas.com/dims4/default/ba2ddc6/2147483647/strip/true/crop/8000x4200+0+533/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F01%2F11%2F54a8d42e484280fab5590a382211%2Fhaven-seachallenger-installing-artifical-nesting-structure-2.jpg&na.image_optimisation=0"
+published_at: 2023-07-24
+content: >
+  Back in August last year, Red7Marine joined a project led by Danish multinational Ørsted to design and install artificial nesting sites for threatened seabirds close to the Suffolk shoreline as part … [+2607 chars]
+terms: "Seabirds"
+search_timestamp: 2023-07-26 00:34:31.603392
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
