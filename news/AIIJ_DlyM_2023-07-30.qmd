@@ -1,0 +1,28 @@
+---
+source: "Daily Mail"
+author: "Jackie Bird"
+title: >
+  A dead bird is not a pretty sight. I'd steeled myself for the carcasses but I wasn't prepared for them dying right in front of my eyes writes JACKIE BIRD
+description: >
+  JACKIE BIRD: A dead bird is not a pretty sight, so I'd steeled myself for the carcasses I'd been told were littering the coastline. But what I hadn't prepared myself for were the dying.
+url: "https://www.dailymail.co.uk/news/article-12352763/A-dead-bird-not-pretty-sight-Id-steeled-carcasses-wasnt-prepared-dying-right-eyes-writes-JACKIE-BIRD.html"
+image: "https://i.dailymail.co.uk/1s/2023/07/30/00/73759235-0-image-a-52_1690673010770.jpg"
+published_at: 2023-07-30
+content: >
+  A dead bird is not a pretty sight, so I'd steeled myself for the carcasses I'd been told were littering the coastline. But what I hadn't prepared myself for were the dying. The moribund. The pathetic… [+8477 chars]
+terms: "Seabirds"
+search_timestamp: 2023-07-31 00:35:12.905351
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
