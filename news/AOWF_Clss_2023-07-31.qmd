@@ -1,0 +1,28 @@
+---
+source: "Colossal"
+author: "Kate Mothes"
+title: >
+  An Offshore Wind Farm in England Hosts Hundreds of Potential Nests for Endangered Kittiwakes
+description: >
+  The name kittiwake, which describes two related species of seabird that are common along the shores of Europe and North America, comes from its distinctively shrill call that sounds like, “kittee-wa-aaake, kitte-wa-aaake!” The coastal breeding birds are relia…
+url: "https://www.thisiscolossal.com/2023/07/offshore-kittiwake-nests/"
+image: "https://www.thisiscolossal.com/wp-content/uploads/2023/07/kittiwakes-og.jpg"
+published_at: 2023-07-31
+content: >
+  All images © Ørsted and Red7Marine, shared with permission  The name kittiwake, which describes two related species of seabird that are common along the shores of Europe and North America, comes from… [+2271 chars]
+terms: "Seabirds"
+search_timestamp: 2023-08-02 00:33:12.539752
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

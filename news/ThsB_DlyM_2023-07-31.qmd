@@ -1,0 +1,28 @@
+---
+source: "Daily Mail"
+author: "Katherine Lawton"
+title: >
+  The seaside town plagued by seagull 'invasion': Birds cause nuisance by stealing tourists' ice creams and squawking so loudly that people can't even use their phones
+description: >
+  The seagull invasion in Lowestoft, East Suffolk, comes after the council set up 'hotels' for the birds earlier this year - meaning up to 430 pairs can nest in the port.
+url: "https://www.dailymail.co.uk/news/article-12356663/The-seaside-town-plagued-seagull-invasion-Birds-cause-nuisance-stealing-tourists-ice-creams-squawking-loudly-people-use-phones.html"
+image: "https://i.dailymail.co.uk/1s/2023/07/31/14/73801223-0-image-a-62_1690809674154.jpg"
+published_at: 2023-07-31
+content: >
+  'Nuisance' seagulls are plaguing a seaside town by stealing tourists' food and squawking so loudly that people can't even use their phones.   The 'vicious' birds have taken to nicking ice creams and … [+3563 chars]
+terms: "Seabirds"
+search_timestamp: 2023-08-02 00:33:12.539752
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
