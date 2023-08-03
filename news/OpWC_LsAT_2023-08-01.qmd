@@ -1,0 +1,28 @@
+---
+source: "Los Angeles Times"
+author: "Michelle Solomon and Taylor McNair"
+title: >
+  Opinion: Wind farms off California's coast should be the future of the state's clean energy grid
+description: >
+  The West Coast should become a leader in building and deploying floating wind turbines, which could be installed far enough from shore to have minimal impact on views.
+url: "https://www.latimes.com/opinion/story/2023-08-01/california-offshore-wind-farms"
+image: "https://ca-times.brightspotcdn.com/dims4/default/48996e9/2147483647/strip/true/crop/1800x945+0+198/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F40%2Fa2%2F889a661d488f85c4bbb1883d7df8%2F49054.jpg"
+published_at: 2023-08-01
+content: >
+  Offshore wind could be the economic engine and energy solution California needs, but only if our state policymakers lead the way and were running out of time to get it right.  Last year California se… [+6405 chars]
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2023-08-03 00:34:13.95055
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
