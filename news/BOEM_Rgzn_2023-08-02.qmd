@@ -1,0 +1,28 @@
+---
+source: "Rigzone"
+author: "Paul Anderson"
+title: >
+  BOEM Identifies 3 Wind Energy Areas in Central Atlantic
+description: >
+  The U.S. Bureau of Ocean Energy Management has identified three final Wind Energy Areas offshore Delaware, Maryland, and Virginia.
+url: "https://www.rigzone.com/news/boem_identifies_3_wind_energy_areas_in_central_atlantic-02-aug-2023-173524-article/"
+image: "https://images.rigzone.com/images/news/articles/BOEM-Identifies-3-Wind-Energy-Areas-in-Central-Atlantic-173524-582x327.png"
+published_at: 2023-08-02
+content: >
+  Under the Biden-Harris administration’s goal to deploy 30 gigawatts (GW) of offshore wind power by 2030, the Bureau of Ocean Energy Management (BOEM) has selected three final Wind Energy Areas (WEAs)… [+3791 chars]
+terms: "Seascape"
+search_timestamp: 2023-08-04 00:33:28.700552
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

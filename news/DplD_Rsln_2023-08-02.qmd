@@ -1,0 +1,28 @@
+---
+source: "Resilience"
+author: "Joel Stronberg"
+title: >
+  Depoliticize to Decarbonize
+description: >
+  Too often in an effort to save Mother Nature, we forget about human nature. Solving problems with rolling out clean renewable energy is less a matter of the physical sciences than the social sciences—overcoming users’ habits and project resistance at the loca…
+url: "https://www.resilience.org/stories/2023-08-02/depoliticize-to-decarbonize/"
+image: "https://www.resilience.org/wp-content/uploads/2023/08/Children_of_the_Sun_Solar_Initiative_48132850231.jpg"
+published_at: 2023-08-02
+content: >
+  Ed. note: This piece was first published in The Environmental Law Institute’s periodical The Environmental Forum.  Too often in an effort to save Mother Nature, we forget about human nature. Solving … [+26035 chars]
+terms: "Seascape"
+search_timestamp: 2023-08-04 00:33:28.700552
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
