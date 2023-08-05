@@ -1,0 +1,28 @@
+---
+source: "Breitbart News"
+author: "Frances Martel, Frances Martel"
+title: >
+  Exclusive -- NJ Fishing Pros Warn Offshore Wind Killing Ocean Life: 'Never Seen Anything Remotely Like This' in Half a Century
+description: >
+  New Jersey's veteran fishing community fears surveying to install offshore wind turbines near the state's shore is already causing tremendous environmental damage, one local boat captain told Breitbart News, asserting that, in his experience, "dead whales on …
+url: "https://www.breitbart.com/environment/2023/08/03/exclusive-nj-fishing-pros-warn-offshore-wind-killing-ocean-life-never-seen-anything-remotely-like-this-in-half-a-century/"
+image: "https://media.breitbart.com/media/2023/08/dead-whale-jersey-shore.jpg"
+published_at: 2023-08-03
+content: >
+  New Jersey’s veteran fishing community fears surveying to install offshore wind turbines near the state’s shore is already causing tremendous environmental damage, one local boat captain told Breitba… [+10019 chars]
+terms: "Seascape"
+search_timestamp: 2023-08-05 00:33:46.828894
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
