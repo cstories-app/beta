@@ -1,0 +1,28 @@
+---
+source: "Biztoc.com"
+author: "politico.com"
+title: >
+  California's net-zero emissions goal depends on one of its poorer counties
+description: >
+  EUREKA, Calif. — A 300-foot tall smokestack from a defunct paper mill looms over the port in Humboldt Bay, a relic of the timber industry that once defined the northwestern corner of California along with the struggling salmon fishing industry and sputtering …
+url: "https://biztoc.com/x/af743b363f450c98"
+image: "https://c.biztoc.com/p/af743b363f450c98/s.webp"
+published_at: 2023-08-14
+content: >
+  EUREKA, Calif. A 300-foot tall smokestack from a defunct paper mill looms over the port in Humboldt Bay, a relic of the timber industry that once defined the northwestern corner of California along w… [+308 chars]
+terms: "Humboldt"
+search_timestamp: 2023-08-15 17:47:55.134985
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
