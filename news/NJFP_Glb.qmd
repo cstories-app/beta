@@ -1,0 +1,28 @@
+---
+source: "Globalresearch.ca"
+author: "Frances Martel"
+title: >
+  NJ Fishing Pros Warn Offshore Wind Killing Ocean Life: ‘Never Seen Anything Remotely Like This’ in Half a Century
+description: >
+  All Global Research articles can be read in 51 languages by activating the Translate Website button below the author’s name. To receive Global Research’s Daily Newsletter (selected articles), click here. Click the share button above to email/forward this arti…
+url: "https://www.globalresearch.ca/nj-fishing-pros-warn-offshore-wind-killing-ocean-life/5828922"
+image: "https://www.globalresearch.ca/wp-content/uploads/2023/08/GettyImages-1467755217.jpeg"
+published_at: 2023-08-15
+content: >
+  All Global Research articles can be read in 51 languages by activating the Translate Website button below the authors name.  To receive Global Researchs Daily Newsletter (selected articles), click he… [+9718 chars]
+terms: "Seascape"
+search_timestamp: 2023-08-17 00:27:35.030629
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
