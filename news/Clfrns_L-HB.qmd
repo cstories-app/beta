@@ -1,0 +1,21 @@
+---
+title: >
+  California’s planning a renewable energy project at a scale never before attempted in the world
+source: "Latest - Humboldt Baykeeper"
+published_at: 2023-08-18
+url: "https://www.humboldtbaykeeper.org/news/latest/1726-california-s-planning-a-renewable-energy-project-at-a-scale-never-before-attempted-in-the-world"
+description: >
+  The Newsom administration’s path to net-zero carbon emissions runs through one of the state’s poorer, most remote areas.A 300-foot tall smokestack from a defunct paper mill looms over the port in Humboldt Bay, a relic of the timber industry that once defined the northwestern corner of California along with the struggling salmon fishing industry and sputtering marijuana trade.But a gust of optimism has arrived in Humboldt County over plans to develop offshore wind at a depth and scale never before attempted in the world – sparking hope and anxiety in a region that has lived through repeated boom-and-bust cycles and ended up with one of the lower per-capita incomes in the state.“This is a generational project,” said Jeff Hunerlach, secretary-treasurer of a council of construction unions for Humboldt and neighboring Del Norte County. “I could work 20 years on this project and my kid could work 20 years on this project.”The offshore wind proposal, driven by the Biden and Newsom administration efforts to dramatically increase renewable energy, would erect dozens of turbines three times the size of that smokestack with blades as long as a football field in an area of the Pacific Ocean nearly 10 times the size of Manhattan.But the project faces a host of major challenges. They include not just the obvious economic and bureaucratic hurdles but also a widespread distrust of outsiders in a region where indiscriminate logging engendered deep resentment and where an illegal marijuana industry created a counterculture haven in the fog-shrouded mountains.The region is still recovering from mistakes of the past. International wind developers are pitching their projects just as many residents celebrate the removal of Klamath River dams the Yurok Tribe and the fishing industry fought for decades. The structures destroyed rich salmon habitat to export hydropower even as many native people lived without electricity.“It has to be done right,” said Yurok Vice Chairman Frankie Myers. “Because we have to avoid being in the same position we are now 50 years from now. I’ve spent most of my life fighting the dams. I do not want to leave my children a fight to remove offshore wind.”leaders such as Yurok Tribal Court Judge Abby Abinanti worry how the expected influx of construction and manufacturing labor, some likely to occupy temporary “mancamps,” will affect vulnerable people such as native women who already go missing and are killed at higher rates than other groups.“Our concern is that these camps end up elevating those kinds of statistics unless preventative efforts are made,” said Abinanti.She also wants to make sure women have the same access as men to the new jobs through training.Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
