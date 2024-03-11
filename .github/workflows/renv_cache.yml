@@ -9,7 +9,7 @@ env:
 name: Update News
 
 jobs:
-  build-deploy:
+  cache_renv:
     runs-on: ubuntu-latest
     steps:
       - name: Cache packages
