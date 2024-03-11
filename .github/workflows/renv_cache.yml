@@ -1,18 +1,27 @@
+on:
+  push:
+    branches:
+    - '*'
+
 env:
   RENV_PATHS_ROOT: ~/.cache/R/renv
 
-steps:
+name: Update News
 
-- name: Cache packages
-  uses: actions/cache@v1
-  with:
-    path: ${{ env.RENV_PATHS_ROOT }}
-    key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
-    restore-keys: |
-      ${{ runner.os }}-renv-
-
-- name: Restore packages
-  shell: Rscript {0}
-  run: |
-    if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
-    renv::restore()
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cache packages
+        uses: actions/cache@v1
+        with:
+          path: ${{ env.RENV_PATHS_ROOT }}
+          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-renv-
+      
+      - name: Restore packages
+        shell: Rscript {0}
+        run: |
+          if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
+          renv::restore()
