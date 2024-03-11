@@ -1,0 +1,21 @@
+---
+title: >
+  My Word | Pay attention as offshore wind is developed
+source: "RedwoodCOREHub"
+published_at: 2023-10-26
+url: "https://redwoodcorehub.org/my-word-pay-attention-as-offshore-wind-is-developed/?utm_source=rss&utm_medium=rss&utm_campaign=my-word-pay-attention-as-offshore-wind-is-developed"
+description: >
+  By Colleen Clifford, Manila resident This article originally appeared on the Times-Standard.com. As a 20-year Manila resident and a member of the Peninsula Community Collaborative (PCC), I feel the winds of change blowing and am paying close attention to the offshore wind projects slated to come to Humboldt Bay. Humboldt Bay and its offshore waters [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

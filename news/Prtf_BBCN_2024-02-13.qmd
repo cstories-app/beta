@@ -1,0 +1,28 @@
+---
+source: "BBC News"
+author: "https://www.facebook.com/bbcnews"
+title: >
+  'Pirate of the seas' in big decline after bird flu
+description: >
+  Sea bird counts after avian flu show serious declines in three species, the charity RSPB says.
+url: "https://www.bbc.co.uk/news/science-environment-68276680"
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/5FF2/production/_132626542_skua.jpg"
+published_at: 2024-02-13
+content: >
+  A powerful bird known as the pirate of the seas has declined dramatically because of avian flu, the RSPB says.  Great Skuas soar around the UK's coasts stealing other birds' food but their numbers in… [+2498 chars]
+terms: "Seabirds"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

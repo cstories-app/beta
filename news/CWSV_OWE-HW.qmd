@@ -1,0 +1,21 @@
+---
+title: >
+  Crowley Wind Services Vice President Jeff Andreini is Out, as Allegations of Sexual Misconduct Among Company Management Pile Up
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2023-08-31
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1723-crowley-wind-services-vice-president-jeff-andreini-is-out-as-allegations-of-sexual-misconduct-among-company-management-pile-up"
+description: >
+  A top Crowley executive working on offshore wind and port development efforts on the North Coast parted ways with the company this week. Crowley, a private marine services and logistics company, has faced increased scrutiny in recent months – both locally and nationally – following allegations of sexual harassment and assault within the company.The company recently received a complaint against Andreini alleging sexual harassment of “a subordinate Crowley employee” at a bar during an offshore wind conference in Sacramento earlier this year.In an email correspondence between Redwood Coast Energy Authority Executive Director Matthew Marshall and Crowley’s Chief People Officer Megan Davidson, which was obtained by the Outpost through a Public Records Act Request, Marshall states Andreini’s behavior “was egregious enough that [he] felt compelled to personally intervene and stop the behavior.”Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

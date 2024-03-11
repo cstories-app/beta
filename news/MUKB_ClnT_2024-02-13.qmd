@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "Steve Hanley"
+title: >
+  Minesto Underwater “Kite” Begins Delivering Electricity To Faroe Islands
+description: >
+  Minesto is one of those companies that takes a natural phenomenon and builds on it to create new technology for ... [continued] The post Minesto Underwater “Kite” Begins Delivering Electricity To Faroe Islands appeared first on CleanTechnica.
+url: "https://cleantechnica.com/2024/02/13/minesto-underwater-kite-begins-delivering-electricity-to-faroe-islands/"
+image: "https://cleantechnica.com/wp-content/uploads/2024/02/Minstro-1.jpg"
+published_at: 2024-02-13
+content: >
+  Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!  Minesto is one of those companies that takes a natural phenomenon and builds on it to create new technology f… [+8488 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

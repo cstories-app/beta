@@ -1,0 +1,28 @@
+---
+source: "Electrek"
+author: "Michelle Lewis"
+title: >
+  Utility solar dethrones coal as the cheapest power source in Asia
+description: >
+  Renewable energy costs in Asia last year were 13% cheaper than coal and are expected to be 32% cheaper by 2030, according to a new study. more…
+url: "http://electrek.co/2024/02/29/utility-solar-dethrones-coal-as-the-cheapest-power-source-in-asia/"
+image: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/04/Gobi-Desert-solar-wind-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+published_at: 2024-02-29
+content: >
+  Photo: China News Service  Renewable energy costs in Asia last year were 13% cheaper than coal and are expected to be 32% cheaper by 2030, according to a new study.   Source: Wood Mackenzie Asia Paci… [+4815 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

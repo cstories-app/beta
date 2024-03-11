@@ -1,0 +1,21 @@
+---
+title: >
+  Governor Newsom Signs McGuire-Authored Bill to Expedite California’s Offshore Wind Permitting Process
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2023-10-08
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1738-governor-newsom-signs-mcguire-authored-bill-to-expedite-californias-offshore-wind-permitting-process-2"
+description: >
+  Press release from Senator McGuire’s Office:Senate President Designee Mike McGuire’s groundbreaking legislation to expedite offshore wind development to help meet the Golden State’s long-term electricity demand and nation-leading climate goals has been signed into law by Governor Newsom.SB 286 – the Offshore Wind Expediting Act – will accelerate the offshore wind permitting process through the State Coastal Commission and State Lands Commission. At the same time, it will ensure environmental safeguards will remain in place, California’s storied fishing fleet interests are protected, and will advance resources that benefit communities and develop family-sustaining jobs through career training programs.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

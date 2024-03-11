@@ -1,0 +1,28 @@
+---
+source: "AllAfrica - Top Africa News"
+author: "thepoint13@yahoo.com (The Point)"
+title: >
+  Gambia: Focus On Renewable Energy
+description: >
+  [The Point] The Gambia like most sub-Saharan African countries enjoy abundant sunshine throughout the whole year. This means that they are at a better chance to exploit the endless opportunities that renewable energy has come to offer.
+url: "https://allafrica.com/stories/202402220358.html"
+image: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+published_at: 2024-02-22
+content: >
+  The Gambia like most sub-Saharan African countries enjoy abundant sunshine throughout the whole year. This means that they are at a better chance to exploit the endless opportunities that renewable e… [+3301 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

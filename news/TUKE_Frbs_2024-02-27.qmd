@@ -1,0 +1,28 @@
+---
+source: "Forbes"
+author: "Sverre Alvik, Contributor,   Sverre Alvik, Contributor  https://www.forbes.com/sites/sverrealvik/"
+title: >
+  The UK’s Energy Transition Will Stall Without Policy Action
+description: >
+  With an election on the horizon, Prime Minister Rishi Sunak has reaffirmed the UK’s net zero commitment but with an additional qualification that it must be "fairer" t...
+url: "https://www.forbes.com/sites/sverrealvik/2024/02/27/the-uks-energy-transition-will-stall-without-policy-action/"
+image: "https://imageio.forbes.com/specials-images/imageserve/65ddd3d0e3eff95c627b77de/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+published_at: 2024-02-27
+content: >
+  Rishi Sunak, UK prime minister, visits the stand of First Light Fusion and looks at a fuel fusion ... [+] energy capsule at the UK Global Investment Summit at Hampton Court Palace in London, UK, on M… [+4691 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

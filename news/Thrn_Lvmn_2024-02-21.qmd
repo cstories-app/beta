@@ -1,0 +1,28 @@
+---
+source: "Livemint"
+author: "Economist"
+title: >
+  The renewables business faces a make-or-break moment
+description: >
+  Supply-chain dysfunction, rising interest rates and protectionism are making life tough
+url: "https://www.livemint.com/industry/energy/the-renewables-business-faces-a-make-or-break-moment-11708496275219.html"
+image: "https://www.livemint.com/lm-img/img/2024/02/21/1600x900/gd7ecae4b83cba9b7cf4d48e89cfd7cc9a08e378a4a26ee012773a93c226c980dd082605b1fc057f5e69f8f127c122120aad97622268765c7a4efc7bb734960a6_1280_1708499116096_1708499137486.jpg"
+published_at: 2024-02-21
+content: >
+  A FEW YEARS ago renewables were having their moment in the sun. Rock-bottom interest rates lowered the cost of clean power, which is expensive to deploy but runs on sun and wind that come free of cha… [+10020 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -1,0 +1,21 @@
+---
+title: >
+  Environmental groups have successfully pushed for a ‘green terminal’ strategy at the Port of Humboldt
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2024-02-02
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1771-environmental-groups-have-successfully-pushed-for-a-green-terminal-strategy-at-the-port-of-humboldt"
+description: >
+  On Thursday, the Humboldt Bay Harbor District, which manages the port, committed to using electricity instead of diesel to power the terminal’s machinery. The net-zero emissions goal will be implemented as the harbor develops a terminal where giant offshore wind turbines will be built.In the coming years, Humboldt Bay is expected to be one of the leading ports for the deployment of floating offshore wind turbines on the West Coast. But that requires a new terminal built from the ground up.Matthew Simmons from the Environmental Protection Information Center said a green terminal is a no-brainer, since California has already set green-energy targets in the coming years.“If we were to build it all out with fossil fuels today, and then have to undo it and rebuild it all with electricity in 20 years, that would end up costing quite a lot more," Simmons said. "So building it right the first time is gonna save us money in the long run.”Keep Reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

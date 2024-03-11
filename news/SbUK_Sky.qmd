@@ -1,0 +1,28 @@
+---
+source: "Sky.com"
+author: "Russell Hope"
+title: >
+  Seabird numbers in UK suffer 'catastrophic' fall due to bird flu
+description: >
+  Bird flu has caused a "catastrophic" fall in the number of seabirds in the UK, a study of breeding sites has found.
+url: "https://news.sky.com/story/bird-flu-leads-to-catastrophic-fall-in-seabird-numbers-rspb-report-says-13070535"
+image: "https://e3.365dm.com/24/02/1600x900/skynews-great-skua_6453880.jpg?20240213132513"
+published_at: 2024-02-13
+content: >
+  Bird flu has caused a "catastrophic" fall in the number of seabirds in the UK, a study of breeding sites has found.  The great skua, known as the 'pirate of the seas' because it often steals food fro… [+2651 chars]
+terms: "Seabirds"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

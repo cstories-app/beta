@@ -1,0 +1,21 @@
+---
+title: >
+  Harbor District should reconsider Crowley deal
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2023-08-20
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1721-harbor-district-should-reconsider-crowley-deal-2"
+description: >
+  On Thursday, July 26th, the Eureka Times-Standard reported allegations of sex trafficking by employees of Crowley Marine Services, the parent company of the prospective leaseholder of Humboldt’s wind terminal, Crowley Wind Services. While the troubling history of Crowley’s workplace culture has been known for some time, the publicly available evidence suggests that high-level executives within Crowley were aware and complacent in allowing misconduct to thrive. These allegations, which picture a rotten company culture, are concerning and worthy of further investigation given the historical and present-day crisis of sex trafficking and Missing and Murdered Indigenous People (MMIP) in California and the United States. They also give necessary reasons to consider reopening negotiations regarding port development.As an elected body, the Humboldt Bay Harbor, Recreation and Conservation District’s responsibility lies with the people, community, and environment it represents. Native American Tribes are a vital constituent in this community, and the safety of our women, girls, and people is paramount. While offshore wind port development could benefit the community through jobs, an influx of money, and by fighting climate change, these potential benefits must not come at the expense of our people.Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

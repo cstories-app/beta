@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM and NOAA Announce Final North Atlantic Right Whale and Offshore Wind Strategy
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-03-11
+url: "https://www.boem.gov/newsroom/press-releases/boem-and-noaa-announce-final-north-atlantic-right-whale-and-offshore-wind"
+description: >
+  Strategy is part of larger interagency effort to promote recovery of endangered species while responsibly developing offshore wind
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

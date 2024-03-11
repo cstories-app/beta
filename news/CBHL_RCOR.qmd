@@ -1,0 +1,21 @@
+---
+title: >
+  Community Benefits for Heavy Lift Marine Terminal at Port of Humboldt
+source: "RedwoodCOREHub"
+published_at: 2023-05-07
+url: "https://redwoodcorehub.org/community-benefits-for-heavy-lift-marine-terminal-at-port-of-humboldt/?utm_source=rss&utm_medium=rss&utm_campaign=community-benefits-for-heavy-lift-marine-terminal-at-port-of-humboldt"
+description: >
+  Members of the community are united in their belief that if our region hosts offshore wind development, it must equitably benefit our communities and contribute to a thriving region for generations to come.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

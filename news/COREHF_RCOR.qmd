@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub Feb. 7 Newsletter
+source: "RedwoodCOREHub"
+published_at: 2024-02-08
+url: "https://redwoodcorehub.org/core-hub-feb-7-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-feb-7-newsletter"
+description: >
+  With the arrival of February, we&#8217;re renewing our dedication to partnering with stakeholders to amplify community voices, empower Tribal leadership, and bolster climate resilience on all things offshore wind development. Included below are important updates, upcoming events, and ways you can contribute to advancing our efforts. UPCOMING OPPORTUNITIES FOR ACTION AND LEADERSHIP TODAY &#8211; Thursday, [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

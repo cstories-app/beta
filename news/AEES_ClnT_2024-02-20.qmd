@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "Michael Barnard"
+title: >
+  Another European Energy Study Assumes Unrealistically Cheap Hydrogen & Finds Significant Demand
+description: >
+  In recent months I’ve apparently taken on a sideline of assessing major total cost of ownership studies from reputable organizations, ... [continued] The post Another European Energy Study Assumes Unrealistically Cheap Hydrogen & Finds Significant Demand appe…
+url: "https://cleantechnica.com/2024/02/20/another-european-energy-study-assumes-unrealistically-cheap-hydrogen-finds-significant-demand/"
+image: "https://cleantechnica.com/wp-content/uploads/2024/02/DALL·E-2024-02-19-13.09.53-A-whimsical-scene-depicting-researchers-who-attempting-to-use-hydrogen-to-clean-the-atmosphere-accidentally-create-a-machine-that-drastically-alters-copy-800x457.png"
+published_at: 2024-02-20
+content: >
+  Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!  In recent months I’ve apparently taken on a sideline of assessing major total cost of ownership studies from … [+32894 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

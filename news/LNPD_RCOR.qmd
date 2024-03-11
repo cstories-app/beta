@@ -1,0 +1,21 @@
+---
+title: >
+  Letter: Notice of Preparation of a Draft Environmental Impact Report for the Humboldt Bay Offshore Wind Heavy Lift Multipurpose Marine Terminal Project.
+source: "RedwoodCOREHub"
+published_at: 2023-08-25
+url: "https://redwoodcorehub.org/letter-notice-of-preparation-of-a-draft-environmental-impact-report-for-the-humboldt-bay-offshore-wind-heavy-lift-multipurpose-marine-terminal-project/?utm_source=rss&utm_medium=rss&utm_campaign=letter-notice-of-preparation-of-a-draft-environmental-impact-report-for-the-humboldt-bay-offshore-wind-heavy-lift-multipurpose-marine-terminal-project"
+description: >
+  In August 2023, the Redwood CORE Hub and other entities from the ​​Offshore Wind Community Benefits Network shared this letter with Rob Holmlund, Development Director for the Humboldt Bay Harbor, Recreation and Conservation District. Download the letter here (PDF).
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

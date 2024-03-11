@@ -1,0 +1,28 @@
+---
+source: "ABC News (AU)"
+author: "Jean Bell"
+title: >
+  Heavily reduced Southern Ocean offshore wind zone officially locked in
+description: >
+  The government says the 1,000 square-kilometre zone could generate enough energy to power up to two million homes.
+url: "https://www.abc.net.au/news/2024-03-06/southern-ocean-offshore-wind-zone-declared/103552016"
+image: "https://live-production.wcms.abc-cdn.net.au/c6407475732c695377bc40d3b285f526?impolicy=wcms_crop_resize&cropH=1875&cropW=3333&xPos=0&yPos=0&width=862&height=485&imformat=generic"
+published_at: 2024-03-05
+content: >
+  <ul><li>In short: A 1,030-square-kilometre zone has been declared for the Southern Ocean off the coast of Warrnambool and Port Fairy.</li><li>It is a fifth of the size of the area that was originally… [+1761 chars]
+terms: "Seabirds"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

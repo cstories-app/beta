@@ -1,0 +1,21 @@
+---
+title: >
+  "Green" Offshore Wind Terminal: POLITICO's Letter from Humboldt
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2024-01-11
+url: "https://humboldtwaterkeeper.org/news/latest/1767-green-offshore-wind-terminal-politicos-letter-from-humboldt"
+description: >
+  A tiny government organization with authority over a major wind project off the Humboldt County coast is voting tonight on a proposal to keep the port green.The Humboldt Bay Harbor District is proposing to draw up a strategy to keep emissions as minimal as possible at the port, where plans call for assembling 1,100-foot turbines to be tugged 30 miles offshore.It’s not yet clear what all that will take, particularly given challenges with transmission and distribution capacity in the region. An engineering firm is figuring it out. But local environmental organizations, residents, tribes and labor have made clear they’ll insist on it, said Jennifer Kalt, executive director of the nonprofit Humboldt Waterkeeper.“We have this renewable energy project, and we don’t want a fossil fuel-spewing port to go with that,” Kalt said.The requirements — which could include electric boats, construction equipment and cranes — will almost certainly drive up the cost of the project, scheduled to come online in the mid-2030s. But the California Air Resources Board is already greening ports, and EPA is helping pay to electrify them.The plan, scheduled to be finalized by March 2025, has support from Crowley, the international company that has been negotiating with the harbor district to build out the port’s wind infrastructure.“The district’s resolution represents an important step in incorporating sustainability into the offshore wind industry, not only in Humboldt, but in California and beyond,” Amy Monier, the company’s director of projects, said in an emailed statement. — Wes VenteicherRead the Full&nbsp;Article
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

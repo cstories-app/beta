@@ -1,0 +1,28 @@
+---
+source: "The Conversation Africa"
+author: "Jochen Kaempf, Associate Professor of Natural Sciences (Oceanography), Flinders University"
+title: >
+  The Southern Ocean upwelling is a mecca for whales and tuna that’s worth celebrating and protecting
+description: >
+  This marine ecosystem is so important it’s one of the main reasons the federal government has greatly reduced the area available for offshore wind farms in the region.
+url: "https://theconversation.com/the-southern-ocean-upwelling-is-a-mecca-for-whales-and-tuna-thats-worth-celebrating-and-protecting-223338"
+image: "https://images.theconversation.com/files/580331/original/file-20240307-26-4bgm4.jpg?ixlib=rb-1.1.0&rect=0%2C373%2C2061%2C1030&q=45&auto=format&w=1356&h=668&fit=crop"
+published_at: 2024-03-07
+content: >
+  NOAA Photo Library/Animalia, CC BY  The Great Southern Australian Coastal Upwelling System is an upward current of water over vast distances along Australia’s southern coast. It brings nutrients from… [+6109 chars]
+terms: "Seabirds"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

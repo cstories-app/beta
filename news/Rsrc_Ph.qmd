@@ -1,0 +1,28 @@
+---
+source: "Phys.Org"
+author: "Science X"
+title: >
+  Researchers are first to see at-risk bat flying over open ocean
+description: >
+  On a research cruise focused on marine mammals and seabirds, Oregon State University scientists earned an unexpected bonus: The first-ever documented sighting of a hoary bat flying over the open ocean.
+url: "https://phys.org/news/2024-02-flying-ocean.html"
+image: "https://scx2.b-cdn.net/gfx/news/hires/2024/oregon-state-universit.jpg"
+published_at: 2024-02-28
+content: >
+  On a research cruise focused on marine mammals and seabirds, Oregon State University scientists earned an unexpected bonus: The first-ever documented sighting of a hoary bat flying over the open ocea… [+4353 chars]
+terms: "Humboldt | Seabirds"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

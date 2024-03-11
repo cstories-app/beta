@@ -1,0 +1,28 @@
+---
+source: "gcaptain.com"
+author: "Bloomberg"
+title: >
+  Clean Energy And Conservation Collide In California Coastal Waters
+description: >
+  By Nadia Lopez and Josh Saul (Bloomberg) –Two of President Joe Biden’s biggest priorities — conservation and the switch to clean energy — are colliding in the ocean off California’s quiet...
+url: "https://gcaptain.com/clean-energy-and-conservation-collide-in-california-coastal-waters/"
+image: "https://gcaptain.com/wp-content/uploads/2018/03/shutterstock_89871079.jpg"
+published_at: 2024-02-11
+content: >
+  By Nadia Lopez and Josh Saul  (Bloomberg) –Two of President Joe Bidens biggest priorities conservation and the switch to clean energy are colliding in the ocean off Californias quiet Central Coast.  … [+7648 chars]
+terms: "Humboldt | Morro Bay | Cost of electricity"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

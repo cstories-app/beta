@@ -1,0 +1,21 @@
+---
+title: >
+  New Report from Schatz Energy Research Center Examines Electrical Transmission Challenges for Regional Offshore Wind Development
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2023-12-16
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1766-new-report-from-schatz-energy-research-center-examines-electrical-transmission-challenges-for-regional-offshore-wind-development-2"
+description: >
+  A new report&nbsp;from the Schatz Energy Research Center at Cal Poly Humboldt evaluates potential scenarios for electric grid transmission development to support floating offshore wind along the northern coast of California and the southern coast of Oregon. The scenarios include onshore and offshore (undersea) transmission systems, with interconnections ranging from 7.2 to 25.8 gigawatts of generation capacity. The study encompasses multiple possible wind farm sites between Coos Bay, Oregon and Cape Mendocino, California, including the two currently awarded lease areas located 20 miles off California’s Humboldt Bay, and two Draft Wind Energy Areas near Brookings and Coos Bay, Oregon.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

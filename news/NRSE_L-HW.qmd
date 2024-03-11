@@ -1,0 +1,21 @@
+---
+title: >
+  New Report from Schatz Energy Research Center Examines Electrical Transmission Challenges for Regional Offshore Wind Development
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2023-12-16
+url: "https://humboldtwaterkeeper.org/news/latest/1765-new-report-from-schatz-energy-research-center-examines-electrical-transmission-challenges-for-regional-offshore-wind-development"
+description: >
+  A new report&nbsp;from the Schatz Energy Research Center at Cal Poly Humboldt evaluates potential scenarios for electric grid transmission development to support floating offshore wind along the northern coast of California and the southern coast of Oregon. The scenarios include onshore and offshore (undersea) transmission systems, with interconnections ranging from 7.2 to 25.8 gigawatts of generation capacity. The study encompasses multiple possible wind farm sites between Coos Bay, Oregon and Cape Mendocino, California, including the two currently awarded lease areas located 20 miles off California’s Humboldt Bay, and two Draft Wind Energy Areas near Brookings and Coos Bay, Oregon.Because the existing transmission infrastructure in these rural, coastal areas is very limited, major investments will be required to support offshore wind development.This study also includes a preliminary assessment of anticipated permitting challenges related to environmental impacts, land use conflicts, and undersea cable routing.Because the Pacific offshore wind buildout will take decades to accomplish, the report emphasizes that infrastructure investment decisions made in the early phases must be informed by expected long-term strategies—both to minimize cost and impact, and so that developments do not become stranded.The analysis indicated that coastal communities near wind farms could be connected to the new transmission infrastructure, thereby increasing the reliability and available capacity of electricity in those areas, for only 0.4% to 2.4% of the overall cost of the transmission upgrades.Keep reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

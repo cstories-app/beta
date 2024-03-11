@@ -1,0 +1,28 @@
+---
+source: "GlobeNewswire"
+author: "Research and Markets"
+title: >
+  Green Hydrogen Market Analysis to 2033: Solar Energy Poised to Dominate the Global Market as Cost Reductions Drive Economic Viability
+description: >
+  Dublin, March 08, 2024 (GLOBE NEWSWIRE) -- The "Green Hydrogen Market - A Global and Regional Analysis: Focus on Application, Technology, Renewable Energy Source, and Region - Analysis and Forecast, 2023-2033" report has been added to ResearchAndMarkets.com's…
+url: "https://www.globenewswire.com/news-release/2024/03/08/2843177/28124/en/Green-Hydrogen-Market-Analysis-to-2033-Solar-Energy-Poised-to-Dominate-the-Global-Market-as-Cost-Reductions-Drive-Economic-Viability.html"
+image: "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7"
+published_at: 2024-03-08
+content: >
+  Dublin, March 08, 2024 (GLOBE NEWSWIRE) -- The "Green Hydrogen Market - A Global and Regional Analysis: Focus on Application, Technology, Renewable Energy Source, and Region - Analysis and Forecast, … [+13506 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

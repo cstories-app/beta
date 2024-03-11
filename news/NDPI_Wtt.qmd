@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  New Data Points In New York’s Unfolding Energy Implosion
+description: >
+  ...the scope of offshore wind projects moving forward with accepted bids has decreased by about two-thirds, while the price has just jumped by over 30%.
+url: "https://wattsupwiththat.com/2024/03/07/new-data-points-in-new-yorks-unfolding-energy-implosion/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2022/12/Charles_Rotter_Statue_of_Liberty_throwing_many_dollar_bills_at__0fb77f58-aaf1-4fc1-a960-e13c07de5149.webp?fit=1024%2C512&ssl=1"
+published_at: 2024-03-07
+content: >
+  From the MANHATTAN CONTRARIAN  Francis Menton  The energy implosion set in motion by New Yorks Climate Leadership and Community Protection Act of 2019 (Climate Act) continues to unfold slowly. This w… [+8416 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

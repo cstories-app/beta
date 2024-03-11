@@ -1,0 +1,28 @@
+---
+source: "Freerepublic.com"
+author: "Manhattan Contrarian"
+title: >
+  New Data Points In New York's Unfolding Energy Implosion
+description: >
+  The energy implosion set in motion by New York’s Climate Leadership and Community Protection Act of 2019 (Climate Act) continues to unfold slowly. This week we have gotten a few more new data points. If you can read between the lines of wild spinning by the G…
+url: "https://freerepublic.com/focus/f-chat/4222325/posts"
+image: "NA"
+published_at: 2024-03-06
+content: >
+  Skip to comments.  New Data Points In New York's Unfolding Energy ImplosionManhattan Contrarian ^   | 5 Mar, 2024   | Francis Menton  Posted on 03/06/2024 7:02:51 AM PST by MtnClimber  The energy imp… [+9578 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

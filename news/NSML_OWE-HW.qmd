@@ -1,0 +1,21 @@
+---
+title: >
+  Newsom Signs ‘Milestone’ Legislation Ending Exemptions for Coastal Oil and Gas Development
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2023-10-08
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1739-newsom-signs-milestone-legislation-ending-exemptions-for-coastal-oil-and-gas-development-2"
+description: >
+  At the end of last month, Gov. Gavin Newsom signed new legislation to end special treatment for oil and gas companies seeking to develop facilities along the California coast while simultaneously bolstering offshore wind development efforts.Senate Bill 704, introduced by state Sen. Dave Min (D-Irvine), removes a 1970s-era loophole – the “industrial override” provision of the California Coastal Act – that allows oil and gas companies to develop facilities in the coastal zone, including new or expanded refineries and petrochemical plants, without having to comply with state resource protection policies, as long as certain requirements are met.What exactly does this mean for Humboldt?Humboldt Bay has approximately 1,200 acres zoned for Coastal-Dependent Industrial uses — meaning, any industry built in those areas must be somehow dependent on the sea. Planning for CDI uses was done in the 1970s, when demand for land to accommodate sea-dependent businesses was much higher than it is now. The Humboldt Bay Area Plan, a component of the county’s Local Coastal Program, includes marine oil terminals and offshore oil service or supply bases as “principal uses allowed” on CDI lands.SB 704 prohibits “new or expanded oil and gas development from being considered a Coastal-Dependent Industrial facility,” and would only permit those developments if they are determined to be “consistent with all applicable provisions of the act,” according to the text of the bill. Under SB 704, new or expanded oil and gas facilities will have to comply with policies outlined in Chapter 3 of the Coastal Act to be permitted, in line with “virtually all other coastal development.”&nbsp;
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

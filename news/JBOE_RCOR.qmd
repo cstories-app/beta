@@ -1,0 +1,21 @@
+---
+title: >
+  Join BOEM For Offshore Wind Environmental Impact Statement Info Sessions
+source: "RedwoodCOREHub"
+published_at: 2024-02-01
+url: "https://redwoodcorehub.org/join-core-hub-for-collaborative-working-groups-info-sessions/?utm_source=rss&utm_medium=rss&utm_campaign=join-core-hub-for-collaborative-working-groups-info-sessions"
+description: >
+  The U.S. Bureau of Ocean Energy Management (BOEM) has issued a Notice of Preparation for a California Offshore Wind Programmatic Environmental Impact Statement (PEIS), which means that environmental review of the two wind energy lease areas offshore of Humboldt is now underway.&#160;&#160;&#160; BOEM will host two virtual sessions for the public to learn more about [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

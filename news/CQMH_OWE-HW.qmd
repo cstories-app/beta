@@ -1,0 +1,21 @@
+---
+title: >
+  Crowley Questions Mount for Harbor District
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2023-09-05
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1725-crowley-questions-mount-for-harbor-district"
+description: >
+  Pressure is mounting on the Humboldt Bay Harbor, Recreation and Conservation District to reconsider its relationship with Crowley Maritime, its partner in the rush to develop a marine terminal to serve the proposed offshore wind farm, or at least to hold off on consummating the partnership.The first official salvo came Aug. 20 in the form of an op-ed Yurok Tribal Chair Joseph James published in a local paper calling on the district to “reconsider” its exclusive right to negotiate agreement with the international maritime industry giant due to a “rotten company culture” evidenced by two federal lawsuits. The latest, meanwhile, hit Aug. 31, with news that Crowley Wind Services Vice President Jeff Andreini had left the company amid sexual harassment allegations with ties to Humboldt County, as first reported by the Lost Coast Outpost.Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

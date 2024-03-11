@@ -1,0 +1,28 @@
+---
+source: "GlobeNewswire"
+author: "ENEFIT GREEN AS"
+title: >
+  Enefit Green's unaudited financial results Q4 and 12 months of 2023
+description: >
+  Enefit Green's unaudited financial results Q4 and 12 months of 2023 Enefit Green's consolidated operating income for Q4 2023 decreased by 19 percent...
+url: "https://www.globenewswire.com/news-release/2024/02/29/2837634/0/en/Enefit-Green-s-unaudited-financial-results-Q4-and-12-months-of-2023.html"
+image: "https://ml-eu.globenewswire.com/Resource/Download/a7c2edda-51b4-4851-b968-261249123dc1"
+published_at: 2024-02-29
+content: >
+  Enefit Green's unaudited financial results Q4 and 12 months of 2023  Enefit Green's consolidated operating income for Q4 2023 decreased by 19 percent to 66.9m compared to the same time last year, and… [+21806 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

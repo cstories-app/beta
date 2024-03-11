@@ -1,0 +1,21 @@
+---
+title: >
+  A New Plan for Offshore Wind Research Will Help Prioritize Seabirds and Other Wildlife
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2024-02-02
+url: "https://humboldtwaterkeeper.org/news/latest/1769-a-new-plan-for-offshore-wind-research-will-help-prioritize-seabirds-and-other-wildlife"
+description: >
+  The Regional Wildlife Science Collaborative for Offshore Wind (RWSC) released a historic research plan that sets priorities for all stakeholders to fully avoid, minimize, and mitigate any harms to wildlife caused by offshore wind energy development in much of the U.S. Atlantic Ocean. The new plan is the first of its kind in establishing a collaborative regional approach to study potential effects of offshore wind on birds as well as marine mammals, sea turtles, bats, fish, and ocean habitats along the East Coast.Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

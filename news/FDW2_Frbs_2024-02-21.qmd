@@ -1,0 +1,28 @@
+---
+source: "Forbes"
+author: "Danielle Chemtob, Forbes Staff,   Danielle Chemtob, Forbes Staff  https://www.forbes.com/sites/daniellechemtob/"
+title: >
+  Forbes Daily: Walmart’s \$2.3 Billion Buy To Challenge Amazon
+description: >
+  Amazon to replace Walgreens on the Dow; Rivian bets on a cheaper SUV; Trump racks up over $87,500 per day in interest; Navigating the housing market in 2024; and more
+url: "https://www.forbes.com/sites/forbesdaily/2024/02/21/forbes-daily-walmarts-23-billion-buy-to-challenge-amazon/"
+image: "https://imageio.forbes.com/specials-images/imageserve/65d5f8e680d3ce370adb9d10/0x0.jpg?format=jpg&crop=2995,1685,x0,y155,safe&height=900&width=1600&fit=bounds"
+published_at: 2024-02-21
+content: >
+  This is a published version of the Forbes Daily newsletter, you can sign-up to get Forbes Daily in your inbox here.  Good morning,  American Airlines made headlines Tuesday when it increased its bagg… [+10505 chars]
+terms: "Seabirds"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

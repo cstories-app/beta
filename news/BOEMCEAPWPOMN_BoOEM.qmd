@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM Completes Environmental Analysis for Proposed Wind Project Offshore Massachusetts, New York and Rhode Island
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-03-11
+url: "https://www.boem.gov/newsroom/press-releases/boem-completes-environmental-analysis-proposed-wind-project-offshore"
+description: >
+  BOEM has completed its environmental review of the proposed Sunrise Wind energy project, which is located approximately 16.4 nautical miles (nm) south of Martha’s Vineyard, Mass.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

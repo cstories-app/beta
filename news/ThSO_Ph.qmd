@@ -1,0 +1,28 @@
+---
+source: "Phys.Org"
+author: "Jochen Kaempf"
+title: >
+  The Southern Ocean upwelling is a mecca for whales and tuna that's worth celebrating and protecting
+description: >
+  The Great Southern Australian Coastal Upwelling System is an upward current of water over vast distances along Australia's southern coast. It brings nutrients from deeper waters to the surface. This nutrient-rich water supports a rich ecosystem that attracts …
+url: "https://phys.org/news/2024-03-southern-ocean-upwelling-mecca-whales.html"
+image: "https://scx2.b-cdn.net/gfx/news/hires/2024/the-southern-ocean-upw.jpg"
+published_at: 2024-03-08
+content: >
+  The Great Southern Australian Coastal Upwelling System is an upward current of water over vast distances along Australia's southern coast. It brings nutrients from deeper waters to the surface. This … [+5779 chars]
+terms: "Seabirds"
+search_timestamp: 2024-03-11 20:34:46.490227
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

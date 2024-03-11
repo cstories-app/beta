@@ -1,0 +1,21 @@
+---
+title: >
+  Humboldt Bay offshore wind terminal sees \$8.6 million investment
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2023-11-04
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1747-humboldt-bay-offshore-wind-terminal-sees-8-6-million-investment-2"
+description: >
+  U.S. Rep. Jared Huffman (D-San Rafael) announced Thursday that more than $8.6 million has been awarded to the Humboldt Bay Harbor, Recreation, and Conservation District to go toward the development of an offshore wind terminal in Humboldt Bay.It’s the latest step for the wind terminal as California continues to try to reach their lofty clean energy goals of 100% carbon-free energy by 2045.“My district in Northern California has some of the best areas available to help meet the administration’s offshore wind energy goals, and I’m glad I could help secure this grant to support the development of one of the first offshore wind projects on the West Coast,” Huffman said in a prepared statement.Huffman lauded the funding noting that the awarded money will go toward “studies, site design, and permitting activities for a heavy-lift offshore wind terminal at the Redwood Marine Terminal. The grant will also fund the creation of a bay-wide master plan for offshore wind development and project management and grant administration expenses.”The Redwood Marine Terminal was the lone offshore wind farm development project on the West Coast to receive funding.Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

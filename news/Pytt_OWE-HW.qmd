@@ -1,0 +1,21 @@
+---
+title: >
+  Pay attention as offshore wind is developed
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2023-11-05
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1749-pay-attention-as-offshore-wind-is-developed-2"
+description: >
+  As a 20-year Manila resident and a member of the Peninsula Community Collaborative (PCC), I feel the winds of change blowing and am paying close attention to the offshore wind projects slated to come to Humboldt Bay.Humboldt Bay and its offshore waters are becoming an integral part in the reduction of our reliance on fossil fuels. Currently, our harbor district is in negotiations with Crowley, a logistics and maritime service company based out of Jacksonville, Florida, to develop land in Samoa into a marine terminal. This port will be an industrial manufacturing plant that builds and ships out various components of offshore wind turbines. Wind components will eventually be shipped out to wind energy farms off of Humboldt shores and throughout the coasts of California and Oregon.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

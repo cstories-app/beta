@@ -1,0 +1,21 @@
+---
+title: >
+  Port of Humboldt Announces Green Terminal Strategy
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2024-02-17
+url: "https://humboldtwaterkeeper.org/news/latest/1776-port-of-humboldt-announces-green-terminal-strategy"
+description: >
+  On January 11, 2024, the Humboldt Bay Harbor, Recreation &amp; Conservation District committed to developing a green terminal strategy for the new offshore wind terminal. This is a big win for Humboldt Bay and the climate!
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
