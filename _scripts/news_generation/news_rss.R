@@ -46,7 +46,7 @@ update_feeds <- function(feed_files,
     mutate(
       item_title = str_replace(item_title, fixed("$"), "\\$")) %>%
     mutate(across(where(is.character), ~if_else(.x == "", NA_character_, .x))) %>%
-    distinct(across(-c(item_link, item_guid, item_comments, item_pub_date, feed_pub_date)), .keep_all = T) %>%
+    distinct(across(-matches(c("item_link", "item_guid", "item_comments", "item_pub_date", "feed_pub_date"))), .keep_all = T) %>% #In the event that there are duplicate items due to differences in the values above, we keep only the first instance.   Changed this to use matches() on 3/11/24
     mutate(item_pub_date = as_date(item_pub_date)) %>%
     mutate(rss_id = paste(abbreviate(replace_non_ascii(str_remove_all(item_title, "[^\\w]"))), abbreviate(replace_non_ascii(feed_title)),  sep = "_")) %>%
     add_column(search_timestamp = as.character(now()))
