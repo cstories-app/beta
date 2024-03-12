@@ -1,0 +1,21 @@
+---
+title: >
+  Yurok, Bear River formally oppose offshore wind development
+source: "Times-Standard"
+published_at: 2024-03-11
+url: "https://www.times-standard.com/2024/03/11/yurok-bear-river-formally-oppose-offshore-wind-development/"
+description: >
+  Last week, the Yurok Tribe and the Bear River Band of the Rohnerville Rancheria each announced their respective councils have voted to formally oppose offshore wind development. The votes came a day apart, and are amid work to turn the ocean off Eureka into a massive energy producing enterprise. They join the Tolowa Dee-ni' Nation among North Coast tribes opposing the project.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
