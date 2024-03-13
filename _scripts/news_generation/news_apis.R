@@ -6,6 +6,8 @@
 librarian::shelf(
   IntegralEnvision/integral, fs, httr2, janitor, lubridate, rrapply, tidyverse, cli, textclean)
 
+blocklist <- read_lines("_scripts/news_generation/blocklist.txt")
+
 # functions ----
 update_newsapi_data <- function(
     terms,
@@ -79,6 +81,9 @@ update_newsapi_data <- function(
 
   news <- existing_news %>%
     rows_insert(news, by = "news_id", conflict = "ignore")
+
+  news <- news %>%
+    filter(source %ni% blocklist) #Any sites we don't want, like Breitbart
 
 
   news %>%
