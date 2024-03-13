@@ -1,0 +1,28 @@
+---
+source: "War on the Rocks"
+author: "Joseph Webster"
+title: >
+  Win-Wind: How a Bipartisan SHIPS Act Could Meet China and Climate Challenges
+description: >
+  The United States faces two serious challenges: China and climate change. Ships can help solve both of them. China is run by an authoritarian and increasingly militarily capable government determined to reshape the international order. Climate change, meanwhi…
+url: "https://warontherocks.com/2024/03/win-wind-how-a-bipartisan-ships-act-could-meet-china-and-climate-challenges/"
+image: "https://warontherocks.com/wp-content/uploads/2024/03/1057122.jpg"
+published_at: 2024-03-12
+content: >
+  The United States faces two serious challenges: China and climate change. Ships can help solve both of them.  China is run by an authoritarian and increasingly militarily capable government determine… [+16653 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-03-13 13:37:42.863185
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
