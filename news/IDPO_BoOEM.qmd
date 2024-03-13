@@ -1,0 +1,21 @@
+---
+title: >
+  Interior Department Proposes Offshore Wind Sale in the Central Atlantic
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-03-13
+url: "https://www.boem.gov/newsroom/press-releases/interior-department-proposes-offshore-wind-sale-central-atlantic"
+description: >
+  The announcement is part of the Administration’s latest actions to expand offshore wind opportunities, building on investments made by the President’s Investing in America agenda and creating good-paying jobs for American workers.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

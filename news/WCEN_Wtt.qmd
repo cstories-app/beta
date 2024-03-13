@@ -1,17 +1,17 @@
 ---
 source: "Wattsupwiththat.com"
-title: >
-  Weekly Climate and Energy News Roundup #553
-description: >
-  The third aspect of my subject is that of science as a method of finding things out. This method is based on the principle that observation is the judge of whether something is so or not. All other aspects and characteristics of science can be understood dire…
-url: "https://wattsupwiththat.com/2023/05/22/weekly-climate-and-energy-news-roundup-553/"
-published_at: 2023-05-22
-content: >
-  The Week That Was: 2023-05-20 (May 20, 2023)Brought to You by SEPP (www.SEPP.org)The Science and Environmental Policy Project  Quote of the Week: The third aspect of my subject is that of science as … [+65358 chars]
 author: "Guest Blogger"
-image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2023/05/IMG_7073-copy.webp?fit=1024%2C512&ssl=1"
+title: >
+  Weekly Climate and Energy News Roundup #591
+description: >
+  “The cavemen had the same natural resources at their disposal as we have today, and the difference between their standard of living and ours is a difference between the knowledge they could bring to bear on those resources and the knowledge used today.”
+url: "https://wattsupwiththat.com/2024/03/11/weekly-climate-and-energy-news-roundup-591/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/03/charlesrotter_monument_valley_at_sunset_midjourney.webp?fit=1024%2C512&ssl=1"
+published_at: 2024-03-11
+content: >
+  The Week That Was: 2024-03-09 (March 9, 2024)Brought to You by SEPP (www.SEPP.org)The Science and Environmental Policy Project  Quote of the Week: The cavemen had the same natural resources at their … [+71146 chars]
 terms: "Cost of electricity"
-search_timestamp: 2023-05-24 00:30:16.070652
+search_timestamp: 2024-03-13 00:49:44.517249
 ---
 
 
