@@ -4,6 +4,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/BOEMAERF_BoOEM.html",
+      "/news/BOEMAERP_BoOEM.html",
       "/news/IDPO_BoOEM.html",
       "/news/WWHB_WotR_2024-03-12.html",
       "/news/BOEMCEAPWPOMN_BoOEM.html",
@@ -322,6 +324,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/BOEMAERF_BoOEM.html",
+      "/news/BOEMAERP_BoOEM.html",
       "/news/IDPO_BoOEM.html",
       "/news/WWHB_WotR_2024-03-12.html",
       "/news/BOEMCEAPWPOMN_BoOEM.html",

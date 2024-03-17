@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM Announces Environmental Review of Future Development of California Offshore Wind Leases
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-03-17
+url: "https://www.boem.gov/newsroom/press-releases/boem-announces-environmental-review-future-development-california-offshore"
+description: >
+  BOEM today announced it will conduct a regional environmental review of potential development activities on the five offshore wind lease areas off California’s central and north coasts
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
