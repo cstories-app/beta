@@ -1,0 +1,28 @@
+---
+source: "Independent.ie"
+author: "Gabija Gataveckaite"
+title: >
+  ‘True cost of meeting State’s renewable energy targets much higher than projections,’ ministers are warned
+description: >
+  Households are facing an extra €750 per year in energy costs by 2050 if the Government’s promises on renewable electricity are met, senior Cabinet ministers have been told by the Department of Public Expenditure.
+url: "https://www.independent.ie/irish-news/politics/true-cost-of-meeting-states-renewable-energy-targets-much-higher-than-projections-ministers-are-warned/a1838830499.html"
+image: "https://focus.independent.ie/thumbor/uO6SJA5aGeBiOxEc92aHMP0bOio=/24x0:4724x3133/629x0/prod-mh-ireland/621d4a34-48ca-48f1-bedd-d708e6033127/78185760-8f57-47ca-b31f-3ea6949dc4f9/621d4a34-48ca-48f1-bedd-d708e6033127.jpg"
+published_at: 2024-03-16
+content: >
+  Households will face 750 per annum energy cost hike if the 2050 37GW goal is met  Households are facing an extra 750 per year in energy costs by 2050 if the Governments promises on renewable electric… [+4499 chars]
+terms: "Cost of electricity | Cost of electricity"
+search_timestamp: 2024-03-18 00:50:29.972305
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
