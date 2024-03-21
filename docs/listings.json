@@ -4,6 +4,7 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/IDLT_BoOEM.html",
       "/news/BOEMAERF_BoOEM.html",
       "/news/BOEMAERP_BoOEM.html",
       "/news/TrcS_Ind.html",
@@ -312,12 +313,14 @@
       "/news/HDAM_OWE-HB.html",
       "/news/HOWL_OWE-HB.html",
       "/news/COREHS_RCOR.html",
-      "/news/OfWH_OWE-HB.html"
+      "/news/OfWH_OWE-HB.html",
+      "/news/Rmvd_[Rm]_1970-01-01.html"
     ]
   },
   {
     "listing": "/news.html",
     "items": [
+      "/news/IDLT_BoOEM.html",
       "/news/BOEMAERF_BoOEM.html",
       "/news/BOEMAERP_BoOEM.html",
       "/news/TrcS_Ind.html",
@@ -626,7 +629,8 @@
       "/news/HDAM_OWE-HB.html",
       "/news/HOWL_OWE-HB.html",
       "/news/COREHS_RCOR.html",
-      "/news/OfWH_OWE-HB.html"
+      "/news/OfWH_OWE-HB.html",
+      "/news/Rmvd_[Rm]_1970-01-01.html"
     ]
   },
   {

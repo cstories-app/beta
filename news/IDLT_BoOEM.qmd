@@ -1,0 +1,21 @@
+---
+title: >
+  Interior Department Leaders Tour First Offshore Wind Turbine Installation Vessel
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-03-21
+url: "https://www.boem.gov/newsroom/press-releases/interior-department-leaders-tour-first-offshore-wind-turbine-installation"
+description: >
+  Construction of first domestic installation vessel highlights economic opportunities of a robust U.S. offshore wind industry.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
