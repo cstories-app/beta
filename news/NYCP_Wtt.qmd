@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  New York Climate Plan Needs Publicly Funded Spin Doctor
+description: >
+  New Yorkers will in short order face higher fuel costs, higher property taxes, higher compliance costs and higher electricity rates, interspersed with news about businesses either leaving or cancelling investments because of energy concerns.
+url: "https://wattsupwiththat.com/2024/03/20/new-york-climate-plan-needs-publicly-funded-spin-doctor/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/03/spin-doctor-new-york-midjourney-photoshop.webp?fit=1024%2C512&ssl=1"
+published_at: 2024-03-20
+content: >
+  Roger Caiazza  This is another article about New Yorks climate leadership that I fear will trickle down to a state near you.  Ken Girardin from the Empire Center breaks the story of New Yorks latest … [+9772 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-03-22 00:48:58.036191
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
