@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM Announces Environmental Review of Proposed Wind Energy Project Offshore New Jersey
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-03-23
+url: "https://www.boem.gov/newsroom/press-releases/boem-announces-environmental-review-proposed-wind-energy-project-offshore-0"
+description: >
+  This is the 12th offshore wind energy COP environmental review initiated under the Biden-Harris administration.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
