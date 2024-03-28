@@ -1,0 +1,21 @@
+---
+title: >
+  Massachusetts, Rhode Island and Connecticut receive proposals for offshore wind projects
+source: "News Channel 3-12"
+published_at: 2024-03-27
+url: "https://keyt.com/news/2024/03/27/massachusetts-rhode-island-and-connecticut-receive-proposals-for-offshore-wind-projects/"
+description: >
+  Massachusetts, Rhode Island and Connecticut receive proposals for offshore wind projectsThe post Massachusetts, Rhode Island and Connecticut receive proposals for offshore wind projects appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
