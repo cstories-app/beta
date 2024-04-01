@@ -63,6 +63,7 @@
       "/news/NJFP_Glb.html",
       "/news/Clfr_Bzt.html",
       "/news/Clfrns_OWE-HW.html",
+      "/news/Clfrnsp_OWE-HW.html",
       "/news/4NJS_NC3-.html",
       "/news/BOEM_Rgzn_2023-08-02.html",
       "/news/DplD_Rsln_2023-08-02.html",
@@ -318,13 +319,6 @@
       "/news/COREHS_RCOR.html",
       "/news/OfWH_OWE-HB.html",
       "/news/Rmvd_[Rm]_1970-01-01.html"
-    ]
-  },
-  {
-    "listing": "/infographics.html",
-    "items": [
-      "/infographics/viewshed.html",
-      "/infographics/whales.html"
     ]
   },
   {
@@ -389,6 +383,7 @@
       "/news/NJFP_Glb.html",
       "/news/Clfr_Bzt.html",
       "/news/Clfrns_OWE-HW.html",
+      "/news/Clfrnsp_OWE-HW.html",
       "/news/4NJS_NC3-.html",
       "/news/BOEM_Rgzn_2023-08-02.html",
       "/news/DplD_Rsln_2023-08-02.html",
@@ -644,6 +639,13 @@
       "/news/COREHS_RCOR.html",
       "/news/OfWH_OWE-HB.html",
       "/news/Rmvd_[Rm]_1970-01-01.html"
+    ]
+  },
+  {
+    "listing": "/infographics.html",
+    "items": [
+      "/infographics/viewshed.html",
+      "/infographics/whales.html"
     ]
   }
 ]
