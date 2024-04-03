@@ -1,0 +1,21 @@
+---
+title: >
+  The Complicated Truths About Offshore Wind And Right Whales
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2024-04-02
+url: "https://humboldtwaterkeeper.org/news/latest/1783-the-complicated-truths-about-offshore-wind-and-right-whales"
+description: >
+  By the time researchers found the dead whale on a Martha’s Vineyard beach, her jet-black skin was pockmarked by hungry seagulls, her baleen had been dislodged from her mouth, and thin rope was wrapped tightly—as it had been for 17 months—around the most narrow part of her tail.Researchers quickly learned this was a 12-ton, 3-year-old female known as 5120, and that she was a North Atlantic right whale, a species with just about 360 members left.A few weeks later, NOAA Fisheries announced that the entangling rope came from lobster fishing gear set in Maine state waters. The pain and discomfort of the entanglement likely affected 5120’s ability to swim and eat until finally, experts say, exhaustion or starvation probably killed her. A final cause of death is still pending.The death of 5120 was devastating to right whale advocates, who know that losing a female doesn’t just mean losing one whale, but dozens of others that could have come from her future calves. For them, a death is often followed by a period of grief, and a renewed commitment to their work. And that might have been the end of 5120’s story.But then came the online comments. Hundreds, perhaps thousands, across social media blamed offshore wind farms—the noise, electricity generated, and the mere presence of turbines. Along the way, the truth about 5120 became a non-concern.Keep Reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
