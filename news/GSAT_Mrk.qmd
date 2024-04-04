@@ -1,0 +1,28 @@
+---
+source: "Marketscreener.com"
+title: >
+  Goldwind Science And Technology : 2023 Annual Results Presentation
+description: >
+  (marketscreener.com) 2023 Annual Results • Global new installations in 2023 achieved 118GW, an increase of 36% yoy, with onshore wind of 106.7GW，an increase of 37% yoy, and offshore wind totaling 11.3GW, an increase of 25% yoy. Note:…
+url: "https://www.marketscreener.com/quote/stock/GOLDWIND-SCIENCE-AND-TECH-6500065/news/Goldwind-Science-And-Technology-2023-Annual-Results-Presentation-46336534/"
+image: "https://www.marketscreener.com/images/twitter_MS_fdblanc.png"
+published_at: 2024-04-02
+content: >
+  2023 Annual Results  <ul><li> Global new installations in 2023 achieved 118GW, an increase of 36% yoy, with onshore wind of 106.7GWan increase of 37% yoy, and offshore wind totaling 11.3GW, an increa… [+10542 chars]
+author: "(unknown author)"
+terms: "Cost of electricity"
+search_timestamp: 2024-04-04 00:51:29.336682
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -12,6 +12,7 @@
       "/infographics/viewshed.html",
       "/infographics/whales.html",
       "/news/BHAAE_BoOEM.html",
+      "/news/GSAT_Mrk.html",
       "/news/TCTA_L-HW.html",
       "/news/MRIC_NC3-.html",
       "/news/BOEMAERPW_BoOEM.html",
@@ -334,6 +335,7 @@
     "listing": "/news.html",
     "items": [
       "/news/BHAAE_BoOEM.html",
+      "/news/GSAT_Mrk.html",
       "/news/TCTA_L-HW.html",
       "/news/MRIC_NC3-.html",
       "/news/BOEMAERPW_BoOEM.html",
