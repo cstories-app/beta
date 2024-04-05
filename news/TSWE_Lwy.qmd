@@ -1,0 +1,28 @@
+---
+source: "Lawyersgunsmoneyblog.com"
+author: "Erik Loomis"
+title: >
+  Tribal Sovereignty and Wind Energy
+description: >
+  There’s nothing easy or fun about this one. A growing number of tribes in Oregon and California are coming out in opposition to federal offshore wind projects. Some tribes don’t believe there’s been enough research into the impacts on the environment. At leas…
+url: "https://www.lawyersgunsmoneyblog.com/2024/04/tribal-sovereignty-and-wind-energy"
+image: "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2024/04/download-1024x538.jpeg"
+published_at: 2024-04-03
+content: >
+  A growing number of tribes in Oregon and California are coming out in opposition to federal offshore wind projects. Some tribes dont believe theres been enough research into the impacts on the enviro… [+3509 chars]
+terms: "Morro Bay"
+search_timestamp: 2024-04-05 00:49:46.352021
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
