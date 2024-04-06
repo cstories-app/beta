@@ -1,0 +1,28 @@
+---
+source: "Marketscreener.com"
+author: "(unknown author)"
+title: >
+  Bekaert : joins TAILWIND Project to develop floating offshore wind mooring solutions
+description: >
+  (marketscreener.com) Bekaert joins TAILWIND Project to develop floating offshore wind mooring solutions Floating offshore wind can harness stronger and more consistent wind speeds compared to onshore and fixed-bottom offshore wind turbines. The TAILW…
+url: "https://www.marketscreener.com/quote/stock/BEKAERT-NV-5971/news/Bekaert-joins-TAILWIND-Project-to-develop-floating-offshore-wind-mooring-solutions-46360862/"
+image: "https://www.marketscreener.com/images/twitter_MS_fdblanc.png"
+published_at: 2024-04-04
+content: >
+  Bekaert joins TAILWIND Project to develop floating offshore wind mooring solutions  Floating offshore wind (FOW) can harness stronger and more consistent wind speeds compared to onshore and fixed-bot… [+3288 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-04-06 00:48:01.274684
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
