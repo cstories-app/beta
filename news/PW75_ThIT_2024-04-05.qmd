@@ -1,0 +1,28 @@
+---
+source: "The Irish Times"
+author: "Laura Slattery"
+title: >
+  Proposed wind farm off Wicklow further reduces maximum turbine number to 75
+description: >
+  Codling Wind Park developers reveal final design of Irish Sea project to be submitted for planning approval this summer
+url: "https://www.irishtimes.com/business/2024/04/05/proposed-wind-farm-off-wicklow-further-reduces-maximum-turbine-number-to-75/"
+image: "https://www.irishtimes.com/resizer/ePRdCRqqEwk5TA0cBqD2C6Ku1p0=/1200x630/filters:format(jpg):quality(70):focal(2110x1185:2120x1195)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/KRMQNPS6KFBMFLKTM2ETCSJKQM.jpg"
+published_at: 2024-04-05
+content: >
+  Developers behind plans for the Republics biggest offshore wind farm are further cutting the number of turbines that will be required for the project.  The project team for Codling Wind Park, a propo… [+3023 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-04-07 00:55:24.465914
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

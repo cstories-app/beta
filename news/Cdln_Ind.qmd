@@ -1,0 +1,28 @@
+---
+source: "Independent.ie"
+author: "John Burns"
+title: >
+  Codling offshore wind farm slashes turbines by a quarter
+description: >
+  The developers of Codling Wind Park, which will be based 13km off the coast of Wicklow, have again reduced the number of turbines they say will be needed in the project.
+url: "https://www.independent.ie/business/codling-offshore-wind-farm-slashes-turbines-by-a-quarter/a216965361.html"
+image: "https://focus.independent.ie/thumbor/Vxmn3IifHfgNns1kVokag1skE6E=/0x7:3209x2146/629x0/prod-mh-ireland/a8775da5-0260-412a-95f8-22614b5d4aae/8b04ee8f-3a0d-4f57-ae7a-747a2c2b7f9b/a8775da5-0260-412a-95f8-22614b5d4aae.jpg"
+published_at: 2024-04-05
+content: >
+  The developers of Codling Wind Park, which will be based 13km off the coast of Wicklow, have again reduced the number of turbines they say will be needed in the project.While the original estimate ha… [+3055 chars]
+terms: "Cost of electricity | Cost of electricity | Cost of electricity"
+search_timestamp: 2024-04-07 00:55:24.465914
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
