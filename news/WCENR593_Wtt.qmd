@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  Weekly Climate and Energy News Roundup #593
+description: >
+  “Everything is determined, the beginning as well as the end, by forces over which we have no control. It is determined for the insect, as well as for the star. Human beings, vegetables, or cosmic dust, we all dance to a mysterious tune, intoned in the distanc…
+url: "https://wattsupwiththat.com/2024/04/08/weekly-climate-and-energy-news-roundup-593/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2023/01/Untitled-3.webp?fit=900%2C450&ssl=1"
+published_at: 2024-04-08
+content: >
+  The Week That Was: 2024-04-06 (April 6, 2024)Brought to You by SEPP (www.SEPP.org)The Science and Environmental Policy Project  Quote of the Week:  Everything is determined, the beginning as well as … [+93664 chars]
+terms: "Humboldt"
+search_timestamp: 2024-04-10 00:50:11.291305
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
