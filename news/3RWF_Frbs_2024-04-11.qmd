@@ -1,0 +1,28 @@
+---
+source: "Forbes"
+author: "Scott Travers, Contributor,   Scott Travers, Contributor  https://www.forbes.com/sites/scotttravers/"
+title: >
+  3 Reasons Why Floating Windmills May Be The Greenest Offshore Wind Option
+description: >
+  Engineers have been tinkering with different offshore wind turbine designs that maximize efficiency while minimizing their environmental footprint. Here’s why floating windmills may be the most promising iteration yet.
+url: "https://www.forbes.com/sites/scotttravers/2024/04/11/3-reasons-why-floating-windmills-may-be-the-greenest-offshore-wind-option/"
+image: "https://imageio.forbes.com/specials-images/imageserve/6617ea92b7ee8357a62f2c6b/0x0.jpg?format=jpg&crop=2828,1325,x0,y221,safe&height=900&width=1600&fit=bounds"
+published_at: 2024-04-11
+content: >
+  Engineers have been tinkering with different offshore wind turbine designs that maximize efficiency ... [+] while minimizing their environmental footprint. Heres why floating windmills may be the mos… [+4585 chars]
+terms: "Seabirds"
+search_timestamp: 2024-04-13 00:42:07.118823
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
