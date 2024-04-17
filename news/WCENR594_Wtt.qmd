@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  Weekly Climate and Energy News Roundup #594
+description: >
+  "Unthinking respect for authority is the greatest enemy of truth.” – Albert Einstein
+url: "https://wattsupwiththat.com/2024/04/15/weekly-climate-and-energy-news-roundup-594/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/04/IMG_6966.webp?fit=1024%2C512&ssl=1"
+published_at: 2024-04-15
+content: >
+  Quote of the Week:  Unthinking respect for authority is the greatest enemy of truth. Albert Einstein [H/t Jim Steele]  Number of the Week: 200 to 500 centimeters (80 to 200 inches) per century  THIS … [+72507 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-04-17 00:50:32.51859
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
