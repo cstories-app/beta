@@ -1,0 +1,28 @@
+---
+source: "Plos.org"
+author: "Irene S. Fortune, Alethea S. Madgett, Ann Scarborough Bull, Natalie Hicks, Milton S. Love, David M. Paterson"
+title: >
+  Haven or hell? A perspective on the ecology of offshore oil and gas platforms
+description: >
+  Author summary When man-made structures are introduced into the ocean, they swiftly become hubs for diverse marine life. Initially, simple organisms like bacteria and algae take hold, but over time, these communities evolve into complex ecosystems, fostering …
+url: "https://journals.plos.org/sustainabilitytransformation/article?id=10.1371/journal.pstr.0000104"
+image: "https://journals.plos.org/sustainabilitytransformation/article/figure/image?id=10.1371/journal.pstr.0000104.g009&size=inline"
+published_at: 2024-04-18
+content: >
+  Abstract  Offshore oil and gas platforms (OGP) have been installed worldwide and initially with limited consideration given to the nature of their positive or negative long-term interactions with the… [+105532 chars]
+terms: "Seascape"
+search_timestamp: 2024-04-20 00:51:23.609411
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
