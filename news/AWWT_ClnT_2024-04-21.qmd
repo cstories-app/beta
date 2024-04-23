@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "US Department of Energy"
+title: >
+  Alaska’s Wind, Wave, & Tidal Resources Could Help State Meet Future Energy Needs
+description: >
+  Offshore wind makes sense for decarbonizing energy production and building energy security and independence when it comes to ocean renewable energy production in Alaska’s Outer Continental Shelf (OCS), according to an analysis by researchers at the National R…
+url: "https://cleantechnica.com/2024/04/21/alaskas-wind-wave-tidal-resources-could-help-state-meet-future-energy-needs/"
+image: "https://cleantechnica.com/wp-content/uploads/2024/04/Alaska-wind-water-energy-NREL.jpeg"
+published_at: 2024-04-21
+content: >
+  Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!  Offshore wind makes sense for decarbonizing energy production and building energy security and independence w… [+4525 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-04-23 00:50:57.148117
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
