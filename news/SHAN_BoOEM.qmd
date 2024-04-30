@@ -1,0 +1,21 @@
+---
+title: >
+  Secretary Haaland Announces New Five-Year Offshore Wind Leasing Schedule
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-04-30
+url: "https://www.boem.gov/newsroom/press-releases/secretary-haaland-announces-new-five-year-offshore-wind-leasing-schedule"
+description: >
+  Schedule includes up to 12 offshore wind lease sales across the Atlantic, Gulf of Mexico, Pacific, and the waters offshore the U.S. territories
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

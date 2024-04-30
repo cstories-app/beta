@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "Tina Casey"
+title: >
+  Offshore Wind Industry Saved By Lighter Floating Platforms
+description: >
+  A floating offshore wind startup is gearing up to commercialize a modular, hyper-local assembly model to cut the cost of floating platforms. The post Offshore Wind Industry Saved By Lighter Floating Platforms appeared first on CleanTechnica.
+url: "https://cleantechnica.com/2024/04/26/offshore-wind-industry-saved-by-lighter-floating-platforms/"
+image: "https://cleantechnica.com/wp-content/uploads/2024/04/floating-offshore-wind-ocergy-octopus.png"
+published_at: 2024-04-26
+content: >
+  Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!  The US offshore wind industry has been somewhat at sea of late, the latest development being the cancellation… [+8010 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-04-30 18:15:13
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

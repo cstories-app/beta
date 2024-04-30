@@ -1,0 +1,28 @@
+---
+source: "Financial Post"
+author: "Bloomberg News"
+title: >
+  California Sanctuary Deal Eases Way for Offshore Wind Farms
+description: >
+  California’s Northern Chumash Tribal Council and wind-energy companies leasing sites near Morro Bay have reached a landmark agreement that may ease a path for developing offshore wind farms.
+url: "https://financialpost.com/pmn/business-pmn/california-sanctuary-deal-eases-way-for-offshore-wind-farms"
+image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/04/97435172.jpg"
+published_at: 2024-04-24
+content: >
+  (Bloomberg) Californias Northern Chumash Tribal Council and wind-energy companies leasing sites near Morro Bay have reached a landmark agreement that may ease a path for developing offshore wind farm… [+1659 chars]
+terms: "Morro Bay"
+search_timestamp: 2024-04-30 18:15:13
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

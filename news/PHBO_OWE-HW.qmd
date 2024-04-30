@@ -1,0 +1,21 @@
+---
+title: >
+  Proposed Humboldt Bay Offshore Wind Terminal Receives Federal Mega-Grant, Port Developer Withdraws
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2024-03-03
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1788-proposed-humboldt-bay-offshore-wind-terminal-receives-federal-mega-grant-port-developer-withdrawsthe-federal-government-recently-awarded-426-000-000-to-the-humboldt-bay-harbor-recreation-and-conservation-district-for-the-design-permitting-and-constr-2"
+description: >
+  The federal government recently awarded $426,000,000 to the Humboldt Bay Harbor, Recreation, and Conservation District for the design, permitting, and construction of an offshore wind Heavy Lift Terminal on the Samoa Peninsula.&nbsp;Left:&nbsp;The site was once part of the former Hammond Lumber Mill. The site will need to be remediated, dock and buildings demolished, and ground elevation raised to accommodate sea level rise.Imagery by Oren Nardi for Humboldt Waterkeeper.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
