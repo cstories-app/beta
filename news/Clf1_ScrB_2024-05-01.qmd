@@ -1,0 +1,28 @@
+---
+source: "Sacramento Bee"
+author: "Andrew Sheeler"
+title: >
+  California lawmakers call for \$1 billion ‘down payment’ on offshore wind energy infrastructure
+description: >
+  Lawmakers are calling for including the $1 billion as part of a larger climate bond which may go before voters in November.
+url: "https://www.sacbee.com/news/politics-government/capitol-alert/article288153140.html"
+image: "https://media.zenfs.com/en/sacramento_bee_mcclatchy_569/fb76414f5c5440d649e868de995adb99"
+published_at: 2024-05-01
+content: >
+  Good morning and welcome to the A.M. Alert!  LAWMAKERS RALLY FOR OFFSHORE WIND INFRASTRUCTURE  If theres one thing Assemblyman Rick Chavez Zbur, D-West Hollywood, wanted the public to take away from … [+3683 chars]
+terms: "Humboldt"
+search_timestamp: 2024-05-03 00:54:15
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
