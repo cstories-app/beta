@@ -1,0 +1,28 @@
+---
+source: "KQED"
+author: "Steph Rodriguez"
+title: >
+  California’s Central Coast Could Gain First Indigenous-Named Marine Sanctuary in US
+description: >
+  The Northern Chumash seeks to designate California's Central Coast as a marine sanctuary, pending federal approval, shielding one of the world’s most biodiverse stretches of ocean from oil drilling. If approved, it would be the first US sanctuary named by an …
+url: "https://www.kqed.org/news/11985188/californias-central-coast-nears-first-indigenous-named-marine-sanctuary-in-us"
+image: "https://cdn.kqed.org/wp-content/uploads/sites/10/2024/05/Chumash-Sanctuary-01-KQED-1020x680.jpg"
+published_at: 2024-05-10
+content: >
+  A sanctuary decades in the making  In 1972, the federal government created the National Marine Sanctuary system. Within the next few decades, two sanctuaries were designated on California’s Central C… [+4927 chars]
+terms: "Morro Bay"
+search_timestamp: 2024-05-12 00:56:32
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
