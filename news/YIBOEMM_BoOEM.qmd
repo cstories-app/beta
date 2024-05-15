@@ -1,0 +1,21 @@
+---
+title: >
+  You’re Invited: BOEM's Meeting with the National Academies Standing Committee on Offshore Wind Energy and Fisheries
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-05-15
+url: "https://www.boem.gov/newsroom/notes-stakeholders/youre-invited-boems-meeting-national-academies-standing-committee"
+description: >
+  The committee will hear offshore wind development updates from each of BOEM’s regional offices, a short briefing of a relevant National Academies report, and related discussions.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
