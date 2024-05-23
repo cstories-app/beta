@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM Releases Final Environmental Impact Statement for Two Wind Projects Offshore New Jersey
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-05-23
+url: "https://www.boem.gov/newsroom/press-releases/boem-releases-final-environmental-impact-statement-two-wind-projects"
+description: >
+  BOEM today announced the availability of the final Environmental Impact Statement (EIS) for two wind energy projects offshore New Jersey.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

@@ -1,0 +1,28 @@
+---
+source: "Phys.Org"
+author: "JoAnna Wendel"
+title: >
+  West Coast seabird study shows how they might one day share the air with wind turbines
+description: >
+  One day, wind turbines may float off the coasts of California and southern Oregon, providing clean, renewable energy to millions of homes. But before construction can start, researchers are studying how to minimize the potential wind farms' impact on local wi…
+url: "https://phys.org/news/2024-05-west-coast-seabird-day-air.html"
+image: "https://scx2.b-cdn.net/gfx/news/hires/2024/west-coast-seabird-stu.jpg"
+published_at: 2024-05-22
+content: >
+  This article has been reviewed according to Science X's   editorial process  and policies.  Editors have highlighted  the following attributes while ensuring the content's credibility:  fact-checked … [+5448 chars]
+terms: "Seabirds"
+search_timestamp: 2024-05-23 19:49:22
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

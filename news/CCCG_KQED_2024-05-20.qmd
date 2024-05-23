@@ -1,0 +1,28 @@
+---
+source: "KQED"
+author: "Spencer Whitney"
+title: >
+  California Congressman Calls for Greater Tribal Involvement in Offshore Wind Farms
+description: >
+  A California congressman says tribes should be more involved in the decision-making process for the development of the first offshore wind farms along the West Coast.
+url: "https://www.kqed.org/news/11986962/california-congressman-calls-for-greater-tribal-involvement-in-offshore-wind-farms"
+image: "https://cdn.kqed.org/wp-content/uploads/sites/10/2024/05/AP24141627799599-1020x680.jpg"
+published_at: 2024-05-20
+content: >
+  BOEM said Monday that while it does not publicly comment on congressional correspondence, it will continue to refine the way it engages with tribes. The agency said the renewable energy leasing proce… [+3502 chars]
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2024-05-23 19:49:22
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

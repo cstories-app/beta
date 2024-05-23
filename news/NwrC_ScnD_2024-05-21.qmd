@@ -1,0 +1,28 @@
+---
+source: "Science Daily"
+author: "(unknown author)"
+title: >
+  New research reveals that prehistoric seafloor pockmarks off the California coast are maintained by powerful sediment flows
+description: >
+  New research on a field of pockmarks -- large, circular depressions on the seafloor -- offshore of Central California has revealed that powerful sediment flows, not methane gas eruptions, maintain these prehistoric formations.
+url: "https://www.sciencedaily.com/releases/2024/05/240521123839.htm"
+image: "https://www.sciencedaily.com/images/scidaily-icon.png"
+published_at: 2024-05-21
+content: >
+  New MBARI research on a field of pockmarks -- large, circular depressions on the seafloor -- offshore of Central California has revealed that powerful sediment flows, not methane gas eruptions, maint… [+10878 chars]
+terms: "Morro Bay"
+search_timestamp: 2024-05-23 19:49:22
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

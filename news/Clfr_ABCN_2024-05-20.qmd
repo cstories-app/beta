@@ -1,0 +1,28 @@
+---
+source: "ABC News"
+author: "CLAIRE RUSH Associated Press, JENNIFER MCDERMOTT Associated Press"
+title: >
+  California congressman urges closer consultation with tribes on offshore wind
+description: >
+  A California congressman says tribes should be more involved in the decision-making process for the development of the first offshore wind farms along the West Coast
+url: "https://abcnews.go.com/Business/wireStory/california-congressman-urges-closer-consultation-tribes-offshore-wind-110410418"
+image: "https://i.abcnewsfe.com/a/315ff804-46e5-439a-b9bc-36ed810c0253/wirestory_0f32f88f9e7ed9b0a62e5ed592b53b65_16x9.jpg?w=1600"
+published_at: 2024-05-20
+content: >
+  A congressman who represents Californias north coast has sent a letter to federal regulators asking that they urgently place a senior official in the state to respond to tribal needs as wind power is… [+5216 chars]
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2024-05-23 19:49:22
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
