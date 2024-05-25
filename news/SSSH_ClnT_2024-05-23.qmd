@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "US Department of Energy"
+title: >
+  Seabird Study Shows How They Might One Day Share The Air With Offshore Wind Turbines
+description: >
+  Tracking how high West Coast seabirds fly will help researchers understand environmental impacts from offshore wind One day, wind turbines may float off the coasts of California and southern Oregon, providing clean, renewable energy to millions of homes. But …
+url: "https://cleantechnica.com/2024/05/23/seabird-study-shows-how-they-might-one-day-share-the-air-with-offshore-wind-turbines/"
+image: "https://cleantechnica.com/wp-content/uploads/2024/05/Designer-1-e1716329576621.png"
+published_at: 2024-05-23
+content: >
+  Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!  Tracking how high West Coast seabirds fly will help researchers understand environmental impacts from offshor… [+6571 chars]
+terms: "Humboldt | Seabirds"
+search_timestamp: 2024-05-25 00:51:37
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
