@@ -1,0 +1,21 @@
+---
+title: >
+  Seabird Study Helps Understand Environmental Impacts from Offshore Wind
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2024-05-27
+url: "https://humboldtwaterkeeper.org/news/latest/1789-seabird-study-helps-understand-environmental-impacts-from-offshore-wind"
+description: >
+  Researchers from the Department of Energy’s (DOE’s) Pacific Northwest National Laboratory (PNNL) and environmental consulting firm H. T. Harvey &amp; Associates recently deployed technology off the West Coast in one of the first efforts to understand how high seabirds fly and whether they might interact with wind turbines and other infrastructure. They published the research on April 24 in Frontiers in Marine Energy.“This is an important step in understanding seabird behavior at the height of offshore wind turbines on the West Coast,” said Shari Matzner, computer scientist at PNNL and coauthor on the paper. Data from scientists on research vessels have provided estimates of how high birds fly, depending on wind strength, but “this is really the first time we’ve had real-time, quantified flight height data for these birds,” Matzner said.Keep reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
