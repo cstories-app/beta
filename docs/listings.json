@@ -4,6 +4,7 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/CPED_BoOEM.html",
       "/news/SSHU_L-HW.html",
       "/news/BOEMRF_BoOEM.html",
       "/news/SSSH_ClnT_2024-05-23.html",
@@ -360,6 +361,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/CPED_BoOEM.html",
       "/news/SSHU_L-HW.html",
       "/news/BOEMRF_BoOEM.html",
       "/news/SSSH_ClnT_2024-05-23.html",

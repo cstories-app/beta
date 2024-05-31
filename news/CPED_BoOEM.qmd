@@ -1,0 +1,21 @@
+---
+title: >
+  Comment Period Extended on Draft Environmental Assessment on Oregon Offshore Wind Leasing Activities
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-05-31
+url: "https://www.boem.gov/newsroom/notes-stakeholders/comment-period-extended-draft-environmental-assessment-oregon-offshore"
+description: >
+  BOEM published a Notice of Availability (NOA) of a draft Environmental Assessment (EA) for Commercial Wind Lease Issuance in two Wind Energy Areas (WEAs) designated off the coast of Oregon, along with a 30-day comment period.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
