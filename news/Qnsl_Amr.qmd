@@ -1,0 +1,28 @@
+---
+source: "Americanthinker.com"
+author: "(unknown author)"
+title: >
+  Queensland pols stumble across a sensible energy policy
+description: >
+  The Queensland government recently placed a ban on pumping and dumping carbon dioxide into the rocks of the Great Artesian Basin. This was an event rarely seen -- politicians stumbling onto a sensible energy policy. Burying CO2 would achieve nothi...
+url: "https://www.americanthinker.com/blog/2024/06/queensland_pols_stumble_across_a_sensible_energy_policy.html"
+image: "https://images.americanthinker.com/cu/cu7kk3jvkjhn8fejlqyc_800.jpg"
+published_at: 2024-06-03
+content: >
+  The Queensland government recently placed a ban on pumping and dumping carbon dioxide into the rocks of the Great Artesian Basin.  This was an event rarely seen -- politicians stumbling onto a sensib… [+3724 chars]
+terms: "Seabirds"
+search_timestamp: 2024-06-05 00:53:41
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
