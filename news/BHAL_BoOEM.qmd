@@ -1,0 +1,21 @@
+---
+title: >
+  Biden-Harris Administration Leaders Announce Steps to Advance Offshore Wind Progress in Maryland
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-06-08
+url: "https://www.boem.gov/newsroom/press-releases/biden-harris-administration-leaders-announce-steps-advance-offshore-wind"
+description: >
+  The Biden-Harris administration’s commitment to expand offshore wind opportunities and advance an all-of-government approach to address the climate crisis while creating good-paying jobs.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
