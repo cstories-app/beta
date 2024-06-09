@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Charles Rotter"
+title: >
+  Industrial Wind Power: A Depleting Resource?
+description: >
+  Getting wind projects built is getting a lot harder. The low-hanging fruit, the easier access places are gone.
+url: "https://wattsupwiththat.com/2024/06/07/industrial-wind-power-a-depleting-resource/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2022/11/Charles_Rotter_dissecting_wind_turbines_highly_detailed_in_the__1796903a-bc61-47e3-9326-ce0e0960570b.webp?fit=1024%2C512&ssl=1"
+published_at: 2024-06-07
+content: >
+  From MasterResource  By Robert Bradley Jr.   Getting wind projects built is getting a lot harder. The low-hanging fruit, the easier access places are gone. (Sandhya Ganapathy, EDP Renewables North Am… [+9315 chars]
+terms: "Seascape"
+search_timestamp: 2024-06-09 00:59:01
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
