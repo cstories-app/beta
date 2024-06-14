@@ -1,0 +1,28 @@
+---
+source: "GlobeNewswire"
+author: "RWE"
+title: >
+  RWE Announces Start of Site Investigation Campaign for its Canopy Offshore Wind Project off the Coast of Northern California
+description: >
+  RWE has selected Argeo to lead survey work with sophisticated, proven technology to inform safe, responsible project design RWE has selected Argeo to lead survey work with sophisticated, proven technology to inform safe, responsible project design
+url: "https://www.globenewswire.com/news-release/2024/06/12/2897725/0/en/RWE-Announces-Start-of-Site-Investigation-Campaign-for-its-Canopy-Offshore-Wind-Project-off-the-Coast-of-Northern-California.html"
+image: "https://ml.globenewswire.com/Resource/Download/899cad4f-a1a3-4269-a2a5-c99022dae121"
+published_at: 2024-06-12
+content: >
+  EUREKA, Calif., June 12, 2024 (GLOBE NEWSWIRE) -- RWE today announced the upcoming start of the site investigation survey work for its Canopy Offshore Wind Farm (Canopy) project off the coast of Nort… [+9139 chars]
+terms: "Humboldt"
+search_timestamp: 2024-06-14 00:54:45
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
