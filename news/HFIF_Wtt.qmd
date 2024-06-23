@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  Highway Funds Illegally used for Floating Wind Factories
+description: >
+  Floating wind is not a highway.
+url: "https://wattsupwiththat.com/2024/06/21/highway-funds-illegally-used-for-floating-wind-factories/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/06/216478186_twitter-post_normal_none.webp?fit=1024%2C512&ssl=1"
+published_at: 2024-06-21
+content: >
+  Floating wind is not a highway.  From CFACT  David Wojiick  The Biden Administration is illegally redirecting hundreds of millions of dollars in highway grant money to fund construction of floating w… [+4379 chars]
+terms: "Humboldt"
+search_timestamp: 2024-06-23 00:58:11
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

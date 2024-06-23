@@ -11,6 +11,7 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/HFIF_Wtt.html",
       "/news/RWEA_GlbN_2024-06-12.html",
       "/news/BHAL_BoOEM.html",
       "/news/IWPA_Wtt.html",
@@ -365,6 +366,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/HFIF_Wtt.html",
       "/news/RWEA_GlbN_2024-06-12.html",
       "/news/BHAL_BoOEM.html",
       "/news/IWPA_Wtt.html",
