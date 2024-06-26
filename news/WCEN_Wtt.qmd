@@ -2,16 +2,16 @@
 source: "Wattsupwiththat.com"
 author: "Guest Blogger"
 title: >
-  Weekly Climate and Energy News Roundup #591
+  Weekly Climate and Energy News Roundup #603
 description: >
-  “The cavemen had the same natural resources at their disposal as we have today, and the difference between their standard of living and ours is a difference between the knowledge they could bring to bear on those resources and the knowledge used today.”
-url: "https://wattsupwiththat.com/2024/03/11/weekly-climate-and-energy-news-roundup-591/"
-image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/03/charlesrotter_monument_valley_at_sunset_midjourney.webp?fit=1024%2C512&ssl=1"
-published_at: 2024-03-11
+  …if we did not have a doubt or recognize ignorance, we would not get any new ideas. There would be nothing worth checking, because we would know what is true. So, what we call scientific knowledge today is a body of statements of varying degrees of certainty.…
+url: "https://wattsupwiththat.com/2024/06/24/weekly-climate-and-energy-news-roundup-603/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/06/charlesrotter_death_valley_painted_hills_midjourney.webp?fit=1200%2C600&ssl=1"
+published_at: 2024-06-24
 content: >
-  The Week That Was: 2024-03-09 (March 9, 2024)Brought to You by SEPP (www.SEPP.org)The Science and Environmental Policy Project  Quote of the Week: The cavemen had the same natural resources at their … [+71146 chars]
-terms: "Cost of electricity"
-search_timestamp: 2024-03-13 00:49:44.517249
+  Quote of the Week:if we did not have a doubt or recognize ignorance, we would not get any new ideas. There would be nothing worth checking, because we would know what is true. So, what we call scient… [+74315 chars]
+terms: "Humboldt | Cost of electricity"
+search_timestamp: 2024-06-26 00:55:15
 ---
 
 
