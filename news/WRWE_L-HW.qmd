@@ -1,0 +1,21 @@
+---
+title: >
+  What’s RWE’s next move in Humboldt County offshore wind? Surveys
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2024-06-27
+url: "https://humboldtwaterkeeper.org/news/latest/1796-whats-rwes-next-move-in-humboldt-county-offshore-wind-surveys"
+description: >
+  Next week, the company that leased swaths of ocean space roughly 20 miles west of Eureka to build offshore wind turbines will begin gathering data on the site’s biological and geographic characteristics.RWE contracted with ocean surveying company Argeo to examine the ocean floor and identify its plants, animals and geographic specifications, data that could help determine where exactly the floating turbines are placed. The area off the coast of Samoa where the turbines would be built doesn’t have much high-quality data about it, said Rob Mastria, RWE’s project director for Canopy, their offshore wind project off the county’s coast.“We use them (Surveys) to figure out what our lease area looks like and several aspects related to that, like actually mapping the contours of the seafloor, getting an indication of what the soil looks like, below the seabed as well as learning more about are there any hazards or sensitive areas to avoid, what are the organisms and life on the seafloor and the habitats in the area,” Mastria said.Mastria estimated that turbine construction would likely begin in the early to mid-2030s, and his company’s work until then involves acquiring the necessary permits and conducting community outreach. He added his company hopes the heavy lift terminal – an infrastructural overhaul of the Samoa marine terminal meant to facilitate offshore wind construction and maintenance – succeeds, but it’s not completely essential for the project to proceed, noting RWE could use other ports to ship up materials.Keep reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

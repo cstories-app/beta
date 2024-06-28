@@ -1,0 +1,28 @@
+---
+source: "GlobeNewswire"
+author: "TGS ASA"
+title: >
+  TGS Announces New Wind and Metocean Measurement Campaign Offshore California
+description: >
+  OSLO, Norway (26 June 2024) – TGS, a global provider of energy data and intelligence, has announced a new campaign for offshore wind and metocean measurement located in Morro Bay, off the U.S. West Coast. This initiative further expands the company’s pioneeri…
+url: "https://www.globenewswire.com/news-release/2024/06/26/2904228/0/en/TGS-Announces-New-Wind-and-Metocean-Measurement-Campaign-Offshore-California.html"
+image: "https://ml-eu.globenewswire.com/Resource/Download/03147485-7276-4064-852f-d412d8c66441"
+published_at: 2024-06-26
+content: >
+  OSLO, Norway (26 June 2024) TGS, a global provider of energy data and intelligence, has announced a new campaign for offshore wind and metocean measurement located in Morro Bay, off the U.S. West Coa… [+4529 chars]
+terms: "Morro Bay"
+search_timestamp: 2024-06-28 00:55:16
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

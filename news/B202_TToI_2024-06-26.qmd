@@ -1,0 +1,28 @@
+---
+source: "The Times of India"
+author: "Twesh Mishra"
+title: >
+  Budget 2024: Hi-tech thermal plants may get Rs 6,000 cr viability support
+description: >
+  Budget 2024: The Union budget for 2024-25 is expected to include a support scheme for setting up 800 MW coal-based power plants using Advanced Ultra Supercritical (AUSC) technology. The finance ministry is evaluating a proposal for ₹6,000 crore viability gap …
+url: "https://economictimes.indiatimes.com/industry/energy/power/budget-2024-hi-tech-thermal-plants-may-get-rs-6000-cr-viability-support/articleshow/111294258.cms"
+image: "https://img.etimg.com/thumb/msid-111294312,width-1200,height-630,imgsize-27984,overlay-economictimes/photo.jpg"
+published_at: 2024-06-26
+content: >
+  The Union budget for 2024-25 is likely to announce a support scheme for setting up 800 MW coal-based power plants through the newest Advanced Ultra Supercritical (AUSC) technology.A proposal to offer… [+2408 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-06-28 00:55:16
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
