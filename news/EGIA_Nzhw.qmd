@@ -1,0 +1,21 @@
+---
+title: >
+  Erin Graffy: It’s All About the Art of Patricia Chidlaw, Peter Clark and Nir Kabaretti
+source: "Noozhawk"
+published_at: 2024-06-29
+url: "https://www.noozhawk.com/erin-graffy-its-all-about-the-art-of-patricia-chidlaw-peter-clark-and-nir-kabaretti/"
+description: >
+  Patricia Chidlaw describes her works as “urban landscapes” to distinguish them from people-less outdoor scenes and seascapes in nature. But that doesn’t tell the whole story of her art. She [&#8230;]The post Erin Graffy: It’s All About the Art of Patricia Chidlaw, Peter Clark and Nir Kabaretti appeared first on Noozhawk.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
