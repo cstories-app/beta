@@ -63,7 +63,7 @@ update_feeds <- function(feed_files,
 
 
   if(nrow(bad <- rss %>% get_dupes(rss_id)) > 0) {
-    cli_alert_danger("Duplicate rss_id's in data.")
+    cli_alert_info("Duplicate rss_id's in data. Discarding all but first occurance: ")
     print(bad)
     rss <- rss %>% distinct(rss_id, .keep_all = T)
   }
