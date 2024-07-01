@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  The true cost of Labour’s net zero plans is slowly being revealed – and the sums are staggering
+description: >
+  At least the Telegraph is starting to dismantle Mad Miliband’s crazy agenda:
+url: "https://wattsupwiththat.com/2024/06/28/the-true-cost-of-labours-net-zero-plans-is-slowly-being-revealed-and-the-sums-are-staggering/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/06/Hon_Edward_Miliband_Wind-Turbines_composite_Faceswap.webp?fit=1024%2C512&ssl=1"
+published_at: 2024-06-29
+content: >
+  From NOT A LOT OF PEOPLE KNOW THAT  By Paul Homewood  h/t Philip Bratby  At least the Telegraph is starting to dismantle Mad Milibands crazy agenda:  .  Sir Keir Starmer has promised that a new Labou… [+5743 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-07-01 01:01:28
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
