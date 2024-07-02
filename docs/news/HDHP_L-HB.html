@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.557">
+<meta name="generator" content="quarto-1.5.52">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="description" content="The Humboldt Bay Harbor, Recreation and Conservation District — or &nbsp;let’s just call it “the Harbor District” for short — will host a public “scoping meeting” Wednesday evening from 5:30 to 7 p.m. at Eureka’s Wharfinger Building, located at 1 Marina Way.What’s a scoping meeting, you ask? Well, the Harbor District recently announced that, per the rules of the California Environmental Quality Act, it is developing a Draft Environmental Impact Report (DEIR) for a major renovation of the Port of Humboldt Bay.That’s right: The district is preparing to meet the needs of the multinational, federally stimulated offshore wind industry, and tomorrow night’s meeting will give the public its first opportunity to weigh in on the “scope” of environmental issues that should be included in the report.&nbsp;The idea, as recently explained in a thorough and informative YouTube video featuring Rob Holmlund, the Harbor District’s director of development, is to transform the district’s largely vacant former industrial property on the Samoa Peninsula (home to the dilapidated remnants of the old pulp mill and Hammond Lumber Mill) into a state-of-the-art “heavy lift marine terminal,” a compound where the jaw-droppingly massive wind turbine components could be manufactured, assembled and then loaded onto ships.In a jointly authored opinion piece, local environmental leaders recently called on the Harbor District to commit to a zero-emissions green port by employing such emerging technologies as electrified terminal equipment, on-shore power stations for idling ships, fully electric tugboats and battery storage facilities.“We would love to see a commitment to a green port from the get-go,” said Jennifer Savage, a 20-year resident of the Samoa Peninsula (and a friend of mine). “It only makes sense that a project designed to move us away from fossil fuels would be clean and climate-friendly itself.”While the Harbor District has insisted that its port-development project extends only as far as the harbor entrance — which is to say it’s distinct from the offshore wind farms themselves — Savage and others argue that all aspects of the development, including support activities, should be identified and analyzed as part of the Harbor District’s environmental review process.&nbsp;Jennifer Kalt, executive director of environmental nonprofit Humboldt Baykeeper and one of the authors of the recent opinion piece, said this kind of advocacy isn’t about obstructionism.“It’s hard to say ‘zero emissions’ without people thinking that we’re asking them to reach an unachievable bar, but that’s not at all what we’re doing,” she said. “We don’t want to make perfect the enemy of good. We just want it to be planned right from the start.”Kalt noted that much of the technology to facilitate offshore wind energy at this scale — from the massive floating turbines to the electrical transmission infrastructure — is still years away, so the Harbor District should be willing to rely on advances in green electrification options, too.“This is going to be a publicly funded project to a great extent, so we need to make sure that the public trust [resources] in Humboldt Bay and all the surrounding communities … will be protected,” Kalt said.Savage also called on Crowley to enter into a Community Benefits Agreement that includes commitments to hire locally and provide job training such as internships and apprenticeships.“I think it’s really important that the Harbor District and Crowley see the community as valuable partners and make real commitments to make sure everything is done right from the beginning,” Savage said.The Harbor District’s Notice of Preparation of Draft Environmental Impact Report, which you can download by clicking here, will be circulated for a 30-day review and comment period. If you can’t make it to the meeting Wednesday, you can also submit comments by emailing Rob Holmlund at districtplanner@humboldtbay.org.Read More">
 
-<title>CStories Beta - Harbor District to Host Public Meeting Kicking Off Environmental Review of Offshore Wind Heavy Lift Marine Terminal Project</title>
+<title>Harbor District to Host Public Meeting Kicking Off Environmental Review of Offshore Wind Heavy Lift Marine Terminal Project – CStories Beta</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -106,7 +106,7 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -139,7 +139,7 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -149,7 +149,7 @@ gtag('config', 'G-9Z3CG75J46', { 'anonymize_ip': true});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
@@ -410,18 +410,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -453,7 +442,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -461,7 +472,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
