@@ -1,0 +1,21 @@
+---
+title: >
+  Biden-Harris Administration Approves Ninth Offshore Wind Project
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-07-03
+url: "https://www.boem.gov/newsroom/press-releases/biden-harris-administration-approves-ninth-offshore-wind-project"
+description: >
+  Interior Department has now approved more than 13 gigawatts of offshore wind energy — enough to power nearly 5 million homes
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
