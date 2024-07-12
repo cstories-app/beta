@@ -1,0 +1,21 @@
+---
+title: >
+  Humboldt County environmental organizations launch offshore wind website
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2024-07-11
+url: "https://humboldtwaterkeeper.org/news/latest/1803-humboldt-county-environmental-organizations-launch-offshore-wind-website"
+description: >
+  A few local environmental organizations have put together a new website, which was announced on Monday, with aims to answer questions about offshore wind and help people learn about the massive projects in development stages in Humboldt County.“I am currently reading through questions that people are submitting and writing up new answers. And so if you have a question about offshore wind that you want someone, who isn’t a developer, a representative of a local environmental nonprofit to research and try to answer, this is the place to do it,” said Matthew Simmons, climate attorney for the Environmental Protection Information Center in Arcata, reached by phone Tuesday.The website, www.northcoastoffshorewind.org, has contributions from EPIC, Humboldt Waterkeeper and the Redwood Region Climate and Community Resilience Hub (part of the Humboldt Area Foundation).With offshore wind development off the coast of Humboldt County likely at least a decade away, including a planned offshore marine terminal set to be built in Humboldt Bay and two lease areas with developers off the coast of Eureka, Simmons says this website is laying the groundwork for both keeping the community informed about the projects in development in Humboldt County and to preemptively dispel persistent myths about offshore wind. Simmons said that the organizations are putting out factual information, with citations and sources, in part to combat misinformation about offshore wind, such as wind turbines causing whale deaths.Keep reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

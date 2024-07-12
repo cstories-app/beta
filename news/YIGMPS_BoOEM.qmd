@@ -1,0 +1,21 @@
+---
+title: >
+  You’re Invited: Gulf of Maine Proposed Sale Notice (PSN) Information Session in Eastham, MA
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-07-12
+url: "https://www.boem.gov/newsroom/notes-stakeholders/youre-invited-gulf-maine-proposed-sale-notice-psn-information-session"
+description: >
+  The Massachusetts Office of Coastal Zone Management and the Division of Marine Fisheries are hosting a public information session with BOEM on the proposed offshore wind leasing activities in the Gulf of Maine.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
