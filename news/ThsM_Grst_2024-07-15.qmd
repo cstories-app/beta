@@ -1,0 +1,28 @@
+---
+source: "Grist"
+author: "Annie Ropeik, Energy News Network"
+title: >
+  The siting of an offshore wind port raises new conflicts in Maine
+description: >
+  Ron Huber rifled through a thick folder full of decades of state environmental records outside a community hall in the tiny coastal Maine town of Searsport. For the longtime local conservation activist, the scene inside was a familiar one: Dozens of neighbors…
+url: "http://grist.org/energy/offshore-wind-port-siting-raises-new-conflicts-for-coastal-mainers-environmental-activists/"
+image: "https://grist.org/wp-content/uploads/2024/07/SearsIslandSigns.jpg?quality=75&strip=all"
+published_at: 2024-07-15
+content: >
+  This story was co-published by Energy News Network, the Maine Monitor, and Grist.  Ron Huber rifled through a thick folder full of decades of state environmental records outside a community hall in t… [+12564 chars]
+terms: "Viewshed"
+search_timestamp: 2024-07-17 00:57:28
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
