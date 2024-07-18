@@ -1,0 +1,21 @@
+---
+title: >
+  Offshore Wind Terminal Visual Simulations: July 23 at 5:30pm
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2024-07-17
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1807-offshore-wind-terminal-visual-simulations-july-23-at-5-30pm-2"
+description: >
+  On July 23 at 5:30pm, the Humboldt Bay Harbor District will unveil its visual simulations of the heavy lift terminal it is proposing to assemble offshore wind turbines that would be installed 20-30 miles offshore in the Humboldt Wind Lease Area. Although the size of these turbines has yet to be determined, they are likely to be around 900 feet tall - about three times taller than the former pulp mill smokestack in Samoa.Drone image by Oren Nardi.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

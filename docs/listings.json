@@ -4,6 +4,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/OWTV_L-HW.html",
+      "/news/OWTV_OWE-HW.html",
       "/news/ThsM_Grst_2024-07-15.html",
       "/news/YIGMPS_BoOEM.html",
       "/news/HmbC_L-HW.html",
@@ -370,6 +372,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/OWTV_L-HW.html",
+      "/news/OWTV_OWE-HW.html",
       "/news/ThsM_Grst_2024-07-15.html",
       "/news/YIGMPS_BoOEM.html",
       "/news/HmbC_L-HW.html",
