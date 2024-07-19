@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "Michael Barnard"
+title: >
+  Decarbonizing Building Heat – RAP EU Lead Jan Rosenow On Policy Sausages & Hydrogen
+description: >
+  Recently I sat down virtually with energy policy expert Jan Rosenow of RAP on my podcast Redefining Energy – Tech to discuss how residential and commercial building heat solutions. In the theme of providing transcripts of presentations I’m giving in various p…
+url: "https://cleantechnica.com/2024/07/17/decarbonizing-building-heat-rap-eu-lead-jan-rosenow-on-policy-sausages-hydrogen/"
+image: "https://cleantechnica.com/wp-content/uploads/2024/07/DALL·E-2024-07-17-07.06.32-A-panoramic-image-of-a-beardless-slightly-balding-man-with-glasses-standing-confidently-on-a-large-heat-pump-in-a-professional-setting.-The-man-is-d-copy-800x457.png"
+published_at: 2024-07-17
+content: >
+  Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!  Recently I sat down virtually with energy policy expert Jan Rosenow of RAP on my podcast Redefining Energy Te… [+39494 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-07-19 18:29:14
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

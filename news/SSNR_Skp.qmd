@@ -2,16 +2,16 @@
 source: "Skepticalscience.com"
 author: "(unknown author)"
 title: >
-  Skeptical Science New Research for Week #9 2023
+  Skeptical Science New Research for Week #29 2024
 description: >
-  Open Access Notables From this week's government/NGO section, a welcome report from the United Nations: One Atmosphere: An independent expert review on Solar Radiation Modification research and deployment. For many of us and given the reports provenance the f…
-url: "https://skepticalscience.com/new_research_2023_9.html"
+  Open access notables Improving global temperature datasets to better account for non-uniform warming, Calvert, Quarterly Journal of the Royal Meteorological Society: To better account for spatial non-uniform trends in warming, a new GITD [global instrumental…
+url: "https://skepticalscience.com/new_research_2024_29.html"
 image: "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg"
-published_at: 2023-03-02
+published_at: 2024-07-18
 content: >
-  Posted on 2 March 2023 by Doug Bostrom, Marc Kodack  Open Access Notables  From this week's government/NGO section, a welcome report from the United Nations: One Atmosphere: An independent expert rev… [+39997 chars]
-terms: "Seabirds"
-search_timestamp: 2023-03-04 00:32:35
+  Posted on 18 July 2024 by Doug Bostrom, Marc Kodack  Open access notables  Improving global temperature datasets to better account for non-uniform warming, Calvert, Quarterly Journal of the Royal Met… [+45064 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-07-19 18:29:14
 ---
 
 
