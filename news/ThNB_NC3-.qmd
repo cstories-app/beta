@@ -1,0 +1,21 @@
+---
+title: >
+  The broken wind turbine near Nantucket was ‘highly unusual and rare.’ But it wasn’t the first
+source: "News Channel 3-12"
+published_at: 2024-07-20
+url: "https://keyt.com/news/national-world/cnn-other/2024/07/20/the-broken-wind-turbine-near-nantucket-was-highly-unusual-and-rare-but-it-wasnt-the-first/"
+description: >
+  By Ella Nilsen, CNN (CNN) &#8212; The massive offshore wind turbine blade that broke and spread fiberglass and foam debris across Nantucket beaches this week was one of several recent failures of blades made by GE Vernova – a top US wind turbine manufacturer. Several GE Vernova blades have broken on onshore and offshore turbinesThe post The broken wind turbine near Nantucket was ‘highly unusual and rare.’ But it wasn’t the first appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

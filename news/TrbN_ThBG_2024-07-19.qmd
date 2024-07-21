@@ -1,0 +1,28 @@
+---
+source: "The Boston Globe"
+author: "Brad Campbell"
+title: >
+  Turbine debris off Nantucket doesn’t compare to damage caused by fossil fuels
+description: >
+  Offshore wind needs our continued support. It’s essential to New England sustaining healthier ocean waters, bringing cleaner air to our communities, and bringing home the economic benefits of the clean energy transition.
+url: "https://www.bostonglobe.com/2024/07/19/opinion/broken-turbine-blade-fossil-fuels-climate-change-nantucket/"
+image: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/iRgEkN-nfGWJfR8H2xchbbmXycw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/KMDNXAFVUYI6PFHQBY2ZFCRWJ4.jpg"
+published_at: 2024-07-19
+content: >
+  But long term, offshore wind needs our continued support. Its essential to New England sustaining healthier ocean waters, bringing cleaner air to our communities, and bringing home the economic benef… [+4422 chars]
+terms: "Seabirds"
+search_timestamp: 2024-07-21 01:01:03
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

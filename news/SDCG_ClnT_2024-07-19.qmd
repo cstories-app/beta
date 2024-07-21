@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "Michael Barnard"
+title: >
+  Shutting Down Coal & Gas By Steps, Slides, & Substitutions – India Utilities Seminar Transcript & Slides
+description: >
+  Under the auspices of the India Smart Grid Forum, the think tank founded as an umbrella organization over India’s 28 state utilities to provide thought leadership, share leading practices, and bring international insights to India, I’m delivering bi-weekly we…
+url: "https://cleantechnica.com/2024/07/19/shutting-down-coal-gas-by-steps-slides-substitutions-india-utilities-seminar-transcript-slides/"
+image: "https://cleantechnica.com/wp-content/uploads/2024/07/Screenshot-2024-07-19-at-8.14.35 AM-800x449.png"
+published_at: 2024-07-19
+content: >
+  Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!  Under the auspices of the India Smart Grid Forum, the think tank founded as an umbrella organization over Ind… [+45460 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-07-21 01:01:03
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
