@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub July News
+source: "RedwoodCOREHub"
+published_at: 2024-07-22
+url: "https://redwoodcorehub.org/core-hub-july-news/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-july-news"
+description: >
+  Happy July Community Partners! Below is a copy of our July newsletter featuring news about offshore wind and related interests. UPCOMING OPPORTUNITIES FOR ACTION AND LEADERSHIP Recent Community Events &#38; Updates MEDIA CLIPS AND PUBLICATIONS Be sure to use the sign-up form at the bottom of this page to join our mailing list for more [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
