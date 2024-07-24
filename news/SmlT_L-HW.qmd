@@ -1,0 +1,21 @@
+---
+title: >
+  Simulation of offshore wind assembly to be unveiled at meeting Tuesday
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2024-07-23
+url: "https://humboldtwaterkeeper.org/news/latest/1811-simulation-of-offshore-wind-assembly-to-be-unveiled-at-meeting-tuesday"
+description: >
+  On Tuesday evening, the Humboldt Bay Harbor, Recreation and Conservation District will provide an additional look at how exactly the offshore wind project slated for waters roughly 20 miles west of Eureka could proceed.The Harbor District is holding a community meeting to show simulations of future operations at the Humboldt Bay Offshore Wind Heavy Lift Multipurpose Marine Terminal, located between the town of Samoa and Tuluwat Island, from a few angles.“We’re really excited for the public to see this,” said Chris Mikkelsen, the Harbor District’s executive director. While drafts of the site plan have been available to view for quite some time, these images are new.The planned 180-acre terminal is set to host the staging, storing and manufacturing of components and assembly of massive turbines. These will be then towed and installed in lease areas in the Pacific Ocean, like one roughly 20 miles west of Eureka and other projects off the coasts of California and Oregon.How large the turbines built locally will be is still to be determined, but they could reach around 900 feet high. Humboldt Waterkeeper, a local environmental advocacy organization, noted this is about three times taller than the former pulp mill smokestack in Samoa. The terminal will be built on what was once part of the former Hammond Lumber Mill.Keep Reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

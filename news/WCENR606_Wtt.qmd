@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Charles Rotter"
+title: >
+  Weekly Climate and Energy News Roundup #606
+description: >
+  “Crash programs fail because they are based on theory that, with nine women pregnant, you can get a baby in a month.”
+url: "https://wattsupwiththat.com/2024/07/22/weekly-climate-and-energy-news-roundup-606/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/07/charlesrotter_bryce_canyon_after_a_recent_snow_midjourney.webp?fit=1200%2C600&ssl=1"
+published_at: 2024-07-22
+content: >
+  Quote of the Week:Crash programs fail because they are based on theory that, with nine women pregnant, you can get a baby in a month.    Wernher von Braun  Number of the Week: 175 Year Global Record … [+65344 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-07-24 00:57:26
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
