@@ -1,0 +1,28 @@
+---
+source: "The Times of India"
+author: "Twesh Mishra"
+title: >
+  Budget announces support for 800 MW Advanced Ultra Supercritical coal based power plant
+description: >
+  The 2024-25 Union Budget announced support for 800 MW coal-based power plants using Advanced Ultra Supercritical (AUSC) technology. Finance Minister Nirmala Sitharaman stated that indigenous AUSC technology is ready, with NTPC and BHEL collaborating. The gove…
+url: "https://economictimes.indiatimes.com/industry/energy/power/budget-announces-support-for-800-mw-advanced-ultra-supercritical-coal-based-power-plant/articleshow/111952578.cms"
+image: "https://img.etimg.com/thumb/msid-111952632,width-1200,height-630,imgsize-86478,overlay-economictimes/photo.jpg"
+published_at: 2024-07-23
+content: >
+  The Union budget for 2024-25 announced a support scheme for setting up 800 MW coal-based power plants through the newest Advanced Ultra Supercritical (AUSC) technology.Finance Minister Nirmala Sithar… [+2541 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-07-25 00:57:19
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
