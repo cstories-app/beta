@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  How the failure of carbon capture risks causing a net zero nightmare
+description: >
+  Meanwhile Miliband’s plans to rely on carbon capture are in ruins
+url: "https://wattsupwiththat.com/2024/07/25/how-the-failure-of-carbon-capture-risks-causing-a-net-zero-nightmare/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/05/CCW-carbon-capture.webp?fit=1024%2C512&ssl=1"
+published_at: 2024-07-25
+content: >
+  From NOT A LOT OF PEOPLE KNOW THAT  By Paul Homewood  .  h/t Philip Bratby  .  Meanwhile Milibands plans to rely on carbon capture are in ruins:  Ed Miliband has promised to drastically speed up Brit… [+6712 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-07-27 00:55:57
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
