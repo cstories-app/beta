@@ -1,0 +1,28 @@
+---
+source: "Energyskeptic.com"
+author: "energyskeptic"
+title: >
+  67 Reasons why wind turbines cannot replace fossil fuels
+description: >
+  Source: Leonard, T. 2012. Broken down and rusting, is this the future of Britain’s ‘wind rush’? Preface Last updated 2023-10-20 The most important problem to be solved is electrifying transportation, otherwise how can you deliver the 8,000 parts of a … Cont…
+url: "https://energyskeptic.com/2024/wind/"
+image: "NA"
+published_at: 2024-07-26
+content: >
+  Source: Leonard, T. 2012. Broken down and rusting, is this the future of Britains wind rush?  Preface   Last updated 2023-10-20  <ol><li>The most important problem to be solved is electrifying transp… [+149808 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-07-28 01:01:15
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
