@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  Weekly Climate and Energy News Roundup #605
+description: >
+  “Laws are made for men of ordinary understanding and should, therefore, be construed by the ordinary rules of common sense. Their meaning is not to be sought for in metaphysical subtleties which may make anything mean everything or nothing at pleasure.” —Thom…
+url: "https://wattsupwiththat.com/2024/07/29/weekly-climate-and-energy-news-roundup-605-2/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/07/charlesrotter_delicate_arch_at_sunrise_midjourney.webp?fit=1024%2C512&ssl=1"
+published_at: 2024-07-29
+content: >
+  Quote of the Week:Laws are made for men of ordinary understanding and should, therefore, be construed by the ordinary rules of common sense. Their meaning is not to be sought for in metaphysical subt… [+71873 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-07-31 00:46:36
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
