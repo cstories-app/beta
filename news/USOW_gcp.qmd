@@ -1,0 +1,28 @@
+---
+source: "gcaptain.com"
+author: "Reuters"
+title: >
+  U.S. Offshore Wind Opponents Seek to Form National Group to Fight Projects
+description: >
+  By Nichola Groom Aug 8 (Reuters) – U.S. activists opposed to offshore wind development areforming a national coalition aimed at fighting projects from California to New England, according to the effort’s founder and two other organizations....
+url: "https://gcaptain.com/u-s-offshore-wind-opponents-seek-to-form-national-group-to-fight-projects/"
+image: "https://gcaptain.com/wp-content/uploads/2023/11/SFW-TURBINE-INSTALLATION-3-scaled.jpeg"
+published_at: 2024-08-08
+content: >
+  By Nichola Groom  Aug 8 (Reuters) – U.S. activists opposed to offshore wind development areforming a national coalition aimed at fighting projects from California to New England, according to the eff… [+1935 chars]
+terms: "Morro Bay"
+search_timestamp: 2024-08-13 00:57:35
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
