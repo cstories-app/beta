@@ -1,0 +1,21 @@
+---
+title: >
+  Biden-Harris Administration’s Central Atlantic Offshore Wind Lease Sale Yields Nearly \$93 Million
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-08-15
+url: "https://www.boem.gov/newsroom/press-releases/biden-harris-administrations-central-atlantic-offshore-wind-lease-sale"
+description: >
+  Leased areas have the potential to power over 2.2 million homes with clean energy, continuing Administration’s historic actions to grow the American offshore wind industry.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
