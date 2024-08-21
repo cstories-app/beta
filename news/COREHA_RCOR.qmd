@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub August News
+source: "RedwoodCOREHub"
+published_at: 2024-08-20
+url: "https://redwoodcorehub.org/core-hub-august-news/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-august-news"
+description: >
+  Happy August Community Partners! Below is a copy of our August newsletter featuring news about offshore wind and related interests. OSW Related Infrastructure Development Updates and Opportunity for Comment Humboldt Study Area avoidance areas and potentially feasible areas: The Samoa study area siting constraints (ie: the Samoa study area is much less feasible than one [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
