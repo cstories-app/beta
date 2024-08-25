@@ -1,0 +1,21 @@
+---
+title: >
+  CPUC clears offshore wind energy acquisitions
+source: "Times-Standard"
+published_at: 2024-08-24
+url: "https://www.times-standard.com/2024/08/24/cpuc-clears-offshore-wind-energy-acquisitions/"
+description: >
+  The CPUC voted to allow the state’s Department of Water Resources to acquire 10.6 gigawatts of renewable energy by 2037, 7.6 of which must be from offshore wind. California’s renewable energy goals — 25 gigawatts of renewable energy by 2045, enough to achieve net zero carbon emissions — almost certainly cannot be met without offshore wind development, including the farm slated for off the coast of Humboldt County.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
