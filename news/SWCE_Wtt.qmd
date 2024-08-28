@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  Select Weekly Climate and Energy News Roundup #609
+description: >
+  “Those who can make you believe absurdities; can make you commit atrocities.” — Voltaire
+url: "https://wattsupwiththat.com/2024/08/26/select-weekly-climate-and-energy-news-roundup-609/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/08/charlesrotter_capitol_reef_state_park_at_sunrise_midjourney.webp?fit=1024%2C512&ssl=1"
+published_at: 2024-08-26
+content: >
+  Quote of the Week:Those who can make you believe absurdities; can make you commit atrocities.   Voltaire [H/t Richard Lindzen]  Number of the Week: Half-life less than 4.2 years  THIS WEEK:  By Ken H… [+69279 chars]
+terms: "Humboldt"
+search_timestamp: 2024-08-28 00:58:13
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
