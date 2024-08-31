@@ -1,0 +1,28 @@
+---
+source: "The Irish Times"
+author: "Kevin O'Sullivan"
+title: >
+  Keep turbines away from endangered terns on island off north Dublin coast, environmentalists warn
+description: >
+  Environmental group lodges objection to large wind farm proposed for Irish Sea off north Dublin
+url: "https://www.irishtimes.com/environment/2024/08/29/keep-turbines-away-from-endangered-terns-on-island-off-north-dublin-coast-environmentalists-warn/"
+image: "https://www.irishtimes.com/resizer/v2/2HKTPTYB5JU67PC4QISWWVOISQ.jpg?smart=true&auth=a2afcb79f31a8517feec869f0838ac07119c19fff110f4f845877914fe854cf7&width=1200&height=630"
+published_at: 2024-08-29
+content: >
+  A 30km exclusion zone around Rockabill island in the Irish Sea, which supports Europes large breeding bird colony for endangered roseate terns, must be imposed if a large wind farm is allowed proceed… [+5157 chars]
+terms: "Seascape | Seabirds"
+search_timestamp: 2024-08-31 00:59:03
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

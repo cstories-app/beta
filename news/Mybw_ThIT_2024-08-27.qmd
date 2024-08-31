@@ -1,0 +1,28 @@
+---
+source: "The Irish Times"
+author: "Sadhbh O'Neill"
+title: >
+  Maybe we need to learn to see wind turbines as beautiful
+description: >
+  Letting go of unspoilt views out to sea is a big ask of our coastal communities. But it is important to keep in mind the magnitude of the task that lies ahead and the difficult trade-offs it will demand
+url: "https://www.irishtimes.com/opinion/2024/08/27/maybe-we-need-to-learn-to-see-wind-turbines-as-beautiful/"
+image: "https://www.irishtimes.com/resizer/v2/2SKJ5IHS52RVFX4BRU3NNZE6TQ.jpg?smart=true&auth=1a23f987fd6200087c7d67ace0f9803d5fc72cf123e0c24cb5ce846c3a6dcb81&width=1200&height=630"
+published_at: 2024-08-27
+content: >
+  Am I the only person in Ireland who thinks wind turbines are beautiful? Maybe not beautiful in the way that Glendalough is beautiful. Machines can be beautiful too, and knowing how they work and why … [+4780 chars]
+terms: "Seascape"
+search_timestamp: 2024-08-31 00:59:03
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
