@@ -1,0 +1,28 @@
+---
+source: "Investmentmonitor.ai"
+author: "GlobalData"
+title: >
+  The essential technologies for building the hydrogen economy
+description: >
+  To establish the clean hydrogen economy, electrolysers and carbon capture and storage are vital. We explore plans to significantly scale up these pivotal...
+url: "https://www.investmentmonitor.ai/sectors/energy/the-essential-technologies-for-building-the-hydrogen-economy/"
+image: "https://media.zenfs.com/en/investment_monitor_395/b151aa037ca047d25e7011c2c4073315"
+published_at: 2024-08-29
+content: >
+  Hydrogen is rapidly gaining momentum as a replacement fuel to decarbonise heavy-emitting industries. By 200, the global zero-emission (green) hydrogen economy will is forecast to have an estimated pr… [+11415 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-09-01 01:11:25
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

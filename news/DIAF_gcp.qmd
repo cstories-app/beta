@@ -1,0 +1,28 @@
+---
+source: "gcaptain.com"
+author: "Mike Schuler"
+title: >
+  Department of Interior Announces First-Ever Offshore Wind Lease Sale in Oregon
+description: >
+  The U.S. Department of the Interior has announced plans for the first-ever offshore wind energy lease sale off the coast of Oregon. In October, the Bureau of Ocean Energy Management...
+url: "https://gcaptain.com/department-of-interior-announces-first-ever-offshore-wind-lease-sale-in-oregon/"
+image: "https://gcaptain.com/wp-content/uploads/2018/09/gCaptain_Logo.jpg"
+published_at: 2024-08-30
+content: >
+  The U.S. Department of the Interior has announced plans for the first-ever offshore wind energy lease sale off the coast of Oregon.  In October, the Bureau of Ocean Energy Management (BOEM) will auct… [+2347 chars]
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2024-09-01 01:11:25
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
