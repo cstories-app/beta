@@ -1,0 +1,21 @@
+---
+title: >
+  You're Invited: BOEM Central Atlantic Public Meetings
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-09-04
+url: "https://www.boem.gov/newsroom/notes-stakeholders/youre-invited-boem-central-atlantic-public-meetings"
+description: >
+  BOEM published a Call for Information and Nominations for a second offshore wind sale in the Central Atlantic.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

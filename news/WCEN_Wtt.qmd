@@ -2,16 +2,16 @@
 source: "Wattsupwiththat.com"
 author: "Guest Blogger"
 title: >
-  Weekly Climate and Energy News Roundup #603
+  Weekly Climate and Energy News Roundup #610
 description: >
-  …if we did not have a doubt or recognize ignorance, we would not get any new ideas. There would be nothing worth checking, because we would know what is true. So, what we call scientific knowledge today is a body of statements of varying degrees of certainty.…
-url: "https://wattsupwiththat.com/2024/06/24/weekly-climate-and-energy-news-roundup-603/"
-image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/06/charlesrotter_death_valley_painted_hills_midjourney.webp?fit=1200%2C600&ssl=1"
-published_at: 2024-06-24
+  “There is a principle which is a bar against all information, which is proof against all arguments, and which cannot fail to keep a man in everlasting ignorance---that principle is contempt prior to investigation.
+url: "https://wattsupwiththat.com/2024/09/02/weekly-climate-and-energy-news-roundup-610/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/09/charlesrotter_monument_valley_at_sunrise2_midjourney.webp?fit=1024%2C512&ssl=1"
+published_at: 2024-09-02
 content: >
-  Quote of the Week:if we did not have a doubt or recognize ignorance, we would not get any new ideas. There would be nothing worth checking, because we would know what is true. So, what we call scient… [+74315 chars]
-terms: "Humboldt | Cost of electricity"
-search_timestamp: 2024-06-26 00:55:15
+  Quote of the Week:There is a principle which is a bar against all information, which is proof against all arguments, and which cannot fail to keep a man in everlasting ignorance—that principle is con… [+76063 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-09-04 01:00:21
 ---
 
 
