@@ -1,0 +1,28 @@
+---
+source: "New Atlas"
+author: "Abhimanyu Ghoshal"
+title: >
+  Colossal 20-MW wind turbine is the largest on the planet (for now)
+description: >
+  Mingyang Smart Energy said last week that it's installed “the world’s largest single-capacity offshore wind turbine” in a project in Hainan, China. The turbine delivers a power output of up to 20 MW, besting its previous 18 MW model from 2023.Continue Reading…
+url: "https://newatlas.com/energy/world-largest-offshore-wind-turbine-20-mw-mingyang/"
+image: "https://assets.newatlas.com/dims4/default/754902c/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe0%2F81%2F64b10d8549edb193cb40c4355862%2Fmingyang-20mw-offshore-wind-turbine.jpg&na.image_optimisation=0"
+published_at: 2024-09-04
+content: >
+  Mingyang Smart Energy said last week that it's installed the worlds largest single-capacity offshore wind turbine in a project in Hainan, China. The turbine delivers a power output of up to 20 MW, be… [+2224 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-09-06 00:59:18
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

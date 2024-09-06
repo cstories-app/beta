@@ -1,0 +1,21 @@
+---
+title: >
+  Biden-Harris Administration Marks Major Milestones for Offshore Wind, Approves Tenth Project
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-09-06
+url: "https://www.boem.gov/newsroom/press-releases/biden-harris-administration-marks-major-milestones-offshore-wind-approves"
+description: >
+  The Biden-Harris administration today announced the approval of the Maryland Offshore Wind Project – the nation’s tenth commercial-scale offshore wind energy project approved under President Biden’s leadership.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

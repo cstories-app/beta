@@ -9,6 +9,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/BHAM_BoOEM.html",
+      "/news/C20M_NwAt_2024-09-04.html",
       "/news/YIBOEMC_BoOEM.html",
       "/news/WCEN_Wtt.html",
       "/news/DIAF_gcp.html",
@@ -404,6 +406,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/BHAM_BoOEM.html",
+      "/news/C20M_NwAt_2024-09-04.html",
       "/news/YIBOEMC_BoOEM.html",
       "/news/WCEN_Wtt.html",
       "/news/DIAF_gcp.html",
