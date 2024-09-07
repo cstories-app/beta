@@ -1,0 +1,28 @@
+---
+source: "New York Post"
+author: "Ken Girardin"
+title: >
+  Hochul’s futile ‘energy summit’ can’t resolve NY’s impossible green goals
+description: >
+  New York’s energy policy has seen the political class imposing its preferences with little regard for how their whims translated into higher costs or reduced reliability.
+url: "https://nypost.com/2024/09/05/opinion/hochuls-energy-summit-cant-solve-impossible-green-goals/"
+image: "https://nypost.com/wp-content/uploads/sites/2/2024/09/081524-ny-governor-kathy-hochul-87806897-e1725579277223.jpg?quality=75&strip=all&w=1024"
+published_at: 2024-09-06
+content: >
+  Its a pity New York cannot power its economy on hubris, but state officials this week gave it a try.  The Future Energy Economy Summit convened in Syracuse by Gov. Hochul brought together many of the… [+4425 chars]
+terms: "Viewshed"
+search_timestamp: 2024-09-07 00:58:02
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
