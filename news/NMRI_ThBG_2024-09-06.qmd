@@ -1,0 +1,28 @@
+---
+source: "The Boston Globe"
+author: "Jon Chesto"
+title: >
+  New round of wind farms announced by Mass. and RI, smaller than they’d hoped
+description: >
+  Three offshore wind projects, all planned for waters south of Martha’s Vineyard, won the rights to contracts that will power the equivalent of roughly 1.6 million homes.
+url: "https://www.bostonglobe.com/2024/09/06/business/offshore-wind-farms-massachusetts-rhode-island/"
+image: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/rhAIeXksa0Khwp2V9btUADbJNpI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/LFTHLY3I62KSNEYFBSOLAZXIFM.jpg"
+published_at: 2024-09-06
+content: >
+  Massachusetts and Rhode Island officials announced Friday the newest offshore wind winners in the biggest contest yet in New England for contracts to build these massive projects, but the total energ… [+4320 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-09-08 01:03:49
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
