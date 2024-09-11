@@ -1,0 +1,28 @@
+---
+source: "San Luis Obispo Tribune"
+author: "Stephanie Zappelli"
+title: >
+  This SLO County beach town is considering an offshore wind port. What could it look like?
+description: >
+  Some residents and fishermen worry the port would clash with the town’s character.
+url: "https://www.sanluisobispo.com/news/local/environment/article291880930.html"
+image: "https://media.zenfs.com/en/san_luis_obispo_tribune_mcclatchy_articles_722/5448f4fce7c757e2cc9772c98532b84b"
+published_at: 2024-09-09
+content: >
+  The sleepy, seaside town of Avila Beach used to be a bustling seaport exporting oil from the Central Valley to the rest of the world.  Now, the energy industry could soon return to the scenic seashor… [+11833 chars]
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2024-09-11 00:59:31
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -1,0 +1,28 @@
+---
+source: "FactCheck.org"
+author: "Jessica McDonald"
+title: >
+  Trump Clings to Inaccurate Climate Change Talking Points
+description: >
+  Former President Donald Trump, who famously called climate change a “hoax” in 2016, hasn’t used the word lately with respect to climate change. But he still clings to some similar arguments, and other claims he makes about climate change haven't changed much …
+url: "https://www.factcheck.org/2024/09/trump-clings-to-inaccurate-climate-change-talking-points/"
+image: "https://cdn.factcheck.org/UploadedFiles/climate-banner.jpeg"
+published_at: 2024-09-09
+content: >
+  Este artículo estará disponible en español en El Tiempo Latino.  Former President Donald Trump, who famously called climate change a hoax in 2016, hasnt used the word lately with respect to climate c… [+17542 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-09-11 00:59:31
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

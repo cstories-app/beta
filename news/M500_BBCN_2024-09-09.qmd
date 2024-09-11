@@ -1,0 +1,28 @@
+---
+source: "BBC News"
+author: "(unknown author)"
+title: >
+  Ministers set to agree £500m Tata Steel subsidy
+description: >
+  Labour ministers will announce they are matching the previous government's commitment for the site.
+url: "https://www.bbc.com/news/articles/c0jp0v77231o"
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/d0ee/live/8fff41d0-6eae-11ef-9449-fdbda7b582c0.jpg"
+published_at: 2024-09-09
+content: >
+  Ministers are preparing to announce that an agreement has been reached to give Tata Steel a grant of £500m towards the cost of its electric arc furnace.  Union sources say the agreement comes with as… [+3684 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-09-11 00:59:31
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

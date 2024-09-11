@@ -1,0 +1,28 @@
+---
+source: "Phys.Org"
+author: "Paul Rogers, Bay Area News Group"
+title: >
+  California to get first new national marine sanctuary in 32 years, banning offshore oil drilling along miles of coast
+description: >
+  A long-running effort by native tribes and environmentalists to establish the first new national marine sanctuary along California's coastline in 32 years—the aquatic version of a new national park—where offshore oil drilling would be prohibited forever, reac…
+url: "https://phys.org/news/2024-09-california-national-marine-sanctuary-years.html"
+image: "https://scx2.b-cdn.net/gfx/news/hires/2023/offshore-oil-rig.jpg"
+published_at: 2024-09-09
+content: >
+  A long-running effort by native tribes and environmentalists to establish the first new national marine sanctuary along California's coastline in 32 yearsthe aquatic version of a new national parkwhe… [+6007 chars]
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2024-09-11 00:59:31
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
