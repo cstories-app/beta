@@ -1,0 +1,28 @@
+---
+source: "ABC News"
+author: "The Associated Press"
+title: >
+  Oregon tribe sues over federal agency plans to hold an offshore wind energy auction
+description: >
+  A tribe in Oregon whose culture is tied to the ocean is suing the U.S. government over an offshore wind energy auction
+url: "https://abcnews.go.com/US/wireStory/oregon-tribe-sues-federal-agency-plans-hold-offshore-113740209"
+image: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+published_at: 2024-09-16
+content: >
+  EUGENE, Ore. -- A tribe in Oregon whose culture is tied to the ocean is suing the U.S. government over plans to hold an offshore wind energy auction next month, saying the environmental analysis unde… [+2346 chars]
+terms: "Seabirds"
+search_timestamp: 2024-09-18 01:20:15
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
