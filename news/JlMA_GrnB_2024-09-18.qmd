@@ -1,0 +1,28 @@
+---
+source: "GreenBiz"
+author: "(unknown author)"
+title: >
+  Joel Makower Archive
+description: >
+  Joel Makower Archive
+url: "https://www.greenbiz.com/temp/JoelMakowerArchive"
+image: "NA"
+published_at: 2024-09-18
+content: >
+  2000-08-31 : Out of India2000-11-08 : Ten Keys for Educating and Engaging Employees2000-11-30 : The Fabric of Their Lives2002-01-07 : Friendly Fire2004-05-05 : No News Is Good News for Green Building… [+6814597 chars]
+terms: "Cost of electricity | Seabirds"
+search_timestamp: 2024-09-20 01:00:44
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
