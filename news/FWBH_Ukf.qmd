@@ -1,0 +1,28 @@
+---
+source: "Ukfoundations.co"
+author: "(unknown author)"
+title: >
+  Foundations: Why Britain Has Stagnated
+description: >
+  Why Britain has stagnated
+url: "https://ukfoundations.co"
+image: "https://res.cloudinary.com/dki5hzod1/image/upload/v1726800190/fsocial_qbo3rn.png"
+published_at: 2024-09-20
+content: >
+  Foundations  Setting the scene  Here are some facts to set the scene about the state of the British   economy.  <ul><li>   Between 2004 and 2021, before Russias invasion of Ukraine,   the industrial … [+108506 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-09-22 01:06:31
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

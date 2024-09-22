@@ -1,0 +1,28 @@
+---
+source: "The Conversation Africa"
+author: "Anna Turns, Senior Environment Editor"
+title: >
+  A new blue carbon map of the UK gives mud new meaning
+description: >
+  Anna Turns sets sail from Plymouth Sound to explore the significance of blue carbon in marine habitats around the UK.
+url: "https://theconversation.com/a-new-blue-carbon-map-of-the-uk-gives-mud-new-meaning-238909"
+image: "https://images.theconversation.com/files/619429/original/file-20240915-16-aphvpx.JPG?ixlib=rb-4.1.0&rect=8%2C794%2C5455%2C2727&q=45&auto=format&w=1356&h=668&fit=crop"
+published_at: 2024-09-19
+content: >
+  Huge kelp forest off the coast of Mull, Scotland. Just one of the UK's many precious blue carbon habitats. A ODell, CC BY-NC-ND  I recently spent a sunny morning aboard Falcon Spirit, a University of… [+8016 chars]
+terms: "Seascape"
+search_timestamp: 2024-09-22 01:06:31
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
