@@ -1,0 +1,28 @@
+---
+source: "Digitimes"
+author: "DIGITIMES"
+title: >
+  Shifting winds: Taiwan's offshore energy localization policy faces turbulence under EU pressure
+description: >
+  Taiwan's offshore wind industry finds itself in the eye of a storm as the European Union's World Trade Organization (WTO) complaint against local content requirements threatens to upend the island's renewable energy strategy. The Ministry of Economic Affairs …
+url: "https://www.digitimes.com/news/a20240919VL201/taiwan-offshore-wind-localization-policy-eu.html"
+image: "https://img.digitimes.com/newsshow/20240919vl201_files/5_2b.jpg"
+published_at: 2024-09-23
+content: >
+  Taiwan's offshore wind industry finds itself in the eye of a storm as the European Union's World Trade Organization (WTO) complaint against local content requirements threatens to upend the island's … [+6214 chars]
+terms: "Seascape"
+search_timestamp: 2024-09-25 01:03:30
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
