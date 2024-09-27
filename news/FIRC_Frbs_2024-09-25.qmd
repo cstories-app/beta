@@ -1,0 +1,28 @@
+---
+source: "Forbes"
+author: "Energy Innovation: Policy and Technology, Contributor,   Energy Innovation: Policy and Technology, Contributor  https://www.forbes.com/sites/energy-innovation/"
+title: >
+  Fed Interest Rate Cuts Ease Clean Energy Headwinds
+description: >
+  Lower interest rates will help improve the economics of capital-intensive renewable energy projects, bringing more clean energy online faster.
+url: "https://www.forbes.com/sites/energyinnovation/2024/09/25/fed-interest-rate-cuts-ease-clean-energy-headwinds/"
+image: "https://imageio.forbes.com/specials-images/imageserve/63058b2949f98d56cf2f6909/0x0.jpg?format=jpg&crop=2593,1459,x0,y140,safe&height=900&width=1600&fit=bounds"
+published_at: 2024-09-25
+content: >
+  What side of the bed did you wake up on today? The answer might shape your view of clean energys prospects in the United States.  If you woke up on the right side, its easy to be flush with optimism.… [+7269 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-09-27 01:02:48
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
