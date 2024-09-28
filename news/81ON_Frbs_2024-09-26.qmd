@@ -1,0 +1,28 @@
+---
+source: "Forbes"
+author: "Jeff McMahon, Senior Contributor,   Jeff McMahon, Senior Contributor  https://www.forbes.com/sites/jeffmcmahon/"
+title: >
+  81% Of New Renewables Produce Cheaper Energy Than Fossil Fuels
+description: >
+  PARIS—The world added 473 gigawatts of renewable energy capacity last year, and four-fifths of it produces power more cheaply than fossil fuels do.
+url: "https://www.forbes.com/sites/jeffmcmahon/2024/09/26/81-of-new-renewables-produce-cheaper-energy-than-fossil-fuels/"
+image: "https://imageio.forbes.com/specials-images/imageserve/66f3d6085208c8e41c33f43e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+published_at: 2024-09-26
+content: >
+  Workers install photovoltaic panels at the Ningxia Tengger Desert New Energy Base in Zhongwei, in ... [+] China's northern Ningxia region. (Photo by STR/AFP via Getty Images)  AFP via Getty Images  P… [+3345 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-09-28 01:02:22
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
