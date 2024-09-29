@@ -1,0 +1,28 @@
+---
+source: "Tech Xplore"
+author: "Alan Williams"
+title: >
+  Study highlights complex ocean conditions facing world's most powerful tidal turbine
+description: >
+  The number of tidal power and other offshore renewable energy installations is set to grow significantly around the UK coastline over the coming decades.
+url: "https://techxplore.com/news/2024-09-highlights-complex-ocean-conditions-world.html"
+image: "https://scx2.b-cdn.net/gfx/news/hires/2024/study-highlights-compl.jpg"
+published_at: 2024-09-27
+content: >
+  The number of tidal power and other offshore renewable energy installations is set to grow significantly around the UK coastline over the coming decades.  However, launching state-of-the-art devices … [+5542 chars]
+terms: "Seabirds"
+search_timestamp: 2024-09-29 01:07:24
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
