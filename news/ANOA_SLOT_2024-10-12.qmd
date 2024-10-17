@@ -1,0 +1,28 @@
+---
+source: "San Luis Obispo Tribune"
+title: >
+  ‘A huge win’: NOAA chooses official boundaries for Chumash Heritage marine sanctuary
+description: >
+  The marine sanctuary will protect 4,543 square miles of the Pacific Ocean along California’s coast.
+url: "https://www.sanluisobispo.com/news/local/environment/article293837814.html"
+published_at: 2024-10-12
+content: >
+  The Chumash Heritage National Marine Sanctuary took a big step closer to designation on Friday.  The National Atmospheric and Oceanic Administration has submitted the final rule and management plan t… [+6649 chars]
+author: "Stephanie Zappelli"
+image: "https://media.zenfs.com/en/san_luis_obispo_tribune_mcclatchy_articles_722/65deb9c4c0637eb37058188a99d104b5"
+terms: "Morro Bay"
+search_timestamp: 2024-10-17 01:23:39
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
