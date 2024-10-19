@@ -1,0 +1,28 @@
+---
+source: "OilPrice.com"
+title: >
+  IEA Predicts End to Oil & Gas Demand Growth Before 2030
+description: >
+  Oil prices are little changed in Thursday’s intraday sessions after they tumbled more than 4% on Tuesday to a near two-week low on easing Iranian supply disruption fears. Brent crude for December delivery was down 0.3% to trade at $74.12/barrel at 12.50 pm ET…
+url: "https://oilprice.com/Energy/Energy-General/IEA-Predicts-End-to-Oil-Gas-Demand-Growth-Before-2030.html"
+published_at: 2024-10-18
+content: >
+  The United States has imposed…  This article explores how undersea…  Previous reports suggested Musk, the…  By Alex Kimani - Oct 17, 2024, 7:00 PM CDT  Oil prices are little changed in Thursdays intr… [+4895 chars]
+author: "Alex Kimani"
+image: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-10-17_vtszjpllqe.jpg"
+terms: "Cost of electricity"
+search_timestamp: 2024-10-19 01:02:10
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
