@@ -5,6 +5,8 @@
       "/infographics/viewshed.html",
       "/infographics/whales.html",
       "/news/IEAP_OlP.html",
+      "/news/KMDT_Ind.html",
+      "/news/Offs_BBCN_2024-10-18.html",
       "/news/COREHO_RCOR.html",
       "/news/ANOA_SLOT_2024-10-12.html",
       "/news/NAPP_OlP.html",
@@ -418,6 +420,8 @@
     "listing": "/news.html",
     "items": [
       "/news/IEAP_OlP.html",
+      "/news/KMDT_Ind.html",
+      "/news/Offs_BBCN_2024-10-18.html",
       "/news/COREHO_RCOR.html",
       "/news/ANOA_SLOT_2024-10-12.html",
       "/news/NAPP_OlP.html",

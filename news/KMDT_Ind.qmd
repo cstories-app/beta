@@ -1,0 +1,28 @@
+---
+source: "Independent.ie"
+title: >
+  Killer whales, giant turtles and real-life Moby Dicks: The rare sightings in Irish waters after major two-year survey
+description: >
+  Killer whales, giant turtles and real-life Moby Dicks were among the rare sightings recorded in one of the most extensive surveys ever carried out of Irish waters.
+url: "https://www.independent.ie/irish-news/killer-whales-giant-turtles-and-real-life-moby-dicks-the-rare-sightings-in-irish-waters-after-major-two-year-survey/a953505478.html"
+published_at: 2024-10-18
+content: >
+  Killer whales, giant turtles and real-life Moby Dicks were among the rare sightings recorded in one of the most extensive surveys ever carried out of Irish waters.A blue whale the largest creature on… [+3045 chars]
+author: "Caroline O'Doherty"
+image: "https://focus.independent.ie/thumbor/_tWirSSU8BjOThOkEOHwf8Prxh0=/275x0:3249x1983/629x0/prod-mh-ireland/31c497b3-eb3f-4b8f-b5c6-82eb9f5fce5a/6a9c8860-5a2e-4ee9-91bf-877c6b0f906f/31c497b3-eb3f-4b8f-b5c6-82eb9f5fce5a.jpg"
+terms: "Seabirds"
+search_timestamp: 2024-10-20 01:08:16
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

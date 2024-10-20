@@ -1,0 +1,28 @@
+---
+source: "BBC News"
+title: >
+  Offshore wind farm starts generating power
+description: >
+  Neart na Gaoithe wind farm off the coast of Fife is expected to be completed by next summer.
+url: "https://www.bbc.com/news/articles/c62dyx2w7w4o"
+published_at: 2024-10-18
+content: >
+  A wind farm off the coast of Fife, opposed by RSPB Scotland because of concerns over migratory birds, has started generating power into the national grid.  Neart na Gaoithe (NnG) wind farm, which is … [+1475 chars]
+author: "(unknown author)"
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/97b6/live/37893a80-8d38-11ef-b02c-ad97e00e3915.jpg"
+terms: "Seabirds"
+search_timestamp: 2024-10-20 01:08:16
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
