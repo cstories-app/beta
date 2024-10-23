@@ -1,0 +1,28 @@
+---
+source: "Smithsonian.com"
+title: >
+  A New Marine Sanctuary Off California Will Be Co-Managed by Indigenous Peoples
+description: >
+  NOAA designated the Chumash Heritage National Marine Sanctuary this month, following a decade of advocacy by supporters. The protected site will be finalized after a 45-day review period
+url: "https://www.smithsonianmag.com/smart-news/a-new-marine-sanctuary-off-california-will-be-co-managed-by-indigenous-peoples-180985301/"
+published_at: 2024-10-21
+content: >
+  Aerial view of Government Point, located within Point Conception State Marine Reserve and the newly designated Chumash Heritage National Marine Sanctuary   NOAA  Along 116 miles of central California… [+4699 chars]
+author: "Alexa Robles-Gil"
+image: "https://th-thumbnailer.cdn-si-edu.com/Y6Q2yA5SIm8eq0EAQdv7ftIpfS8=/fit-in/1200x0/filters:focal(1504x974:1505x975)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2F3f%2F97%2F3f97a437-faab-4d8d-8899-6766078357a5%2Fphoto-aerial-view-government-point-within-point-conception-state-marine-reserve-and-chumash-heritage-nms-noaa-robert-schwemmer.jpg"
+terms: "Morro Bay"
+search_timestamp: 2024-10-23 01:02:25
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
