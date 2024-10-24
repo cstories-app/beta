@@ -1,0 +1,28 @@
+---
+source: "KQED"
+author: "Keith Mizuguchi"
+title: >
+  What’s Next For California’s Offshore Wind Industry?
+description: >
+  Earlier this year, state energy officials approved a strategic master plan to start developing offshore wind farms.
+url: "https://www.kqed.org/news/12010502/whats-next-for-californias-offshore-wind-industry"
+image: "https://cdn.kqed.org/wp-content/uploads/sites/10/2024/05/AP24141627799599-1020x680.jpg"
+published_at: 2024-10-22
+content: >
+  Here are the morning’s top stories on Tuesday, October 22, 2024…  <ul><li>Earlier this year, state energy officials approved a strategic master plan to start developing enormous offshore wind farms i… [+2109 chars]
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2024-10-24 01:03:23
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

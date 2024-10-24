@@ -1,0 +1,28 @@
+---
+source: "Energycentral.com"
+author: "[Energy Central] Ed Reid"
+title: >
+  The Big Lie - “If you tell a lie big enough and keep repeating it, people will eventually come to believe it.", Joseph Goebbels
+description: >
+  The solar and wind industries and their government and NGO supporters continually assert that a renewable plus storage grid would be more economical and more resilient than the current grid. Both assertions are demonstrably false. These assertions are not mer…
+url: "https://energycentral.com/c/ec/big-lie-%E2%80%9Cif-you-tell-lie-big-enough-and-keep-repeating-it-people-will-eventually"
+image: "NA"
+published_at: 2024-10-22
+content: >
+  The solar and wind industries and their government and NGO supporters continually assert that a renewable plus storage grid would be more economical and more resilient than the current grid. Both ass… [+3412 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-10-24 01:03:23
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -9,6 +9,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/TBLI_Enr.html",
+      "/news/WNFC_KQED_2024-10-22.html",
       "/news/ANMS_Smt.html",
       "/news/IEAP_OlP.html",
       "/news/KMDT_Ind.html",
@@ -427,6 +429,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/TBLI_Enr.html",
+      "/news/WNFC_KQED_2024-10-22.html",
       "/news/ANMS_Smt.html",
       "/news/IEAP_OlP.html",
       "/news/KMDT_Ind.html",
