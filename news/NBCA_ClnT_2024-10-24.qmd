@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "Carolyn Fortuna"
+title: >
+  No Bird Collisions At Offshore Wind Site, Study Determines
+description: >
+  For more than two years, the floating offshore wind turbine TetraSpar at METCentre off the coast of Norway has been monitored by a bird camera. No bird collisions have been recorded. The Norwegian company Spoor that is responsible for the bird monitoring. Sin…
+url: "https://cleantechnica.com/2024/10/24/no-bird-collisions-at-offshore-wind-site-study-determines/"
+image: "https://cleantechnica.com/wp-content/uploads/2024/10/offshore-wind-turbine.jpg"
+published_at: 2024-10-24
+content: >
+  Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!  For more than two years, the floating offshore wind turbine TetraSpar at METCentre off the coast of Norway ha… [+7684 chars]
+terms: "Seabirds"
+search_timestamp: 2024-10-26 01:01:11
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
