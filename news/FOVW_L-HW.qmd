@@ -1,0 +1,21 @@
+---
+title: >
+  Feds Order Vineyard Wind To Complete Study On "Environmental Harm" Of Blade Failure
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2024-11-02
+url: "https://humboldtwaterkeeper.org/news/latest/1838-feds-order-vineyard-wind-to-complete-study-on-environmental-harm-of-blade-failure"
+description: >
+  The federal agency that suspended the Vineyard Wind project following the July 13 blade failure is now requiring the company to complete a new study evaluating the "environmental harm" caused by the incident in the waters southwest of Nantucket, according to a document obtained by Nantucket Current.In a Sept. 27 letter from the Bureau of Safety and Environmental Enforcement (BSEE) addressed to Vineyard Wind CEO Klaus Moeller, the agency ordered the offshore wind energy company to "conduct a site-specific study that evaluates the environmental harm and other potential damage flowing from" the blade failure, and to identify potential mitigation measures for that damage.The order was obtained by Nantucket Current through a Freedom of Information Act request to the U.S. Department of the Interior.The Vineyard Wind project remains under a suspension order from BSEE following the disastrous turbine blade failure on July 13 that left Nantucket's beaches littered with foam and fiberglass debris. That order was modified in August to allow Vineyard Wind to continue installing turbine towers and nacelles, but it is forbidden from producing power or installing blades.Keep Reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
