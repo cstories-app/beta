@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub November 2024 Newsletter
+source: "RedwoodCOREHub"
+published_at: 2024-11-04
+url: "https://redwoodcorehub.org/core-hub-november-2024-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-november-2024-newsletter"
+description: >
+  We hope you are enjoying a cozy transition into fall! Here is your newsletter on offshore wind and related interests. Offshore Wind in the 2024 Election Statewide District 2 Assembly Election (currently held by Assemblymember Jim Wood):&#160; Humboldt County (Harbor District and City Councils adjacent to the Bay) Humboldt Bay Harbor, Recreation and Conservation District [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

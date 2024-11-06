@@ -9,6 +9,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/COREHN_RCOR.html",
+      "/news/InvI_ThIT_2024-11-04.html",
       "/news/FOVW_L-HW.html",
       "/news/NBCA_ClnT_2024-10-24.html",
       "/news/TBLI_Enr.html",
@@ -431,6 +433,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/COREHN_RCOR.html",
+      "/news/InvI_ThIT_2024-11-04.html",
       "/news/FOVW_L-HW.html",
       "/news/NBCA_ClnT_2024-10-24.html",
       "/news/TBLI_Enr.html",

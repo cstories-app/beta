@@ -1,0 +1,28 @@
+---
+source: "The Irish Times"
+author: "Kieran White"
+title: >
+  Investors will bypass Ireland for renewable energy projects unless delays on planning and the grid are resolved
+description: >
+  Onshore wind developments can take up to 10 years for a development to become operational in Ireland, from planning to grid connection and construction
+url: "https://www.irishtimes.com/business/2024/11/04/investors-will-bypass-ireland-for-renewable-energy-projects-unless-delays-on-planning-and-the-grid-are-resolved/"
+image: "https://www.irishtimes.com/resizer/v2/NERIJPGVMNDJLKAUJ35MTUTBOU.JPG?smart=true&auth=928f90aa724f60d0bf07d4fc921fd361e671d88fb29aaaa6c489ef0e98cf622d&width=1200&height=630"
+published_at: 2024-11-04
+content: >
+  Irelands renewable energy sector is at something of a crossroads. Weve had maybe two decades of developing and operating onshore wind and in recent times started on what looks to be a promising roll-… [+4915 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-11-06 01:02:07
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
