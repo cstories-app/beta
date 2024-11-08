@@ -1,0 +1,28 @@
+---
+source: "Yahoo Entertainment"
+author: "Richard Valdmanis"
+title: >
+  Trump return will slow, not stop, US clean energy boom
+description: >
+  Donald Trump's return to the White House will refocus the nation's energy policy onto maximizing oil and gas production and away from fighting climate change...
+url: "https://finance.yahoo.com/news/trump-return-slow-not-stop-112301881.html"
+image: "https://media.zenfs.com/en/reuters-finance.com/46684787590b0cee60377f22975d3701"
+published_at: 2024-11-06
+content: >
+  By Richard Valdmanis  (Reuters) - Donald Trump's return to the White House will refocus the nation's energy policy onto maximizing oil and gas production and away from fighting climate change, but th… [+4823 chars]
+terms: "Seabirds"
+search_timestamp: 2024-11-08 01:02:18
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

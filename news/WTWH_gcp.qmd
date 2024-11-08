@@ -1,0 +1,28 @@
+---
+source: "gcaptain.com"
+author: "Reuters"
+title: >
+  With Trump’s White House Return, Will Fossil Fuels Outshine the Renewable Boom?
+description: >
+  Nov 6 (Reuters) – Donald Trump‘s return to the White House will refocus the nation’s energy policy onto maximizing oil and gas production and away from fighting climate change, but the Republican win in...
+url: "https://gcaptain.com/with-trumps-white-house-return-will-fossil-fuels-outshine-the-renewable-boom/"
+image: "https://gcaptain.com/wp-content/uploads/2024/11/2024-11-06T132404Z_1443848616_RC2FYAAGXABJ_RTRMADP_3_USA-ELECTION-TRUMP-ANTITRUST-scaled.jpg"
+published_at: 2024-11-06
+content: >
+  Nov 6 (Reuters) – Donald Trump‘s return to the White House will refocus the nation’s energy policy onto maximizing oil and gas production and away from fighting climate change, but the Republican win… [+4942 chars]
+terms: "Seabirds"
+search_timestamp: 2024-11-08 01:02:18
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

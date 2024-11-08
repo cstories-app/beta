@@ -1,0 +1,28 @@
+---
+source: "The Times of India"
+author: "Reuters"
+title: >
+  Donald Trump's return will slow, not stop, US clean energy boom
+description: >
+  Donald Trump's energy policy will prioritize oil and gas production, but the renewable energy boom is likely to continue due to the Inflation Reduction Act's bipartisan support and ongoing market forces.
+url: "https://economictimes.indiatimes.com/industry/renewables/donald-trumps-return-will-slow-not-stop-us-clean-energy-boom/articleshow/115018299.cms"
+image: "https://img.etimg.com/thumb/msid-115018361,width-1200,height-630,imgsize-52792,overlay-economictimes/articleshow.jpg"
+published_at: 2024-11-06
+content: >
+  Donald Trump's return to the White House will refocus the nation's energy policy onto maximizing oil and gas production and away from fighting climate change, but the Republican win in Tuesday's pres… [+5053 chars]
+terms: "Seabirds"
+search_timestamp: 2024-11-08 01:02:18
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
