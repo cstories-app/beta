@@ -1,0 +1,28 @@
+---
+source: "Energycentral.com"
+author: "[Energy Central] Ed Reid"
+title: >
+  The Fork in the Road - *EXTRA* - Redirection Chosen
+description: >
+  The United States electorate reached “The Fork in the Road” last Tuesday. They chose the fork to the right, away from the Green New Deal, Net Zero by 2050, “all-electric everything”, electric vehicle promotion, renewable generation and massive federal subsidi…
+url: "https://energycentral.com/c/ec/fork-road-extra-redirection-chosen"
+image: "NA"
+published_at: 2024-11-07
+content: >
+  The United States electorate reached The Fork in the Road last Tuesday. They chose the fork to the right, away from the Green New Deal, Net Zero by 2050, all-electric everything, electric vehicle pro… [+3046 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-11-09 01:00:27
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM Completes Environmental Review for Proposed Wind Energy Project Offshore Massachusetts and Rhode Island
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-11-09
+url: "https://www.boem.gov/newsroom/press-releases/boem-completes-environmental-review-proposed-wind-energy-project-offshore"
+description: >
+  If approved, this project could generate up to 2.4 GW of offshore wind energy, enough to power more than 800,000 homes.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

@@ -4,6 +4,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/BOEMCERP_BoOEM.html",
+      "/news/TFRE_Enr.html",
       "/news/DTUS_TToI_2024-11-06.html",
       "/news/TrUS_YhEn_2024-11-06.html",
       "/news/WTWH_gcp.html",
@@ -429,6 +431,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/BOEMCERP_BoOEM.html",
+      "/news/TFRE_Enr.html",
       "/news/DTUS_TToI_2024-11-06.html",
       "/news/TrUS_YhEn_2024-11-06.html",
       "/news/WTWH_gcp.html",
