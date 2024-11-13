@@ -1,0 +1,28 @@
+---
+source: "Antaranews.com"
+author: "PR Wire"
+title: >
+  TotalEnergies ENEOS Completes a 1.8 MWp Floating Solar Photovoltaic System Project
+description: >
+  TotalEnergies ENEOS has successfully completed the installation of a 1.8 megawatt-peak (MWp) floating solar photovoltaic (PV) system project in Thailand with ...
+url: "https://en.antaranews.com/news/333801/totalenergies-eneos-completes-a-18-mwp-floating-solar-photovoltaic-system-project"
+image: "https://cdn.antaranews.com/cache/1200x800/2024/11/11/ac-4.png"
+published_at: 2024-11-11
+content: >
+  Bangkok, Thailand (ANTARA/PRNewswire)- TotalEnergies ENEOS has successfully completed the installation of a 1.8 megawatt-peak (MWp) floating solar photovoltaic (PV) system project in Thailand with S.… [+7731 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-11-13 01:03:05
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
