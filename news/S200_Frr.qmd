@@ -1,0 +1,28 @@
+---
+source: "Freerepublic.com"
+author: "The Telegraph"
+title: >
+  Starmer pledges £200m to offshore wind companies to build factories in oil and gas zones
+description: >
+  Keir Starmer is to hand up to £200 million to offshore wind companies to build factories in traditional oil and gas areas, he will announce at the COP29 climate change summit on Tuesday. Wind farms will be eligible for tens of millions to establish factories …
+url: "https://freerepublic.com/focus/f-news/4278000/posts"
+image: "NA"
+published_at: 2024-11-13
+content: >
+  Skip to comments.  Starmer pledges £200m to offshore wind companies to build factories in oil and gas zonesThe Telegraph ^   | 11 November 2024   | Emma Gatten, Genevieve Holl-Allen  Posted on 11/12/… [+5960 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-11-15 01:06:28
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

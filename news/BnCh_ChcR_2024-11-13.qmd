@@ -1,0 +1,28 @@
+---
+source: "Chicago Reader"
+author: "Philip Montoro"
+title: >
+  Bin Chen
+description: >
+  Bin Chen is a research associate professor in the chemistry department at Northwestern University, where he manages a team of 30 people within the 80-member lab led by Canadian scientist Ted Sargent.
+url: "http://chicagoreader.com/city-life/people-issue/bin-chen/"
+image: "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2024/11/DSC02603_social1.jpg?fit=1200%2C675&ssl=1"
+published_at: 2024-11-13
+content: >
+  Bin Chen, 33, is a research associate professor in the chemistry department at Northwestern University, where he manages a team of 30 people within the 80-member lab led by Canadian scientist Ted Sar… [+10369 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-11-15 01:06:28
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
