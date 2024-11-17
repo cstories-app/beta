@@ -1,0 +1,28 @@
+---
+source: "gcaptain.com"
+author: "Mike Schuler"
+title: >
+  BOEM Pushes Forward with California Offshore Wind Development Amid Political Uncertainty
+description: >
+  The Bureau of Ocean Energy Management (BOEM) is forging ahead with its offshore wind development plans in California, despite looming political uncertainties surrounding the incoming Trump administration. In a move...
+url: "https://gcaptain.com/boem-pushes-forward-with-california-offshore-wind-development-amid-political-uncertainty/"
+image: "https://gcaptain.com/wp-content/uploads/2021/05/morro-bay.jpg"
+published_at: 2024-11-15
+content: >
+  The Bureau of Ocean Energy Management (BOEM) is forging ahead with its offshore wind development plans in California, despite looming political uncertainties surrounding the incoming Trump administra… [+2486 chars]
+terms: "Humboldt | Morro Bay | Seabirds"
+search_timestamp: 2024-11-17 01:09:38
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
