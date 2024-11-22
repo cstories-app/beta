@@ -1,0 +1,21 @@
+---
+title: >
+  Does offshore wind construction hurt ocean life? Scientists study noise impact.
+source: "News Channel 3-12"
+published_at: 2024-11-21
+url: "https://keyt.com/cnn-regional/2024/11/21/does-offshore-wind-construction-hurt-ocean-life-scientists-study-noise-impact/"
+description: >
+  By Neal Riley Click here for updates on this story &#160;&#160;&#160;&#160;WOODS HOLE, Massachusetts (WBZ) &#8212; Researchers in Massachusetts are studying how noise from the construction of offshore wind turbines is impacting ocean life. The Woods Hole Oceanographic Institution is looking at how &#8220;pile driving&#8221; during the process of installing the giant turbines affects small seaThe post Does offshore wind construction hurt ocean life? Scientists study noise impact. appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
