@@ -1,0 +1,28 @@
+---
+source: "Protothema.gr"
+author: "Electra Delavogia"
+title: >
+  The truth about wind turbines that even Gletsos doesn’t know…
+description: >
+  How much energy do they produce? Do they need... batteries? Do they work better in burned areas? How many do we have in Greece? – The foundation is laid at a depth of 3 meters – The blades are made of carbon fibers and resins and can rotate up to 20 rotations…
+url: "https://en.protothema.gr/2024/11/25/the-truth-about-wind-turbines-that-even-gletsos-doesnt-know/"
+image: "https://en.protothema.gr/wp-content/uploads/2024/11/4-23-1024x571.png"
+published_at: 2024-11-25
+content: >
+  If there is one topic that frequently comes up in the news for any reason, its none other than… wind turbines.  Whether the price of electricity goes up or down, whether we are in a period of fires o… [+15732 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-11-27 01:07:35
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

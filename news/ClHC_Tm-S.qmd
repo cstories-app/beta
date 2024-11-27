@@ -1,0 +1,21 @@
+---
+title: >
+  Climate change could endanger Humboldt County’s oyster industry
+source: "Times-Standard"
+published_at: 2024-11-26
+url: "https://www.times-standard.com/2024/11/26/climate-change-could-endanger-humboldt-countys-oyster-industry/"
+description: >
+  Warming waters — under the Representative Concentration Pathway 8.5 projection, Humboldt Bay is expected to heat up by an average of 3 degrees Celsius over the next 70 years — introduce new disease vectors that could wreak havoc on local oyster farmers, but their concerns are more immediate. As Eureka and Arcata become increasingly developed and the Humboldt Bay Harbor, Recreation and Conservation District builds an offshore wind terminal, oyster companies are wary of the potential impacts on water quality and plankton productivity.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
