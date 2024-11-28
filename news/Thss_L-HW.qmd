@@ -1,0 +1,21 @@
+---
+title: >
+  This seaside town will power thousands of homes with waves
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2024-11-27
+url: "https://humboldtwaterkeeper.org/news/latest/1849-this-seaside-town-will-power-thousands-of-homes-with-waves"
+description: >
+  Wave energy has been untapped so far, but an experiment could unlock its potential in the United States.NEWPORT, Ore. — At a moment when large offshore wind projects are encountering public resistance, a nascent ocean industry is showing promise: wave energy.It’s coming to life in Newport, a rainy coastal town of nearly 10,500 people located a couple of hours south of Portland. Home to fishing operators and researchers, Newport attracts tourists and retirees with its famous aquarium, sprawling beaches and noisy sea lions. If you ask anyone at the lively bayfront about a wave energy project, they probably won’t know much about it.And yet, right off the coast, a $100 million effort with funding from the Energy Department aims to convert the power of waves into energy, and help catch up to Europe in developing this new technology. The buoy-like contraptions, located several miles offshore, will deliver up to 20 megawatts of energy — enough to power thousands of homes and businesses.As federal officials look to shift America’s electricity grid away from fossil fuels, they are seeking alternatives to solar and wind, which can deliver energy only when the sun shines or the wind blows. Waves — constant and full of untapped energy — have emerged as a promising option. And because wave energy projects are relatively unobtrusive, they are far less controversial than offshore wind, which has generated fierce opposition on both U.S. coasts. In September, the Biden administration announced that up to $112.5 million would go toward the development of wave energy converters, the largest federal investment in marine energy.There is enough energy in the waves off America’s coasts to power one-third of all the nation’s homes, said Matthew Grosso, the Energy Department’s director of the water power technologies office.Keep Reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
