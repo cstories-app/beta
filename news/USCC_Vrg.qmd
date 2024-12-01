@@ -1,0 +1,28 @@
+---
+source: "Virginiamercury.com"
+author: "samdoran"
+title: >
+  Under pressure from the SCC, Dominion reveals the true cost of data centers • Virginia Mercury
+description: >
+  Dominion's November 15 filing with the SCC shows future data center growth will drive up utility spending by about 20%.
+url: "https://virginiamercury.com/2024/11/26/under-pressure-from-the-scc-dominion-reveals-the-true-cost-of-data-centers/"
+image: "https://virginiamercury.com/wp-content/uploads/2023/02/Haymarket_Data_Center_Drone_8.4.22_credit_Hugh_Kenny_PEC-1-of-2-2048x1365.jpg"
+published_at: 2024-11-28
+content: >
+  by Ivy Main, Virginia MercuryNovember 26, 2024  Ever since data centers started spreading across the Virginia landscape like an invasive pest, one important question has remained unanswered: How much… [+7642 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-12-01 01:18:14
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -1,0 +1,28 @@
+---
+source: "Forbes"
+author: "Noël Fletcher, Contributor,   Noël Fletcher, Contributor  https://www.forbes.com/sites/noelfletcher/"
+title: >
+  Bats Save Billions In Agriculture Costs As Technology Helps Save Them
+description: >
+  People are turning to advanced technology to help bats survive amid climate change, wind turbines and a new disease, while telling how bats benefit the economy.
+url: "https://www.forbes.com/sites/noelfletcher/2024/11/28/bats-save-billions-in-agriculture-costs-as-technology-helps-save-them/"
+image: "https://imageio.forbes.com/specials-images/imageserve/6748e04096068e58354e47da/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+published_at: 2024-11-28
+content: >
+  Close up of a fruit bat flying through the air.  getty  The $1.53 trillion U.S. agriculture and associated industries are facing little-known threats worth billions to their bottom lines from climate… [+7671 chars]
+terms: "Humboldt"
+search_timestamp: 2024-12-01 01:18:14
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -2,16 +2,16 @@
 source: "Skepticalscience.com"
 author: "(unknown author)"
 title: >
-  Skeptical Science New Research for Week #29 2024
+  Skeptical Science New Research for Week #48 2024
 description: >
-  Open access notables Improving global temperature datasets to better account for non-uniform warming, Calvert, Quarterly Journal of the Royal Meteorological Society: To better account for spatial non-uniform trends in warming, a new GITD [global instrumental…
-url: "https://skepticalscience.com/new_research_2024_29.html"
+  Open access notables Progression of ocean interior acidification over the industrial era, Müller & Gruber Gruber, Science Advances: Ocean acidification driven by the uptake of anthropogenic CO2 represents a major threat to ocean ecosystems, yet little is kno…
+url: "https://skepticalscience.com/new_research_2024_48.html"
 image: "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg"
-published_at: 2024-07-18
+published_at: 2024-11-28
 content: >
-  Posted on 18 July 2024 by Doug Bostrom, Marc Kodack  Open access notables  Improving global temperature datasets to better account for non-uniform warming, Calvert, Quarterly Journal of the Royal Met… [+45064 chars]
+  Posted on 28 November 2024 by Doug Bostrom, Marc Kodack  Open access notables  Progression of ocean interior acidification over the industrial era, Müller &amp; Gruber Gruber, Science Advances:  Ocea… [+52891 chars]
 terms: "Cost of electricity"
-search_timestamp: 2024-07-19 18:29:14
+search_timestamp: 2024-12-01 01:18:14
 ---
 
 
