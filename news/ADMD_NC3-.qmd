@@ -1,0 +1,21 @@
+---
+title: >
+  A beautiful start to December, Monday Dec 2nd forecast
+source: "News Channel 3-12"
+published_at: 2024-12-02
+url: "https://keyt.com/weather/local-forecast/2024/12/01/a-beautiful-start-to-december-monday-dec-2nd-forecast/"
+description: >
+  A stellar Fall day and fantastic start to December with plenty of sunshine and mostly mild temperatures. Light offshore winds are expected for the overnight with just some possible patchy fog possible along the coast. Overnight lows will be mostly in the 40's. Highs on Monday will once again start out on the cool sideThe post A beautiful start to December, Monday Dec 2nd forecast appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
