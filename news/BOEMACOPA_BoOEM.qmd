@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM Approves Construction and Operations Plan for Atlantic Shores South Offshore Wind Projects
+source: "Bureau of Ocean Energy Management"
+published_at: 2024-12-04
+url: "https://www.boem.gov/newsroom/press-releases/boem-approves-construction-and-operations-plan-atlantic-shores-south"
+description: >
+  Wind Energy Facilities Could Power Close to One Million Homes
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

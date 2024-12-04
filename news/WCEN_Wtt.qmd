@@ -2,16 +2,16 @@
 source: "Wattsupwiththat.com"
 author: "Guest Blogger"
 title: >
-  Weekly Climate and Energy News Roundup #610
+  Weekly Climate and Energy News Roundup #622
 description: >
-  “There is a principle which is a bar against all information, which is proof against all arguments, and which cannot fail to keep a man in everlasting ignorance---that principle is contempt prior to investigation.
-url: "https://wattsupwiththat.com/2024/09/02/weekly-climate-and-energy-news-roundup-610/"
-image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/09/charlesrotter_monument_valley_at_sunrise2_midjourney.webp?fit=1024%2C512&ssl=1"
-published_at: 2024-09-02
+  “Curiosity is a delicate little plant which, aside from stimulation, stands mainly in need of freedom." – Albert Einstein, Autobiographical Notes (1949)
+url: "https://wattsupwiththat.com/2024/12/02/weekly-climate-and-energy-news-roundup-622/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/12/charlesrotter_bryce_canyon_national_park_at_sunset_-ar_21_-_midjourney.webp?fit=1024%2C512&ssl=1"
+published_at: 2024-12-02
 content: >
-  Quote of the Week:There is a principle which is a bar against all information, which is proof against all arguments, and which cannot fail to keep a man in everlasting ignorance—that principle is con… [+76063 chars]
+  Quote of the Week:Curiosity is a delicate little plant which, aside from stimulation, stands mainly in need of freedom.”   Albert Einstein, Autobiographical Notes (1949)  Number of the Week: Over 25%… [+56958 chars]
 terms: "Cost of electricity"
-search_timestamp: 2024-09-04 01:00:21
+search_timestamp: 2024-12-04 01:09:18
 ---
 
 
