@@ -1,0 +1,28 @@
+---
+source: "Energycentral.com"
+author: "[Energy Central] Ivy Main"
+title: >
+  Under pressure from the SCC, Dominion reveals the true cost of data centers
+description: >
+  New filing shows electricity demand would be flat without the industry A data center in Ashburn, Virginia. Photo by Hugh Kenny, Piedmont Environmental Council. Ever since data centers started spreading across the Virginia landscape like an invasive pest, one …
+url: "https://energycentral.com/c/ec/under-pressure-scc-dominion-reveals-true-cost-data-centers"
+image: "NA"
+published_at: 2024-12-03
+content: >
+  A data center in Ashburn, Virginia. Photo by Hugh Kenny, Piedmont Environmental Council.  Ever since data centers started spreading across the Virginia landscape like an invasive pest, one important … [+7373 chars]
+terms: "Cost of electricity"
+search_timestamp: 2024-12-05 01:09:01
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
