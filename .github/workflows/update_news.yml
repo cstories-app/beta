@@ -27,12 +27,17 @@ jobs:
 
       - name: Install system dependencies for R packages
         run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            libcurl4-openssl-dev \  # curl
-            libharfbuzz-dev libfribidi-dev \  # textshaping
-            gdal-bin libgdal-dev proj-bin \  # terra -> leaflet
-            libfontconfig1-dev libfreetype6-dev # systemfonts dependencies
+          apt-get update && apt-get install -y \
+            # curl
+            libcurl4-openssl-dev \
+            # textshaping
+            libharfbuzz-dev libfribidi-dev \
+            # terra -> leaflet
+            gdal-bin libgdal-dev proj-bin \
+            # systemfonts dependencies
+            libfontconfig1-dev libfreetype6-dev &&
+            # free up space
+            apt-get clean && rm -rf /var/lib/apt/lists/*
 
       - name: Install R packages with renv
         uses: r-lib/actions/setup-renv@v2-branch
