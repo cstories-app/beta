@@ -1,0 +1,39 @@
+{
+    "name": "cstories-beta",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+
+    "features": {
+
+        "ghcr.io/rocker-org/devcontainer-features/r-rig": {
+            "version": "4.2.1",
+            "vscodeRSupport": "lsp",
+            "installREnv": true
+        },
+
+        "ghcr.io/rocker-org/devcontainer-features/quarto-cli": {
+            "version": "1.6.40"
+        }
+
+    },
+
+    // Configure tool-specific properties.
+	"customizations": {
+		// Settings for VS Code
+		"vscode": {
+			"extensions": [
+                "reditorsupport.r",
+                "RDebugger.r-debugger",
+                "quarto.quarto"
+            ],
+			"settings": {
+                "editor.rulers": [80],
+				"r.bracketedPaste": true,
+				"r.plot.useHttpgd": true,
+				"r.lsp.diagnostics": false,
+				"r.lsp.promptToInstall": false
+			}
+		}
+	}
+}
