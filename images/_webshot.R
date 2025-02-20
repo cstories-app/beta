@@ -1,4 +1,4 @@
-librarian::shelf(webshot)
+library(webshot)
 # webshot::install_phantomjs()
 
 webshot(
