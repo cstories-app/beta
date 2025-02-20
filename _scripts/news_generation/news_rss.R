@@ -1,5 +1,13 @@
-librarian::shelf(
-  cli, crayon, integral, fs, janitor, lubridate, stringr, textclean, tidyRSS, tidyverse)
+library(cli)
+library(crayon)
+library(integral)
+library(fs)
+library(janitor)
+library(lubridate)
+library(stringr)
+library(textclean)
+library(tidyRSS)
+library(tidyverse)
 
 # Functions ---------------------------------------------------------------
 
