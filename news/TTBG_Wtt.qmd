@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  Trump Truth Bombs ‘Green’ Energy (Five EOs)
+description: >
+  Trump’s executive order bomb, followed by Congressional action to limit funds from the IRA and IIJA, promise to gut, or profoundly reshape, the U.S. green energy movement. January 2025 may begin a long decline for green energy and a return to sensible energy …
+url: "https://wattsupwiththat.com/2025/01/27/trump-truth-bombs-green-energy-five-eos/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/01/offshore-wind-turbines-calm-water-dense-scaled-1-scaled.webp?fit=1200%2C600&ssl=1"
+published_at: 2025-01-28
+content: >
+  From MasterResource  By Steve Goreham  Trumps executive order bomb, followed by Congressional action to limit funds from the IRA and IIJA, promise to gut, or profoundly reshape, the U.S. green energy… [+7979 chars]
+terms: "Morro Bay"
+search_timestamp: 2025-02-20 05:04:45
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

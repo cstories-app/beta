@@ -1,0 +1,28 @@
+---
+source: "KPBS"
+author: "CalMatters Staff"
+title: >
+  Resistance state: Tracking California’s lawsuits against the new Trump administration
+description: >
+  California’s Democratic leaders set aside tens of millions of dollars to challenge President Donald Trump’s executive orders and policies.
+url: "https://www.kpbs.org/news/politics/2025/01/22/resistance-state-tracking-californias-lawsuits-against-the-new-trump-administration"
+image: "https://cdn.kpbs.org/dims4/default/917211e/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2F72%2F00%2F3c58e38346da81741e67e2b749cd%2Fbonta-trump.jpg"
+published_at: 2025-01-23
+content: >
+  Round 2 of California vs. Trump is already underway.  President Donald Trump signed a flurry of executive orders moments after being inaugurated president, and many of them could directly affect Cali… [+1239 chars]
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2025-02-20 05:04:45
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

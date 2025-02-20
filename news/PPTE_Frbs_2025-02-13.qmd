@@ -1,0 +1,28 @@
+---
+source: "Forbes"
+author: "Dianne Plummer, Contributor,   Dianne Plummer, Contributor  https://www.forbes.com/sites/dianneplummer/"
+title: >
+  Power Play: The Economics Of Nuclear Vs. Renewables
+description: >
+  Nuclear vs. Renewables: Uncover surprising costs, hidden risks, and the future of power—who will win the race for global energy dominance?
+url: "https://www.forbes.com/sites/dianneplummer/2025/02/12/power-play-the-economics-of-nuclear-vs-renewables/"
+image: "https://imageio.forbes.com/specials-images/imageserve/67ad54865ae8ab3d7fb578f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+published_at: 2025-02-13
+content: >
+  SELBY, ENGLAND - JUNE 29: Wind turbines generate electricity as the Drax Power Station in the ... [+] background also generates electricity on June 29, 2023 in Selby, England. The Drax Power Station … [+9934 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-02-20 05:04:45
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

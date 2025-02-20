@@ -1,0 +1,28 @@
+---
+source: "Forbes"
+author: "Aldo Flores-Quiroga, Contributor,   Aldo Flores-Quiroga, Contributor  https://www.forbes.com/sites/aldoflores-quiroga/"
+title: >
+  Why The Energy Transition Nirvana Is Still Out Of Reach
+description: >
+  The energy transition needs political support for higher energy costs and the significant land footprint of renewable energy projects.
+url: "https://www.forbes.com/sites/aldoflores-quiroga/2025/01/19/why-the-energy-transition-nirvana-is-still-out-of-reach/"
+image: "https://imageio.forbes.com/specials-images/imageserve/678c2108b136dad74b093337/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+published_at: 2025-01-19
+content: >
+  WASHINGTON - MAY 11: Environmental activists hold a rally in front of the White House to protest ... [+] offshore drilling for oil May 11, 2010 in Washington, DC. The Deepwater Horizon drilling platf… [+8648 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-02-20 05:04:45
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

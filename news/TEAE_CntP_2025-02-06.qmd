@@ -1,0 +1,28 @@
+---
+source: "CounterPunch"
+author: "Joseph Grosso"
+title: >
+  Trump and Energy: An Exercise in Unseriousness
+description: >
+  Upon being sworn in as president. Donald Trump immediately declared an energy emergency. The proclamation, issued on January 20th, states that "The energy and critical minerals (“energy”) identification, leasing, development, production, transportation, refin…
+url: "https://www.counterpunch.org/2025/02/06/trump-and-energy-an-exercise-in-unseriousness/"
+image: "https://www.counterpunch.org/wp-content/uploads/2025/02/3windturbineridge4-scaled.jpg"
+published_at: 2025-02-06
+content: >
+  Wind turbines in the Columbia River Gorge. Photo: Jeffrey St. Clair.  Upon being sworn in as president. Donald Trump immediately declared an energy emergency. The proclamation, issued on January 20th… [+5948 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-02-20 05:04:45
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

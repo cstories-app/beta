@@ -3,8 +3,15 @@
 # 12/2/22
 
 # setup ----
-librarian::shelf(
-  IntegralEnvision/integral, fs, httr2, janitor, lubridate, rrapply, tidyverse, cli, textclean)
+library(integral)
+library(fs)
+library(httr2)
+library(janitor)
+library(lubridate)
+library(rrapply)
+library(tidyverse)
+library(cli)
+library(textclean)
 
 blocklist <- read_lines("_scripts/news_generation/blocklist.txt")
 

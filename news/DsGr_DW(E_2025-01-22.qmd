@@ -1,0 +1,28 @@
+---
+source: "DW (English)"
+author: "Martin Kuebler"
+title: >
+  Does Germany need wind power?
+description: >
+  As Germany moves towards federal elections, wind power features in many party manifestos. Some politicians would prefer a return to nuclear power, but Germany's wind sector is on track to make significant gains. Germany's leading source of electric power gene…
+url: "https://www.dw.com/en/does-germany-need-wind-power/a-71325146"
+image: "https://static.dw.com/image/67752057_6.jpg"
+published_at: 2025-01-22
+content: >
+  Germany's leading source of electric power generation got a big boost in 2024, according to latest industry figures.  Regulators approved more than 2,400 new onshore wind turbines with a total output… [+7753 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-02-20 05:04:45
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

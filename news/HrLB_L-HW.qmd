@@ -1,0 +1,21 @@
+---
+title: >
+  Harbor district signs offshore wind agreement with Long Beach
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2024-12-19
+url: "https://humboldtwaterkeeper.org/news/latest/1855-harbor-district-signs-offshore-wind-agreement-with-long-beach-2"
+description: >
+  The Humboldt Bay Harbor, Recreation and Conservation District, the Port of Long Beach and the State Lands Commission announced an offshore wind agreement.The nine-page agreement puts into ink a commitment to generally work together to develop offshore wind power and the associated port facilities in California. The agreement touts the need for responsible development and the positive attributes of renewable energy and reinvestments at the ports.“This is about giving people a voice, the ability for people to want to invest because they can see that it’s a project that the people believe in and that the people want. There’s no better signal to investors than that,” he said.The deal includes commitments like aligning development and permitting of the ports, community engagement and workforce development. At previous harbor district meetings, the port in Long Beach was sometimes seen closer to a competitor — a purportedly better-funded and more developed port that could compete with Humboldt Bay as a hub for offshore wind turbines.Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

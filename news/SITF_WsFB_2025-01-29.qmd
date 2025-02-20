@@ -1,0 +1,28 @@
+---
+source: "Washington Free Beacon"
+author: "Thomas Catenacci"
+title: >
+  Small Idaho Town Feels Immediate Impact From Trump's Energy Order
+description: >
+  When President Donald Trump signed an executive order targeting wind energy development on his first day in office, it appeared to solely target offshore wind farms. But buried deep in the order, Trump also halted a single onshore wind development, the Lava R…
+url: "https://freebeacon.com/trump-administration/back-on-the-right-track-in-this-country-small-idaho-town-feels-immediate-impact-from-trumps-energy-order/"
+image: "https://freebeacon.com/wp-content/uploads/2025/01/MixCollage-28-Jan-2025-02-37-PM-897-e1738093254939.jpg"
+published_at: 2025-01-29
+content: >
+  When President Donald Trump signed an executive order targeting wind energy development on his first day in office, it appeared to solely target offshore wind farms. But buried deep in the order, Tru… [+5718 chars]
+terms: "Viewshed"
+search_timestamp: 2025-02-20 05:04:45
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

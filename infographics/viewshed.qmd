@@ -82,8 +82,11 @@ Zoom (scroll up/down; or pinch in/out) and pan (click and hold while dragging) w
 ## Overview
 
 ```{r}
-librarian::shelf(
-  dplyr, glue, here, leaflet, readr)
+library(dplyr)
+library(glue)
+library(here)
+library(leaflet)
+library(readr)
 
 d <- read_csv(
   here("infographics/data/viewshed_locations.csv"),

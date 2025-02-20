@@ -1,7 +1,15 @@
 # libraries ----
-librarian::shelf(
-  dplyr, fs, glue, here, purrr, quarto, readr,
-  multidplyr, parallel, furrr) # run in parallel on multiple CPUs
+library(dplyr)
+library(dplyr)
+library(fs)
+library(glue)
+library(here)
+library(purrr)
+library(quarto)
+library(readr)
+library(multidplyr)
+library(parallel)
+library(furrr)
 
 # paths ----
 dir_qmd <- here("news")

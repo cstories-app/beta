@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM Announces Next Steps in Competitive Leasing Process for Offshore Wind Energy in Gulf of Mexico
+source: "Bureau of Ocean Energy Management"
+published_at: 2025-02-20
+url: "https://www.boem.gov/newsroom/press-releases/boem-announces-next-steps-competitive-leasing-process-offshore-wind-energy"
+description: >
+  BOEM announced that it is issuing a Determination of Competitive Interest in two Wind Energy Areas (WEAs) in the Gulf of Mexico.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

@@ -1,0 +1,28 @@
+---
+source: "KQED"
+author: "Kevin Stark"
+title: >
+  What Does Trump’s Wind Power Pause Mean for California’s Floating Turbines?
+description: >
+  President Trump issued a sweeping executive order on his first day back in office, halting federal approvals of new wind farms and directing officials to look for ways to find ways to get rid of existing offshore wind leases.
+url: "https://www.kqed.org/news/12023702/what-does-trumps-wind-power-pause-mean-for-californias-floating-turbines"
+image: "https://cdn.kqed.org/wp-content/uploads/sites/10/2024/05/Chumash-Sanctuary-05-KQED-1020x765.jpg"
+published_at: 2025-01-24
+content: >
+  The order doesn’t pause work on wind farms with existing leases, but it does direct officials to find ways of “terminating or amending” these projects, of which there are currently five in the waters… [+2156 chars]
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2025-02-20 05:04:45
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

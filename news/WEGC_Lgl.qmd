@@ -1,0 +1,28 @@
+---
+source: "Legalinsurrection.com"
+author: "Leslie Eastman"
+title: >
+  Wind Energy Grift is Collapsing Under Weight of Trump’s Executive Order
+description: >
+  Wind energy projects have been halted and key players are pulling out of arrangements that are unpopular with the locals. The post Wind Energy Grift is Collapsing Under Weight of Trump’s Executive Order first appeared on Le·gal In·sur·rec·tion.
+url: "https://legalinsurrection.com/2025/01/wind-energy-grift-is-collapsing-under-weight-of-trumps-executive-order/"
+image: "https://legalinsurrection.com/wp-content/uploads/2023/07/LI-178-Offshore-Wind-Farm.png"
+published_at: 2025-01-31
+content: >
+  Immediately upon taking office, President Donald Trump took significant action against offshore wind projects. He signed an executive order that halts all new and renewed approvals, permits, leases, … [+4126 chars]
+terms: "Viewshed"
+search_timestamp: 2025-02-20 05:04:45
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

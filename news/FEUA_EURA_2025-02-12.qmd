@@ -1,0 +1,28 @@
+---
+source: "EURACTIV"
+author: "Brian Maguire"
+title: >
+  Financing the EU’s energy transition and competitiveness drive, can the two strategies co-exist? [Advocacy Lab Content]
+description: >
+  Normandy isn't Texas, and Europe can’t ‘drill baby drill’, but stronger technological leadership can accelerate Europe’s green game.
+url: "https://www.euractiv.com/section/eet/news/financing-the-eus-energy-transition-and-competitiveness-drive-can-the-two-strategies-co-exist/"
+image: "https://www.euractiv.com/wp-content/uploads/sites/2/2025/02/GettyImages-1408579110-1.jpg"
+published_at: 2025-02-12
+content: >
+  With extreme weather events, ever more dire warnings from scientists, and the US pulling out of the Paris Agreement, the new legislative cycle of the European Commission cannot afford to ignore its o… [+6933 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-02-20 05:04:45
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

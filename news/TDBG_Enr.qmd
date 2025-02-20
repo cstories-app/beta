@@ -1,0 +1,28 @@
+---
+source: "Energycentral.com"
+author: "[Energy Central] Steve Goreham"
+title: >
+  Trump Drops a Bomb on Green Energy
+description: >
+  Originally published in MasterResource. President Trump has long been a supporter of traditional energy. During his campaign, he spoke negatively about electric vehicles, wind, and other renewable energy sources. But in his first day in office, the new presid…
+url: "https://energycentral.com/c/ec/trump-drops-bomb-green-energy"
+image: "https://energycentral.com/sites/default/files/styles/og_meta/public/ece/node_main/2025/1/block20island20wind20ri20us20doe20article.jpg?itok=sbUiWAv5"
+published_at: 2025-01-28
+content: >
+  Originally published in MasterResource.  President Trump has long been a supporter of traditional energy. During his campaign, he spoke negatively about electric vehicles, wind, and other renewable e… [+7542 chars]
+terms: "Morro Bay"
+search_timestamp: 2025-02-20 05:04:45
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

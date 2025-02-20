@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM Finalizes Fisheries Mitigation Guidance
+source: "Bureau of Ocean Energy Management"
+published_at: 2025-02-20
+url: "https://www.boem.gov/newsroom/notes-stakeholders/boem-finalizes-fisheries-mitigation-guidance"
+description: >
+  This comprehensive final guidance, informed by extensive public input, establishes clear processes for the offshore wind industry to address potential disruptions to fisheries.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
