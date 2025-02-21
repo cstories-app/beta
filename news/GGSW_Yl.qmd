@@ -1,0 +1,28 @@
+---
+source: "Yale.edu"
+author: "(unknown author)"
+title: >
+  'Green Grab': Solar and Wind Boom Sparks Conflicts on Land Use
+description: >
+  Solar and wind farms are proliferating and increasingly taking up land worldwide, prompting criticism from rural communities and environmentalists. Solutions range from growing crops or grazing livestock under PV panels to putting floating solar farms on lake…
+url: "https://e360.yale.edu/features/solar-land-grabs-agrovoltaics"
+image: "https://e360.yale.edu/assets/site/Guizhou-Solar_AP-HEADER.jpg"
+published_at: 2025-02-20
+content: >
+  In California, sheep safely graze amid giant solar farms. In India and Mexico, solar panels on stilts power remote villages while shading and watering crops. Across Asia, photovoltaics spread over th… [+13457 chars]
+terms: "Seabirds"
+search_timestamp: 2025-02-21 12:45:50
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
