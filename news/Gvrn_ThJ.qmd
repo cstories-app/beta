@@ -1,0 +1,28 @@
+---
+source: "TheJournal.ie"
+author: "Conor O'Carroll"
+title: >
+  Government to choose future offshore wind farm locations to 'protect biodiversity'
+description: >
+  Some locals are concerned about developments off their coast damaging sandbanks and impacting coastal erosion.
+url: "https://www.thejournal.ie/investigates-offshore-wind-objections-6628216-Feb2025/"
+image: "https://img2.thejournal.ie/article/6628216/river/?height=400&version=6629442"
+published_at: 2025-02-24
+content: >
+  OFFSHORE WIND FARM locations are to be chosen by the government in the future to protect biodiversity.  Fixed-bottom wind farms need to be built in shallower waters, which has worried some locals abo… [+3797 chars]
+terms: "Seascape"
+search_timestamp: 2025-02-26 01:16:49
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
