@@ -1,0 +1,21 @@
+---
+title: >
+  Wildlife impacts: Wind farms versus oil drilling
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2025-02-26
+url: "https://humboldtwaterkeeper.org/news/latest/1868-wildlife-impacts-wind-farms-versus-oil-drilling"
+description: >
+  US President Donald Trump says that wind farms harm birds and whales. Scientists weigh wind power's impacts on wildlife against those of oil and gas.Aspen Ellis, a seabird biologist at University of California, Santa Cruz, spent a decade doing field work on remote islands off the coast of the United States. She often lived for months amongst thousands of birds, becoming so immersed in their ways that she even learned to tell which predators were nearby from the birds' calls. But as she added her observations to 40 or 50 years of previous research on these colonies, she noticed a worrying pattern."Again and again, I just found myself logging the impact of climate change over time," she recalls, from rising sea levels that threatened breeding colonies, to fish moving to cooler areas and leaving seabird chicks starving. "Without addressing this larger issue of climate change, the seabird conversation work we were doing wasn't sufficient to save those populations," she adds. She decided to change focus – and today, studies ways to make clean-energy offshore wind farms safer for birds.The impact of energy production on wildlife has come into the spotlight again amid US President Donald Trump's plan to pivot the country's supply from renewables such as wind, to oil and gas. In his first days in office, Trump revoked former-president Joe Biden's ban on new offshore oil and gas drilling. "We will drill, baby, drill," Trump promised when he was inaugurated, while putting the brakes on the expansion of wind farms. One of his arguments is that wind farms harm birds and whales. His executive order halting offshore wind farm development cited the importance of marine life as one of the reasons for the decision.Keep Reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
