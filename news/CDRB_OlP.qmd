@@ -1,0 +1,28 @@
+---
+source: "OilPrice.com"
+author: "Alex Kimani"
+title: >
+  China's Debuts Record-Breaking 25-Megawatt Wind Turbines
+description: >
+  Last year, China’s renewable energy sales and investments hit a record 13.6tn yuan ($1.9tn), dwarfing the global fossil fuel funding total of $1.12 trillion. China’s installed capacity for renewable energy, including wind and solar, reached 1,410 gigawatts, s…
+url: "https://oilprice.com/Alternative-Energy/Wind-Power/Chinas-Debuts-Record-Breaking-25-Megawatt-Wind-Turbines.html"
+image: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-03-01_sefyx2dype.jpg"
+published_at: 2025-03-03
+content: >
+  Europe is rapidly expanding its…  A Penn State undergraduate student…  No new federal leases, no…  By Alex Kimani - Mar 02, 2025, 6:00 PM CSTLast year, Chinas renewable energy sales and investmentshi… [+6200 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-03-04 01:15:18
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
