@@ -1,0 +1,28 @@
+---
+source: "Plos.org"
+author: "Blake E. Feist, Robert Griffin, Jameal F. Samhouri, Leena Riekkola, Andrew O. Shelton, Y. Allen Chen, Kayleigh Somers, Kelly Andrews, Owen R. Liu, Jennifer Ise"
+title: >
+  Mapping the value of commercial fishing and potential costs of offshore wind energy on the U.S: West Coast: Towards an assessment of resource use tradeoffs
+description: >
+  The West Coast of the U.S. has a vast offshore wind energy (OWE) electricity generation potential with value on the order of billions of USD, and pressure is mounting to develop large OWE projects. However, this seascape has numerous existing resource extract…
+url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315319"
+image: "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0315319.g006&size=inline"
+published_at: 2025-03-06
+content: >
+  Potential OWE value.  We used the Integrated Valuation of Ecosystem Services and Trade-offs (InVEST®https://naturalcapitalproject.stanford.edu/software/invest) OWE production (OWEP) model (v. 3.14.1 … [+16126 chars]
+terms: "Seascape"
+search_timestamp: 2025-03-08 01:00:09
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

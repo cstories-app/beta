@@ -1,0 +1,21 @@
+---
+title: >
+  Sunny & warm Saturday
+source: "News Channel 3-12"
+published_at: 2025-03-07
+url: "https://keyt.com/weather/local-forecast/2025/03/07/sunny-warm-saturday/"
+description: >
+  High pressure moves in this weekend bringing warm and sunny conditions. Gusty winds expected Friday near the coast and chilly overnight temperatures. We'll get some light offshore winds Saturday and Sunday - aiding in the temperature boost. Low pressure arrives Monday, though rain is expected mostly in southwest California, leaving minimal impacts to our region,The post Sunny &amp; warm Saturday appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
