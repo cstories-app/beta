@@ -1,0 +1,21 @@
+---
+title: >
+  Harbor commissioners talk net zero, dredging and public benefits for offshore wind
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2025-03-15
+url: "https://humboldtwaterkeeper.org/news/latest/1878-harbor-commissioners-talk-net-zero-dredging-and-public-benefits-for-offshore-wind"
+description: >
+  At this week’s meeting of the Humboldt Bay Harbor, Recreation and Conservation District’s Board of Commissioners, the board met with staff and consultants to hear updates on the Humboldt Bay Offshore Wind Heavy Lift Marine Terminal Project — a redevelopment project that will re-envision a significant portion of the Samoa Peninsula as a 180-acre multi-use port to support California’s offshore wind development.Among those items featured on the agenda were an update on the project’s emissions goals, a technical presentation on dredging and material removal associated with the project and an overhaul of the adjacent trail infrastructure and Woodley Island’s fishing and boating facilities to be improved with funding from the project.Achieving net zeroScott Lagueux of infrastructure consulting firm Moffatt &amp; Nichol, presented on the project’s “Green Terminal Roadmap,” a framework that is being designed to bring the project into alignment with the goal of net zero carbon emissions.“Your desire is to achieve net zero at this port, and certainly it’s a great goal and one that we look forward to helping you achieve through this analysis and through … incremental implementation of technologies and other approaches that will help you get to that point,” Lagueux said.Lagueux presented a number of options that will be finalized over the next several months and noted several possible scenarios with regard to the cost and the timing of the project. Ultimately, he said, the roadmap would provide the district with “a series of decision-making matrices” and a “menu of technologies” that can help achieve the goal of a zero-emission project.Keep Reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

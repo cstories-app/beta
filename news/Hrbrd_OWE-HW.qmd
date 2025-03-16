@@ -1,0 +1,21 @@
+---
+title: >
+  Harbor district talks offshore wind terminal, still in fundraising mode
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2024-11-18
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1844-harbor-district-talks-offshore-wind-terminal-still-in-fundraising-mode-2"
+description: >
+  On Thursday, Humboldt County Harbor, Recreation and Conservation District Development Director Rob Holmlund told the directors that right now, he’s pursuing several grants to fully fund the project and meeting with local stakeholders, such as Samoa residents and the area’s tribes.The offshore wind terminal project — which received $427 million from the federal government in January— could have massive reverberations in the local economy, but at the moment, it’s still seeking a litany of grants and stakeholder input. The grants — including a California Energy Commission Waterfront Facility Improvement Program Grant — the board is pursuing could help provide additional assessments of the potential impacts to the harbor, something several public commenters supported.Humboldt Waterkeeper Director Jen Kalt told the board about the Golden mussel, an invasive species native to China and Southeast Asia that was discovered last week for the first time in the Port of Stockton. If the bivalves catch a ride in the ballast water on ships that make it into Humboldt Bay, it could devastate the local oyster seed industry“The whole West Coast is reliant on the oyster seed coming from Humboldt Bay and … all it would take is one vessel with an oyster disease to destroy this industry that’s been thrilled for all these years,” Kalt said.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
