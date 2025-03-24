@@ -1,0 +1,21 @@
+---
+title: >
+  A warm Monday ahead, March 24th forecast
+source: "News Channel 3-12"
+published_at: 2025-03-23
+url: "https://keyt.com/weather/local-forecast/2025/03/23/a-warm-monday-ahead-march-24th-forecast/"
+description: >
+  Sunday did not disappoint as sunny skies and warm temperatures dominated the entire region. A weak storm system has pushed onshore&#160;&#160;in to Oregon and Washington which will us under a&#160;northerly flow. Breezy offshore winds will kick up for Monday, but at this time there are no watches or warning for anything significant. Patchy&#160;fog is possibleThe post A warm Monday ahead, March 24th forecast appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
