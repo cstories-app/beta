@@ -1,0 +1,28 @@
+---
+source: "OilPrice.com"
+author: "Alex Kimani"
+title: >
+  Private Investors On Green Energy Buying Spree As Big Oil Retreats
+description: >
+  Over the past couple of years, renewable energy stocks have been hammered thanks in large part to high interest rates in the post-Covid era. The iShares Global Clean Energy ETF (NASDAQ:ICLN), the world’s largest green energy ETF and a catch-all bet on clean e…
+url: "https://oilprice.com/Alternative-Energy/Renewable-Energy/Private-Investors-On-Green-Energy-Buying-Spree-As-Big-Oil-Retreats.html"
+image: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-03-25_wdckvngsuk.jpg"
+published_at: 2025-03-26
+content: >
+  Australia's upcoming federal election will…  Europe's largest green hydrogen facility…  Unclear and overlapping regulations, particularly…  By Alex Kimani - Mar 25, 2025, 7:00 PM CDTOver the past cou… [+5067 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-03-27 01:16:23
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
