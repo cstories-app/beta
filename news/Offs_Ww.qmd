@@ -1,0 +1,28 @@
+---
+source: "Www.gov.uk"
+author: "(unknown author)"
+title: >
+  Offshore wind development: library of strategic compensatory measures
+description: >
+  Strategic compensatory measures available to offshore wind developers.
+url: "https://www.gov.uk/guidance/offshore-wind-development-library-of-strategic-compensatory-measures"
+image: "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png"
+published_at: 2025-03-28
+content: >
+  As an offshore wind developer, you can use strategic compensatory measures for your derogation case as part of your development consent order and marine licence applications.  You must provide compen… [+4887 chars]
+terms: "Seabirds"
+search_timestamp: 2025-03-30 01:23:15
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
