@@ -1,0 +1,21 @@
+---
+title: >
+  Warm & sunny this weekend
+source: "News Channel 3-12"
+published_at: 2025-04-04
+url: "https://keyt.com/weather/local-forecast/2025/04/04/warm-sunny-this-weekend/"
+description: >
+  We are warming up into the 70s on Saturday and Sunday. Local temperatures will increase about 5 degrees from Friday, which was the beginning of our warming trend. Northeast offshore winds will aid in the warm conditions this weekend but it may be gusty at times. Northern communities especially will experience some brief cooling onThe post Warm &amp; sunny this weekend appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
