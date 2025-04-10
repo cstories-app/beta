@@ -1,0 +1,28 @@
+---
+source: "Rigzone"
+author: "Jov Onsat"
+title: >
+  World Bank Approves Philippine Loan for RE Scale-Up
+description: >
+  The Philippines secured an $800-million loan from the World Bank to widen the country's adoption of renewable energy, bolster its electricity market and improve its water utility management.
+url: "https://www.rigzone.com/news/world_bank_approves_philippine_loan_for_re_scaleup-08-apr-2025-180168-article/"
+image: "https://images.rigzone.com/images/news/articles/World-Bank-Approves-Philippine-Loan-for-RE-ScaleUp-180168-1200x628.png"
+published_at: 2025-04-08
+content: >
+  The Philippines has secured an $800-million loan from the World Bank to widen the country’s adoption of renewable energy (RE), bolster its electricity market and improve its water utility management.… [+4058 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-04-10 01:18:12
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
