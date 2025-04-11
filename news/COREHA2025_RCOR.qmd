@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub April 2025 Newsletter
+source: "RedwoodCOREHub"
+published_at: 2025-04-10
+url: "https://redwoodcorehub.org/core-hub-april-2025-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-april-2025-newsletter"
+description: >
+  Good Afternoon Community Partners, Here is your newsletter on offshore wind and related interests. Upcoming opportunities for leadership and learning: Recent Events and Updates: Resources, Information and Academic Articles: State and Federal Updates: In the news: Please reach out with your thoughts and questions. Thank you from the CORE Hub Team!&#160;
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
