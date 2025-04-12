@@ -1,0 +1,28 @@
+---
+source: "National Observer"
+author: "Darius Snieckus"
+title: >
+  The audacious plan to build a giant green powerline under the Atlantic
+description: >
+  A $30 billion-plus project called the North Atlantic Transmission One Link would connect the two continents via a 4,000-kilometre underwater interconnector. Industry experts see it as financially and technologically viable. But could it really become a realit…
+url: "https://www.nationalobserver.com/2025/04/07/analysis/canada-europe-green-powerline-under-atlantic"
+image: "https://www.nationalobserver.com/sites/default/files/img/2025/04/07/source-nexans-142733_skagerrak.jpg"
+published_at: 2025-04-10
+content: >
+  Vast volumes of green electricity could be flowing through a 4,000-kilometre underwater powerline between Canada and Europe by 2040, if three UK-based investment bankers vision for a major new transa… [+8853 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-04-12 01:18:14
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
