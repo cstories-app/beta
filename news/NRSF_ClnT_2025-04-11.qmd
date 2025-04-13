@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "Tina Casey"
+title: >
+  New Record Set For Flexible Perovskite Solar Cells With CIGS
+description: >
+  Researchers have combined flexible, lightweight CIGS solar technology with perovskite solar cells to achieve a new record in solar conversion efficiency. The post New Record Set For Flexible Perovskite Solar Cells With CIGS appeared first on CleanTechnica.
+url: "https://cleantechnica.com/2025/04/11/new-record-set-for-flexible-perovskite-solar-cells-with-cigs/"
+image: "https://cleantechnica.com/wp-content/uploads/2013/11/New-CIGS-solar-cell-courtesy-of-Empa.jpg"
+published_at: 2025-04-11
+content: >
+  Sign up for CleanTechnica's Weekly Substack for Zach and Scott's in-depth analyses and high level summaries, sign up for our daily newsletter, and/or follow us on Google News!  The global solar indus… [+7679 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-04-13 02:45:50
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
