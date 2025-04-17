@@ -2,16 +2,16 @@
 source: "Wattsupwiththat.com"
 author: "Guest Blogger"
 title: >
-  Weekly Climate and Energy News Roundup #622
+  Weekly Climate and Energy News Roundup #639
 description: >
-  “Curiosity is a delicate little plant which, aside from stimulation, stands mainly in need of freedom." – Albert Einstein, Autobiographical Notes (1949)
-url: "https://wattsupwiththat.com/2024/12/02/weekly-climate-and-energy-news-roundup-622/"
-image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/12/charlesrotter_bryce_canyon_national_park_at_sunset_-ar_21_-_midjourney.webp?fit=1024%2C512&ssl=1"
-published_at: 2024-12-02
+  Quote of the Week: “Details that could throw doubt on your interpretation must be given, if you know them. You must do the best you can — if you know anything at all wrong, or possibly wrong — to explain it. If you make a theory, for example, and advertise it…
+url: "https://wattsupwiththat.com/2025/04/14/weekly-climate-and-energy-news-roundup-639/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/04/charlesrotter_a_gorgeous_photo_grand_escalante_national_park_at_sunset-midjourney.webp?fit=1024%2C512&ssl=1"
+published_at: 2025-04-14
 content: >
-  Quote of the Week:Curiosity is a delicate little plant which, aside from stimulation, stands mainly in need of freedom.”   Albert Einstein, Autobiographical Notes (1949)  Number of the Week: Over 25%… [+56958 chars]
-terms: "Cost of electricity"
-search_timestamp: 2024-12-04 01:09:18
+  Quote of the Week:Details that could throw doubt on your interpretation must be given, if you know them. You must do the best you can if you know anything at all wrong, or possibly wrong to explain i… [+67695 chars]
+terms: "Seabirds"
+search_timestamp: 2025-04-17 01:19:38
 ---
 
 

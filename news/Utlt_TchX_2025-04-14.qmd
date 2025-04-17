@@ -1,0 +1,28 @@
+---
+source: "Tech Xplore"
+author: "Erin Baker, Paola Pimentel Furlanetto"
+title: >
+  Utilities choosing coal, solar, nuclear or other power sources have a lot to consider, beyond just cost
+description: >
+  The Trump administration is working to lift regulations on coal-fired power plants in the hopes of making its energy less expensive. But while cost is one important aspect, utilities have a lot more to consider when they choose their power sources.
+url: "https://techxplore.com/news/2025-04-coal-solar-nuclear-power-sources.html"
+image: "https://scx2.b-cdn.net/gfx/news/hires/2023/solar-power-plant.jpg"
+published_at: 2025-04-14
+content: >
+  The Trump administration is working to lift regulations on coal-fired power plants in the hopes of making its energy less expensive. But while cost is one important aspect, utilities have a lot more … [+6905 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-04-17 01:19:38
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
