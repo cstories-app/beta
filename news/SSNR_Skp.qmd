@@ -1,17 +1,17 @@
 ---
 source: "Skepticalscience.com"
-author: "(unknown author)"
 title: >
-  Skeptical Science New Research for Week #48 2024
+  Skeptical Science New Research for Week #16 2025
 description: >
-  Open access notables Progression of ocean interior acidification over the industrial era, Müller & Gruber Gruber, Science Advances: Ocean acidification driven by the uptake of anthropogenic CO2 represents a major threat to ocean ecosystems, yet little is kno…
-url: "https://skepticalscience.com/new_research_2024_48.html"
+  Open access notables Recent intensified riverine CO2 emission across the Northern Hemisphere permafrost region, Mu et al., Nature Communications: Global warming causes permafrost thawing, transferring large amounts of soil carbon into rivers, which inevitabl…
+url: "https://skepticalscience.com/new_research_2025_16.html"
 image: "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg"
-published_at: 2024-11-28
+published_at: 2025-04-17
 content: >
-  Posted on 28 November 2024 by Doug Bostrom, Marc Kodack  Open access notables  Progression of ocean interior acidification over the industrial era, Müller &amp; Gruber Gruber, Science Advances:  Ocea… [+52891 chars]
-terms: "Cost of electricity"
-search_timestamp: 2024-12-01 01:18:14
+  Posted on 17 April 2025 by Doug Bostrom, Marc Kodack  Open access notables  Recent intensified riverine CO2 emission across the Northern Hemisphere permafrost region, Mu et al., Nature Communications… [+41043 chars]
+author: "(unknown author)"
+terms: "Humboldt | Cost of electricity"
+search_timestamp: 2025-04-20 01:23:56
 ---
 
 

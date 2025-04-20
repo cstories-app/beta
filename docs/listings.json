@@ -11,6 +11,7 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/SSNR_Skp.html",
       "/news/Utlt_TchX_2025-04-14.html",
       "/news/WCEN_Wtt.html",
       "/news/NRSF_ClnT_2025-04-11.html",
@@ -52,7 +53,6 @@
       "/news/UnSCCD_Enr.html",
       "/news/ADMD_NC3-.html",
       "/news/BSBI_Frbs_2024-11-28.html",
-      "/news/SSNR_Skp.html",
       "/news/USCC_Vrg.html",
       "/news/ClHC_L-HW.html",
       "/news/Thss_L-HW.html",
@@ -494,6 +494,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/SSNR_Skp.html",
       "/news/Utlt_TchX_2025-04-14.html",
       "/news/WCEN_Wtt.html",
       "/news/NRSF_ClnT_2025-04-11.html",
@@ -535,7 +536,6 @@
       "/news/UnSCCD_Enr.html",
       "/news/ADMD_NC3-.html",
       "/news/BSBI_Frbs_2024-11-28.html",
-      "/news/SSNR_Skp.html",
       "/news/USCC_Vrg.html",
       "/news/ClHC_L-HW.html",
       "/news/Thss_L-HW.html",
