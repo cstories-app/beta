@@ -1,0 +1,28 @@
+---
+source: "Vox"
+title: >
+  10 charts prove that clean energy is winning — even in the Trump era
+description: >
+  At every light switch, power socket, and on the road, an unstoppable revolution is already underway. Technologies that can power our lives and jobs while doing less harm to the global climate — wind, solar, batteries, etc. — are getting cheaper, more efficie…
+url: "https://www.vox.com/climate/377072/data-energy-trends-renewables-transition-escape-velocity"
+image: "https://platform.vox.com/wp-content/uploads/sites/2/2025/04/EscapeVelocity_Illustration_ByTheNumber.jpg?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200"
+published_at: 2025-04-18
+content: >
+  At every light switch, power socket, and on the road, an unstoppable revolution is already underway.   Technologies that can power our lives and jobs while doing less harm to the global climate — win… [+21136 chars]
+author: "Umair Irfan, Benji Jones, Adam Clark Estes, Sam Delgado"
+terms: "Cost of electricity"
+search_timestamp: 2025-04-22 01:18:52
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
