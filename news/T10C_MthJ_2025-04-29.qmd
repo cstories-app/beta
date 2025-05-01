@@ -1,0 +1,28 @@
+---
+source: "Mother Jones"
+title: >
+  These 10 Charts Prove Clean Energy Is Winning Despite Donald Trump’s Efforts
+description: >
+  This story was originally published by Vox.com and is reproduced here as part of the Climate Desk collaboration. At every light switch, power socket, and on the road, an unstoppable revolution is already underway. Technologies that can power our lives and job…
+url: "https://www.motherjones.com/politics/2025/04/charts-united-states-clean-energy-progress-trump/"
+image: "https://www.motherjones.com/wp-content/uploads/2025/04/EscapeVelocity_Illustration_ByTheNumber-1.webp?w=1200&h=630&crop=1"
+published_at: 2025-04-29
+content: >
+  Gabrielle Merite for Vox  Fight disinformation: Sign up for the free Mother Jones Daily newsletter and follow the news that matters.  This story was originally published by Vox.comand is reproduced h… [+21348 chars]
+author: "Umair Irfan, Benji Jones, Adam Clark Estes, and Sam Delgado"
+terms: "Cost of electricity"
+search_timestamp: 2025-05-01 01:27:50
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

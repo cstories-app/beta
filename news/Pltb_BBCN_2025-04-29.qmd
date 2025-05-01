@@ -1,0 +1,28 @@
+---
+source: "BBC News"
+title: >
+  Plea to block wind farm as thousands of bird deaths forecast
+description: >
+  Five conservation groups write to the first minister opposing the Berwick Bank development.
+url: "https://www.bbc.com/news/articles/cj68glee30eo"
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/669c/live/f4c41540-24e4-11f0-b929-6b759e9e13c3.jpg"
+published_at: 2025-04-29
+content: >
+  Kevin KeaneBBC Scotland's environment correspondent  Kittiwakes have been identified as the seabirds at most risk from collisions  Conservation groups are urging ministers to reject plans for an offs… [+3823 chars]
+author: "(unknown author)"
+terms: "Seabirds"
+search_timestamp: 2025-05-01 01:27:50
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
