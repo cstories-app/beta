@@ -1,0 +1,28 @@
+---
+source: "RT"
+title: >
+  Karin Kneissl: Massive blackouts is what green agenda gets you
+description: >
+  The catastrophic electricity outage in Spain and Portugal earlier this week should serve as a wake-up call for the bloc’s officials Read Full Article at RT.com
+url: "https://www.rt.com/news/616558-eu-blackout-green-energy/"
+image: "https://mf.b37mrtl.ru/files/2025.04/article/68122cd785f54066cc24fdba.jpg"
+published_at: 2025-04-30
+content: >
+  By Dr. Karin Kneissl, the head of the GORKI (Geopolitical Observatory for Russia’s Key Issues) think tank, Austria’s former minister of foreign affairs, and author of ‘Diplomacy Makes History – The A… [+11887 chars]
+author: "RT"
+terms: "Cost of electricity"
+search_timestamp: 2025-05-02 01:20:53
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
