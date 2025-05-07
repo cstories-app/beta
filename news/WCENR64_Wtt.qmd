@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+title: >
+  Weekly Climate and Energy News Roundup #641
+description: >
+  Quote of the Week: “We can always prove a definite theory wrong. Notice however that we never prove it right.” — Richard Feynman (1964)
+url: "https://wattsupwiththat.com/2025/05/05/weekly-climate-and-energy-news-roundup-641/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/05/charlesrotter_Scenic_landscape_of_the_badlands_at_petrified_forest-midjourney2.webp?fit=1024%2C512&ssl=1"
+published_at: 2025-05-05
+content: >
+  Quote of the Week:We can always prove a definite theory wrong. Notice however that we never prove it right.    Richard Feynman (1964)  Number of the Week: R squared of 0.018.  THIS WEEK:By Ken Haapal… [+59402 chars]
+author: "Guest Blogger"
+terms: "Cost of electricity"
+search_timestamp: 2025-05-07 01:21:42
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
