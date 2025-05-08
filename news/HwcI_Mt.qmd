@@ -1,0 +1,28 @@
+---
+source: "Mit.edu"
+title: >
+  How can India decarbonize its coal-dependent electric power system?
+description: >
+  New research explores India’s options for cutting carbon emissions from its coal-dominated electric power system while also meeting increased future demand for electricity.
+url: "https://news.mit.edu/2025/how-can-india-decarbonize-its-coal-dependent-electric-power-system-0506"
+image: "https://news.mit.edu/sites/default/files/images/202504/india-coal-plant-efficiency.jpg"
+published_at: 2025-05-06
+content: >
+  As the world struggles to reduce climate-warming carbon emissions, India has pledged to do its part, and its success is critical: In 2023, India was the third-largest carbon emitter worldwide. The In… [+13689 chars]
+author: "Nancy W. Stauffer | MIT Energy Initiative"
+terms: "Cost of electricity"
+search_timestamp: 2025-05-08 01:22:29
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -1,0 +1,28 @@
+---
+source: "Newjerseymonitor.com"
+title: >
+  New Jersey Assembly lawmakers to weigh bills aimed at easing impact of electricity prices
+description: >
+  Among the bills are measures that would alter how state regulators set profit margins for utilities, create training requirements for those regulators, and require the Board of Public Utilities to study the impact data centers have on electricity prices.
+url: "https://newjerseymonitor.com/2025/05/05/assembly-lawmakers-to-weigh-bills-aimed-at-easing-impact-of-electricity-prices/"
+image: "https://www.renewableenergyworld.com/wp-content/uploads/2025/05/6N1A0315_1-2048x1275-1.jpeg"
+published_at: 2025-05-06
+content: >
+  by Nikita Biryukov, New Jersey Monitor  A New Jersey Assembly panel on Monday considered a spate of bills meant to ease the impact of electricity prices set to surge in June.  Among the bills are mea… [+5298 chars]
+author: "Clarion Energy Content Directors"
+terms: "Cost of electricity"
+search_timestamp: 2025-05-08 01:22:29
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

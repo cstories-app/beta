@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+title: >
+  Connecticut Struggles To Reconcile The High Cost Of Electricity With A Push For Renewables
+description: >
+  Connecticut is located in the midst of the nation’s most expensive electric markets. Only Hawai’i and Rhode Island rank higher. The high cost of electricity is prompting Connecticut alawmakers to write legislation to lower those electricity rates. The hitch i…
+url: "https://cleantechnica.com/2025/05/06/connecticut-struggles-to-reconcile-the-high-cost-of-electricity-with-a-push-for-renewables/"
+image: "https://cleantechnica.com/wp-content/uploads/2025/05/cost-of-electricity.jpg"
+published_at: 2025-05-06
+content: >
+  Sign up for CleanTechnica's Weekly Substack for Zach and Scott's in-depth analyses and high level summaries, sign up for our daily newsletter, and/or follow us on Google News!  Connecticut is located… [+6607 chars]
+author: "Carolyn Fortuna"
+terms: "Cost of electricity"
+search_timestamp: 2025-05-08 01:22:29
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
