@@ -1,0 +1,28 @@
+---
+source: "The Irish Times"
+title: >
+  Irish Sea wind farm developers asked to revise planning applications amid concerns about cumulative effect
+description: >
+  Coddling and Dublin Array wind farms account for 33km line from Dún Laoghaire to Wicklow
+url: "https://www.irishtimes.com/environment/2025/05/12/irish-sea-wind-farm-developers-asked-to-revise-planning-applications-amid-concerns-about-cumulative-effect/"
+image: "https://www.irishtimes.com/resizer/v2/EZ3TGS5RFXLWOAYHZRP6KJVWV4.jpg?smart=true&auth=645f48c2e0d104d851105da12f1f17caaefda425124dcf858199e472f2c41d22&width=1200&height=630"
+published_at: 2025-05-12
+content: >
+  An Bord Pleanála (ABP) has asked developers of Irish Sea wind farms to revise their planning applications to take into account the cumulative effect of other similar wind farms proposed for the Irish… [+2914 chars]
+author: "Tim O'Brien"
+terms: "Seascape"
+search_timestamp: 2025-05-14 01:22:22
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
