@@ -1,0 +1,21 @@
+---
+title: >
+  Offshore wind may be in peril; Humboldt County presses forward
+source: "Times-Standard"
+published_at: 2025-05-17
+url: "https://www.times-standard.com/2025/05/17/offshore-wind-may-be-in-peril-humboldt-county-presses-forward/"
+description: >
+  “Offshore wind is a once in a lifetime opportunity for the North Coast’s rural economy,” California Senate President Pro Tem Mike McGuire (D-Healdsburg) told the Times-Standard. “Estimates project over 1,000 new jobs for port development alone here in Humboldt. But now thanks to President Trump’s deranged love of coal and fossil fuels, all this investment in rural America and smart climate policy is in serious jeopardy.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
