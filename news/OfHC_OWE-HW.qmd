@@ -1,0 +1,21 @@
+---
+title: >
+  Offshore wind may be in peril; Humboldt County presses forward
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2025-05-18
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1899-offshore-wind-may-be-in-peril-humboldt-county-presses-forward-2"
+description: >
+  Proponents of offshore wind have had little to celebrate this year, as economic contractions and outright antagonism from the Trump administration have cast a pall of uncertainty on the industry. A technology that, just two years ago, the Biden administration said would generate 30 megawatts and power 10 million homes by 2030 appears to have fallen out of step with the political moment.Some local leaders have said that what once seemed like an imminent influx of clean, renewable energy may now be a decade or more away. Still, projects like the Humboldt Bay Offshore Wind Heavy Lift Marine Terminal Project are diligently moving forward, according to sources interviewed by the Times-Standard. And offshore wind’s supporters are challenging the administration’s efforts to curtail wind energy development.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
