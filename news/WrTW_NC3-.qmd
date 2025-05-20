@@ -1,0 +1,21 @@
+---
+title: >
+  Warmer Tuesday, heat advisories Wednesday
+source: "News Channel 3-12"
+published_at: 2025-05-19
+url: "https://keyt.com/weather/local-forecast/2025/05/19/warmer-tuesday-heat-advisories-wednesday/"
+description: >
+  We are warming up quickly to a midweek peak with heat alerts issued for our region. High pressure and offshore winds will continue for the next few days as temperatures climb. Temperatures are rising into the high 70s near the coast on Tuesday, nearing 90 in valley areas. It will be breezy in the afternoonThe post Warmer Tuesday, heat advisories Wednesday appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
