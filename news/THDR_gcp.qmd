@@ -1,0 +1,28 @@
+---
+source: "gcaptain.com"
+author: "Bloomberg"
+title: >
+  Trump-Hochul Deal Revives New York Offshore Wind Project—and Possibly Pipelines
+description: >
+  The Trump administration is allowing construction to resume on a $5 billion wind farm off Long Island after reaching a deal with New York Governor Kathy Hochul that could allow new natural gas pipelines to be built in the state.
+url: "https://gcaptain.com/trump-hochul-deal-revives-new-york-offshore-wind-project-and-possibly-pipelines/"
+image: "https://gcaptain.com/wp-content/uploads/2023/11/SFW-TURBINE-INSTALLATION-3-scaled.jpeg"
+published_at: 2025-05-20
+content: >
+  By Jennifer A. Dlouhy, Laura Nahmias and Josh Saul (Bloomberg) —  The Trump administration is allowing construction to resume on a $5 billion wind farm off Long Island after reaching a deal with New … [+5815 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-05-22 01:22:49
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
