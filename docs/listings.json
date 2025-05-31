@@ -1,7 +1,15 @@
 [
   {
+    "listing": "/infographics.html",
+    "items": [
+      "/infographics/viewshed.html",
+      "/infographics/whales.html"
+    ]
+  },
+  {
     "listing": "/news.html",
     "items": [
+      "/news/MFOW_I.html",
       "/news/THDR_gcp.html",
       "/news/WrTW_NC3-.html",
       "/news/OfHC_L-HW.html",
@@ -498,17 +506,11 @@
     ]
   },
   {
-    "listing": "/infographics.html",
-    "items": [
-      "/infographics/viewshed.html",
-      "/infographics/whales.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/MFOW_I.html",
       "/news/THDR_gcp.html",
       "/news/WrTW_NC3-.html",
       "/news/OfHC_L-HW.html",

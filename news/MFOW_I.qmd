@@ -1,0 +1,28 @@
+---
+source: "Ieee.org"
+author: "Peter Fairley"
+title: >
+  Maine’s Floating Offshore Wind Ambitions in Jeopardy
+description: >
+  When the platform for a prototype floating offshore wind turbine arrived at a dock in Searsport, Maine on April 11, engineers at the University of Maine were ready to add a tower and a turbine and set it afloat in the Gulf of Maine. The prototype, called the …
+url: "https://spectrum.ieee.org/volturnus-floating-offshore-wind-turbine"
+image: "https://spectrum.ieee.org/media-library/image.jpg?id=60329499&width=1200&height=600&coordinates=0%2C94%2C0%2C908"
+published_at: 2025-05-29
+content: >
+  When the platform for a prototype floating offshore wind turbine arrived at a dock in Searsport, Maine on April 11, engineers at the University of Maine were ready to add a tower and a turbine and se… [+7570 chars]
+terms: "Humboldt"
+search_timestamp: 2025-05-31 01:22:08
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
