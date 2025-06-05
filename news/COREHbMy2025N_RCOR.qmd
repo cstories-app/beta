@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub May 2025 Newsletter
+source: "RedwoodCOREHub"
+published_at: 2025-06-04
+url: "https://redwoodcorehub.org/core-hub-may-2025-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-may-2025-newsletter"
+description: >
+  Good Morning Community Partners, We want to know if this newsletter is serving your needs and how we can make it a better resource for you. Please fill out this survey by June 15th for the chance to win a prize! We appreciate your feedback! Here is your newsletter on offshore wind and related interests. Recent Events:&#160; Upcoming opportunities for [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

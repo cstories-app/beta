@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub March 2025 Newsletter
+source: "RedwoodCOREHub"
+published_at: 2025-03-13
+url: "https://redwoodcorehub.org/core-hub-march-2025-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-march-2025-newsletter"
+description: >
+  Good Afternoon Community Partners, Here is your newsletter on offshore wind and related interests. Upcoming opportunities for funding, leadership and learning: County of Humboldt Updates: Recent Events and Updates: Resources, Information and Academic Articles: Federal Policy Updates: In the news:
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

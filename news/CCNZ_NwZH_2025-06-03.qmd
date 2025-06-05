@@ -1,0 +1,28 @@
+---
+source: "New Zealand Herald"
+author: "Jamie Gray"
+title: >
+  Call for power market reform: Consumer NZ targets big generators
+description: >
+  Consumer NZ calls for separation of power firms' generation and retail roles.
+url: "https://www.nzherald.co.nz/business/companies/energy/call-for-power-market-reform-consumer-nz-targets-big-generators/RN7AZM3PUNHJLOSUYLCZDJSEAM/"
+image: "https://www.nzherald.co.nz/resizer/v2/CV7XOTK24VEXLI573PLWGQHJ7U.jpg?auth=4469a30b59a1ed1c7db36d4b81a367f4cbc2cfd806cc6db193342b1171fdb098&width=1200&height=675&quality=70&smart=true"
+published_at: 2025-06-03
+content: >
+  The current market is failing to deliver as intended for consumers and the broader New Zealand economy, Consumer said.  It said the current situation was unsustainable and must be addressed with urge… [+7056 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-06-05 01:23:10
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
