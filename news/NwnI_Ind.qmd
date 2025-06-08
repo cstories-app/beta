@@ -1,0 +1,28 @@
+---
+source: "Independent.ie"
+author: "Lorna Siggins"
+title: >
+  New initiatives needed to protect marine migration, says Irish scientist involved in global study
+description: >
+  An international effort to track “ocean giants” such as sharks and whales and seabirds such as puffins migrating from the Irish coast may help to pinpoint the most useful areas for protecting them across the globe.
+url: "https://www.independent.ie/irish-news/new-initiatives-needed-to-protect-marine-migration-says-irish-scientist-involved-in-global-study/a491748309.html"
+image: "https://focus.independent.ie/thumbor/BHl7_MEChU5tPYqJBByI5ZNiUak=/629x460/smart/prod-mh-ireland/216ff0a1-8a40-4cd3-be72-9a27cbbc1f89/93d8f7fb-c941-4198-bf62-f88e5876598b/pv%20060625%20puffin%208.jpg"
+published_at: 2025-06-07
+content: >
+  An international effort to track ocean giants such as sharks and whales and seabirds such as puffins migrating from the Irish coast may help to pinpoint the most useful areas for protecting them acro… [+3133 chars]
+terms: "Seabirds"
+search_timestamp: 2025-06-08 01:40:03
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
