@@ -1,0 +1,28 @@
+---
+source: "BBC News"
+author: "(unknown author)"
+title: >
+  Britain's energy bill problem - and why firms are paid to not provide power
+description: >
+  Could the government's radical plan to change the way the UK distributes electricity really bring down bills - or just lead to a postcode lottery?
+url: "https://www.bbc.com/news/articles/cdedjnw8e85o"
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/0b8f/live/37479ac0-42ec-11f0-b6e6-4ddb91039da1.png"
+published_at: 2025-06-08
+content: >
+  It is 1am on 3 June. A near gale force wind is blasting into Scotland. Great weather for the Moray East and West offshore wind farms, you would have thought.  The two farms are 13 miles off the north… [+11325 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-06-10 01:25:42
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
