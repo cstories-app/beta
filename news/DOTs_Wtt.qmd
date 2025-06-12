@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  DOT asked to terminate illegal floating wind grant
+description: >
+  I have the honor and pleasure of co-signing a letter to the U.S. Secretary of Transportation, Sean Duffy, asking him to terminate a half billion dollar grant made by the Biden administration to the West Coast wind industry. The short story is the grant was il…
+url: "https://wattsupwiththat.com/2025/06/10/dot-asked-to-terminate-illegal-floating-wind-grant/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/06/charlesrotter_floating_wind_turbines_midjourney.webp?fit=1200%2C600&ssl=1"
+published_at: 2025-06-11
+content: >
+  From CFACT  By David Wojick  I have the honor and pleasure of co-signing a letter to the U.S. Secretary of Transportation, Sean Duffy, asking him to terminate a half billion dollar grant made by the … [+4107 chars]
+terms: "Humboldt"
+search_timestamp: 2025-06-12 01:23:42
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
