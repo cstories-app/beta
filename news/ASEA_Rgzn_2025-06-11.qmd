@@ -1,0 +1,28 @@
+---
+source: "Rigzone"
+author: "Jov Onsat"
+title: >
+  ASEAN Could Unlock 25 GW of RE via Singapore Interconnections: Rystad
+description: >
+  Southeast Asia could unlock up to 25 GW of renewable energy generation and over $40 billion of investment in hydropower, solar and offshore wind if all proposed interconnections with Singapore are realized.
+url: "https://www.rigzone.com/news/asean_could_unlock_25_gw_of_re_via_singapore_interconnections_rystad-11-jun-2025-180819-article/"
+image: "https://images.rigzone.com/images/news/articles/ASEAN-Could-Unlock-25-GW-of-RE-via-Singapore-Interconnections-Rystad-180819-1200x628.png"
+published_at: 2025-06-11
+content: >
+  Southeast Asia could unlock up to 25 gigawatts (GW) of renewable energy generation and over $40 billion of investment in hydropower, solar and offshore wind if all proposed interconnections with Sing… [+4063 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-06-13 01:25:59
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
