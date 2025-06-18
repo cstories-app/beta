@@ -9,6 +9,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/WCEN_Wtt.html",
       "/news/ASEA_Rgzn_2025-06-11.html",
       "/news/DOTs_Wtt.html",
       "/news/Brtn_BBCN_2025-06-08.html",
@@ -32,7 +33,6 @@
       "/news/10cT_Vox_2025-04-18.html",
       "/news/SSNR_Skp.html",
       "/news/Utlt_TchX_2025-04-14.html",
-      "/news/WCEN_Wtt.html",
       "/news/NRSF_ClnT_2025-04-11.html",
       "/news/COREHA2025_RCOR.html",
       "/news/ThdA_NtnO_2025-04-10.html",
@@ -517,6 +517,7 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/WCEN_Wtt.html",
       "/news/ASEA_Rgzn_2025-06-11.html",
       "/news/DOTs_Wtt.html",
       "/news/Brtn_BBCN_2025-06-08.html",
@@ -540,7 +541,6 @@
       "/news/10cT_Vox_2025-04-18.html",
       "/news/SSNR_Skp.html",
       "/news/Utlt_TchX_2025-04-14.html",
-      "/news/WCEN_Wtt.html",
       "/news/NRSF_ClnT_2025-04-11.html",
       "/news/COREHA2025_RCOR.html",
       "/news/ThdA_NtnO_2025-04-10.html",

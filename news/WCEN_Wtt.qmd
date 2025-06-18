@@ -2,16 +2,16 @@
 source: "Wattsupwiththat.com"
 author: "Guest Blogger"
 title: >
-  Weekly Climate and Energy News Roundup #639
+  Weekly Climate and Energy News Roundup #646
 description: >
-  Quote of the Week: “Details that could throw doubt on your interpretation must be given, if you know them. You must do the best you can — if you know anything at all wrong, or possibly wrong — to explain it. If you make a theory, for example, and advertise it…
-url: "https://wattsupwiththat.com/2025/04/14/weekly-climate-and-energy-news-roundup-639/"
-image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/04/charlesrotter_a_gorgeous_photo_grand_escalante_national_park_at_sunset-midjourney.webp?fit=1024%2C512&ssl=1"
-published_at: 2025-04-14
+  “Progress often involves the killing of an exquisite theory by an ugly fact.” — Leon Lederman, Nobel Laureate in Physics, The God Particle (1993)
+url: "https://wattsupwiththat.com/2025/06/16/weekly-climate-and-energy-news-roundup-646/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/06/charlesrotter_Lake_louise_dmidjourney.webp?fit=1024%2C512&ssl=1"
+published_at: 2025-06-16
 content: >
-  Quote of the Week:Details that could throw doubt on your interpretation must be given, if you know them. You must do the best you can if you know anything at all wrong, or possibly wrong to explain i… [+67695 chars]
-terms: "Seabirds"
-search_timestamp: 2025-04-17 01:19:38
+  Quote of the Week: Progress often involves the killing of an exquisite theory by an ugly fact.  Leon Lederman, Nobel Laureate in Physics, The God Particle (1993), [H/t Richard Lindzen and William Hap… [+70750 chars]
+terms: "Humboldt"
+search_timestamp: 2025-06-18 01:24:42
 ---
 
 
