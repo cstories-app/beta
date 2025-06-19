@@ -1,0 +1,28 @@
+---
+source: "BBC News"
+author: "(unknown author)"
+title: >
+  Scots seabirds to get help from English wind farms
+description: >
+  A habitat for sandwich terns on Loch Ryan aims to mitigate the impact of offshore turbines near Norfolk.
+url: "https://www.bbc.com/news/articles/clynlxvr4nzo"
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/9898/live/26fbbc00-4b89-11f0-96f6-1b7155faa00d.jpg"
+published_at: 2025-06-17
+content: >
+  Plans have been drawn up to revive a seabird colony in southern Scotland to mitigate the impact of two wind farms hundreds of miles away.   It would create a haven for sandwich terns on Loch Ryan at … [+1573 chars]
+terms: "Seabirds"
+search_timestamp: 2025-06-19 01:24:57
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
