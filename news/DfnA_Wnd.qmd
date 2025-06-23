@@ -1,0 +1,28 @@
+---
+source: "Wnd.com"
+author: "Jesse H. Ausubel, Real Clear Wire"
+title: >
+  Defending America’s submerged borders
+description: >
+  Nation depends on ocean infrastructure for 'energy, communications, food, goods of all kinds, and data'
+url: "https://www.wnd.com/2025/06/defending-americas-submerged-borders/"
+image: "https://www.wnd.com/wp-content/uploads/2024/06/moonlight-reflection-ocean-earth-horizon-nighttime-full-moon-pixabay.jpg"
+published_at: 2025-06-21
+content: >
+  Almost two hundred years ago, a flotilla of six Navy ships, crewed by about 350 military and civilians, including botanists and mineralogists, left port to explore the vast Pacific Ocean, north and s… [+15339 chars]
+terms: "Seascape"
+search_timestamp: 2025-06-23 01:30:03
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
