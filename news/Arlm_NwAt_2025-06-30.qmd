@@ -1,0 +1,28 @@
+---
+source: "New Atlas"
+author: "Loz Blain"
+title: >
+  Airloom's bizarre ground-hugging wind turbine gets 'utility-scale' pilot
+description: >
+  An exceptionally odd clean energy project backed by Bill Gates has broken ground near Rock River, Wyoming, where a wind turbine that turns convention on its head will get a chance to prove its remarkable claim: wind power at 1/3rd of the cost.Continue Reading…
+url: "https://newatlas.com/energy/airloom-wind-turbine-pilot/"
+image: "https://assets.newatlas.com/dims4/default/bc247f7/2147483647/strip/true/crop/1845x969+0+26/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe8%2Fbf%2F9284c7884b4ebde6aaa172087793%2Fscreenshot-2025-06-30-at-7-00-06-pm.png&na.image_optimisation=0"
+published_at: 2025-06-30
+content: >
+  An exceptionally odd clean energy project backed by Bill Gates has broken ground near Rock River, Wyoming, where a wind turbine that turns convention on its head will get a chance to prove its remark… [+5105 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-07-02 01:25:47
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
