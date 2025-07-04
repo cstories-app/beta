@@ -1,0 +1,28 @@
+---
+source: "RTE"
+author: "Aengus Cox"
+title: >
+  Energy operators propose investment of up to €18.98bn
+description: >
+  The operators of Ireland's energy system, ESB Networks and Eirgrid, have proposed an investment of up to €18.98 billion over the next five years to maintain and upgrade their networks to meet current and future demand.
+url: "https://www.rte.ie/news/ireland/2025/0702/1521576-energy-investment/"
+image: "https://www.rte.ie/images/0020e27e-1600.jpg"
+published_at: 2025-07-02
+content: >
+  The operators of Ireland's energy system, ESB Networks and Eirgrid, have proposed an investment of up to 18.98 billion over the next five years to maintain and upgrade their networks to meet current … [+4793 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-07-04 01:25:12
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

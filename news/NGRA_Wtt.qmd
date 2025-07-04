@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "David Middleton"
+title: >
+  Natural Gas to the Rescue… Again
+description: >
+  When demand ramps up, natural gas ramps up to meet the demand. When demand "really" ramps up, New England fires up its only coal-fired power plant and both regions fire up their petroleum-fired power plants. Neither ISO-NE not PJM ramp up renewables to meet d…
+url: "https://wattsupwiththat.com/2025/07/02/natural-gas-to-the-rescue-again/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/03/fracon3_updated-2.webp?fit=1024%2C512&ssl=1"
+published_at: 2025-07-02
+content: >
+  Guest “Natural gas kicks @$$” by David Middleton  June 27, 2025  Data source: U.S. Energy Information Administration, Hourly Electric Grid MonitorNote: EDT=Eastern Daylight Time  Electricity demand i… [+10073 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-07-04 01:25:12
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -1,0 +1,28 @@
+---
+source: "RTE"
+author: "Eithne Dodd"
+title: >
+  Crucial areas for conserving Irish seabirds identified
+description: >
+  A map identifying the 73 most important areas for Ireland's seabirds is being launched by BirdWatch Ireland.
+url: "https://www.rte.ie/news/environment/2025/0703/1521559-map-birdwatch-ireland/"
+image: "https://www.rte.ie/images/0022d19e-1600.jpg"
+published_at: 2025-07-02
+content: >
+  A map identifying the 73 most important areas for Ireland's seabirds is being launched by BirdWatch Ireland.  The wildlife NGO used the international criteria outlined by BirdLife International to id… [+3337 chars]
+terms: "Seabirds | Seabirds"
+search_timestamp: 2025-07-04 01:25:12
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
