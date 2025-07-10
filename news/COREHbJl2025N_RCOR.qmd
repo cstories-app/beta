@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub July 2025 Newsletter
+source: "RedwoodCOREHub"
+published_at: 2025-07-09
+url: "https://redwoodcorehub.org/core-hub-july-2025-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-july-2025-newsletter"
+description: >
+  Happy Summer! Here is your newsletter on offshore wind and related interests. Upcoming opportunities for leadership and learning: Recent Events:&#160; State and Federal Updates: In the news: With appreciation, The&#160;CORE&#160;Hub&#160;team
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

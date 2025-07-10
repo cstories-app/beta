@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub January 2025 Newsletter
+source: "RedwoodCOREHub"
+published_at: 2025-01-24
+url: "https://redwoodcorehub.org/core-hub-january-2025-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-january-2025-newsletter"
+description: >
+  Good Afternoon Community Partners, Wishing peace, health, and joy to you and yours. Here is your first newsletter of 2025 on offshore wind and related interests! Presidential Action Related to Offshore Wind, Renewable Energy, and Climate Some of the orders related to climate and energy (thanks to Dr. Ayana Elizabeth Johnson for compiling this list): o Withdraw [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
