@@ -1,0 +1,28 @@
+---
+source: "Daily Signal"
+author: "George Caldwell"
+title: >
+  Maryland GOP Congressman Fighting Offshore Windmills Sees Victory on Horizon
+description: >
+  Rep. Andy Harris, Maryland’s sole Republican congressman, is calling for the end to an offshore windmill project that would industrialize the state’s scenic Eastern Shore,... Read More The post Maryland GOP Congressman Fighting Offshore Windmills Sees Victory…
+url: "https://www.dailysignal.com/2025/07/09/maryland-gop-congressman-fighting-offshore-windmills-sees-victory-on-horizon/"
+image: "https://www.dailysignal.com/wp-content/uploads/2025/07/Windmills.jpg"
+published_at: 2025-07-09
+content: >
+  Rep. Andy Harris, Marylands sole Republican congressman, is calling for the end to an offshore windmill project that would industrialize the states scenic Eastern Shore, a conservative region that de… [+4591 chars]
+terms: "Seascape"
+search_timestamp: 2025-07-12 01:29:12
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
