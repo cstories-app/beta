@@ -1,0 +1,21 @@
+---
+title: >
+  Settlement announced after broken turbine parts in Vineyard Wind project washed up on Nantucket shores
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2025-07-12
+url: "https://humboldtwaterkeeper.org/news/latest/1905-settlement-announced-after-broken-turbine-parts-in-vineyard-wind-project-washed-up-on-nantucket-shores"
+description: >
+  GE Vernova, the maker of a massive wind turbine blade that broke apart off Nantucket Island and washed up on beaches for months, has agreed to a $10.5 million settlement to pay local businesses for their economic losses, officials said Friday.Fiberglass fragments of the blade began washing ashore last summer during the peak of tourist season after pieces of the wind turbine at the Vineyard Wind project began falling into the Atlantic Ocean in July 2024.&nbsp;Crews in boats and on beaches, along with volunteers, collected truckloads of debris. The company said the debris was nontoxic fiberglass fragments and that the pieces were one square foot or smaller.GE Vernova, which agreed to the settlement, blamed a manufacturing problem at one of its factories in Canada and said there was no indication of a design flaw. It reinspected all blades made at the factory and removed other blades made there from the Vineyard Wind location.The settlement calls for establishing a fund along with a process to evaluate claims from businesses and distribute payments, Nantucket officials said.Vineyard is involved in offshore wind development off the coast of Humboldt County. Earlier this year, the company laid off workers both in the United States and internationally.&nbsp;Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
