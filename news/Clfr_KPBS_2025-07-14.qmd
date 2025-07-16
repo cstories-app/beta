@@ -1,0 +1,28 @@
+---
+source: "KPBS"
+author: "Alejandro Lazo"
+title: >
+  California’s wind and solar projects face new federal hurdles
+description: >
+  Clean-energy projects have new deadlines for federal tax credits and limits on foreign parts, taking aim at California’s climate agenda. Eleven major solar projects and one onshore wind project now face potential delays or cancellation.
+url: "https://www.kpbs.org/news/environment/2025/07/14/californias-wind-and-solar-projects-face-new-federal-hurdles"
+image: "https://cdn.kpbs.org/dims4/default/1cdf73d/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2Ff0%2F63%2F07f536674ea183462b7c6404cfc4%2F051023-mojave-wind-turbines-lv-cm-09-1.jpg"
+published_at: 2025-07-14
+content: >
+  This story was originally published by CalMatters. Sign up for their newsletters.  Californias drive to run its electric grid entirely on wind, solar and other clean sources of energy just got harder… [+10222 chars]
+terms: "Humboldt | Morro Bay"
+search_timestamp: 2025-07-16 01:29:00
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
