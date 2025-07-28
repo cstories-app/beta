@@ -1,0 +1,28 @@
+---
+source: "The Manila Times"
+author: "Franco Jose C. Baroña"
+title: >
+  Energy sector still faces major hurdles – expert
+description: >
+  THE Marcos administration has shown commendable momentum in opening up the country’s energy sector to foreign investments and expanding renewable energy, but challenges continue to hinder the Philippines’ energy security and affordability, a top energy expert…
+url: "https://www.manilatimes.net/2025/07/27/business/top-business/energy-sector-still-faces-major-hurdles-expert/2156646"
+image: "https://www.manilatimes.net/manilatimes/uploads/images/2025/07/26/690707.jpg"
+published_at: 2025-07-26
+content: >
+  THE Marcos administration has shown commendable momentum in opening up the countrys energy sector to foreign investments and expanding renewable energy, but challenges continue to hinder the Philippi… [+5032 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-07-28 01:45:21
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
