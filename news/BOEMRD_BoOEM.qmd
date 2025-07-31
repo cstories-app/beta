@@ -1,0 +1,21 @@
+---
+title: >
+  BOEM Rescinds Designated Wind Energy Areas on the Outer Continental Shelf
+source: "Bureau of Ocean Energy Management"
+published_at: 2025-07-31
+url: "https://www.boem.gov/newsroom/notes-stakeholders/boem-rescinds-designated-wind-energy-areas-outer-continental-shelf"
+description: >
+  BOEM announced it is rescinding all designated Wind Energy Areas (WEAs) on the U.S. Outer Continental Shelf (OCS). This action is being taken in accordance with Secretary’s Order (SO) 3437
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

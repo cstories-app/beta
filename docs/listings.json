@@ -2,6 +2,8 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/BOEMRD_BoOEM.html",
+      "/news/TARA_NC3-.html",
       "/news/Enrg_ThMT_2025-07-26.html",
       "/news/Gvrn_BBCN_2025-07-24.html",
       "/news/Clfr_KPBS_2025-07-14.html",
@@ -532,6 +534,8 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/BOEMRD_BoOEM.html",
+      "/news/TARA_NC3-.html",
       "/news/Enrg_ThMT_2025-07-26.html",
       "/news/Gvrn_BBCN_2025-07-24.html",
       "/news/Clfr_KPBS_2025-07-14.html",
