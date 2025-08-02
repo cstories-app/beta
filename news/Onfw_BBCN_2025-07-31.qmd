@@ -1,0 +1,28 @@
+---
+source: "BBC News"
+author: "BBC"
+title: >
+  One of world's largest offshore wind farms approved
+description: >
+  Up to 307 turbines will be constructed in the project at Berwick Bank
+url: "https://www.bbc.com/news/articles/c74dxm1jzp8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D"
+image: "https://s.yimg.com/ny/api/res/1.2/_zhBIWQuVzvI1aZUNMU_0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/8d606ecfd8a1fcb2ba3bf41910795b0a"
+published_at: 2025-07-31
+content: >
+  One of the world's largest offshore wind farms has been approved by the Scottish government.  The Berwick Bank project - to be positioned 23 miles off the east coast in the North Sea - could generate… [+4470 chars]
+terms: "Seabirds"
+search_timestamp: 2025-08-02 01:27:32
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

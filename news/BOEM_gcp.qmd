@@ -2,16 +2,16 @@
 source: "gcaptain.com"
 author: "Mike Schuler"
 title: >
-  BOEM Pushes Forward with California Offshore Wind Development Amid Political Uncertainty
+  BOEM Rescinds All Offshore Wind Energy Areas in Major Policy Reversal
 description: >
-  The Bureau of Ocean Energy Management (BOEM) is forging ahead with its offshore wind development plans in California, despite looming political uncertainties surrounding the incoming Trump administration. In a move...
-url: "https://gcaptain.com/boem-pushes-forward-with-california-offshore-wind-development-amid-political-uncertainty/"
-image: "https://gcaptain.com/wp-content/uploads/2021/05/morro-bay.jpg"
-published_at: 2024-11-15
+  The Bureau of Ocean Energy Management (BOEM) announced yesterday it has rescinded all designated Wind Energy Areas (WEAs) on the U.S. Outer Continental Shelf, effectively ending the federal designation of...
+url: "https://gcaptain.com/boem-rescinds-all-offshore-wind-energy-areas-in-major-policy-reversal/"
+image: "https://gcaptain.com/wp-content/uploads/2023/11/SFW-TURBINE-INSTALLATION-3-scaled.jpeg"
+published_at: 2025-07-31
 content: >
-  The Bureau of Ocean Energy Management (BOEM) is forging ahead with its offshore wind development plans in California, despite looming political uncertainties surrounding the incoming Trump administra… [+2486 chars]
-terms: "Humboldt | Morro Bay | Seabirds"
-search_timestamp: 2024-11-17 01:09:38
+  The Bureau of Ocean Energy Management (BOEM) announced yesterday it has rescinded all designated Wind Energy Areas (WEAs) on the U.S. Outer Continental Shelf, effectively ending the federal designati… [+2064 chars]
+terms: "Morro Bay"
+search_timestamp: 2025-08-02 01:27:32
 ---
 
 

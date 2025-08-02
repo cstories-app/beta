@@ -1,0 +1,28 @@
+---
+source: "BBC News"
+author: "(unknown author)"
+title: >
+  One of world's largest offshore wind farms approved for Firth of Forth
+description: >
+  Up to 307 turbines will be constructed in the project at Berwick Bank in the Firth of Forth.
+url: "https://www.bbc.com/news/articles/c74dxm1jzp8o"
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/28d5/live/2286bdc0-6dfb-11f0-8dbd-f3d32ebd3327.jpg"
+published_at: 2025-07-31
+content: >
+  One of the world's largest offshore wind farms has been approved by the Scottish government.  The Berwick Bank project in the Firth of Forth off the East Lothian coast could generate enough electrici… [+1745 chars]
+terms: "Seabirds"
+search_timestamp: 2025-08-02 01:27:32
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
