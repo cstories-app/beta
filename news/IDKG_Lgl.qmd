@@ -1,0 +1,28 @@
+---
+source: "Legalinsurrection.com"
+author: "Leslie Eastman"
+title: >
+  Interior Dept. Kills Green Energy Favoritism by Ending Wind Energy Leasing Area Designations
+description: >
+  "By terminating these Wind Energy Areas, we are safeguarding our coastal environments and local economies from unchecked development, while ensuring our power grids are not underpinned by unreliable, subsidized energy sources." The post Interior Dept. Kills G…
+url: "https://legalinsurrection.com/2025/08/interior-dept-kills-green-energy-favoritism-by-ending-wind-energy-leasing-area-designations/"
+image: "https://legalinsurrection.com/wp-content/uploads/2023/07/LI-178-Offshore-Wind-Farm.png"
+published_at: 2025-08-03
+content: >
+  There has been a perfect trifecta of movement among President Donald Trump’s cabinet members and agency administrators, with a focus on making our energy sources both reliable and affordable.  First,… [+6236 chars]
+terms: "Morro Bay"
+search_timestamp: 2025-08-05 01:44:50
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
