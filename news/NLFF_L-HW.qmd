@@ -1,0 +1,21 @@
+---
+title: >
+  Non-Local, Fossil Fuel-Backed Groups Attempt to Block Green Offshore Wind Terminal
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2025-08-06
+url: "https://humboldtwaterkeeper.org/news/latest/1912-non-local-fossil-fuel-backed-groups-attempt-to-block-green-offshore-wind-terminal"
+description: >
+  On June 17, Canary Media reported that several anti-offshore wind groups—some with known ties to the fossil fuel industry—asked the U.S. Department of Transportation to cancel the $426 million federal INFRA grant for the Humboldt Bay Harbor, Recreation, and Conservation District’s (District) offshore wind heavy lift marine terminal project. The money, which can only be received once the District has completed environmental permitting and secured matching funds, would be used to construct the West Coast’s first offshore wind staging and integration terminal. While individual turbine components would be manufactured in many different locations, a staging and integration terminal acts as their final destination before they are all put together and the turbine is towed out to sea. The grant would also pay for community benefits such as remediation of the existing contaminated site, a new trail, and a community benefit program. According to analyses by the state and federal governments, Humboldt Bay is particularly well suited for a staging and integration terminal because there is no manmade obstruction blocking the mouth of the Bay.In their letter, the groups—none of which are based in Humboldt—falsely stated that the project was ineligible for the grant and argued that it was not in the public interest. Legacy environmental nonprofits like the Sierra Club, Audubon, NRDC, SLO Chapter of the Surfrider Foundation, Environment California, Nature Conservancy, and others believe that responsibly developing the offshore wind industry is in the public interest because it is essential to decarbonizing our electricity supply and fighting climate change. Local environmental and community groups have successfully advocated for the terminal to use state-of-the-art technology to reduce emissions and protect the Bay and nearby communities. So, who are these out-of-the-area, anti-offshore wind groups who disagree?Keep reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

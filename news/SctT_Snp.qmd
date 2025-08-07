@@ -1,0 +1,28 @@
+---
+source: "Snopes.com"
+author: "Emery Winter"
+title: >
+  Scotland approved new wind farm after Trump's visit, but not exactly off the coast from his golf course
+description: >
+  Scotland approved the construction of 300 wind turbines off the coast of Trump's golf course days after he complained about the nation's wind farms and called them ugly.
+url: "https://www.snopes.com//fact-check/scotland-wind-farm-trump-golf/"
+image: "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/08/feature_trump_golf_scotland_turbines.png"
+published_at: 2025-08-05
+content: >
+  Claim:  Scotland approved the construction of 300 wind turbines off the coast of Trump's golf course days after he complained about the nation's wind farms and called them ugly.  U.S. President Donal… [+3570 chars]
+terms: "Seabirds"
+search_timestamp: 2025-08-07 01:42:48
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
