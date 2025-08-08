@@ -1,0 +1,28 @@
+---
+source: "New York Post"
+author: "Associated Press"
+title: >
+  Trump admin axes Biden approval of ‘irresponsible’ wind farm in Idaho
+description: >
+  The Bureau of Land Management in December signed off on a scaled-down plan for the Lava Ridge Wind Project northeast of Twin Falls, with 241 wind turbines instead of 400.
+url: "https://nypost.com/2025/08/06/us-news/trump-admin-axes-biden-approval-of-irresponsible-wind-farm-in-idaho/"
+image: "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-jrp1f56ch-1754524032742.jpg?quality=75&strip=all&1754509662&w=1024"
+published_at: 2025-08-06
+content: >
+  The Trump administration on Wednesday canceled a major wind farm development in Idaho, a project approved late in former President Joe Bidens term that had drawn criticism for its proximity to a hist… [+5319 chars]
+terms: "Viewshed"
+search_timestamp: 2025-08-08 01:42:26
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

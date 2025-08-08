@@ -1,0 +1,28 @@
+---
+source: "ABC News"
+author: "GENE JOHNSON Associated Press"
+title: >
+  Trump administration reverses Biden approval of major wind farm in Idaho
+description: >
+  The Trump administration has reversed a decision by former President Joe Biden to approve a major wind farm development in southern Idaho
+url: "https://abcnews.go.com/US/wireStory/trump-administration-reverses-biden-approval-major-wind-farm-124430742"
+image: "https://i.abcnewsfe.com/a/329625a6-f081-4d92-b369-9bb0bd951bfd/wirestory_26a7c0d6f0fab86f7351dc7430a4058a_16x9.jpg?w=1600"
+published_at: 2025-08-06
+content: >
+  SEATTLE -- The Trump administration on Wednesday canceled a major wind farm development in Idaho, a project approved late in former President Joe Biden's term that had drawn criticism for its proximi… [+4661 chars]
+terms: "Viewshed"
+search_timestamp: 2025-08-08 01:42:26
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
