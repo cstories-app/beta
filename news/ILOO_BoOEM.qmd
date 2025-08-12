@@ -1,0 +1,21 @@
+---
+title: >
+  Interior Launches Overhaul of Offshore Wind Rules to Prioritize American Energy Security
+source: "Bureau of Ocean Energy Management"
+published_at: 2025-08-12
+url: "https://www.boem.gov/newsroom/press-releases/interior-launches-overhaul-offshore-wind-rules-prioritize-american-energy"
+description: >
+  The Department of the Interior is launching a full review of offshore wind energy regulations to ensure alignment with the Outer Continental Shelf Lands Act and America’s energy priorities under President Donald J. Trump. This effort includes reviewing the Renewable Energy Modernization Rule, as well as financial assurance requirements and decommissioning cost estimates for offshore wind projects, to ensure federal regulations do not provide preferential treatment to unreliable, foreign-controlled energy sources over dependable, American-made energy.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
