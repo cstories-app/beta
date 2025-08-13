@@ -1,0 +1,28 @@
+---
+source: "Legalinsurrection.com"
+author: "Leslie Eastman"
+title: >
+  Trump Admin Rescinds Biden Approval for Idaho Wind Farm Project
+description: >
+  Secretary Doug Burgum on Lava Ridge Wind Project: “This decisive action defends the American taxpayer, safeguards our land, and averts what would have been one of the largest, most irresponsible wind projects in the nation.” The post Trump Admin Rescinds Bide…
+url: "https://legalinsurrection.com/2025/08/trump-admin-rescinds-biden-approval-for-idaho-wind-farm-project/"
+image: "https://legalinsurrection.com/wp-content/uploads/2025/08/Idaho-Wind-Farm.jpg"
+published_at: 2025-08-11
+content: >
+  Immediately upon taking office, President Donald Trump signed an executive order that halts all new and renewed approvals, permits, leases, and loans for both onshore and offshore wind projects.  At … [+4538 chars]
+terms: "Viewshed"
+search_timestamp: 2025-08-13 01:26:05
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
