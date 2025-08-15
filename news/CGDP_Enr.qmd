@@ -1,0 +1,28 @@
+---
+source: "Energymonitor.ai"
+author: "GlobalData Energy"
+title: >
+  China’s electricity consumption continues to outpace its GDP growth
+description: >
+  The country is confronted with the short-term challenges of elevated energy costs and commodity prices.
+url: "https://www.energymonitor.ai/analyst-comment/china-electricity-consumption-outpace-gdp-growth/"
+image: "https://media.zenfs.com/en/energy_monitor_411/a434d2aaebc6e03eed04b8529c9a3aa4"
+published_at: 2025-08-13
+content: >
+  Chinas electricity consumption continues to outpace its gross domestic product (GDP) growth, driven by a shift toward energy-intensive industries and the rapid electrification of transportation and d… [+3700 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-08-15 01:27:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
