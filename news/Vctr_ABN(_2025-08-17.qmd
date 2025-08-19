@@ -1,0 +1,28 @@
+---
+source: "ABC News (AU)"
+author: "ABC News"
+title: >
+  Victorian government accused of 'sleight of hand' over renewable energy cost
+description: >
+  An energy expert says the $7.9 billion Victorian Transmission Plan could cost three times as much as the government is saying.
+url: "https://www.abc.net.au/news/2025-08-17/vic-victorian-renewable-energy-final-proposal/105663924"
+image: "https://live-production.wcms.abc-cdn.net.au/b036be23103149666885c5ed8cdfdb60?impolicy=wcms_watermark_news&cropH=454&cropW=807&xPos=0&yPos=0&width=862&height=485&imformat=generic"
+published_at: 2025-08-17
+content: >
+  Energy experts have accused the Victorian government of concealing the true cost of its plan to transition the state to renewable power.  The government has released its final Victorian Transmission … [+9603 chars]
+terms: "Seascape"
+search_timestamp: 2025-08-19 01:22:39
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
