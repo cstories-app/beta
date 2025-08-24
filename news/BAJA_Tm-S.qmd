@@ -1,0 +1,21 @@
+---
+title: >
+  Business briefs | Assemblymember recognizes Judge Abby Abinanti
+source: "Times-Standard"
+published_at: 2025-08-23
+url: "https://www.times-standard.com/2025/08/23/business-briefs-assemblymember-recognizes-judge-abby-abinanti/"
+description: >
+  Also: Schatz Energy is seeking a couple of student interns to work on offshore wind projects.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
