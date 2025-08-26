@@ -1,0 +1,28 @@
+---
+source: "Legalinsurrection.com"
+author: "Leslie Eastman"
+title: >
+  Americans Rejoice after Trump Admin Pulls Plug on Behemoth Rhode Island Offshore Wind Project
+description: >
+  Meanwhile, Rhode Island leaders slammed the Trump administration's decision to halt Revolution Wind. The post Americans Rejoice after Trump Admin Pulls Plug on Behemoth Rhode Island Offshore Wind Project first appeared on Le·gal In·sur·rec·tion.
+url: "https://legalinsurrection.com/2025/08/americans-rejoice-after-trump-admin-pulls-plug-on-behemoth-rhode-island-offshore-wind-project/"
+image: "https://legalinsurrection.com/wp-content/uploads/2024/08/Fisherman-Protest-Wind-Turbines-e1725130350240.png"
+published_at: 2025-08-24
+content: >
+  Legal Insurrection has been following the complaints and valid concerns raised by local residents, area fishermen, and environmentalists about the giant offshore wind projects that have emerged in re… [+5227 chars]
+terms: "Seascape"
+search_timestamp: 2025-08-26 01:22:32
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
