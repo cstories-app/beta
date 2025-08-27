@@ -1,0 +1,28 @@
+---
+source: "Daily Signal"
+author: "George Caldwell"
+title: >
+  Trump Goes on Anti-Windmill Offensive, Cancels Projects
+description: >
+  With the halt on construction of a nearly complete offshore windmill project in Rhode Island, it appears President Donald Trump means business in undoing the... Read More The post Trump Goes on Anti-Windmill Offensive, Cancels Projects appeared first on The D…
+url: "https://www.dailysignal.com/2025/08/25/trump-goes-on-anti-windmill-offensive-cancels-projects/"
+image: "https://www.dailysignal.com/wp-content/uploads/2025/08/TrumpWindmill.jpg"
+published_at: 2025-08-25
+content: >
+  With the halt on construction of a nearly complete offshore windmill project in Rhode Island, it appears President Donald Trump means business in undoing the last administrations green energy policie… [+3238 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-08-27 01:18:48
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

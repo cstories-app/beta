@@ -1,0 +1,28 @@
+---
+source: "Livemint"
+author: "list.metadata.agency"
+title: >
+  Orsted Faces Growing Crisis After Trump Halts Work at Wind Farm
+description: >
+  Orsted A/S shares fell as much as 19% to a record low after the Trump administration blocked construction of an almost-finished offshore wind farm, throwing a wrench into the Danish company’s planned 60 billion-kroner ($9.4 billion) share sale.
+url: "https://www.livemint.com/companies/news/orsted-faces-growing-crisis-after-trump-halts-work-at-wind-farm-11756139990483.html"
+image: "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_3_1733465099406_1733465108677.png"
+published_at: 2025-08-25
+content: >
+  Orsted A/S shares fell as much as 19% to a record low after the Trump administration blocked construction of an almost-finished offshore wind farm, throwing a wrench into the Danish companys planned … [+4490 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-08-27 01:18:48
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -1,0 +1,28 @@
+---
+source: "Financial Post"
+author: "Bloomberg News"
+title: >
+  Orsted Share Sale Will Go Ahead in Effort to Head Off Crisis
+description: >
+  Orsted A/S said it will continue with plans to sell shares as it tries to contain a growing crisis that worsened after President Donald Trump’s administration ordered construction to halt on an almost-finished offshore wind farm.
+url: "https://financialpost.com/pmn/business-pmn/orsted-share-sale-will-go-ahead-in-effort-to-head-off-crisis"
+image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/08/orsted-shares-are-down-85-from-the-peak-in-2021.jpg"
+published_at: 2025-08-25
+content: >
+  (Bloomberg) Orsted A/S said it will continue with plans to sell shares as it tries to contain a growing crisis that worsened after President Donald Trumps administration ordered construction to halt … [+4869 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-08-27 01:18:48
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -2,16 +2,16 @@
 source: "Wattsupwiththat.com"
 author: "Guest Blogger"
 title: >
-  Weekly Climate and Energy News Roundup #646
+  Weekly Climate and Energy News Roundup #655
 description: >
-  “Progress often involves the killing of an exquisite theory by an ugly fact.” — Leon Lederman, Nobel Laureate in Physics, The God Particle (1993)
-url: "https://wattsupwiththat.com/2025/06/16/weekly-climate-and-energy-news-roundup-646/"
-image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/06/charlesrotter_Lake_louise_dmidjourney.webp?fit=1024%2C512&ssl=1"
-published_at: 2025-06-16
+  Quote of the Week: “He who knows only his own side of the case knows little of that. His reasons may be good, and no one may have been able to refute them. But if he is equally unable to refute the reasons on the opposite side, if he does not so much as know …
+url: "https://wattsupwiththat.com/2025/08/25/weekly-climate-and-energy-news-roundup-655/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/08/charlesrotter_a_snowy_landcape_of_the_north_rim_of_the_grand_cmidjourney.webp?fit=1024%2C512&ssl=1"
+published_at: 2025-08-25
 content: >
-  Quote of the Week: Progress often involves the killing of an exquisite theory by an ugly fact.  Leon Lederman, Nobel Laureate in Physics, The God Particle (1993), [H/t Richard Lindzen and William Hap… [+70750 chars]
-terms: "Humboldt"
-search_timestamp: 2025-06-18 01:24:42
+  The Week That Was: 2025-08-23 (August 23, 2025)Brought to You by SEPP (www.SEPP.org)The Science and Environmental Policy Project  Quote of the Week:   He who knows only his own side of the case knows… [+79200 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-08-27 01:18:48
 ---
 
 

@@ -1,0 +1,28 @@
+---
+source: "PBS"
+author: "Jennifer McDermott, Associated Press"
+title: >
+  Democratic governors demand Trump resume offshore wind project near Rhode Island
+description: >
+  The Democratic governors of Rhode Island and Connecticut, members of Congress and union workers are calling on the Trump administration to allow a major offshore wind project to move forward.
+url: "https://www.pbs.org/newshour/nation/democratic-governors-demand-trump-resume-offshore-wind-project-near-rhode-island"
+image: "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/2015-07-27T120000Z_1355781821_GM1EB7S03RF01_RTRMADP_3_USA-WINDFARM-DEEPWATER-1024x683.jpg"
+published_at: 2025-08-25
+content: >
+  A nearly complete wind farm off the coast of Rhode Island and Connecticut faces an uncertain future as the states’ Democratic governors, members of Congress and union workers are calling Monday for t… [+3983 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-08-27 01:18:48
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

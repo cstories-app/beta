@@ -1,0 +1,28 @@
+---
+source: "ABC News"
+author: "JENNIFER MCDERMOTT Associated Press"
+title: >
+  Democrats ask Trump to resume a major offshore wind project near Rhode Island
+description: >
+  The Democratic governors of Rhode Island and Connecticut, members of Congress and union workers are calling on the Trump administration to allow a major offshore wind project to move forward
+url: "https://abcnews.go.com/Technology/wireStory/democrats-trump-resume-major-offshore-wind-project-rhode-124953613"
+image: "https://i.abcnewsfe.com/a/92344a9c-d161-4751-889c-57cc0cd2dda8/wirestory_c1faf852d2960473b8f96b14321f6832_16x9.jpg?w=1600"
+published_at: 2025-08-25
+content: >
+  A nearly complete wind farm off the coast of Rhode Island and Connecticut faces an uncertain future as the states' Democratic governors, members of Congress and union workers are calling Monday for t… [+3398 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-08-27 01:18:48
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
