@@ -1,0 +1,28 @@
+---
+source: "Naturalnews.com"
+author: "Willow Tohi"
+title: >
+  Trump administration launches national security probe of wind turbines
+description: >
+  The Trump administration has launched a national security investigation into imported wind turbines and components, potentially paving the way for additional tariffs. This move, announced on August 13 by the U.S. Department of Commerce, adds to the ongoing tr…
+url: "https://www.naturalnews.com/2025-08-26-trump-administration-launches-national-security-probe-wind-turbines.html"
+image: "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Renewable-energy-wind-energy-with-windmills-4.jpeg"
+published_at: 2025-08-26
+content: >
+  The Trump administration has launched a national security investigation into imported wind turbines and components, potentially paving the way for additional tariffs. This move, announced on August 1… [+4219 chars]
+terms: "Effects on wildlife"
+search_timestamp: 2025-08-28 01:24:05
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
