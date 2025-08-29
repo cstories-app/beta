@@ -1,0 +1,28 @@
+---
+source: "Yahoo Entertainment"
+author: "Ricardo Pillai"
+title: >
+  Dominion Energy, Inc. (D): A Bull Case Theory
+description: >
+  We came across a bullish thesis on Dominion Energy, Inc. on Disruptive analytics’s Substack by Magnus Ofstad. In this article, we will summarize the bulls...
+url: "https://finance.yahoo.com/news/dominion-energy-inc-d-bull-135608305.html"
+image: "https://media.zenfs.com/en/insidermonkey.com/a3e4f9e7c8790d98f5a36d3b54d42343"
+published_at: 2025-08-27
+content: >
+  We came across a bullish thesis on Dominion Energy, Inc.  on Disruptive analyticss Substack by Magnus Ofstad. In this article, we will summarize the bulls thesis on D. Dominion Energy, Inc. 's share … [+2507 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-08-29 01:18:59
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
