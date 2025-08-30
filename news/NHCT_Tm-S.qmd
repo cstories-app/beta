@@ -1,0 +1,21 @@
+---
+title: >
+  ‘Not surprised’: Humboldt County leaders respond to news Trump admin killed offshore wind money
+source: "Times-Standard"
+published_at: 2025-08-29
+url: "https://www.times-standard.com/2025/08/29/not-surprised-humboldt-county-leaders-respond-to-news-trump-admin-killed-offshore-wind-money/"
+description: >
+  Withdrawn funds include $426.7 million for the Humboldt Bay Offshore Wind Heavy Lift Terminal and $8.6 million for the Redwood Marine Terminal Project planning.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
