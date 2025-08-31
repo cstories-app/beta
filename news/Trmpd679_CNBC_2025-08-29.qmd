@@ -1,0 +1,28 @@
+---
+source: "CNBC"
+author: "(unknown author)"
+title: >
+  Trump administration cancels \$679 million for offshore wind projects
+description: >
+  (no description)
+url: "https://www.cnbc.com/2025/08/29/trump-administration-cancels-679-million-for-offshore-wind-projects.html"
+image: "https://image.cnbcfm.com/api/v1/image/108192486-1756480069544-gettyimages-2231894660-US_RENEWABLE_ENERGY.jpeg?v=1756480097&w=1920&h=1080"
+published_at: 2025-08-29
+content: >
+  The Department of Transportation on Friday canceled $679 million in federal funding for a dozen offshore wind projects in the U.S., the latest attack in President Donald Trump's campaign to kill wind… [+1329 chars]
+terms: "Humboldt"
+search_timestamp: 2025-08-31 01:23:57
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

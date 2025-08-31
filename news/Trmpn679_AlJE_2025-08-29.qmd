@@ -1,0 +1,28 @@
+---
+source: "Al Jazeera English"
+author: "Al Jazeera"
+title: >
+  Trump nixes \$679m in funding for offshore wind farms amid fossil fuel push
+description: >
+  The cancellation is Trump's latest move against renewable energy, which the US president has dismissed a 'scam'.
+url: "https://www.aljazeera.com/news/2025/8/29/trump-nixes-679m-in-funding-for-offshore-wind-farms-amid-fossil-fuel-push"
+image: "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-08-21T162516Z_1484946322_RC2UIAAFWH3P_RTRMADP_3_USA-TRUMP-WIND-TURBINES-1756502835.jpg?resize=1920%2C1440"
+published_at: 2025-08-29
+content: >
+  The administration of United States President Donald Trump has moved to cancel $679m in federal funding for offshore wind projects, in its latest salvo against renewable energy.  The move on Friday i… [+3308 chars]
+terms: "Humboldt"
+search_timestamp: 2025-08-31 01:23:57
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

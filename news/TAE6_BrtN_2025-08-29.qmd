@@ -1,0 +1,28 @@
+---
+source: "Breitbart News"
+author: "Olivia Rondeau, Olivia Rondeau"
+title: >
+  Trump Admin Ends \$679 Million for 'Doomed' Offshore Wind Projects
+description: >
+  The Trump administration has ended $679 million in funding for 12 "doomed" offshore wind projects that Department of Transportation (DOT) Secretary Sean Duffy deemed a "wasteful" use of agency dollars. The post Trump Admin Ends $679 Million for ‘Doomed’ Offsh…
+url: "https://www.breitbart.com/environment/2025/08/29/trump-admin-ends-679-million-for-doomed-offshore-wind-projects/"
+image: "https://media.breitbart.com/media/2025/08/Offshore-Wind-Power-Station-640x335.jpeg"
+published_at: 2025-08-29
+content: >
+  The Trump administration has ended $679 million in funding for 12 “doomed” offshore wind projects that Department of Transportation (DOT) Secretary Sean Duffy deemed a “wasteful” use of agency dollar… [+2232 chars]
+terms: "Humboldt"
+search_timestamp: 2025-08-31 01:23:57
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
