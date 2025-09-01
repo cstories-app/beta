@@ -1,0 +1,21 @@
+---
+title: >
+  ‘Not surprised’: Humboldt County leaders respond to news Trump admin killed offshore wind money
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2025-08-31
+url: "https://humboldtwaterkeeper.org/news/latest/1921-not-surprised-humboldt-county-leaders-respond-to-news-trump-admin-killed-offshore-wind-money"
+description: >
+  On Friday, Transportation Secretary Sean P. Duffy announced that the Department of Transportation has withdrawn or terminated $679 million for 12 offshore wind projects currently in various stages of development, essentially scuttling the promise of many in-development offshore wind projects in the U.S. in the near term.Those funds include $426.7 million for the Humboldt Bay Offshore Wind Heavy Lift Terminal (an INFRA grant that would essentially pay for the construction and completion of the project) and $8.6 million for the Redwood Marine Terminal Project planning.Humboldt Bay Harbor, Recreation and Conservation District Commissioner Greg Dale told the Times-Standard that the district would continue to work toward its project goals, hoping to fund the final construction phase of the project at a later date. He said that news of the withdrawal of funds had been disappointing but not altogether unexpected.“It’s kind of a bummer, but I’m not surprised after all the rhetoric we’ve heard over the last six, eight, 10 months,” Dale said.Dale said that the shift in policy away from offshore wind, a potential growth industry that could bolster local, state and nationwide manufacturing jobs, seems misguided and that, had the U.S. invested in solar manufacturing at a similar juncture 10 years ago, the nation would be manufacturing solar panels rather than importing them.“We believe in the project. We believe in the industry, and we want to see the industry thrive, so our goal would be to continue on as best we could,” Dale said. “We’d like to get the project permitted and through all the process, and then when it comes time that we could actually build the project (Dale noted that that phase is likely a decade away “at minimum”), we will cross that bridge when the time comes …“These are large infrastructure projects. We build lots of large infrastructure projects like offshore oil rigs in America. We can do that here, and it would be a boon for the whole West Coast, not just Humboldt Bay and not just California. It would be a boon for every port on the West Coast, small and large. So I think it’s a good utilization of our resources.”Keep Reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

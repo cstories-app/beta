@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "Tina Casey"
+title: >
+  The Offshore Wind Industry Is Forever (Offshore Wind Jobs, Not So Much)
+description: >
+  On August 29, US Transportation Secretary Sean Duffy announced that 12 portside projects in support of the US offshore wind industry will lose their federal funding. The post The Offshore Wind Industry Is Forever (Offshore Wind Jobs, Not So Much) appeared fir…
+url: "https://cleantechnica.com/2025/08/30/the-offshore-wind-industry-is-forever-offshore-wind-jobs-not-so-much/"
+image: "https://cleantechnica.com/wp-content/uploads/2025/08/sean-duffy-us-dot.jpg"
+published_at: 2025-08-30
+content: >
+  Support CleanTechnica's work through a Substack subscription or on Stripe.  Cry me a river. Wait, make that two rivers. On Friday, August 29, the Trump administration yanked another rug out from unde… [+8716 chars]
+terms: "Humboldt"
+search_timestamp: 2025-09-01 01:31:09
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

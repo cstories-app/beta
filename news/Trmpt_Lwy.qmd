@@ -1,0 +1,28 @@
+---
+source: "Lawyersgunsmoneyblog.com"
+author: "Scott Lemieux"
+title: >
+  Trump take electricity
+description: >
+  One core premise of the Trump administration is that your power bills are way too low: The Transportation Department on Friday said it was terminating or withdrawing $679 million in federal funding for 12 projects around the country intended to support the de…
+url: "https://www.lawyersgunsmoneyblog.com/2025/08/trump-take-electricity"
+image: "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2025/08/Burbo_Offshore_Wind_Farm_Crosby.jpg"
+published_at: 2025-08-30
+content: >
+  One core premise of the Trump administration is that your power bills are way too low:The Transportation Department on Friday said it was terminating or withdrawing $679 million in federal funding fo… [+1399 chars]
+terms: "Humboldt"
+search_timestamp: 2025-09-01 01:31:09
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

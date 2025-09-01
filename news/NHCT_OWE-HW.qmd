@@ -1,0 +1,21 @@
+---
+title: >
+  ‘Not surprised’: Humboldt County leaders respond to news Trump admin killed offshore wind money
+source: "Offshore Wind Energy - Humboldt Waterkeeper"
+published_at: 2025-08-31
+url: "https://humboldtwaterkeeper.org/offshore-wind-energy/1922-not-surprised-humboldt-county-leaders-respond-to-news-trump-admin-killed-offshore-wind-money-2"
+description: >
+  On Friday, Transportation Secretary Sean P. Duffy announced that the Department of Transportation has withdrawn or terminated $679 million for 12 offshore wind projects currently in various stages of development, essentially scuttling the promise of many in-development offshore wind projects in the U.S. in the near term.Those funds include $426.7 million for the Humboldt Bay Offshore Wind Heavy Lift Terminal (an INFRA grant that would essentially pay for the construction and completion of the project) and $8.6 million for the Redwood Marine Terminal Project planning.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

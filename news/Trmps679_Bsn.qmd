@@ -1,0 +1,28 @@
+---
+source: "Businessam.be"
+author: "businessam.be"
+title: >
+  Trump schrapt 679 miljoen dollar steun voor offshore windprojecten
+description: >
+  Key takeaways De regering-Trump heeft 679 miljoen dollar (581 miljoen euro) aan federale financiering voor twaalf offshore windinfrastructuurprojecten geannuleerd. De regering zegt dat deze windprojecten "onnodig" zijn en middelen die bedoeld zijn om de marit…
+url: "https://businessam.be/trump-schrapt-679-miljoen-dollar-steun-voor-offshore-windprojecten/"
+image: "https://media.businessam.be/Donald-Trump-2025-2.jpg"
+published_at: 2025-08-30
+content: >
+  Key takeaways  <ul><li>De regering-Trump heeft 679 miljoen dollar (581 miljoen euro) aan federale financiering voor twaalf offshore windinfrastructuurprojecten geannuleerd.</li><li>De regering zegt d… [+2034 chars]
+terms: "Humboldt"
+search_timestamp: 2025-09-01 01:31:09
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

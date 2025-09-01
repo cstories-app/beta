@@ -1,0 +1,21 @@
+---
+title: >
+  Trump breaks wind funding again, canceling \$679 million in federal funding for a dozen offshore projects
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2025-08-31
+url: "https://humboldtwaterkeeper.org/news/latest/1923-trump-breaks-wind-funding-again-canceling-679-million-in-federal-funding-for-a-dozen-offshore-projects"
+description: >
+  The Transportation Department on Friday canceled $679 million in federal funding for a dozen offshore wind projects, the latest attack by the Trump administration on the reeling U.S. offshore wind industry.Funding for projects in 11 states was rescinded, including $435 million for a floating wind farm in Northern California.Last week, with U.S. electricity prices rising at more than twice the rate of inflation, Trump lashed out, falsely blaming renewable power for skyrocketing energy costs. He called wind and solar energy “THE SCAM OF THE CENTURY!” in a social media post and vowed not to approve any wind or solar projects.Energy analysts say renewable sources have little to do with recent price hikes, which are based on increased demand from artificial intelligence and energy-hungry data centers, along with aging infrastructure and increasingly extreme weather events such as wildfires that are exacerbated by climate change.Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

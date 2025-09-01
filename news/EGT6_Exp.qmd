@@ -1,0 +1,28 @@
+---
+source: "Expansion.com"
+author: "Expansión"
+title: >
+  El Gobierno de Trump retira 679 millones de dólares a proyectos de eólica marina
+description: >
+  El Gobierno del presidente de EE.UU., Donald Trump, retiró este viernes 679 millones de dólares en fondos federales para proyectos eólicos marítimos, un dinero que planea destinar a revitalizar infraestructuras marítimas como puertos. Leer
+url: "https://www.expansion.com/empresas/energia/2025/08/30/68b2b306e5fdead71f8b457c.html"
+image: "https://phantom-expansion.uecdn.es/8dffe49dfcecc4a886ff6430d99180f3/crop/333x129/1715x1050/resize/1200/f/webp/assets/multimedia/imagenes/2025/08/30/17565486927729.jpg"
+published_at: 2025-08-30
+content: >
+  El Gobierno del presidente de EE.UU., Donald Trump, retiró este viernes 679 millones de dólares en fondos federales para proyectos eólicos marítimos, un dinero que planea destinar a revitalizar infra… [+1397 chars]
+terms: "Humboldt"
+search_timestamp: 2025-09-01 01:31:09
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
