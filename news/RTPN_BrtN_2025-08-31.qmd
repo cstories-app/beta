@@ -1,0 +1,28 @@
+---
+source: "Breitbart News"
+author: "Joel B. Pollak, Joel B. Pollak"
+title: >
+  Report: Trump Punishes Newsom by Canceling \$427M Wind Project
+description: >
+  President Donald Trump may have chosen to cut hundreds of millions of dollars in funding to a California wind project to punish Gov. Gavin Newsom (D) for signing a separate climate change deal with Denmark. The post Report: Trump Punishes Newsom by Canceling …
+url: "https://www.breitbart.com/politics/2025/08/31/report-trump-punishes-newsom-by-canceling-427m-wind-project/"
+image: "https://media.breitbart.com/media/2025/06/AP19009649494817-640x335.png"
+published_at: 2025-08-31
+content: >
+  President Donald Trump may have chosen to cut hundreds of millions of dollars in funding to a California wind project to punish Gov. Gavin Newsom (D) for signing a separate climate change deal with D… [+3418 chars]
+terms: "Humboldt"
+search_timestamp: 2025-09-02 01:21:35
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

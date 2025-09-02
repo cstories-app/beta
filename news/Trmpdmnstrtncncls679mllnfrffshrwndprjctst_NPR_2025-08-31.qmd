@@ -1,0 +1,28 @@
+---
+source: "NPR"
+author: "Lauren Sommer"
+title: >
+  Trump administration cancels \$679 million for offshore wind projects at ports
+description: >
+  Ports across the country were planning to become economic hubs for the growing offshore wind industry. The Trump administration is cancelling grants to build the infrastructure for it.
+url: "https://www.npr.org/2025/08/31/nx-s1-5522943/trump-offshore-wind-energy-ports"
+image: "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+113/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F40%2F97cbef974be09cc587e87281a2b3%2Fap23345773091464.jpg"
+published_at: 2025-08-31
+content: >
+  The Trump administration is cancelling $679 million   in federal funding for ports to support the country's offshore wind industry, the latest move in President Trump's ongoing campaign against wind … [+5887 chars]
+terms: "Humboldt"
+search_timestamp: 2025-09-02 01:21:35
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
