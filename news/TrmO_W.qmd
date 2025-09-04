@@ -1,0 +1,28 @@
+---
+source: "Www.e15.cz"
+author: "sad"
+title: >
+  Trump přitvrzuje proti větrné energii, ropný gigant podpořil postižený Ørsted
+description: >
+  Administrativa Donalda Trumpa zastavila federální financování projektů větrné energie na moři v hodnotě 679 milionů dolarů a eskaluje tak svůj tlak na obnovitelné zdroje v USA. V reakci na to norská ropná firma Equinor navyšuje svou kapitálovou účast v dánské…
+url: "https://www.e15.cz/zahranicni/trump-pritvrzuje-proti-vetrne-energii-ropny-gigant-podporil-postizeny-orsted-1427074"
+image: "https://1884403144.rsc.cdn77.org/foto/vetrna-elektrarna/MTIwMHg2MzAvZmlsdGVyczpub191cHNjYWxlKDEpOndhdGVybWFyayhodHRwczovL2ltZy5jbmNlbnRlci5jei9kaXN0L2Fzc2V0cy9lMTUvd2F0ZXJtYXJrLWUxNS5wbmcsLTEwLDEwLDApOmZvY2FsKDF4MTo4OTZ4NTAzKS9pbWc/4883880.jpg?v=0&st=gBoOcSWcp-RCu1Jn1TGr5u4OLxGyDRew3Jr2wO95-dg&ts=1600812000&e=0"
+published_at: 2025-09-01
+content: >
+  Administrativa Donalda Trumpa zastavila federální financování projekt vtrné energie na moi v hodnot 679 milion dolar a eskaluje tak svj tlak na obnovitelné zdroje v USA. V reakci na to norská ropná f… [+2247 chars]
+terms: "Humboldt"
+search_timestamp: 2025-09-04 01:17:03
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

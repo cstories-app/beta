@@ -1,0 +1,28 @@
+---
+source: "KQED"
+author: "Keith Mizuguchi"
+title: >
+  Volunteers Help Monitor For ICE Activity Near Where Day Laborers Gather
+description: >
+  It's part of a solidarity call by the National Day Laborer Organizing Network.
+url: "https://www.kqed.org/news/12054317/volunteers-help-monitor-for-ice-activity-near-where-day-laborers-gather"
+image: "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/09/GettyImages-2220321087-2000x1334.jpg"
+published_at: 2025-09-02
+content: >
+  Newsom’s office expects to deploy the team within the next month to camps in California’s 10 largest cities: Los Angeles, San Francisco, Oakland, San Diego, Sacramento, San Jose, Long Beach, Anaheim,… [+2971 chars]
+terms: "Humboldt"
+search_timestamp: 2025-09-04 01:17:03
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

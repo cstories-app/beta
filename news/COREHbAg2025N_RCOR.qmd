@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub August 2025 Newsletter
+source: "RedwoodCOREHub"
+published_at: 2025-09-03
+url: "https://redwoodcorehub.org/core-hub-august-2025-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-august-2025-newsletter"
+description: >
+  Good Afternoon Community Partners, Here is your newsletter on offshore wind and related interests. It is a long one!&#160; In memoriam: Many of you may have worked with Andrew Meredith in his role as Director of Labor Relations with RWE. We were sorry to learn of Andrew’s sudden passing earlier this month and respectfully share [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
