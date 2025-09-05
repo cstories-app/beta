@@ -5,6 +5,7 @@
       "/infographics/viewshed.html",
       "/infographics/whales.html",
       "/news/COREHbAg2025N_RCOR.html",
+      "/news/AT42_Bzt.html",
       "/news/VHMF_KQED_2025-09-02.html",
       "/news/TrmO_W.html",
       "/news/RTPN_BrtN_2025-08-31.html",
@@ -566,6 +567,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/AT42_Bzt.html",
       "/news/COREHbAg2025N_RCOR.html",
       "/news/VHMF_KQED_2025-09-02.html",
       "/news/TrmO_W.html",
