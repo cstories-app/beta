@@ -1,0 +1,28 @@
+---
+source: "Forbes.com.mx"
+author: "Forbes Staff"
+title: >
+  Trump planea cancelar dos parques eólicos marinos de Iberdrola en EU
+description: >
+  Forbes México. Trump planea cancelar dos parques eólicos marinos de Iberdrola en EU El Departamento de Justicia estaría preparándose para revocar los permisos otorgados por la Administración del expresidente Joe Biden a Avangrid, subsidiaria de la empresa e…
+url: "https://forbes.com.mx/trump-planea-cancelar-dos-parques-eolicos-marinos-de-iberdrola-en-eu/"
+image: "https://cdn.forbes.com.mx/2023/04/Iberdrola-México-renovables.webp"
+published_at: 2025-09-04
+content: >
+  La administración del presidente de Estados Unidos, Donald Trump, planea cancelar dos parques eólicos marinos en Massachusetts, EU, de una filial de Iberdrola en el país, según el Departamento de Int… [+1959 chars]
+terms: "Humboldt"
+search_timestamp: 2025-09-06 01:14:33
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
