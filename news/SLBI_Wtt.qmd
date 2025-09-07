@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  Save LBI Unveils Multipoint Plan to Secure Reliable and Affordable Electricity
+description: >
+  Save Long Beach Island, Inc. (Save LBI), a grass-roots organization with more than 10,000 supporters dedicated to sound energy policies and preserving our shore and ocean environment, today urged the New Jersey Legislature to put politics aside and enact mean…
+url: "https://wattsupwiththat.com/2025/09/04/save-lbi-unveils-multipoint-plan-to-secure-reliable-and-affordable-electricity/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2024/08/vineyard-wind-protest-from-Twitter.webp?fit=1024%2C512&ssl=1"
+published_at: 2025-09-05
+content: >
+  Urges NJ Lawmakers to Act on Escalating Energy Crisis and Reconsider the Role of Offshore Wind Development  LBI Editors,  LONG BEACH ISLAND, NJ, August 26, 2025 Save Long Beach Island, Inc. (Save LBI… [+9243 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-09-07 01:22:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
