@@ -11,7 +11,7 @@ published_at: 2025-08-29
 content: >
   The Trump administration has ended $679 million in funding for 12 “doomed” offshore wind projects that Department of Transportation (DOT) Secretary Sean Duffy deemed a “wasteful” use of agency dollar… [+2232 chars]
 terms: "Humboldt"
-search_timestamp: 2025-09-16 01:16:24
+search_timestamp: 2025-09-17 01:16:52
 ---
 
 
