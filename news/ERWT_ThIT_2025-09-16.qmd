@@ -1,0 +1,28 @@
+---
+source: "The Irish Times"
+author: "Eamon Ryan"
+title: >
+  Eamon Ryan: Want to see an end to high electricity prices? This is what we need to do
+description: >
+  Prices remain high because we are still burning so much gas. The cheapest way to end that is to deliver the onshore and offshore wind that is ready to be built
+url: "https://www.irishtimes.com/opinion/2025/09/16/eamon-ryan-want-to-see-an-end-to-high-electricity-prices-this-is-what-we-need-to-do/"
+image: "https://www.irishtimes.com/resizer/v2/G52XCICEIZEERCXUWHKB3BLKNA.JPG?smart=true&auth=5a6fdfc1be367dbb79641a8aa1861486fcc923f6ef61013248b181e61b7dd4a8&width=1200&height=630"
+published_at: 2025-09-16
+content: >
+  Electricity prices have to come down. We need that to happen so we can help Irish households pay their bills and businesses to maintain their competitiveness, which is threatened by volatile and high… [+4692 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-09-18 01:16:40
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
