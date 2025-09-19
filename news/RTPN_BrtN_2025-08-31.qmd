@@ -11,7 +11,7 @@ published_at: 2025-08-31
 content: >
   President Donald Trump may have chosen to cut hundreds of millions of dollars in funding to a California wind project to punish Gov. Gavin Newsom (D) for signing a separate climate change deal with D… [+3418 chars]
 terms: "Humboldt"
-search_timestamp: 2025-09-18 01:16:40
+search_timestamp: 2025-09-19 01:17:34
 ---
 
 

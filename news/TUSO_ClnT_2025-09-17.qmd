@@ -1,0 +1,28 @@
+---
+source: "CleanTechnica"
+author: "Tina Casey"
+title: >
+  The US Offshore Wind Industry Is Scheming For A Comeback
+description: >
+  California is forging ahead with plans to construct a seaport hub for the US floating offshore wind turbine industry, despite the loss of federal funds for the project. The post The US Offshore Wind Industry Is Scheming For A Comeback appeared first on CleanT…
+url: "https://cleantechnica.com/2025/09/16/the-us-offshore-wind-industry-is-scheming-for-a-comeback/"
+image: "https://cleantechnica.com/wp-content/uploads/2025/09/California-floating-offshore-wind-hub.png"
+published_at: 2025-09-17
+content: >
+  Support CleanTechnica's work through a Substack subscription or on Stripe.  The US offshore wind industry is all but dead in the water following this year’s abrupt shift in federal energy policy, dra… [+7296 chars]
+terms: "Humboldt"
+search_timestamp: 2025-09-19 01:17:34
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
