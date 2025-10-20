@@ -1,0 +1,28 @@
+---
+source: "GlobeNewswire"
+author: "Research and Markets"
+title: >
+  US Renewable Energy Industry Analysis Report 2025-2033 Featuring GE, First Solar, Sunrun, NextEra Energy, Vestas Wind Systems, Mitsubishi, Siemens, Canadian Solar, Trina Solar, and JinkoSolar
+description: >
+  The United States Renewable Energy Market is projected to soar to 1,002.13 GW by 2033 from 429.55 GW in 2024, reflecting a CAGR of 3.64% from 2025 to 2033. This robust growth is fueled by technological advancements, investor interest, and supportive governmen…
+url: "https://www.globenewswire.com/news-release/2025/10/07/3162335/28124/en/US-Renewable-Energy-Industry-Analysis-Report-2025-2033-Featuring-GE-First-Solar-Sunrun-NextEra-Energy-Vestas-Wind-Systems-Mitsubishi-Siemens-Canadian-Solar-Trina-Solar-and-JinkoSol.html"
+image: "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7"
+published_at: 2025-10-07
+content: >
+  Dublin, Oct. 07, 2025 (GLOBE NEWSWIRE) -- The "United States Renewable Energy Market Report by Hydro Power, End User, States and Company Analysis, 2025-2033" report has been added to ResearchAndMarke… [+11943 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

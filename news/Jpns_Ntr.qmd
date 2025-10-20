@@ -1,0 +1,28 @@
+---
+source: "Naturalnews.com"
+author: "Cassie B."
+title: >
+  Japan’s green energy collapse proves wind power is an economic fantasy
+description: >
+  Mitsubishi Corporation is abandoning three major offshore wind projects in Japan after costs more than doubled, making them financially unviable. The company’s CEO stated that investment recovery was impossible, leading to hundreds of millions in losses. This…
+url: "https://www.naturalnews.com/2025-10-08-japan-green-energy-collapse-economic-fantasy.html"
+image: "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/10/Wind-Turbines-Power-Sunset.jpg"
+published_at: 2025-10-08
+content: >
+  <ul><li>Mitsubishi Corporation is abandoning three major offshore wind projects in Japan after costs more than doubled, making them financially unviable.</li><li>The company's CEO stated that investm… [+4353 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

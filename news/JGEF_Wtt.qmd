@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  Japan’s Green Energy Failures Serve as a Warning to the US: Don’t Fall for the Climate Agenda
+description: >
+  Japan’s offshore wind setback is more than a domestic issue. It is a global reminder of the dangers of ignoring full costs and clinging to illusions. Ambitious targets and political inertia can mask reality, but economics will always reassert itself.
+url: "https://wattsupwiththat.com/2025/10/07/japans-green-energy-failures-serve-as-a-warning-to-the-us-dont-fall-for-the-climate-agenda/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/10/220667073_m.webp?fit=1024%2C512&quality=75&ssl=1"
+published_at: 2025-10-07
+content: >
+  by Yoshihiro Muronaka  In August 2025, Japanese media revealed that Mitsubishi Corporation was preparing to withdraw from three offshore wind projects off the coasts of Chiba and Akita prefectures. I… [+5821 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

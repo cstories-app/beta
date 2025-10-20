@@ -1,0 +1,28 @@
+---
+source: "Boston Herald"
+author: "Craig Rucker"
+title: >
+  Opinion: More wind taken out of offshore wind
+description: >
+  Opinion: More wind taken out of offshore wind
+url: "https://www.bostonherald.com/2025/09/26/opinion-more-wind-taken-out-of-offshore-wind/"
+image: "https://www.bostonherald.com/wp-content/uploads/2025/09/Climate_Trump_Offshore_Wind_96764-1.jpg?w=1024&h=682"
+published_at: 2025-09-26
+content: >
+  The Department of Transportation recently scuttled $679 million in federal funding for coastal port projects intended to support the heavily subsidized offshore wind industry. The money will instead … [+5215 chars]
+terms: "Humboldt"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

@@ -1,0 +1,28 @@
+---
+source: "Greenpeace.org.uk"
+author: "Phil Richards"
+title: >
+  Greenpeace activists scale power station’s 75-metre chimney stacks to protest ‘The Great Gas Rip-Off’
+description: >
+  Campaigners demand energy reforms to stop expensive gas from setting electricity prices and pushing up bills This morning eight climbers from Greenpeace UK have scaled two 75m-high chimney stacks at England’s largest gas-fired power station to expose the ro…
+url: "https://www.greenpeace.org.uk/news/greenpeace-activists-scale-power-stations-75-metre-chimney-stacks-to-protest-the-great-gas-rip-off/"
+image: "https://www.greenpeace.org.uk/wp-content/uploads/2025/09/GP0SU6TDB_Medium-res-1200px.jpg"
+published_at: 2025-09-22
+content: >
+  Campaigners demand energy reforms to stop expensive gas from setting electricity prices and pushing up bills    This morning eight climbers from Greenpeace UK have scaled two 75m-high chimney stacks … [+4317 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

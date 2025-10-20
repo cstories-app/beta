@@ -1,0 +1,21 @@
+---
+title: >
+  Onshore flow building, Monday Oct 20th forecast
+source: "News Channel 3-12"
+published_at: 2025-10-19
+url: "https://keyt.com/weather/local-forecast/2025/10/19/onshore-flow-building-monday-oct-20th-forecast/"
+description: >
+  Our recent offshore wind event continues to weaken which allowed for some noticeable cooling today, especially in our northern areas. Fog is expected to become more widespread as the onshore flow replaces the offshore flow through tonight and in to early Mon day. Fog could even be dense for some local beaches as a shallowThe post Onshore flow building, Monday Oct 20th forecast appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

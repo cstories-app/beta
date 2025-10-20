@@ -1,0 +1,28 @@
+---
+source: "FactCheck.org"
+author: "D'Angelo Gore"
+title: >
+  Trump Misleads on Climate Change and Renewables at U.N.
+description: >
+  In an hourlong address before the U.N. General Assembly on Sept. 23, President Donald Trump lashed out at those promoting "the green energy agenda." Along the way, he made numerous false and misleading claims about renewable energy and climate change, many of…
+url: "https://www.factcheck.org/2025/09/trump-misleads-on-climate-change-and-renewables-at-u-n/"
+image: "https://cdn.factcheck.org/UploadedFiles/China-Wind-Farm-720-x-307.png"
+published_at: 2025-09-25
+content: >
+  In an hourlong address before the U.N. General Assembly on Sept. 23, President Donald Trump lashed out at those promoting “the green energy agenda,” saying it had left many European countries “on the… [+10051 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

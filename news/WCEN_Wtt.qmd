@@ -2,16 +2,16 @@
 source: "Wattsupwiththat.com"
 author: "Guest Blogger"
 title: >
-  Weekly Climate and Energy News Roundup #655
+  Weekly Climate and Energy News Roundup #661
 description: >
-  Quote of the Week: “He who knows only his own side of the case knows little of that. His reasons may be good, and no one may have been able to refute them. But if he is equally unable to refute the reasons on the opposite side, if he does not so much as know …
-url: "https://wattsupwiththat.com/2025/08/25/weekly-climate-and-energy-news-roundup-655/"
-image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/08/charlesrotter_a_snowy_landcape_of_the_north_rim_of_the_grand_cmidjourney.webp?fit=1024%2C512&ssl=1"
-published_at: 2025-08-25
+  Quote of the Week: “We can judge our progress by the courage of our questions and the depth of our answers, our willingness to embrace what is true rather than what feels good.”— Carl Sagan
+url: "https://wattsupwiththat.com/2025/10/13/weekly-climate-and-energy-news-roundup-661/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/10/charlesrotter_a_scenic_photo_of_the_washington_state_coast_4midjourney.webp?fit=1024%2C512&quality=75&ssl=1"
+published_at: 2025-10-13
 content: >
-  The Week That Was: 2025-08-23 (August 23, 2025)Brought to You by SEPP (www.SEPP.org)The Science and Environmental Policy Project  Quote of the Week:   He who knows only his own side of the case knows… [+79200 chars]
+  Quote of the Week: We can judge our progress by the courage of our questions and the depth of our answers, our willingness to embrace what is true rather than what feels good.   Carl Sagan [H/t Willi… [+70330 chars]
 terms: "Cost of electricity"
-search_timestamp: 2025-08-27 01:18:48
+search_timestamp: 2025-10-20 01:26:04
 ---
 
 

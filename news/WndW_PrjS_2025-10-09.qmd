@@ -1,0 +1,28 @@
+---
+source: "Project Syndicate"
+author: "Daniel Gros"
+title: >
+  Windmill Wars
+description: >
+  Opposition from local communities has emerged as a major barrier to expanding wind-power capacity in many countries. While the courts might seem to offer the best path to overcoming this barrier, financial compensation for affected households is likely to be …
+url: "https://www.project-syndicate.org/commentary/how-to-overcome-local-community-opposition-to-windmills-by-daniel-gros-2025-10"
+image: "https://webapi.project-syndicate.org/library/feb477b9ea59dc65403837727c08014a.2-1-super.1.jpg"
+published_at: 2025-10-09
+content: >
+  Opposition from local communities has emerged as a major barrier to expanding wind-power capacity in many countries. While the courts might seem to offer the best path to overcoming this barrier, fin… [+5768 chars]
+terms: "Seabirds"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

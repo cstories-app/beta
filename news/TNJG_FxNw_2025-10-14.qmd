@@ -1,0 +1,28 @@
+---
+source: "Fox News"
+author: "(unknown author)"
+title: >
+  The New Jersey governor’s race could show the GOP how to win in midterms
+description: >
+  New Jersey's gubernatorial contest between Jack Ciattarelli and U.S. Rep. Mikie Sherrill tightens as Republicans target Biden policies on energy and spending.
+url: "https://www.foxnews.com/opinion/new-jersey-governors-race-could-show-gop-how-win-midterms"
+image: "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/new-jersey-debate-fox-news.jpg"
+published_at: 2025-10-14
+content: >
+  The midterm elections are a little over a year away. To continue pushing the Trump agenda forward, Republicans must keep control of the House and the Senate.  Democrats want to make the midterms a re… [+5977 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

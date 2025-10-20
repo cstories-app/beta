@@ -1,0 +1,28 @@
+---
+source: "GlobeNewswire"
+author: "Zion Market Research"
+title: >
+  [Latest] Global Offshore Wind Energy Market Size/Share Worth USD 110.62 Billion by 2032 at a 12% CAGR: Zion Market Research (Value, Growth Rate, Segmentation, Outlook, Trends, Analysis, Forecast, Players, SWOT Analysis)
+description: >
+  The global offshore wind energy market size is projected to reach USD 110.62 billion by 2032 from its value of USD 39.89 billion in 2023, at a CAGR of 12% during the forecast period. The global offshore wind energy market size is projected to reach USD 110.62…
+url: "https://www.globenewswire.com/news-release/2025/09/19/3153203/0/en/Latest-Global-Offshore-Wind-Energy-Market-Size-Share-Worth-USD-110-62-Billion-by-2032-at-a-12-CAGR-Zion-Market-Research-Value-Growth-Rate-Segmentation-Outlook-Trends-Analysis-Forec.html"
+image: "https://ml.globenewswire.com/Resource/Download/1f4cf0ab-7d76-4136-a6dc-a5545f80f538"
+published_at: 2025-09-19
+content: >
+  NEW YORK, USA, Sept. 19, 2025 (GLOBE NEWSWIRE) -- Zion Market Research has published a new research report titled Offshore Wind Energy Market By Foundation Type (Monopile, Jacket, Tripod, and Floatin… [+14763 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

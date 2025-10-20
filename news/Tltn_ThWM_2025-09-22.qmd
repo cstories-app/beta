@@ -1,0 +1,28 @@
+---
+source: "The Week Magazine"
+author: "theweekonlineeditors@futurenet.com (The Week US) , The Week US"
+title: >
+  Tilting at windmills
+description: >
+  President Trump has long loathed wind power. Now his administration is trying to kill the industry.
+url: "https://theweek.com/politics/windmills-wind-power-turbines"
+image: "https://cdn.mos.cms.futurecdn.net/pTpJzc2jRUKMpFyZtJaAxT.jpg"
+published_at: 2025-09-22
+content: >
+  Why does Trump hate wind power?   His animus toward wind turbines—which he calls “windmills”—dates to 2011, when the Scottish government announced plans to build an 11-turbine wind farm about a mile … [+6498 chars]
+terms: "Humboldt"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

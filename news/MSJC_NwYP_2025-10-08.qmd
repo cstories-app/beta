@@ -1,0 +1,28 @@
+---
+source: "New York Post"
+author: "Ryan King"
+title: >
+  Mikie Sherrill and Jack Ciattarelli face off in final NJ governor debate as polls tighten dramatically
+description: >
+  All eyes will be on the final verbal faceoff between Rep. Mikie Sherrill and Republican Jack Ciattarelli Wednesday evening, as polls show a rapidly tightening gubernatorial race — something that has rattled national Democrats.
+url: "https://nypost.com/2025/10/08/us-news/mikie-sherrill-and-jack-ciattarelli-face-off-in-nj-governor-debate-how-to-watch-time-more/"
+image: "https://nypost.com/wp-content/uploads/sites/2/2025/10/mikie-sherrill-jack-ciattarelli-hope-112997740.jpg?quality=75&strip=all&w=1024"
+published_at: 2025-10-08
+content: >
+  New Jersey’s contenders in the governor’s race are meeting for the final debate of the election on Wednesday just as Democrat Rep. Mikie Sherrill appears to have lost significant ground to Republican… [+4890 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

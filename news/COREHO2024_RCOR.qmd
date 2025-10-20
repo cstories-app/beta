@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub October 2024 Newsletter
+source: "RedwoodCOREHub"
+published_at: 2024-10-17
+url: "https://redwoodcorehub.org/core-hub-october-news/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-october-news"
+description: >
+  Happy autumn! Below are October&#8217;s highlights on offshore wind and related interests. In Memoriam: At the end of August, we lost Fernando Campos. Fernando was a beautiful human, loving father, kind friend, passionate about labor in this country, and a damn good organizer. Fernando was a longtime leader in LiUNA Local 324. He was an [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

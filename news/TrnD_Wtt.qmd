@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  Transportation Dept. takes more wind out of offshore wind
+description: >
+  The DOT made the right call in ending these wind turbine subsidies and redirecting the money to where it’s really needed.
+url: "https://wattsupwiththat.com/2025/09/27/transportation-dept-takes-more-wind-out-of-offshore-wind/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/09/207095241_m.webp?fit=1024%2C512&quality=75&ssl=1"
+published_at: 2025-09-27
+content: >
+  From CFACT  By Craig Rucker  The Department of Transportation recently scuttled $679 million in federal funding for coastal port projects intended to support the heavily subsidized offshore wind indu… [+5305 chars]
+terms: "Humboldt"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

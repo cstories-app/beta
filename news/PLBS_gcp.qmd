@@ -1,0 +1,28 @@
+---
+source: "gcaptain.com"
+author: "Mike Schuler"
+title: >
+  Port of Long Beach Secures \$20 Million Grant for Massive Offshore Wind Terminal
+description: >
+  The Port of Long Beach has been awarded $20 million by the California Energy Commission to develop Pier Wind, a proposed 400-acre terminal dedicated to assembling and deploying floating offshore...
+url: "https://gcaptain.com/port-of-long-beach-secures-20-million-grant-for-massive-offshore-wind-terminal/"
+image: "https://gcaptain.com/wp-content/uploads/2024/12/n-c-pier-wind-mou.jpg"
+published_at: 2025-10-08
+content: >
+  The Port of Long Beach has been awarded $20 million by the California Energy Commission to develop Pier Wind, a proposed 400-acre terminal dedicated to assembling and deploying floating offshore wind… [+3587 chars]
+terms: "Humboldt"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

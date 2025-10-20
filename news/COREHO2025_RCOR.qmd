@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub October 2025 Newsletter
+source: "RedwoodCOREHub"
+published_at: 2025-10-14
+url: "https://redwoodcorehub.org/core-hub-october-2025-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-october-2025-newsletter"
+description: >
+  Good afternoon Partners, We are navigating a time of uncertainty and disruption—but also one of possibility. As federal actions threaten climate resilience and renewable energy efforts, including rescinding critical funding for our rural and Tribal communities, our commitment to a just and thriving future for the Redwood Region remains unwavering. Whether or not offshore wind [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

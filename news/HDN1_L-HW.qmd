@@ -1,0 +1,21 @@
+---
+title: >
+  Harbor District Nabs \$18.25M State Grant for Planned Offshore Wind Heavy Lift Marine Terminal
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2025-10-11
+url: "https://humboldtwaterkeeper.org/news/latest/1936-harbor-district-nabs-18-25m-state-grant-for-planned-offshore-wind-heavy-lift-marine-terminal"
+description: >
+  The Trump administration may be doing its darnedest to kneecap the nation’s burgeoning offshore wind industry, but California remains bullish on the renewable energy sector.On Wednesday, the California Energy Commission (CEC) awarded an $18,250,000 grant to the Humboldt Bay Harbor, Recreation and Conservation District to advance the design of the district’s planned Offshore Wind Heavy Lift Marine Terminal.That represents just a drop in the fiscal bucket compared to the $435 million in federal funding that the feds recently yanked away from the Harbor District, with U.S. Transportation Secretary Sean P. Duffy suggesting that money should instead go towards “revitalizing America’s maritime industry.”But Harbor District Executive Director Chris Mikkelsen recently told the Outpost that the agency is moving “full speed ahead” on plans to develop a new industrial terminal on the Samoa Peninsula designed specifically to facilitate development of floating offshore wind projects.This latest CEC grant, which was first announced in March but not officially awarded until this week, is part of the commission’s Waterfront Facility Improvement Program.“These funds will advance the Heavy Lift Marine Terminal Project through expanded technical studies, further examination of mitigation measures for community and environmental impacts, and expands our robust community engagement, ensuring equitable development of the terminal project,” Mikkelsen said in an email to the Outpost.Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

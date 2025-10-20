@@ -1,0 +1,28 @@
+---
+source: "Forbes"
+author: "Elena Bou, Contributor,   Elena Bou, Contributor  https://www.forbes.com/sites/elenabou/"
+title: >
+  Pulling The Plug On Wind Energy Is A Losing Strategy
+description: >
+  Wind energy is cheaper than fossil fuels, drives innovation, and strengthens communities, yet U.S. political hurdles threaten its growth and competitiveness.
+url: "https://www.forbes.com/sites/elenabou/2025/09/29/pulling-the-plug-on-wind-energy-is-a-losing-strategy/"
+image: "https://imageio.forbes.com/specials-images/imageserve/68da6f5acdab8b9753d19abb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+published_at: 2025-09-29
+content: >
+  Wind turbine foundation components at the Revolution Wind construction hub at the Port of Providence in Providence, Rhode Island, US, on Thursday, June 13, 2024. The 704-megawatt Revolution Wind proj… [+8208 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-10-20 01:26:04
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
