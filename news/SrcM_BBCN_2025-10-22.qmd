@@ -1,0 +1,28 @@
+---
+source: "BBC News"
+author: "(unknown author)"
+title: >
+  Source of Miliband's energy bill pledge casts doubt on savings
+description: >
+  The expert behind the research on which a £300 savings pledge is based says the promise is "tricky" to deliver.
+url: "https://www.bbc.com/news/articles/cwy7gj181k0o"
+image: "https://ichef.bbci.co.uk/news/1024/branded_news/0426/live/7d064620-aea7-11f0-b305-65f4f8d88da9.jpg"
+published_at: 2025-10-22
+content: >
+  Joshua NevettPolitical reporter  Energy Secretary Ed Miliband's promise to cut energy bills by £300 could be "wiped out" by rising electricity costs, according to the expert behind the savings estima… [+6000 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-10-24 01:16:22
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
