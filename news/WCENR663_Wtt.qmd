@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  Weekly Climate and Energy News Roundup #663
+description: >
+  Quote of the Week: “But there is another reason for the high repute of mathematics: it is mathematics that offers the exact natural sciences a certain measure of security which, without mathematics, they could not attain.” — Albert Einstein (1922)
+url: "https://wattsupwiththat.com/2025/10/27/weekly-climate-and-energy-news-roundup-663/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/10/charlesrotter_a_beautiful_scenic_of_yosemite_valley_after_a_snow-midjourney.webp?fit=1024%2C512&quality=75&ssl=1"
+published_at: 2025-10-27
+content: >
+  Quote of the Week: But there is another reason for the high repute of mathematics: it is mathematics that offers the exact natural sciences a certain measure of security which, without mathematics, t… [+75125 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-10-29 01:25:45
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
