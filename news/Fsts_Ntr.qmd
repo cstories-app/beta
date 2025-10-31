@@ -1,0 +1,28 @@
+---
+source: "Nature.com"
+author: "Fayong Sun, Raksha Pal, Soo Yeon Eom, Jae Won Choi, Wei Zhang, Beomjin Jeong, Jong S. Park"
+title: >
+  Fast-switching dual-cathode electrochromic smart windows for year-round building energy savings
+description: >
+  Electrochromic materials are promising for smart windows, though challenges such as slow switching, poor stability, and high power consumption must be addressed. Here, the authors report a dual-cathode electrochromic energy storage device that enhances conduc…
+url: "https://www.nature.com/articles/s41467-025-64962-2"
+image: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-64962-2/MediaObjects/41467_2025_64962_Fig1_HTML.png"
+published_at: 2025-10-30
+content: >
+  Design and working principles of the devices  We propose conceptual EESD smart windows with four distinct modes: transparent, visible colored, NIR colored, and fully colored, designed to adapt to dif… [+30862 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-10-31 01:21:21
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
