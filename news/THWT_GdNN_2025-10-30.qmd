@@ -1,0 +1,28 @@
+---
+source: "Good News Network"
+author: "Andy Corbley"
+title: >
+  Two-Headed Wind Turbine Could Solve Every Challenge in the Offshore Industry
+description: >
+  Marketing for the 50MW leviathan has already begun, with production slated for next year according to company boss Zhang Qiying
+url: "https://www.goodnewsnetwork.org/twin-rotor-50mw-wind-turbine-to-debut-in-2026-double-the-size-of-already-successful-design/"
+image: "https://www.goodnewsnetwork.org/wp-content/uploads/2025/10/Ming-Yang-OceanX-in-operation-credit-Ming-Yang-Smart-Energy-2.jpg"
+published_at: 2025-10-30
+content: >
+  Ming Yang OceanX in operation – credit, Ming Yang Smart Energy  As the global leader in offshore wind development, a Chinese turbine manufacturer has designed a two-headed behemoth that will generate… [+3565 chars]
+terms: "Seabirds"
+search_timestamp: 2025-11-01 01:25:20
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
