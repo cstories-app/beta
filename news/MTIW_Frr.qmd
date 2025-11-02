@@ -1,0 +1,28 @@
+---
+source: "Freerepublic.com"
+author: "Manhattan Contrarian"
+title: >
+  Magical Thinking Is Why Socialists Get Everything Wrong
+description: >
+  What is the source of the wealth of a nation? That’s actually the question addressed by Adam Smith in “The Wealth of Nations.” Smith doesn’t put it in these exact terms, but his answer lies in some combination of hard work of the people plus figuring out how …
+url: "https://freerepublic.com/focus/f-chat/4349788/posts"
+image: "NA"
+published_at: 2025-10-31
+content: >
+  Skip to comments.  Magical Thinking Is Why Socialists Get Everything WrongManhattan Contrarian ^   | 28 Oct, 2025   | Francis Menton  Posted on 10/31/2025 5:39:35 AM PDT by MtnClimber  What is the so… [+11833 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-11-02 01:27:29
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
