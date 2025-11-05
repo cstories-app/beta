@@ -1,0 +1,21 @@
+---
+title: >
+  TODAY in SUPES: Board Narrowly Approves Resolution Against Offshore Drilling and Mining | Lost Coast Outpost | Humboldt County News
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2025-10-11
+url: "https://humboldtwaterkeeper.org/news/latest/1935-today-in-supes-board-narrowly-approves-resolution-against-offshore-drilling-and-mining-lost-coast-outpost-humboldt-county-news"
+description: >
+  The Humboldt County Board of Supervisors today took a stand against offshore oil drilling and deep sea mining, though it was hardly unanimous.Third District Supervisor Mike Wilson brought forward a draft resolution to the board for approval. In introducing it he argued that it’s important to reiterate opposition to these disruptive and polluting industries given President Donald Trump’s recent signing of an executive order to expand offshore oil drilling.As noted in yesterday’s meeting preview, former President Joe Biden withdrew 625 million acres of federal waters from oil development, effectively banning new drilling along U.S. coastlines. However, Trump’s order repealed that move, and U.S. District Court Judge James Cain later ruled that the Biden administration had exceeded its authority.Wilson noted that Humboldt County has previously taken a stand against offshore oil drilling and deep sea mining. He asked his colleagues to reiterate that position and to join like-minded local governments in an endeavor called “the Local Government Outer Continental Shelf Coordination Program and Coalition,” which aims to streamline engagement with the federal government.Wilson said the resolution “speaks for itself,” but First District Supervisor Rex Bohn questioned the need for such a measure.“There hasn’t been anything done in over 50 years off the coast, right?” he said. (Wilson countered that there are still active derricks down south.) Bohn went on to address offshore wind development, questioning whether fastening cables to the ocean floor would be contrary to any stance against seabed mining. Wilson said they’re “pretty different technologies,” noting that mining is extractive, but Bohn remained skeptical.Read More
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
