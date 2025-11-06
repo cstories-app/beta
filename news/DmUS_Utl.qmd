@@ -1,0 +1,28 @@
+---
+source: "Utilitydive.com"
+author: "Brian Martucci"
+title: >
+  Dominion says largest US offshore wind project on track
+description: >
+  The 2.6-GW Coastal Virginia Offshore Wind project is set for completion by the end of 2026 despite vessel delays, the utility company said Friday.
+url: "https://www.utilitydive.com/news/dominion-energy-offshore-wind-earnings/804617/"
+image: "https://s.yimg.com/ny/api/res/1.2/UM9wU.mMPsb6dCBP92Ipyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/utility_dive_591/caaa44da846dee4f28d2eb5751c8b40d"
+published_at: 2025-11-04
+content: >
+  This story was originally published on Utility Dive. To receive daily news and insights, subscribe to our free daily Utility Dive newsletter.   By the numbers: Dominion Energy Q3 2025  $690M  How muc… [+5819 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-11-06 01:23:22
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
