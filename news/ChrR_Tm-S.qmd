@@ -1,0 +1,21 @@
+---
+title: >
+  Chris Rogers talks offshore wind, health care at town hall
+source: "Times-Standard"
+published_at: 2025-11-11
+url: "https://www.times-standard.com/2025/11/11/chris-rogers-talks-offshore-wind-health-care-at-town-hall/"
+description: >
+  On offshore wind: “It'll take them a little bit longer to build than they had anticipated, but it won't derail the projects entirely.”
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
