@@ -1,0 +1,28 @@
+---
+source: "Freerepublic.com"
+author: "Manhattan Contrarian"
+title: >
+  The Latest Political Scam -- "Affordability" -- Is Really Taking Off
+description: >
+  If you want to run for office as a Democrat, there is a new catchword that you need to make as your main promise: “Affordability.” As anybody paying attention knows, the cry of “affordability” was the central theme that carried the Democrats to victory in all…
+url: "https://freerepublic.com/focus/f-chat/4352263/posts"
+published_at: 2025-11-13
+content: >
+  Skip to comments.  The Latest Political Scam -- "Affordability" -- Is Really Taking OffManhattan Contrarian ^   | 12 Nov, 2025   | Francis Menton  Posted on 11/13/2025 4:18:13 AM PST by MtnClimber  I… [+7331 chars]
+image: "NA"
+terms: "Cost of electricity"
+search_timestamp: 2025-11-15 01:20:11
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
