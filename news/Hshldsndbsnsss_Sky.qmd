@@ -1,0 +1,28 @@
+---
+source: "Sky.com"
+author: "Paul Kelso"
+title: >
+  Households and businesses must wait for energy bills to fall, minister says
+description: >
+  While wholesale gas prices have fallen from their peak following the Russian invasion of Ukraine in 2022, energy bills remain around 35% higher than before the war, inflated by the rising cost of reducing reliance on fossil fuels.
+url: "https://news.sky.com/story/consumers-must-wait-for-energy-bills-to-fall-as-minister-says-theres-no-shortcut-13473274"
+image: "https://e3.365dm.com/25/11/1600x900/skynews-energy-prices-wholesale_7086920.jpg?20251120165120"
+published_at: 2025-11-21
+content: >
+  Households and businesses will have to wait for energy bills to fall significantly because 'there's no shortcut" to bringing down prices, the energy minister has told Sky News.  Speaking as Chancello… [+5751 chars]
+terms: "Cost of electricity"
+search_timestamp: 2025-11-22 01:18:52
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
