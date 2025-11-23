@@ -1,0 +1,21 @@
+---
+title: >
+  Offshore wind advocates say there’s now time to ‘do it right’
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2025-11-22
+url: "https://humboldtwaterkeeper.org/news/latest/1943-offshore-wind-advocates-say-theres-now-time-to-do-it-right"
+description: >
+  Advocates for offshore wind development in Humboldt County say the project is chugging ahead despite federal opposition — including the Department of Transportation withdrawing about $427 million in grant funds to develop the Humboldt Bay Offshore Wind Heavy Lift Terminal.They say with a likely delay of the project as a result, there’s now more time to get it done right. Wednesday, people from a coalition supporting renewable energy in Humboldt County pointed to ongoing work being done to get the project “shovel ready.”One organization, the Peninsula Community Collaborative, has been collecting input from residents of the Samoa Peninsula for years.“There’s all these amenities that they’re talking about putting in Samoa that would be awesome, but it’s really, right now, about mitigating harms, making sure they avoid as many problems as possible early,” said Colleen Clifford, a member of the PCC.In Samoa, the closest community to the terminal, major issues involve light, noise and possibly environmental pollution. Residents of Manila, bisected by State Route 255, are worried about an expected traffic increase. Meanwhile, the Fairhaven neighborhood is facing sea-level rise, and residents are concerned increased vessel traffic will exacerbate the issue.The PPC is meeting with agencies like the California Energy Commission to press for mitigations neighbors want from the planned industrial operation nearby. That includes, most recently, pushing to limit hours of operation.“Most people up here, the coalitions we’re part of, feel pretty good about having some time to keep focusing on these issues,” said Clifford.Keep Reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

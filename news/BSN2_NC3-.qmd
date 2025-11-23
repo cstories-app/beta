@@ -1,0 +1,21 @@
+---
+title: >
+  Breezy and dry, Sunday November 23rd forecast
+source: "News Channel 3-12"
+published_at: 2025-11-23
+url: "https://keyt.com/weather/local-forecast/2025/11/22/breezy-and-dry-sunday-november-23rd-forecast/"
+description: >
+  More sunshine today as clouds from our latest storm system continue to push off to our east. Light offshore winds are expected as high pressure builds over the region. Look for mostly clear skies with some low level patchy fog possible in wind protected areas. Overnight lows will be in the 40's with a fewThe post Breezy and dry, Sunday November 23rd forecast appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
