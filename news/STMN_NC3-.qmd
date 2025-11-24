@@ -1,0 +1,21 @@
+---
+title: >
+  Staying dry for Thanksgiving, Monday Nov 24th forecast
+source: "News Channel 3-12"
+published_at: 2025-11-23
+url: "https://keyt.com/weather/local-forecast/2025/11/23/staying-dry-for-thanksgiving-monday-nov-24th-forecast/"
+description: >
+  Mild offshore winds continue to grace the region with classic Fall California weather. Despite a cool morning, just about all areas warmed nicely under crystal clear skies. Patchy dense fog is possible for the overnight hours, especially in areas where the light to moderate offshore winds are not blowing. Look for lows to dip inThe post Staying dry for Thanksgiving, Monday Nov 24th forecast appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
