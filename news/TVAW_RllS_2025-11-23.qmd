@@ -1,0 +1,28 @@
+---
+source: "Rolling Stone"
+author: "Ryan Bort"
+title: >
+  Trump’s Vendetta Against Wind is Gutting Jobs and Raising Prices
+description: >
+  Unionize workers are fighting Donald Trump's attacks on wind energy. In Baltimore, they're preparing for the “Green Workforce of the Future."
+url: "http://www.rollingstone.com/politics/politics-features/trump-vendetta-wind-gutting-jobs-raising-prices-1235471067/"
+image: "https://www.rollingstone.com/wp-content/uploads/2025/11/trump-and-wind-lead.jpg?crop=0px%2C72px%2C1800px%2C1014px&resize=1600%2C900"
+published_at: 2025-11-23
+content: >
+  President Donald Trump’s bizarre war on offshore wind is getting worse — and it’s screwing  workers and anyone who uses electricity. In the past year, Trump’s policies have resulted in the loss of mo… [+19301 chars]
+terms: "Humboldt"
+search_timestamp: 2025-11-25 01:22:26
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

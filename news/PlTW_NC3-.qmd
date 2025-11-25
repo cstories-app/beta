@@ -1,0 +1,21 @@
+---
+title: >
+  Pleasant Tuesday, warmer Wednesday
+source: "News Channel 3-12"
+published_at: 2025-11-24
+url: "https://keyt.com/weather/local-forecast/2025/11/24/pleasant-tuesday-warmer-wednesday/"
+description: >
+  SANTA BARBARA COUNTY, Calif. - Mild and dry weather will last through at least Thanksgiving Day. High pressure and offshore winds will warm us up in to the 70s by midweek. Some gusty east winds are possible up to 45mph this week mostly for interior areas. Slight cooling and more clouds arrive Thursday with noThe post Pleasant Tuesday, warmer Wednesday appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
