@@ -1,0 +1,21 @@
+---
+title: >
+  November ending on a very nice weather note, Sunday Nov 30th forecast
+source: "News Channel 3-12"
+published_at: 2025-11-29
+url: "https://keyt.com/weather/local-forecast/2025/11/29/november-ending-on-a-very-nice-weather-note-sunday-nov-30th-forecast/"
+description: >
+  Another beautiful Fall day with a mix of light offshore and onshore winds. Temperatures have cooled noticeably with the weakening of the offshore winds we saw on Thursday and Friday. The marine layer is also rebuilding slowly which is producing pockets of fog in some areas. Look for another chilly night with lows in theThe post November ending on a very nice weather note, Sunday Nov 30th forecast appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
