@@ -1,0 +1,21 @@
+---
+title: >
+  Heat continues Wednesday, warm through the weekend
+source: "News Channel 3-12"
+published_at: 2025-12-09
+url: "https://keyt.com/weather/2025/12/09/heat-continues-wednesday-warm-through-the-weekend/"
+description: >
+  SANTA BARBARA COUNTY, Calif. - High pressure and offshore winds continue Wednesday as we will be within the peak of this week's heat event. High 70s and 80s can be expected again Wednesday with clear skies. Mostly clear conditions will last through Friday as high pressure weakens and modest cooling arrives. We will be backThe post Heat continues Wednesday, warm through the weekend appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

@@ -1,0 +1,28 @@
+---
+source: "NPR"
+author: "Julia Simon"
+title: >
+  How China, not the U.S., became the main climate solution story in 2025
+description: >
+  The U.S. has become a "side character" in the global story of renewable energy, experts say. China dominates the sector, with positive implications for the climate and their economy.
+url: "https://www.npr.org/2025/12/08/nx-s1-5615257/china-us-renewable-wind-solar-climate"
+image: "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+380/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2F81%2F99cba0e147cb8bbec2a63b83ca9f%2Fimg-6414.JPG"
+published_at: 2025-12-08
+content: >
+  EUREKA, Calif., and ZHANGBEI COUNTY, China Twenty miles off the misty northern coast of California, off of Humboldt Bay, there's a plan to build offshore wind turbines to power more than two million … [+9319 chars]
+terms: "Humboldt"
+search_timestamp: 2025-12-10 01:26:39
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
