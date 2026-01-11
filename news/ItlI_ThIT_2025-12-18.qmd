@@ -1,0 +1,28 @@
+---
+source: "The Irish Times"
+author: "Cliff Taylor"
+title: >
+  It always seems a case of ‘jam tomorrow’ for Irish electricity consumers
+description: >
+  There is no clarity on why prices here are so high and now consumers must pay more to fund network investment
+url: "https://www.irishtimes.com/your-money/2025/12/18/it-always-seems-a-case-of-jam-tomorrow-for-irish-electricity-consumers/"
+image: "https://www.irishtimes.com/resizer/v2/H4T2MS6BQZFBXK66H3ABO4POWU.jpg?smart=true&auth=0f1cfcb6102b21709a469ee785b7faa0ed29873db27c74e320decf2edbda6331&width=1200&height=630"
+published_at: 2025-12-18
+content: >
+  Electricity prices are back in the news, with a planned major investment in the network set to lead to price increases for consumers of up to 1.75 a month for the next five years. This has generated … [+7787 chars]
+terms: "Cost of electricity"
+search_timestamp: 2026-01-11 01:46:29
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

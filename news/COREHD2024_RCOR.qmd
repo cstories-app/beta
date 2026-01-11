@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub December 2024 Newsletter
+source: "RedwoodCOREHub"
+published_at: 2024-12-17
+url: "https://redwoodcorehub.org/core-hub-december-2024-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-december-2024-newsletter"
+description: >
+  Good morning Community Partners, Here is your last newsletter of 2024 on offshore wind and related interests! Wishing you all peace and relaxation as this year comes to an end. Upcoming opportunities for leadership, growing our networks, learning, and funding&#160; Project Updates: Resources, Information and Academic Articles: In the news:
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

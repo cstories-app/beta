@@ -1,0 +1,21 @@
+---
+title: >
+  Trump halts East Coast projects in latest blow against wind power
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2025-12-22
+url: "https://humboldtwaterkeeper.org/news/latest/1956-trump-halts-east-coast-projects-in-latest-blow-against-wind-power"
+description: >
+  The Trump administration announced an immediate pause on the leases for five large-scale offshore wind farms off the East Coast. The Interior Department provided few details, but said the Pentagon believed the turbines could obscure and confuse radar signals. It's the latest move by the White House taking aim at wind power. Science correspondent Miles O’Brien has been tracking these projects.Watch the video
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

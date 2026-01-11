@@ -1,0 +1,28 @@
+---
+source: "Www.gov.uk"
+author: "Department for Environment, Food & Rural Affairs"
+title: >
+  New push to unlock enough electricity to power two cities the size of London and boost nature recovery
+description: >
+  Marine Recovery Fund to get nature thriving and accelerate offshore wind development
+url: "https://www.gov.uk/government/news/new-push-to-unlock-enough-electricity-to-power-two-cities-the-size-of-london-and-boost-nature-recovery"
+image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+published_at: 2025-12-17
+content: >
+  Enough electricity to power two cities the size of London will be unlocked through the Marine Recovery Fund to safeguard Britains marine biodiversity and energy security, the Government has announced… [+3718 chars]
+terms: "Seabirds"
+search_timestamp: 2026-01-11 01:46:29
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

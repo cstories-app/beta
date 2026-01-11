@@ -1,0 +1,21 @@
+---
+title: >
+  CORE Hub December 2025 Newsletter
+source: "RedwoodCOREHub"
+published_at: 2025-12-22
+url: "https://redwoodcorehub.org/core-hub-december-2025-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=core-hub-december-2025-newsletter"
+description: >
+  Good Afternoon Partners,&#160; Here is your last newsletter of 2025. Wishing you a peaceful end of the year!&#160; Upcoming learning opportunities: Local Climate and Offshore Wind Planning Efforts: State and Federal Updates: Resources, Information and Academic Articles: In the news: Gratitude from the CORE Hub Team. We look forward to continuing our work together in [&#8230;]
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
