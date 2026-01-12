@@ -1,0 +1,21 @@
+---
+title: >
+  Fantastic weather ahead, Monday Jan 12th forecast
+source: "News Channel 3-12"
+published_at: 2026-01-11
+url: "https://keyt.com/weather/local-forecast/2026/01/11/fantastic-weather-ahead-monday-jan-12th-forecast/"
+description: >
+  Another perfect sun splashed day as offshore winds hold firm over the entire region. We still have a few areas in Ventura County under Wind Advisory criteria which means gust up to and even above 40 mph are possible in to early Monday. Overnight lows will be chilly, especially in wind protected areas where tempsThe post Fantastic weather ahead, Monday Jan 12th forecast appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
