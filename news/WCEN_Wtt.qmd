@@ -2,16 +2,16 @@
 source: "Wattsupwiththat.com"
 author: "Guest Blogger"
 title: >
-  Weekly Climate and Energy News Roundup #661
+  Weekly Climate and Energy News Roundup #674
 description: >
-  Quote of the Week: “We can judge our progress by the courage of our questions and the depth of our answers, our willingness to embrace what is true rather than what feels good.”— Carl Sagan
-url: "https://wattsupwiththat.com/2025/10/13/weekly-climate-and-energy-news-roundup-661/"
-image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/10/charlesrotter_a_scenic_photo_of_the_washington_state_coast_4midjourney.webp?fit=1024%2C512&quality=75&ssl=1"
-published_at: 2025-10-13
+  Quote of the Week: “I haye already placed before the Royal Society an account of some experiments which brought to light the remarkable fact that the body of our atmosphere, that is to say the mixture of oxygen and nitrogen of which it is composed, is a compa…
+url: "https://wattsupwiththat.com/2026/01/12/weekly-climate-and-energy-news-roundup-674/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/01/charlesrotter_a_scenic_photograph_of_yellowstone_np_1cae39a9-7b12-454b-97e5-37bf2c607842.webp?fit=1024%2C512&quality=75&ssl=1"
+published_at: 2026-01-12
 content: >
-  Quote of the Week: We can judge our progress by the courage of our questions and the depth of our answers, our willingness to embrace what is true rather than what feels good.   Carl Sagan [H/t Willi… [+70330 chars]
+  The Week That Was: 2026-01-10 (January 10, 2026)Brought to You by SEPP (www.SEPP.org)The Science and Environmental Policy Project  Quote of the Week: I haye already placed before the Royal Society an… [+70780 chars]
 terms: "Cost of electricity"
-search_timestamp: 2025-10-20 01:26:04
+search_timestamp: 2026-01-15 01:28:03
 ---
 
 
