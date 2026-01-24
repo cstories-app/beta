@@ -1,0 +1,28 @@
+---
+source: "OilPrice.com"
+author: "Alex Kimani"
+title: >
+  Trump Claims UK Has 500 Years Of Oil Reserves Left In The North Sea
+description: >
+  The U.S. stock market has pared back heavy losses it posted earlier in the week after U.S. President Donald Trump relented on his threat to slap European and NATO nations with tariffs for opposing his push to acquire Greenland. Trump also ruled out the use of…
+url: "https://oilprice.com/Energy/Energy-General/Trump-Claims-UK-Has-500-Years-Of-Oil-Reserves-Left-In-The-North-Sea.html"
+image: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2026-01-22_rnleoen8dv.jpg"
+published_at: 2026-01-23
+content: >
+  Iran has managed to sustain…  As electricity becomes scarce, AI…  The European Union is increasingly…  By Alex Kimani - Jan 22, 2026, 7:00 PM CSTThe U.S. stock market has pared back heavy losses it p… [+5010 chars]
+terms: "Cost of electricity"
+search_timestamp: 2026-01-24 01:27:47
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
