@@ -1,0 +1,28 @@
+---
+source: "Daily Signal"
+author: "Gordon Tomb"
+title: >
+  Democrat Governors Ignore Global Realities, Cling to ‘Green’ Policies
+description: >
+  As global corporations and governments increasingly shed ideologically driven policies that raise energy prices and undermine supply, governors in the Northeast and Mid-Atlantic cling to... Read More The post Democrat Governors Ignore Global Realities, Cling …
+url: "https://www.dailysignal.com/2026/01/27/democrat-governors-ignore-global-realities-cling-to-green-policies/"
+image: "https://www.dailysignal.com/wp-content/uploads/2026/01/260127_DemGovs.jpeg"
+published_at: 2026-01-27
+content: >
+  As global corporations and governments increasingly shed ideologically driven policies that raise energy prices and undermine supply, governors in the Northeast and Mid-Atlantic cling to counterprodu… [+7148 chars]
+terms: "Cost of electricity"
+search_timestamp: 2026-01-29 01:53:41
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

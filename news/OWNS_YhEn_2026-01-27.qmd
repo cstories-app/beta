@@ -1,0 +1,28 @@
+---
+source: "Yahoo Entertainment"
+author: "Charles Kennedy"
+title: >
+  Ørsted Welcomes North Sea Pact Targeting 300 GW of Offshore Wind by 2050
+description: >
+  Ørsted says a new North Sea investment pact could unlock large-scale offshore wind growth and lower costs across Europe.
+url: "https://finance.yahoo.com/news/rsted-welcomes-north-sea-pact-070000240.html"
+image: "https://s.yimg.com/os/en/oilprice.com/45f72dac7a082b393a5e32e6bf7b3d51"
+published_at: 2026-01-27
+content: >
+  Ørsted has welcomed a newly signed Joint Offshore Wind Investment Pact for the North Seas, calling the agreement a major step toward accelerating offshore wind deployment and stabilising investment c… [+3698 chars]
+terms: "Cost of electricity"
+search_timestamp: 2026-01-29 01:53:41
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

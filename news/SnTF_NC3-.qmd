@@ -1,0 +1,21 @@
+---
+title: >
+  Sunny Thursday, heating up Friday
+source: "News Channel 3-12"
+published_at: 2026-01-28
+url: "https://keyt.com/weather/local-forecast/2026/01/28/sunny-thursday-heating-up-friday/"
+description: >
+  SANTA BARBARA COUNTY, Calif. - Offshore winds pick up Thursday, clearing our skies as high pressure strengthens. Breezy winds will also impact parts of SLO and Ventura Counties with wind advisories issued. We will reach peak heating this week on Friday and Saturday, entering into the low 80s locally - nearing daily records with temperaturesThe post Sunny Thursday, heating up Friday appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+

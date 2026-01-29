@@ -1,0 +1,28 @@
+---
+source: "Rigzone"
+author: "Jov Onsat"
+title: >
+  New Pact Signed to Advance North Seas Wind Development
+description: >
+  The North Sea neighbors pledged to ensure 'a more evenly distributed offshore wind tender pipeline between 2031 and 2040 across the North Seas contributing to a European installation capacity of up to 15 GW per year'.
+url: "https://www.rigzone.com/news/new_pact_signed_to_advance_north_seas_wind_development-27-jan-2026-182859-article/"
+image: "https://images.rigzone.com/images/news/articles/New-Pact-Signed-to-Advance-North-Seas-Wind-Development-182859-1200x628.png"
+published_at: 2026-01-27
+content: >
+  North Sea countries and transmission system operators on Monday signed an agreement committing to advancing investment in offshore wind projects and expanding cleaner power interconnection.  The Join… [+4299 chars]
+terms: "Cost of electricity"
+search_timestamp: 2026-01-29 01:53:41
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
