@@ -1,0 +1,28 @@
+---
+source: "Freerepublic.com"
+author: "Manhattan Contrarian"
+title: >
+  "Affordability": Two Theories Of How To Achieve It
+description: >
+  “Affordability.” That’s the new political mantra of Democratic politicians. Or maybe it’s one of two mantras, the other being that deporting illegal aliens makes ICE the modern-day “Gestapo.” So, how to achieve “affordability”? There are two approaches, which…
+url: "https://freerepublic.com/focus/f-chat/4364508/posts"
+published_at: 2026-01-29
+content: >
+  Skip to comments.  "Affordability": Two Theories Of How To Achieve ItManhattan Contrarian ^   | 27 Jan, 2026   | Francis Menton  Posted on 01/29/2026 4:49:47 AM PST by MtnClimber  Affordability. That… [+6751 chars]
+image: "NA"
+terms: "Cost of electricity"
+search_timestamp: 2026-01-31 01:50:05
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
