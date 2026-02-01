@@ -1,0 +1,21 @@
+---
+title: >
+  Cooling & then warm again, Sunday Feb 1st forecast
+source: "News Channel 3-12"
+published_at: 2026-02-01
+url: "https://keyt.com/weather/local-forecast/2026/01/31/cooling-then-warm-again-sunday-feb-1st-forecast/"
+description: >
+  Our seemingly endless balmy offshore wind driven weather will change a. bit as we head in to Sunday. High pressure is weakening just enough to hopefully allow for cooler Pacific air to move back onshore. This means patchy fog is possible which could locally dense for the very early morning hours. Most of the regionThe post Cooling &amp; then warm again, Sunday Feb 1st forecast appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
