@@ -1,0 +1,21 @@
+---
+title: >
+  Cool & cloudy Friday, warm & sunny Super Bowl weekend
+source: "News Channel 3-12"
+published_at: 2026-02-05
+url: "https://keyt.com/weather/local-forecast/2026/02/05/cool-cloudy-friday-warm-sunny-super-bowl-weekend/"
+description: >
+  SANTA BARBRA COUNTY, Calif. - Temperatures drop from the 80s into the high 60s and low 70s Friday, nearly 10 degrees cooler. It will be cloudy Friday with drizzle possible. Offshore winds and high pressure returns Saturday warming us up for Super Bowl Sunday with increased clearing. We will stay warm Monday as the heatThe post Cool &amp; cloudy Friday, warm &amp; sunny Super Bowl weekend appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
