@@ -1,0 +1,21 @@
+---
+title: >
+  Warm & sunny Super Bowl weekend, tracking next rainstorm
+source: "News Channel 3-12"
+published_at: 2026-02-06
+url: "https://keyt.com/weather/local-forecast/2026/02/06/warm-sunny-super-bowl-weekend-tracking-next-rainstorm/"
+description: >
+  SANTA BARBARA COUNTY, Calif. - After inland thunderstorm chances for Friday night, we will clear out and warm up Saturday through Sunday to near 75 degrees and mostly sunny skies. Northeast offshore winds will also increase this weekend helping cause the near 10 degrees of warming. We cool to the high 60s Monday ahead ofThe post Warm &amp; sunny Super Bowl weekend, tracking next rainstorm appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
