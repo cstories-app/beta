@@ -1,0 +1,21 @@
+---
+title: >
+  Changes ahead for our weather, Monday feb 9th forecast
+source: "News Channel 3-12"
+published_at: 2026-02-08
+url: "https://keyt.com/weather/local-forecast/2026/02/08/changes-ahead-for-our-weather-monday-feb-9th-forecast/"
+description: >
+  A beautiful and warm mid Winter day once again for the entire region as a mild offshore flow lingers on. Patchy fog will likely try and make a return as the&#160;&#160;offshore winds wane through Monday, but we don't see anything significant fog wise. Look for overnight lows to dip in to the&#160;40's and 50's withThe post Changes ahead for our weather, Monday feb 9th forecast appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
