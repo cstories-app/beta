@@ -1,0 +1,21 @@
+---
+title: >
+  Fate of Elk River billboard returns to Board of Supervisors
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2026-02-10
+url: "https://humboldtwaterkeeper.org/news/latest/1982-fate-of-elk-river-billboard-returns-to-board-of-supervisors"
+description: >
+  The owner of a billboard along U.S. Highway 101 is seeking to keep the sign in place, despite a permit requiring it be torn down by September 2025. The Humboldt County Board of Supervisors will hear the request at their Tuesday.Current regulation prevents new billboards from being constructed on coastal wetlands off U.S. Highway 101. The billboard in question predated these regulations and has been in place since at least 1955, making it legal but nonconforming, according to a staff report.But this changed after it was blown down in 2019, according to county planning staff.In 2020, the Supervisors narrowly signed off on a permit for the billboard to be rebuilt after being knocked over, on the condition it would only last five years. It was rebuilt in 2021.In 2020, environmental advocates at public comment pushed the supervisors to reject the structure’s rebuilding. Billboards are often a hot-button issue at public meetings, with some pushing for the viewshed of Humboldt Bay and the Elk River to be cleared of advertisements.Jennifer Kalt, executive director of Humboldt Waterkeeper, an organization that’s waged a 15 year campaign to rid Humboldt County’s coastal wetlands of billboards, said, “It is long past time for this billboard to removed, because it was given five years, and it’s expired — get it out of there.”She said a petition to get the billboard removed in 2020 garnered 328 signatures.“A lot of people really despise billboards, especially in scenic areas. And, this billboard is in a coastal wetland. It’s along a riparian area. There’s all kinds of reasons why that billboard would never be allowed today,” she said, pointing to coastal regulations, national regulations and local regulations.Keep Reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
