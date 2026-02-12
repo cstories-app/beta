@@ -1,0 +1,28 @@
+---
+source: "Www.gov.uk"
+author: "Department for Energy Security and Net Zero"
+title: >
+  New auction delivers unprecedented clean, homegrown power
+description: >
+  Record solar, onshore wind, and tidal projects - building on last month’s offshore wind success - deliver Britain’s biggest-ever clean energy auction.
+url: "https://www.gov.uk/government/news/new-auction-delivers-unprecedented-clean-homegrown-power"
+image: "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+published_at: 2026-02-10
+content: >
+  <ul><li>Record solar, onshore wind, and tidal projects - building on last months offshore wind success - deliver Britains biggest-ever clean energy auction.    </li><li>Largest ever procurement of so… [+9124 chars]
+terms: "Cost of electricity"
+search_timestamp: 2026-02-12 02:02:35
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
