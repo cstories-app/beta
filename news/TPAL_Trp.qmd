@@ -1,0 +1,28 @@
+---
+source: "Triplepundit.com"
+author: "Tina Casey"
+title: >
+  Trump Policies Are Losing in the Court of Law, and the Court of Public Opinion
+description: >
+  From violent immigration raids to rising energy prices, the public is increasingly unhappy with U.S. President Donald Trump. Some of the president's policies also cost companies a lot of money, and a growing number are taking the matter to court. TriplePundit
+url: "https://triplepundit.com/2026/companies-sue-trump-energy-prices-tariffs-immigration/"
+image: "NA"
+published_at: 2026-02-11
+content: >
+  U.S. President Donald Trump said reducing renewable energy subsidies in favor of fossil fuels would cut household power bills in half within a year. Instead, electricity prices increased by more than… [+7594 chars]
+terms: "Cost of electricity"
+search_timestamp: 2026-02-13 02:05:33
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
