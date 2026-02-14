@@ -9,6 +9,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/SSNR_Skp.html",
       "/news/TPAL_Trp.html",
       "/news/FERB_L-HW.html",
       "/news/Nwct_Ww.html",
@@ -124,7 +125,6 @@
       "/news/BOEM_gcp.html",
       "/news/OnFF_BBCN_2025-07-31.html",
       "/news/Onfw_BBCN_2025-07-31.html",
-      "/news/SSNR_Skp.html",
       "/news/TARA_NC3-.html",
       "/news/Enrg_ThMT_2025-07-26.html",
       "/news/Gvrn_BBCN_2025-07-24.html",
@@ -650,6 +650,7 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/SSNR_Skp.html",
       "/news/TPAL_Trp.html",
       "/news/FERB_L-HW.html",
       "/news/Nwct_Ww.html",
@@ -765,7 +766,6 @@
       "/news/BOEMRD_BoOEM.html",
       "/news/Onfw_BBCN_2025-07-31.html",
       "/news/OnFF_BBCN_2025-07-31.html",
-      "/news/SSNR_Skp.html",
       "/news/TARA_NC3-.html",
       "/news/Enrg_ThMT_2025-07-26.html",
       "/news/Gvrn_BBCN_2025-07-24.html",
