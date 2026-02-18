@@ -1,0 +1,21 @@
+---
+title: >
+  Ordinance to prevent offshore oil facilities on harbor district land discussed
+source: "Latest - Humboldt Waterkeeper"
+published_at: 2026-02-15
+url: "https://humboldtwaterkeeper.org/news/latest/1986-ordinance-to-prevent-offshore-oil-work-on-harbor-district-land-discussed"
+description: >
+  Following a federal proposal to open oil and gas drilling along California’s coastline, an ordinance is in the works to prohibit using Humboldt County harbor district land to support the endeavor.The proposed ordinance prevents the use of property owned by the Humboldt Bay Harbor, Recreation and Conservation District for storing, handling or staging oil or gas produced by offshore drilling.“It’s in reaction to announcements to open federal waters to offshore oil drilling, which the harbor district has no jurisdiction over. But we do have jurisdiction over activities within the bay,” and district-owned property, said Commissioner Stephen Kullmann.The measure is the latest move in a push by local governments in opposition to a drilling plan unveiled late last year. The Humboldt County Board of Supervisors and Arcata’s City Council have each decried the proposal, a draft of which plans for one lease area off the coast of Northern California.Kullmann said the ordinance is solely intended to prevent using harbor district property for offshore drilling, particularly as the district plans for an offshore wind heavy lift marine terminal in Humboldt Bay, which could be used by fossil fuel companies.In a meeting Thursday evening, the ordinance was ultimately unanimously continued to an undetermined future date.Humboldt County is working on an onshore facilities ordinance that would limit these activities, with plans to later embed it as a zoning change in the coastal plan. Harbor officials did not want to hinder the effort, said Harbor District Executive Director Chris Mikkelsen. Staff were directed to coordinate with the county.Commissioners emphasized Thursday that Ordinance No. 21 would not apply to the fueling facility in the bay or businesses that handle oil in day-to-day operations.Keep Reading
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
