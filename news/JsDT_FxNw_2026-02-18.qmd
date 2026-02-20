@@ -1,0 +1,28 @@
+---
+source: "Fox News"
+author: "(unknown author)"
+title: >
+  Justice Department fights back after federal judge blocks Trump’s wind energy freeze
+description: >
+  Trump administration appeals federal judge's ruling that blocked his offshore wind pause order, setting up legal battle over renewable energy policy.
+url: "https://www.foxnews.com/politics/justice-department-fights-back-after-federal-judge-blocks-trumps-wind-energy-freeze"
+image: "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/trump-wind.png"
+published_at: 2026-02-18
+content: >
+  The Trump administration is appealing a federal judges order that voided Donald Trumps day-one memorandum pausing offshore wind energy projects, setting up a high-stakes court fight over green energy… [+3725 chars]
+terms: "Effects on wildlife"
+search_timestamp: 2026-02-20 02:01:39
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)

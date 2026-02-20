@@ -1,0 +1,28 @@
+---
+source: "Financial Post"
+author: "Bloomberg News"
+title: >
+  Costs of Big Batteries Are Tumbling and Can Boost Clean Power
+description: >
+  Battery storage costs fell more than a quarter to a record low last year, improving the economics of projects to pair the equipment with renewables and which can help tackle curtailment of solar and wind.
+url: "https://financialpost.com/pmn/business-pmn/costs-of-big-batteries-are-tumbling-and-can-boost-clean-power"
+image: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/02/cheaper-battery-storage-costs-of-battery-storage-declined-2.jpg"
+published_at: 2026-02-18
+content: >
+  (Bloomberg) Battery storage costs fell more than a quarter to a record low last year, improving the economics of projects to pair the equipment with renewables and which can help tackle curtailment o… [+4686 chars]
+terms: "Cost of electricity"
+search_timestamp: 2026-02-20 02:01:39
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
