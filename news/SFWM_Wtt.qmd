@@ -1,0 +1,28 @@
+---
+source: "Wattsupwiththat.com"
+author: "Guest Blogger"
+title: >
+  South Fork Wind Malinformation
+description: >
+  Claims that South Fork Wind is a reliable source of electricity are based on fact but the information is used out of context to manipulate readers into believing that offshore wind is a viable generating resource for New York’s future. Offshore wind is the m…
+url: "https://wattsupwiththat.com/2026/02/24/south-fork-wind-malinformation/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/02/charlesrotter_south_fork_wind_offshore_wind_farm_aa8midjourney.webp?fit=1024%2C512&quality=75&ssl=1"
+published_at: 2026-02-24
+content: >
+  Roger Caiazza  Christopher Walshs latest article in the Easthampton Star, South Fork Winds Electricity Generation Proves Reliable repeats claims from the developer that the facility provides reliable… [+9723 chars]
+terms: "Cost of electricity"
+search_timestamp: 2026-02-26 01:56:06
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
