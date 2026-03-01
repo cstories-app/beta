@@ -1,0 +1,28 @@
+---
+source: "The Conversation Africa"
+author: "Mark Ireland, Senior Lecturer in Energy Geoscience, Newcastle University"
+title: >
+  What the UK’s first geothermal power plant means for the nation’s electricity supply
+description: >
+  Unlike wind and solar which are weather-dependent sources of renewable energy, geothermal heat can produce energy steadily, day and night, all year round.
+url: "https://theconversation.com/what-the-uks-first-geothermal-power-plant-means-for-the-nations-electricity-supply-276909"
+image: "https://images.theconversation.com/files/720657/original/file-20260226-57-h8vmro.jpg?ixlib=rb-4.1.0&rect=0%2C504%2C4032%2C2016&q=45&auto=format&w=1356&h=668&fit=crop"
+published_at: 2026-02-27
+content: >
+  More than half of the UK’s electrical power was supplied by renewable energy on February 25 2026.   That consisted mainly of solar, wind and hydroelectric sources. The next day, a new source of elect… [+5745 chars]
+terms: "Cost of electricity"
+search_timestamp: 2026-03-01 02:07:05
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
