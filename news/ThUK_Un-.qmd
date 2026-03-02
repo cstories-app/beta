@@ -1,0 +1,28 @@
+---
+source: "Unexplained-mysteries.com"
+author: "unexplained-mysteries.com"
+title: >
+  The UK's first geothermal power plant has begun producing electricity
+description: >
+  The facility, which is located in Cornwall, utilizes wells that have been drilled down to a depth of three miles. Mark Ireland: More than half of the ...
+url: "https://www.unexplained-mysteries.com/news/395344/the-uks-first-geothermal-power-plant-has-begun-producing-electricity"
+image: "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-pylons-power.jpg"
+published_at: 2026-02-28
+content: >
+  Science &amp; Technology  February 28, 2026 ·  0 commentsThere is a lot of heat deep down beneath the surface. Image Credit: CC BY-SA 2.0 John MyersThe facility, which is located in Cornwall, utilize… [+5826 chars]
+terms: "Cost of electricity"
+search_timestamp: 2026-03-02 01:58:06
+---
+
+
+Published: {{< meta published_at >}}
+
+
+Source: {{< meta source >}}
+
+
+[Read full article]({{< meta url >}}){target='_blank'}
+
+
+
+![](`r rmarkdown::metadata$image[1]`)
