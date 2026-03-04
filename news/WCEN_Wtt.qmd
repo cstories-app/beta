@@ -2,16 +2,16 @@
 source: "Wattsupwiththat.com"
 author: "Guest Blogger"
 title: >
-  Weekly Climate and Energy News Roundup #674
+  Weekly Climate and Energy News Roundup #681
 description: >
-  Quote of the Week: “I haye already placed before the Royal Society an account of some experiments which brought to light the remarkable fact that the body of our atmosphere, that is to say the mixture of oxygen and nitrogen of which it is composed, is a compa…
-url: "https://wattsupwiththat.com/2026/01/12/weekly-climate-and-energy-news-roundup-674/"
-image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/01/charlesrotter_a_scenic_photograph_of_yellowstone_np_1cae39a9-7b12-454b-97e5-37bf2c607842.webp?fit=1024%2C512&quality=75&ssl=1"
-published_at: 2026-01-12
+  Quote of the Week: “We have a way of checking whether an idea is correct or not that has nothing to do with where it came from. We simply test it against observation. So, in science we are not interested in where an idea comes from.”— Richard Feynman, “The Un…
+url: "https://wattsupwiththat.com/2026/03/02/weekly-climate-and-energy-news-roundup-681/"
+image: "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/03/charlesrotter_mount_whitney_ar_midjourney.webp?fit=1024%2C512&quality=75&ssl=1"
+published_at: 2026-03-02
 content: >
-  The Week That Was: 2026-01-10 (January 10, 2026)Brought to You by SEPP (www.SEPP.org)The Science and Environmental Policy Project  Quote of the Week: I haye already placed before the Royal Society an… [+70780 chars]
+  Quote of the Week: We have a way of checking whether an idea is correct or not that has nothing to do with where it came from. We simply test it against observation. So, in science we are not interes… [+62387 chars]
 terms: "Cost of electricity"
-search_timestamp: 2026-01-15 01:28:03
+search_timestamp: 2026-03-04 01:54:02
 ---
 
 

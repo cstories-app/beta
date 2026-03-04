@@ -4,6 +4,7 @@
     "items": [
       "/infographics/viewshed.html",
       "/infographics/whales.html",
+      "/news/WCEN_Wtt.html",
       "/news/ThUK_Un-.html",
       "/news/WhUK_ThCA_2026-02-27.html",
       "/news/SFWM_Wtt.html",
@@ -30,7 +31,6 @@
       "/news/NPSA_Rgzn_2026-01-27.html",
       "/news/OWNS_YhEn_2026-01-27.html",
       "/news/TCUK_OlP.html",
-      "/news/WCEN_Wtt.html",
       "/news/FMJ1_NC3-.html",
       "/news/COREHJ2026_RCOR.html",
       "/news/TrUA_NPR_2025-12-29.html",
@@ -652,6 +652,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/WCEN_Wtt.html",
       "/news/ThUK_Un-.html",
       "/news/WhUK_ThCA_2026-02-27.html",
       "/news/SFWM_Wtt.html",
@@ -678,7 +679,6 @@
       "/news/NPSA_Rgzn_2026-01-27.html",
       "/news/OWNS_YhEn_2026-01-27.html",
       "/news/TCUK_OlP.html",
-      "/news/WCEN_Wtt.html",
       "/news/FMJ1_NC3-.html",
       "/news/COREHJ2026_RCOR.html",
       "/news/TrUA_NPR_2025-12-29.html",
