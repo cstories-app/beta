@@ -1,0 +1,21 @@
+---
+title: >
+  Windy and warm, Sunday March 8th forecast
+source: "News Channel 3-12"
+published_at: 2026-03-07
+url: "https://keyt.com/weather/local-forecast/2026/03/07/windy-and-warm-sunday-march-8th-forecast/"
+description: >
+  Another Fall like day with strong offshore winds and temperatures running well above normal for most areas. A Wind Advisory for Ventura County is expected to drop off Saturday evening, but could be extended depending on conditions in to Sunday. Temperatures on Sunday will once again warm with the compressional heating from the gusty winds.The post Windy and warm, Sunday March 8th forecast appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
