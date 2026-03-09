@@ -1,0 +1,21 @@
+---
+title: >
+  Offshore wind fading, Monday March 9th forecast
+source: "News Channel 3-12"
+published_at: 2026-03-08
+url: "https://keyt.com/weather/local-forecast/2026/03/08/offshore-wind-fading-monday-march-9th-forecast/"
+description: >
+  Offshore dry winds helped to make for a very warm and hot day with temperatures running ten to twenty degrees above normal for this time of year. The winds are easing and beginning to shift toward the onshore direction which means we get Mother Nature's free air conditioning turned back on with a cooling oceanThe post Offshore wind fading, Monday March 9th forecast appeared first on News Channel 3-12.
+image: rss_img.png
+---
+
+
+  Published: {{< meta published_at >}}
+  
+
+  Source: {{< meta source >}}
+  
+
+  [Read full article]({{< meta url >}}){target='blank'}
+  
+
