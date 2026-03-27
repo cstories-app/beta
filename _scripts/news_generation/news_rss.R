@@ -81,8 +81,13 @@ update_feeds <- function(feed_files,
   new_rss <- rss %>%
     anti_join(existing_rss, by = "rss_id")
 
-
+  # TODO: Should this refer to new_rss?
+  if ("item_enclosure" %in% colnames(rss)) {
+    rss$item_enclosure <- NULL
+  }
+  
   rss <- existing_rss %>%
+    # TODO: Should this refer to new_rss?
     rows_insert(rss, by = "rss_id", conflict = "ignore")
 
 
